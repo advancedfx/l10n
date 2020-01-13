@@ -1,0 +1,55 @@
+#
+msgid ""
+msgstr ""
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "ApplicationName"
+msgid "HLAE Core"
+msgstr "HLAE Kern"
+
+msgctxt "Manufacturer"
+msgid "advancedfx.org"
+msgstr "advancedfx.org"
+
+msgctxt "DowngradeErrorMessage"
+msgid "A newer version of [ProductName] is already installed."
+msgstr "Eine neuere Version von [ProductName] ist bereits installiert."
+
+msgctxt "FfmpegFeature"
+msgid "Install FFMPEG from https://ffmpeg.zeranoe.com/builds/"
+msgstr "Installiere FFMPEG von https://ffmpeg.zeranoe.com/builds/"
+
+msgctxt "InstallFfmpeg"
+msgid "Installing FFMPEG ..."
+msgstr "Installiere FFMPEG ..."
+
+msgctxt "InstallFfmpegConnect"
+msgid "Connecting to https://ffmpeg.zeranoe.com/"
+msgstr "Verbinde zu https://ffmpeg.zeranoe.com/"
+
+msgctxt "InstallFfmpegConnect_Template"
+msgid "..."
+msgstr "..."
+
+msgctxt "InstallFfmpegDownload"
+msgid "Downloading from https://ffmpeg.zeranoe.com/"
+msgstr "Downloade von https://ffmpeg.zeranoe.com/"
+
+msgctxt "InstallFfmpegDownload_Template"
+msgid "[1] of [2] Bytes"
+msgstr "[1] von [2] Bytes"
+
+msgctxt "InstallFfmpegExtract"
+msgid "Extracting FFMPEG"
+msgstr "Extrahiere FFMPEG"
+
+msgctxt "InstallFfmpegExtract_Template"
+msgid "Item [1] of [2] ..."
+msgstr "Element [1] von [2] ..."
+
+msgctxt "AppFolderMustBeLatin"
+msgid "The HLAE application folder path contains invalid characters: Only basic latin character set is allowed. Please choose a different installation folder in options accordingly."
+msgstr "HLAE Anwendungsordner enthält ungültige Zeichen: Nur Zeichen des lateinischen Basiszeichensatzes sind erlaubt. Bitte wählen Sie entsprechend einen anderen Installationsordner in den Optionen."

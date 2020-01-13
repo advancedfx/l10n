@@ -1,0 +1,55 @@
+#
+msgid ""
+msgstr ""
+"Language: fi_FI\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "ApplicationName"
+msgid "HLAE Core"
+msgstr "HLAE Ydin"
+
+msgctxt "Manufacturer"
+msgid "advancedfx.org"
+msgstr "advancedfx.org"
+
+msgctxt "DowngradeErrorMessage"
+msgid "A newer version of [ProductName] is already installed."
+msgstr "Uudempi versio [ProductName] on jo asennettu."
+
+msgctxt "FfmpegFeature"
+msgid "Install FFMPEG from https://ffmpeg.zeranoe.com/builds/"
+msgstr "Asenna FFMPEG osoitteesta https://ffmpeg.zeranoe.com/builds/"
+
+msgctxt "InstallFfmpeg"
+msgid "Installing FFMPEG ..."
+msgstr "FFMPEG asennetaan ..."
+
+msgctxt "InstallFfmpegConnect"
+msgid "Connecting to https://ffmpeg.zeranoe.com/"
+msgstr "Yhdistetään osoitteeseen https://ffmpeg.zeranoe.com/"
+
+msgctxt "InstallFfmpegConnect_Template"
+msgid "..."
+msgstr "..."
+
+msgctxt "InstallFfmpegDownload"
+msgid "Downloading from https://ffmpeg.zeranoe.com/"
+msgstr "Ladataan osoitteesta https://ffmpeg.zeranoe.com/"
+
+msgctxt "InstallFfmpegDownload_Template"
+msgid "[1] of [2] Bytes"
+msgstr "[1] of [2] Bytes"
+
+msgctxt "InstallFfmpegExtract"
+msgid "Extracting FFMPEG"
+msgstr "Puretaan FFMPEG"
+
+msgctxt "InstallFfmpegExtract_Template"
+msgid "Item [1] of [2] ..."
+msgstr "Alkio [1] of [2] ..."
+
+msgctxt "AppFolderMustBeLatin"
+msgid "The HLAE application folder path contains invalid characters: Only basic latin character set is allowed. Please choose a different installation folder in options accordingly."
+msgstr "HLAE ohjelman asennuspolku sisältää ei sallittua kirjaimia: Vain perus latin merkistö on sallittu. Ole hyvä ja valitse toinen asennushakemisto."
