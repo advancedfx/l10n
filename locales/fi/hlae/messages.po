@@ -1,0 +1,821 @@
+# Finnish translations for hlae package
+# Suomenkielinen käännös hlae-paketille.
+# Copyright (C) 2020 advancedfx.org
+# This file is distributed under the same license as the hlae package.
+# <EMAIL@ADDRESS>, 2020.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: hlae\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-01-13 21:32+0100\n"
+"PO-Revision-Date: 2020-01-20 12:21+0100\n"
+"Last-Translator: <EMAIL@ADDRESS>\n"
+"Language-Team: Finnish\n"
+"Language: fi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CP1252\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: AfxError.cs:11
+msgid "AfxError"
+msgstr ""
+
+#: AfxError.cs:40
+#, csharp-format
+msgctxt "AfxError (number code)"
+msgid "AfxError #{0}: "
+msgstr ""
+
+#: AfxError.cs:41
+#, csharp-format
+msgctxt "AfxError"
+msgid "Title: {0}"
+msgstr ""
+
+#: AfxError.cs:42
+#, csharp-format
+msgctxt "AfxError"
+msgid "Description: {0}"
+msgstr ""
+
+#: AfxError.cs:43
+#, csharp-format
+msgctxt "AfxError"
+msgid "Solution: {0}"
+msgstr ""
+
+#: AfxError.cs:44
+#, csharp-format
+msgctxt "AfxError"
+msgid "Inner exception: {0}"
+msgstr ""
+
+#: Config.cs:56 Config.cs:197
+msgctxt "Config (game path)"
+msgid "please select"
+msgstr ""
+
+#: ErrorDialogue.cs:21
+msgctxt "Error dialog"
+msgid "HLAE Error"
+msgstr ""
+
+#: ErrorDialogue.cs:22
+msgctxt "Error dialog"
+msgid "Code:"
+msgstr ""
+
+#: ErrorDialogue.cs:23
+msgctxt "Error dialog"
+msgid "n/a"
+msgstr ""
+
+#: ErrorDialogue.cs:24
+msgctxt "Error dialog"
+msgid "Description:"
+msgstr ""
+
+#: ErrorDialogue.cs:25
+msgctxt "Error dialog"
+msgid "Solution:"
+msgstr ""
+
+#: ErrorDialogue.cs:26
+msgctxt "Error dialog"
+msgid "&Copy to clipboard for support"
+msgstr ""
+
+#: ErrorDialogue.cs:27
+msgctxt "Error dialog"
+msgid "Okay"
+msgstr ""
+
+#: ErrorDialogue.cs:29
+msgctxt "Error dialog"
+msgid "Unknown error."
+msgstr ""
+
+#: ErrorDialogue.cs:30
+msgctxt "Error dialog"
+msgid "No description available."
+msgstr ""
+
+#: ErrorDialogue.cs:31
+msgctxt "Error dialog"
+msgid "No solution available."
+msgstr ""
+
+#: HlaeErrors.cs:48
+msgctxt "HLAE errors"
+msgid "AfxHook error"
+msgstr ""
+
+#: HlaeErrors.cs:49
+msgctxt "HLAE errors"
+msgid ""
+"Make sure you run the injector and the program to inject with same access "
+"rights and that no anti virus / anti cheat is blocking its calls."
+msgstr ""
+
+#: HlaeErrors.cs:50
+msgctxt "HLAE errors"
+msgid ""
+"Make sure to exit anitcheats like ESEA client / Faceit client, Challengeme."
+"gg before using HLAE."
+msgstr ""
+
+#: HlaeErrors.cs:65
+msgctxt "HLAE errors"
+msgid "Could not access / enter directory of DLL to inject"
+msgstr ""
+
+#: HlaeErrors.cs:66
+msgctxt "HLAE errors"
+msgid "DLL can't be found."
+msgstr ""
+
+#: HlaeErrors.cs:70
+msgctxt "HLAE errors"
+msgid "OpenProcess failed"
+msgstr ""
+
+#: HlaeErrors.cs:71
+msgctxt "HLAE errors"
+msgid "VirtualAllocEx read|write allocation failed."
+msgstr ""
+
+#: HlaeErrors.cs:72
+msgctxt "HLAE errors"
+msgid "GetImage failed."
+msgstr ""
+
+#: HlaeErrors.cs:72
+msgctxt "HLAE errors"
+msgid "AfxHook.dat missing / broken / not accessible"
+msgstr ""
+
+#: HlaeErrors.cs:72
+msgctxt "HLAE errors"
+msgid "Try reextracting / repairing HLAE."
+msgstr ""
+
+#: HlaeErrors.cs:73
+msgctxt "HLAE errors"
+msgid "VirtualAllocEx read|write|execute allocation failed."
+msgstr ""
+
+#: HlaeErrors.cs:74
+msgctxt "HLAE errors"
+msgid "WriteProcessMemory failed."
+msgstr ""
+
+#: HlaeErrors.cs:75
+msgctxt "HLAE errors"
+msgid "FlushInstructionCache failed."
+msgstr ""
+
+#: HlaeErrors.cs:76
+msgctxt "HLAE errors"
+msgid "CreateRemoteThread failed."
+msgstr ""
+
+#: HlaeErrors.cs:77
+msgctxt "HLAE errors"
+msgid "AfxHook error: Unknown error code."
+msgstr ""
+
+#: HlaeErrors.cs:110
+msgctxt "HLAE errors"
+msgid "Failed to start injector."
+msgstr ""
+
+#: HlaeErrors.cs:110
+#, csharp-format
+msgctxt "HLAE errors"
+msgid "Failed to start injector: {0}"
+msgstr ""
+
+#: HlaeErrors.cs:110
+msgctxt "HLAE errors"
+msgid ""
+"injector.exe blocked. Probably caused by antivirus. Check it and reextract "
+"HLAE (HLAE NEEDS to be extracted, don't run it from a .zip file)."
+msgstr ""
+
+#: HlaeErrors.cs:117
+msgctxt "HLAE errors"
+msgid "Loader failed."
+msgstr ""
+
+#: HlaeErrors.cs:131
+msgctxt "HLAE errors"
+msgid "Try using CSGO Launcher instead of Custom Launcher."
+msgstr ""
+
+#: HlaeErrors.cs:134
+msgctxt "HLAE errors"
+msgid ""
+"Make sure neither HLAE.exe nor Steam.exe nor csgo.exe are set to run as "
+"admin."
+msgstr ""
+
+#: HlaeErrors.cs:138
+msgctxt "HLAE errors"
+msgid "Loader could not create requested process."
+msgstr ""
+
+#: HlaeErrors.cs:138
+#, csharp-format
+msgctxt "HLAE errors"
+msgid "GetLastWin32Error = {0}: {1}"
+msgstr ""
+
+#: LaunchCsgo.cs:42
+msgid "64 Bit CS:GO is not supported."
+msgstr ""
+
+#: LaunchCsgoForm.cs:20
+msgctxt "Launch CS:GO dialog"
+msgid "Launch CS:GO ..."
+msgstr ""
+
+#: LaunchCsgoForm.cs:21
+msgctxt "Launch CS:GO dialog"
+msgid "Game"
+msgstr ""
+
+#: LaunchCsgoForm.cs:22
+msgctxt "Launch CS:GO dialog"
+msgid "csgo.exe file:"
+msgstr ""
+
+#: LaunchCsgoForm.cs:23 LaunchCsgoForm.cs:27
+msgctxt "Launch CS:GO dialog"
+msgid "Browse ..."
+msgstr ""
+
+#: LaunchCsgoForm.cs:24
+msgctxt "Launch CS:GO dialog"
+msgid "Movie making config parent folder"
+msgstr ""
+
+#: LaunchCsgoForm.cs:25
+msgctxt "Launch CS:GO dialog"
+msgid "What's this?"
+msgstr ""
+
+#: LaunchCsgoForm.cs:26 LaunchCsgoForm.cs:29
+msgctxt "Launch CS:GO dialog"
+msgid "enable"
+msgstr ""
+
+#: LaunchCsgoForm.cs:28
+msgctxt "Launch CS:GO dialog"
+msgid "Graphic Resolution"
+msgstr ""
+
+#: LaunchCsgoForm.cs:30
+msgctxt "Launch CS:GO dialog"
+msgid "Width:"
+msgstr ""
+
+#: LaunchCsgoForm.cs:31
+msgctxt "Launch CS:GO dialog"
+msgid "Height:"
+msgstr ""
+
+#: LaunchCsgoForm.cs:32
+msgctxt "Launch CS:GO dialog"
+msgid "Actual results depend on the game."
+msgstr ""
+
+#: LaunchCsgoForm.cs:33
+msgctxt "Launch CS:GO dialog"
+msgid "full screen"
+msgstr ""
+
+#: LaunchCsgoForm.cs:34
+msgctxt "Launch CS:GO dialog"
+msgid "Custom command line options"
+msgstr ""
+
+#: LaunchCsgoForm.cs:35
+#, csharp-format
+msgctxt "Launch CS:GO dialog"
+msgid "{0} (prevents joining VAC secured server / VAC bans)"
+msgstr ""
+
+#: LaunchCsgoForm.cs:36
+msgctxt "Launch CS:GO dialog"
+msgid "remember my changes"
+msgstr ""
+
+#: LaunchCsgoForm.cs:37
+msgctxt "Launch CS:GO dialog"
+msgid "L&aunch"
+msgstr ""
+
+#: LaunchCsgoForm.cs:38
+msgctxt "Launch CS:GO dialog"
+msgid "Can&cel"
+msgstr ""
+
+#: Launcher.cs:36
+msgctxt "Launcher dialog"
+msgid "Launching failed."
+msgstr ""
+
+#: Launcher.cs:36 Tools/CustomLoader.cs:54
+msgid "Error"
+msgstr ""
+
+#: Launcher.cs:50
+msgid "64 Bit GoldSrc is not supported."
+msgstr ""
+
+#: LauncherForm.cs:20
+msgctxt "Launch GoldSrc dialog"
+msgid "Launch GoldSrc ..."
+msgstr ""
+
+#: LauncherForm.cs:21
+msgctxt "Launch GoldSrc dialog"
+msgid ""
+msgstr ""
+
+#: LauncherForm.cs:22
+msgctxt "Launch GoldSrc dialog"
+msgid "Game"
+msgstr ""
+
+#: LauncherForm.cs:23
+msgctxt "Launch GoldSrc dialog"
+msgid "Browse ..."
+msgstr ""
+
+#: LauncherForm.cs:24
+msgctxt "Launch GoldSrc dialog"
+msgid "Modification:"
+msgstr ""
+
+#: LauncherForm.cs:28
+#, csharp-format
+msgctxt "Launch GoldSrc dialog"
+msgid "{0} (Counter-Strike)"
+msgstr ""
+
+#: LauncherForm.cs:29
+#, csharp-format
+msgctxt "Launch GoldSrc dialog"
+msgid "{0} (Day of Defeat)"
+msgstr ""
+
+#: LauncherForm.cs:30
+#, csharp-format
+msgctxt "Launch GoldSrc dialog"
+msgid "{0} (Team Fortress Classic)"
+msgstr ""
+
+#: LauncherForm.cs:31
+#, csharp-format
+msgctxt "Launch GoldSrc dialog"
+msgid "{0} (Half-Life)"
+msgstr ""
+
+#: LauncherForm.cs:32
+msgctxt "Launch GoldSrc dialog"
+msgid "Other modification:"
+msgstr ""
+
+#: LauncherForm.cs:35
+msgctxt "Launch GoldSrc dialog"
+msgid "Custom command line options"
+msgstr ""
+
+#: LauncherForm.cs:36
+msgctxt "Launch GoldSrc dialog"
+msgid "Graphic Resolution"
+msgstr ""
+
+#: LauncherForm.cs:37
+msgctxt "Launch GoldSrc dialog"
+msgid "Width:"
+msgstr ""
+
+#: LauncherForm.cs:38
+msgctxt "Launch GoldSrc dialog"
+msgid "Height:"
+msgstr ""
+
+#: LauncherForm.cs:39
+msgctxt "Launch GoldSrc dialog"
+msgid "Color Depth:"
+msgstr ""
+
+#: LauncherForm.cs:40
+msgctxt "Launch GoldSrc dialog"
+msgid "force resolution"
+msgstr ""
+
+#: LauncherForm.cs:41
+msgctxt "Launch GoldSrc dialog"
+msgid "full screen"
+msgstr ""
+
+#: LauncherForm.cs:45
+msgctxt "Launch GoldSrc dialog bpp"
+msgid "32 (High)"
+msgstr ""
+
+#: LauncherForm.cs:46
+msgctxt "Launch GoldSrc dialog bpp"
+msgid "24 (Medium)"
+msgstr ""
+
+#: LauncherForm.cs:47
+msgctxt "Launch GoldSrc dialog bpp"
+msgid "16 (Low)"
+msgstr ""
+
+#: LauncherForm.cs:50
+msgctxt "Launch GoldSrc dialog"
+msgid "Advanced Settings"
+msgstr ""
+
+#: LauncherForm.cs:51
+msgctxt "Launch GoldSrc dialog"
+msgid "Force 8 bit alpha channel"
+msgstr ""
+
+#: LauncherForm.cs:52
+msgctxt "Launch GoldSrc dialog"
+msgid "Optimize window visibilty on capture"
+msgstr ""
+
+#: LauncherForm.cs:53
+msgctxt "Launch GoldSrc dialog"
+msgid "Optimize desktop resolution"
+msgstr ""
+
+#: LauncherForm.cs:55
+msgctxt "Launch GoldSrc dialog"
+msgid "Render mode:"
+msgstr ""
+
+#: LauncherForm.cs:58
+msgctxt "Launch GoldSrc dialog render mode"
+msgid "Standard"
+msgstr ""
+
+#: LauncherForm.cs:59
+msgctxt "Launch GoldSrc dialog render mode"
+msgid "FrameBuffer Object"
+msgstr ""
+
+#: LauncherForm.cs:60
+msgctxt "Launch GoldSrc dialog render mode"
+msgid "Memory DC"
+msgstr ""
+
+#: LauncherForm.cs:63
+msgctxt "Launch GoldSrc dialog"
+msgid "remember my changes"
+msgstr ""
+
+#: LauncherForm.cs:64
+msgctxt "Launch GoldSrc dialog"
+msgid "L&aunch"
+msgstr ""
+
+#: LauncherForm.cs:65
+msgctxt "Launch GoldSrc dialog"
+msgid "Can&cel"
+msgstr ""
+
+#: Loader.cs:138
+msgid ""
+"Image injection problem.\n"
+"Continue waiting?"
+msgstr ""
+
+#: Loader.cs:138
+msgid "injector Warning"
+msgstr ""
+
+#: Loader.cs:311
+msgid "Can not get Kernel32.dll handle."
+msgstr ""
+
+#: Loader.cs:324
+#, csharp-format
+msgid "IsWow64Process failed, error code: {0}"
+msgstr ""
+
+#: MainForm.cs:26
+msgctxt "Main window"
+msgid "Half-Life Advanced Effects"
+msgstr ""
+
+#: MainForm.cs:28
+msgctxt "Main window | menu"
+msgid "File"
+msgstr ""
+
+#: MainForm.cs:29
+msgctxt "Main window | menu | File"
+msgid "Launch CS:GO"
+msgstr ""
+
+#: MainForm.cs:30
+msgctxt "Main window | menu | File"
+msgid "Launch GoldSrc"
+msgstr ""
+
+#: MainForm.cs:31
+msgctxt "Main window | menu | File"
+msgid "Exit"
+msgstr ""
+
+#: MainForm.cs:33
+msgctxt "Main Window | menu"
+msgid "View"
+msgstr ""
+
+#: MainForm.cs:34
+msgctxt "Main window | menu | View"
+msgid "Status Bar"
+msgstr ""
+
+#: MainForm.cs:36
+msgctxt "Main window | menu"
+msgid "Tools"
+msgstr ""
+
+#: MainForm.cs:37
+msgctxt "Main window | menu | Tools"
+msgid "Calculators"
+msgstr ""
+
+#: MainForm.cs:38
+msgctxt "Main window | menu | Tools | Calculators"
+msgid "File Size"
+msgstr ""
+
+#: MainForm.cs:39
+msgctxt "Main window | menu | Tools"
+msgid "GoldSrc"
+msgstr ""
+
+#: MainForm.cs:40
+msgctxt "Main window | menu | Tools | GoldSrc"
+msgid "Demo Tools"
+msgstr ""
+
+#: MainForm.cs:41
+msgctxt "Main window | menu | Tools | GoldSrc"
+msgid "Sky Manager"
+msgstr ""
+
+#: MainForm.cs:43
+msgctxt "Main window | menu | Tools"
+msgid "Developer"
+msgstr ""
+
+#: MainForm.cs:44
+msgctxt "Main window | menu | Tools | Developer"
+msgid "Custom Loader"
+msgstr ""
+
+#: MainForm.cs:45
+msgctxt "Main window | menu | Tools | Developer"
+msgid "Own GUID to ClipBoard"
+msgstr ""
+
+#: MainForm.cs:46
+msgctxt "Main window | menu | Tools | Developer"
+msgid "New GUID to ClipBoard"
+msgstr ""
+
+#: MainForm.cs:48
+msgctxt "Manual URL language (localized)"
+msgid "English"
+msgstr ""
+
+#: MainForm.cs:49
+msgctxt "Manual URL (localized)"
+msgid "https://github.com/advancedfx/advancedfx/wiki"
+msgstr ""
+
+#: MainForm.cs:59
+msgctxt "Main window | menu"
+msgid "Help"
+msgstr ""
+
+#: MainForm.cs:60
+#, csharp-format
+msgctxt "Main window | menu | Help"
+msgid "Online Manual ({0})"
+msgstr ""
+
+#: MainForm.cs:62
+msgctxt "Main window | menu | Help"
+msgid "Check for Updates"
+msgstr ""
+
+#: MainForm.cs:63
+msgctxt "Main window | menu | Help | Check for Updates"
+msgid "Auto Check"
+msgstr ""
+
+#: MainForm.cs:64
+msgctxt "Main window | menu | Help | Check for Updates"
+msgid "Check Now"
+msgstr ""
+
+#: MainForm.cs:65
+msgctxt "Main window | menu | Help"
+msgid "Official Website"
+msgstr ""
+
+#: MainForm.cs:67
+msgctxt "Main window | menu"
+msgid "Donate"
+msgstr ""
+
+#: MainForm.cs:69
+msgctxt "Main window | check updates strip"
+msgid "Check for updates automatically?"
+msgstr ""
+
+#: MainForm.cs:70
+msgctxt "Main window | check updates strip"
+msgid "Yes"
+msgstr ""
+
+#: MainForm.cs:71
+msgctxt "Main window | check updates strip"
+msgid "No"
+msgstr ""
+
+#: MainForm.cs:74
+msgctxt "Main window | update status strip"
+msgid "Ignore"
+msgstr ""
+
+#: MainForm.cs:75
+msgctxt "Main window | update status strip"
+msgid "OK"
+msgstr ""
+
+#: MainForm.cs:76
+msgctxt "Main window | update status strip | label"
+msgid "Update status unknown"
+msgstr ""
+
+#: MainForm.cs:78
+#, csharp-format
+msgctxt "Main window"
+msgid "Open Online Manual ({0})"
+msgstr ""
+
+#: MainForm.cs:109
+msgctxt "Main window | update status strip | label"
+msgid "Update available!"
+msgstr ""
+
+#: MainForm.cs:118
+msgctxt "Main window | update status strip | label"
+msgid "Your version is up to date :)"
+msgstr ""
+
+#: MainForm.cs:130
+msgctxt "Main window | update status strip | label"
+msgid "Update check failed :("
+msgstr ""
+
+#: MainForm.cs:139
+msgctxt "Main window | update status strip | label"
+msgid "Checking for updates ..."
+msgstr ""
+
+#: Tools/Calculator.cs:18
+msgctxt "File Size Calculator"
+msgid "File Size Calculator"
+msgstr ""
+
+#: Tools/Calculator.cs:19
+msgctxt "File Size Calculator"
+msgid "Width:"
+msgstr ""
+
+#: Tools/Calculator.cs:20
+msgctxt "File Size Calculator"
+msgid "Height:"
+msgstr ""
+
+#: Tools/Calculator.cs:21
+msgctxt "File Size Calculator"
+msgid "FPS:"
+msgstr ""
+
+#: Tools/Calculator.cs:22
+msgctxt "File Size Calculator"
+msgid "Duration:"
+msgstr ""
+
+#: Tools/Calculator.cs:23
+msgctxt "File Size Calculator | Duration"
+msgid "min"
+msgstr ""
+
+#: Tools/Calculator.cs:24
+msgctxt "File Size Calculator | Duration"
+msgid "sec"
+msgstr ""
+
+#: Tools/Calculator.cs:25
+msgctxt "File Size Calculator"
+msgid "Estimated Disk Usage"
+msgstr ""
+
+#: Tools/Calculator.cs:26
+msgctxt "File Size Calculator | Estimate"
+msgid "HuffYuv encoded output"
+msgstr ""
+
+#: Tools/CustomLoader.cs:54
+msgctxt "Custom Loader dialog"
+msgid "CustomLoader failed"
+msgstr ""
+
+#: Tools/CustomLoaderForm.cs:24
+msgctxt "Custom Loader dialog"
+msgid "Custom Loader"
+msgstr ""
+
+#: Tools/CustomLoaderForm.cs:25
+msgctxt "Custom Loader dialog | Program"
+msgid "ProgramPath:"
+msgstr ""
+
+#: Tools/CustomLoaderForm.cs:26
+msgctxt "Custom Loader dialog | Program"
+msgid "CommandLine:"
+msgstr ""
+
+#: Tools/CustomLoaderForm.cs:27
+msgctxt "Custom Loader dialog | Program"
+msgid "Browse ..."
+msgstr ""
+
+#: Tools/CustomLoaderForm.cs:28
+msgctxt "Custom Loader dialog | DLLS"
+msgid "DLLs to inject"
+msgstr ""
+
+#: Tools/CustomLoaderForm.cs:29
+msgctxt "Custom Loader dialog | DLLS"
+msgid "Browse ..."
+msgstr ""
+
+#: Tools/CustomLoaderForm.cs:30
+msgctxt "Custom Loader dialog | DLLS"
+msgid "Delete"
+msgstr ""
+
+#: Tools/CustomLoaderForm.cs:31
+msgctxt "Custom Loader dialog | DLLS"
+msgid "Up"
+msgstr ""
+
+#: Tools/CustomLoaderForm.cs:32
+msgctxt "Custom Loader dialog | DLLS"
+msgid "Down"
+msgstr ""
+
+#: Tools/CustomLoaderForm.cs:33
+msgctxt "Custom Loader dialog | DLLS"
+msgid "Hint: You can Drag && Drop DLLs in the box above."
+msgstr ""
+
+#: Tools/CustomLoaderForm.cs:34
+msgctxt "Custom Loader dialog"
+msgid "&OK"
+msgstr ""
+
+#: Tools/CustomLoaderForm.cs:35
+msgctxt "Custom Loader dialog"
+msgid "&Abort"
+msgstr ""
+
+#: Tools/CustomLoaderForm.cs:63
+msgctxt "Custom Loader dialog | Program filter"
+msgid "Program to launch and hook (.exe)|*.exe"
+msgstr ""
+
+#: Tools/CustomLoaderForm.cs:71
+msgctxt "Custom Loader dialog | DLL filter"
+msgid "Hook DLL (.dll)|*.dll"
+msgstr ""
