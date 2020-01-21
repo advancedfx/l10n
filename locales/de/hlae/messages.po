@@ -45,7 +45,7 @@ msgstr "Beschreibung: {0}"
 #, csharp-format
 msgctxt "AfxError"
 msgid "Solution: {0}"
-msgstr "Lösung: {0}"
+msgstr "LÃ¶sung: {0}"
 
 #: AfxError.cs:44
 #, csharp-format

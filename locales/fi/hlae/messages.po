@@ -1,5 +1,5 @@
 # Finnish translations for hlae package
-# Suomenkielinen käännös hlae-paketille.
+# Suomenkielinen kÃ¤Ã¤nnÃ¶s hlae-paketille.
 # Copyright (C) 2020 advancedfx.org
 # This file is distributed under the same license as the hlae package.
 # <EMAIL@ADDRESS>, 2020.
