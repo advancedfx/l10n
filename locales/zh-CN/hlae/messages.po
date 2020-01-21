@@ -2,14 +2,14 @@
 # Copyright (C) 2020 advancedfx.org
 # This file is distributed under the same license as the hlae package.
 # <EMAIL@ADDRESS>, 2020.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: hlae\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-21 07:22+0100\n"
-"PO-Revision-Date: 2020-01-20 21:49+0000\n"
-"Last-Translator: Dominik <dominik@matrixstorm.com>\n"
+"PO-Revision-Date: 2020-01-21 16:39+0000\n"
+"Last-Translator: Tuc <leijinboas@hotmail.com>\n"
 "Language-Team: Language zh-CN\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
@@ -211,7 +211,7 @@ msgstr "请尝试使用CSGO启动器启动 而不是自定义启动。"
 #: HlaeErrors.cs:134
 msgctxt "HLAE errors"
 msgid "Make sure neither HLAE.exe nor Steam.exe nor csgo.exe are set to run as admin."
-msgstr "请确保HLAE.EXE，STEAM.EXE，CSGO.EXE都不是再管理员模式下运行。"
+msgstr "请确保HLAE.EXE，STEAM.EXE，CSGO.EXE都不是在管理员模式下运行。"
 
 #: HlaeErrors.cs:138
 msgctxt "HLAE errors"
