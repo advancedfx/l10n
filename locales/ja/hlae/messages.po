@@ -2,14 +2,14 @@
 # Copyright (C) YEAR advancedfx.org
 # This file is distributed under the same license as the hlae package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: hlae\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-21 07:22+0100\n"
-"PO-Revision-Date: 2020-01-21 11:57+0000\n"
+"PO-Revision-Date: 2020-01-21 10:53+0000\n"
 "Last-Translator: FlowingSPDG <shugo_k@flowing.tokyo>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ja\n"
@@ -341,7 +341,7 @@ msgstr "ゲーム"
 #: LauncherForm.cs:22
 msgctxt "Launch GoldSrc dialog"
 msgid "hl.exe"
-msgstr ""
+msgstr "hl.exe"
 
 #: LauncherForm.cs:23
 msgctxt "Launch GoldSrc dialog"

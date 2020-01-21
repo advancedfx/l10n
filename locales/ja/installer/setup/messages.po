@@ -1,7 +1,7 @@
 # 
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2020-01-21 11:56+0000\n"
+"PO-Revision-Date: 2020-01-21 19:51+0000\n"
 "Last-Translator: FlowingSPDG <shugo_k@flowing.tokyo>\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
@@ -185,7 +185,7 @@ msgstr "修復に失敗しました"
 
 msgctxt "FailureHyperlinkLogText"
 msgid "One or more issues caused the setup to fail. Please fix the issues and then retry setup. For more information see the <a href=\"#\">log file</a>."
-msgstr ""
+msgstr "一つ以上の問題が原因でセットアップに失敗しました。問題を修正してから再度お試しください。詳細情報は <a href=\"#\">ログファイル</a>をご覧ください。"
 
 msgctxt "FailureRestartText"
 msgid "You must restart your computer to complete the rollback of the software."
