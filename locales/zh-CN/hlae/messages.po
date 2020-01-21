@@ -2,12 +2,12 @@
 # Copyright (C) 2020 advancedfx.org
 # This file is distributed under the same license as the hlae package.
 # <EMAIL@ADDRESS>, 2020.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: hlae\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-01-13 21:32+0100\n"
+"POT-Creation-Date: 2020-01-21 07:22+0100\n"
 "PO-Revision-Date: 2020-01-20 21:49+0000\n"
 "Last-Translator: Dominik <dominik@matrixstorm.com>\n"
 "Language-Team: Language zh-CN\n"
@@ -334,13 +334,13 @@ msgstr "运行 GoldSrc ..."
 
 #: LauncherForm.cs:21
 msgctxt "Launch GoldSrc dialog"
-msgid ""
-msgstr " "
+msgid "Game"
+msgstr "游戏"
 
 #: LauncherForm.cs:22
 msgctxt "Launch GoldSrc dialog"
-msgid "Game"
-msgstr "游戏"
+msgid "hl.exe"
+msgstr ""
 
 #: LauncherForm.cs:23
 msgctxt "Launch GoldSrc dialog"
@@ -811,3 +811,7 @@ msgstr "需要被注入的程序 (.exe)|*.exe"
 msgctxt "Custom Loader dialog | DLL filter"
 msgid "Hook DLL (.dll)|*.dll"
 msgstr "Hook dll位置（.dll）|*.dll"
+
+#~ msgctxt "Launch GoldSrc dialog"
+#~ msgid ""
+#~ msgstr " "

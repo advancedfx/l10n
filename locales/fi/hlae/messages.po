@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hlae\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-01-13 21:32+0100\n"
+"POT-Creation-Date: 2020-01-21 07:22+0100\n"
 "PO-Revision-Date: 2020-01-20 12:21+0100\n"
 "Last-Translator: <EMAIL@ADDRESS>\n"
 "Language-Team: Finnish\n"
@@ -114,16 +114,12 @@ msgstr ""
 
 #: HlaeErrors.cs:49
 msgctxt "HLAE errors"
-msgid ""
-"Make sure you run the injector and the program to inject with same access "
-"rights and that no anti virus / anti cheat is blocking its calls."
+msgid "Make sure you run the injector and the program to inject with same access rights and that no anti virus / anti cheat is blocking its calls."
 msgstr ""
 
 #: HlaeErrors.cs:50
 msgctxt "HLAE errors"
-msgid ""
-"Make sure to exit anitcheats like ESEA client / Faceit client, Challengeme."
-"gg before using HLAE."
+msgid "Make sure to exit anitcheats like ESEA client / Faceit client, Challengeme.gg before using HLAE."
 msgstr ""
 
 #: HlaeErrors.cs:65
@@ -199,9 +195,7 @@ msgstr ""
 
 #: HlaeErrors.cs:110
 msgctxt "HLAE errors"
-msgid ""
-"injector.exe blocked. Probably caused by antivirus. Check it and reextract "
-"HLAE (HLAE NEEDS to be extracted, don't run it from a .zip file)."
+msgid "injector.exe blocked. Probably caused by antivirus. Check it and reextract HLAE (HLAE NEEDS to be extracted, don't run it from a .zip file)."
 msgstr ""
 
 #: HlaeErrors.cs:117
@@ -216,9 +210,7 @@ msgstr ""
 
 #: HlaeErrors.cs:134
 msgctxt "HLAE errors"
-msgid ""
-"Make sure neither HLAE.exe nor Steam.exe nor csgo.exe are set to run as "
-"admin."
+msgid "Make sure neither HLAE.exe nor Steam.exe nor csgo.exe are set to run as admin."
 msgstr ""
 
 #: HlaeErrors.cs:138
@@ -342,12 +334,12 @@ msgstr ""
 
 #: LauncherForm.cs:21
 msgctxt "Launch GoldSrc dialog"
-msgid ""
+msgid "Game"
 msgstr ""
 
 #: LauncherForm.cs:22
 msgctxt "Launch GoldSrc dialog"
-msgid "Game"
+msgid "hl.exe"
 msgstr ""
 
 #: LauncherForm.cs:23
