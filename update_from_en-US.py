@@ -25,9 +25,9 @@ for pot in pots:
 			print('Creating '+target_po+' from "'+pot+':')
 			target_po_tmp = target_po+'.tmp'
 			os.makedirs(os.path.split(target_po)[0],exist_ok=True)
-			subprocess.call(['msginit', '--input='+pot, '--locale='+locale+'.UTF-8', '--output='+target_po_tmp])
+			subprocess.call(['msginit', '--input='+pot, '--locale='+locale+'.utf-8', '--output='+target_po_tmp])
 			target_po_file = open(target_po, 'wb')
-			subprocess.call(['msgconv', '--to-code=UTF-8', target_po_tmp], stdout=target_po_file)
+			subprocess.call(['msgconv', '--to-code=utf-8', target_po_tmp], stdout=target_po_file)
 			target_po_file.close()
 			os.remove(target_po_tmp)
 

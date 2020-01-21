@@ -2,19 +2,19 @@
 # Copyright (C) YEAR advancedfx.org
 # This file is distributed under the same license as the hlae package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
+#
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: hlae\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-01-13 21:32+0100\n"
+"POT-Creation-Date: 2020-01-21 07:22+0100\n"
 "PO-Revision-Date: 2020-01-21 11:57+0000\n"
 "Last-Translator: FlowingSPDG <shugo_k@flowing.tokyo>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Pontoon\n"
@@ -335,13 +335,13 @@ msgstr "GoldSrcを起動中..."
 
 #: LauncherForm.cs:21
 msgctxt "Launch GoldSrc dialog"
-msgid ""
-msgstr ""
+msgid "Game"
+msgstr "ゲーム"
 
 #: LauncherForm.cs:22
 msgctxt "Launch GoldSrc dialog"
-msgid "Game"
-msgstr "ゲーム"
+msgid "hl.exe"
+msgstr ""
 
 #: LauncherForm.cs:23
 msgctxt "Launch GoldSrc dialog"
