@@ -1,0 +1,61 @@
+# 
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-01-21 11:26+0000\n"
+"Last-Translator: FlowingSPDG <shugo_k@flowing.tokyo>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pontoon\n"
+
+msgctxt "ApplicationName"
+msgid "HLAE Core"
+msgstr "HLAE コア"
+
+msgctxt "Manufacturer"
+msgid "advancedfx.org"
+msgstr "advancedfx.org"
+
+msgctxt "DowngradeErrorMessage"
+msgid "A newer version of [ProductName] is already installed."
+msgstr "より新しい[ProductName] が既にインストールされています。"
+
+msgctxt "FfmpegFeature"
+msgid "Install FFMPEG from https://ffmpeg.zeranoe.com/builds/"
+msgstr "https://ffmpeg.zeranoe.com/builds/ からFFMPEGをインストールします"
+
+msgctxt "InstallFfmpeg"
+msgid "Installing FFMPEG ..."
+msgstr "FFMPEGをインストール中..."
+
+msgctxt "InstallFfmpegConnect"
+msgid "Connecting to https://ffmpeg.zeranoe.com/"
+msgstr "https://ffmpeg.zeranoe.com/に接続中"
+
+msgctxt "InstallFfmpegConnect_Template"
+msgid "..."
+msgstr "..."
+
+msgctxt "InstallFfmpegDownload"
+msgid "Downloading from https://ffmpeg.zeranoe.com/"
+msgstr "https://ffmpeg.zeranoe.com/からダウンロード中"
+
+msgctxt "InstallFfmpegDownload_Template"
+msgid "[1] of [2] Bytes"
+msgstr "[1] / [2] バイト"
+
+msgctxt "InstallFfmpegExtract"
+msgid "Extracting FFMPEG"
+msgstr "FFMPEGを展開中"
+
+msgctxt "InstallFfmpegExtract_Template"
+msgid "Item [1] of [2] ..."
+msgstr "アイテム[1] / [2]"
+
+msgctxt "AppFolderMustBeLatin"
+msgid "The HLAE application folder path contains invalid characters: Only basic latin character set is allowed. Please choose a different installation folder in options accordingly."
+msgstr ""
+"HLAEアプリケーションパスに無効な文字が含まれています: 基本的なラテン文字のみ許可されます。\n"
+"オプションから別のインストールパスを選択してください。"
