@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: hlae\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-21 07:22+0100\n"
-"PO-Revision-Date: 2020-01-21 20:52+0000\n"
+"PO-Revision-Date: 2020-01-21 22:59+0000\n"
 "Last-Translator: Vladimir <akkardeon@gmail.com>\n"
 "Language-Team: Russian\n"
 "Language: ru\n"
@@ -136,7 +136,7 @@ msgstr "DLL не найден."
 #: HlaeErrors.cs:70
 msgctxt "HLAE errors"
 msgid "OpenProcess failed"
-msgstr "Ошибка OpenProcess"
+msgstr "Сбой OpenProcess"
 
 #: HlaeErrors.cs:71
 msgctxt "HLAE errors"
@@ -146,7 +146,7 @@ msgstr "VirtualAllocEx сбой чтения|записи."
 #: HlaeErrors.cs:72
 msgctxt "HLAE errors"
 msgid "GetImage failed."
-msgstr "Ошибка GetImage."
+msgstr "Сбой GetImage."
 
 #: HlaeErrors.cs:72
 msgctxt "HLAE errors"
@@ -156,511 +156,513 @@ msgstr "AfxHook.dat не найден / поврежден / недоступе�
 #: HlaeErrors.cs:72
 msgctxt "HLAE errors"
 msgid "Try reextracting / repairing HLAE."
-msgstr ""
+msgstr "Попробуйте заново распаковать / восстановить HLAE."
 
 #: HlaeErrors.cs:73
 msgctxt "HLAE errors"
 msgid "VirtualAllocEx read|write|execute allocation failed."
-msgstr ""
+msgstr "VirtualAllocEx сбой чтения|записи|выполнения."
 
 #: HlaeErrors.cs:74
 msgctxt "HLAE errors"
 msgid "WriteProcessMemory failed."
-msgstr ""
+msgstr "Сбой WriteProcessMemory."
 
 #: HlaeErrors.cs:75
 msgctxt "HLAE errors"
 msgid "FlushInstructionCache failed."
-msgstr ""
+msgstr "Сбой FlushInstructionCache."
 
 #: HlaeErrors.cs:76
 msgctxt "HLAE errors"
 msgid "CreateRemoteThread failed."
-msgstr ""
+msgstr "Сбой CreateRemoteThread."
 
 #: HlaeErrors.cs:77
 msgctxt "HLAE errors"
 msgid "AfxHook error: Unknown error code."
-msgstr ""
+msgstr "Ошибка AfxHook: Неизвестный номер ошибки."
 
 #: HlaeErrors.cs:110
 msgctxt "HLAE errors"
 msgid "Failed to start injector."
-msgstr ""
+msgstr "Не удалось запустить инжектор."
 
 #: HlaeErrors.cs:110
 #, csharp-format
 msgctxt "HLAE errors"
 msgid "Failed to start injector: {0}"
-msgstr ""
+msgstr "Не удалось запустить инжектор: {0}"
 
 #: HlaeErrors.cs:110
 msgctxt "HLAE errors"
 msgid "injector.exe blocked. Probably caused by antivirus. Check it and reextract HLAE (HLAE NEEDS to be extracted, don't run it from a .zip file)."
-msgstr ""
+msgstr "injector.exe заблокирован. Скорее всего из-за антивируса. Проверьте антивирус и заново распакуйте HLAE (HLAE должен быть распакован, не запускайте его из .zip архива)."
 
 #: HlaeErrors.cs:117
 msgctxt "HLAE errors"
 msgid "Loader failed."
-msgstr ""
+msgstr "Сбой загрузчика."
 
 #: HlaeErrors.cs:131
 msgctxt "HLAE errors"
 msgid "Try using CSGO Launcher instead of Custom Launcher."
-msgstr ""
+msgstr "Попробуйте использовать лаунчер CS:GO вместо пользовательского лаунчера."
 
 #: HlaeErrors.cs:134
 msgctxt "HLAE errors"
 msgid "Make sure neither HLAE.exe nor Steam.exe nor csgo.exe are set to run as admin."
-msgstr ""
+msgstr "Убедитесь, что ни HLAE.exe, ни Steam.exe, ни csgo.exe не запущены от имени администратора."
 
 #: HlaeErrors.cs:138
 msgctxt "HLAE errors"
 msgid "Loader could not create requested process."
-msgstr ""
+msgstr "Загрузчик не может создать запрошенный процесс."
 
 #: HlaeErrors.cs:138
 #, csharp-format
 msgctxt "HLAE errors"
 msgid "GetLastWin32Error = {0}: {1}"
-msgstr ""
+msgstr "GetLastWin32Error = {0}: {1}"
 
 #: LaunchCsgo.cs:42
 msgid "64 Bit CS:GO is not supported."
-msgstr ""
+msgstr "64-битный CS:GO не поддерживается."
 
 #: LaunchCsgoForm.cs:20
 msgctxt "Launch CS:GO dialog"
 msgid "Launch CS:GO ..."
-msgstr ""
+msgstr "Запустить CS:GO ..."
 
 #: LaunchCsgoForm.cs:21
 msgctxt "Launch CS:GO dialog"
 msgid "Game"
-msgstr ""
+msgstr "Игра"
 
 #: LaunchCsgoForm.cs:22
 msgctxt "Launch CS:GO dialog"
 msgid "csgo.exe file:"
-msgstr ""
+msgstr "Файл csgo.exe:"
 
 #: LaunchCsgoForm.cs:23 LaunchCsgoForm.cs:27
 msgctxt "Launch CS:GO dialog"
 msgid "Browse ..."
-msgstr ""
+msgstr "Обзор ..."
 
 #: LaunchCsgoForm.cs:24
 msgctxt "Launch CS:GO dialog"
 msgid "Movie making config parent folder"
-msgstr ""
+msgstr "Родительская папка мувимейкинг конфига"
 
 #: LaunchCsgoForm.cs:25
 msgctxt "Launch CS:GO dialog"
 msgid "What's this?"
-msgstr ""
+msgstr "Что это такое?"
 
 #: LaunchCsgoForm.cs:26 LaunchCsgoForm.cs:29
 msgctxt "Launch CS:GO dialog"
 msgid "enable"
-msgstr ""
+msgstr "включить"
 
 #: LaunchCsgoForm.cs:28
 msgctxt "Launch CS:GO dialog"
 msgid "Graphic Resolution"
-msgstr ""
+msgstr "Разрешение"
 
 #: LaunchCsgoForm.cs:30
 msgctxt "Launch CS:GO dialog"
 msgid "Width:"
-msgstr ""
+msgstr "Ширина:"
 
 #: LaunchCsgoForm.cs:31
 msgctxt "Launch CS:GO dialog"
 msgid "Height:"
-msgstr ""
+msgstr "Высота:"
 
 #: LaunchCsgoForm.cs:32
 msgctxt "Launch CS:GO dialog"
 msgid "Actual results depend on the game."
-msgstr ""
+msgstr "Фактический результат зависит от игры."
 
 #: LaunchCsgoForm.cs:33
 msgctxt "Launch CS:GO dialog"
 msgid "full screen"
-msgstr ""
+msgstr "полный экран"
 
 #: LaunchCsgoForm.cs:34
 msgctxt "Launch CS:GO dialog"
 msgid "Custom command line options"
-msgstr ""
+msgstr "Пользовательские параметры запуска"
 
 #: LaunchCsgoForm.cs:35
 #, csharp-format
 msgctxt "Launch CS:GO dialog"
 msgid "{0} (prevents joining VAC secured server / VAC bans)"
-msgstr ""
+msgstr "{0} (предотвращает от захода на серверы с VAC / VAC баны)"
 
 #: LaunchCsgoForm.cs:36
 msgctxt "Launch CS:GO dialog"
 msgid "remember my changes"
-msgstr ""
+msgstr "сохранить изменения"
 
 #: LaunchCsgoForm.cs:37
 msgctxt "Launch CS:GO dialog"
 msgid "L&aunch"
-msgstr ""
+msgstr "З&апуск"
 
 #: LaunchCsgoForm.cs:38
 msgctxt "Launch CS:GO dialog"
 msgid "Can&cel"
-msgstr ""
+msgstr "От&мена"
 
 #: Launcher.cs:36
 msgctxt "Launcher dialog"
 msgid "Launching failed."
-msgstr ""
+msgstr "Сбой запуска."
 
 #: Launcher.cs:36 Tools/CustomLoader.cs:54
 msgid "Error"
-msgstr ""
+msgstr "Ошибка"
 
 #: Launcher.cs:50
 msgid "64 Bit GoldSrc is not supported."
-msgstr ""
+msgstr "64-битный GoldSrc не поддерживается."
 
 #: LauncherForm.cs:20
 msgctxt "Launch GoldSrc dialog"
 msgid "Launch GoldSrc ..."
-msgstr ""
+msgstr "Запустить GoldSrc ..."
 
 #: LauncherForm.cs:21
 msgctxt "Launch GoldSrc dialog"
 msgid "Game"
-msgstr ""
+msgstr "Игра"
 
 #: LauncherForm.cs:22
 msgctxt "Launch GoldSrc dialog"
 msgid "hl.exe"
-msgstr ""
+msgstr "hl.exe"
 
 #: LauncherForm.cs:23
 msgctxt "Launch GoldSrc dialog"
 msgid "Browse ..."
-msgstr ""
+msgstr "Обзор ..."
 
 #: LauncherForm.cs:24
 msgctxt "Launch GoldSrc dialog"
 msgid "Modification:"
-msgstr ""
+msgstr "Модификация:"
 
 #: LauncherForm.cs:28
 #, csharp-format
 msgctxt "Launch GoldSrc dialog"
 msgid "{0} (Counter-Strike)"
-msgstr ""
+msgstr "{0} (Counter-Strike)"
 
 #: LauncherForm.cs:29
 #, csharp-format
 msgctxt "Launch GoldSrc dialog"
 msgid "{0} (Day of Defeat)"
-msgstr ""
+msgstr "{0} (Day of Defeat)"
 
 #: LauncherForm.cs:30
 #, csharp-format
 msgctxt "Launch GoldSrc dialog"
 msgid "{0} (Team Fortress Classic)"
-msgstr ""
+msgstr "{0} (Team Fortress Classic)"
 
 #: LauncherForm.cs:31
 #, csharp-format
 msgctxt "Launch GoldSrc dialog"
 msgid "{0} (Half-Life)"
-msgstr ""
+msgstr "{0} (Half-Life)"
 
 #: LauncherForm.cs:32
 msgctxt "Launch GoldSrc dialog"
 msgid "Other modification:"
-msgstr ""
+msgstr "Другая модификация:"
 
 #: LauncherForm.cs:35
 msgctxt "Launch GoldSrc dialog"
 msgid "Custom command line options"
-msgstr ""
+msgstr "Пользовательские параметры запуска"
 
 #: LauncherForm.cs:36
 msgctxt "Launch GoldSrc dialog"
 msgid "Graphic Resolution"
-msgstr ""
+msgstr "Разрешение"
 
 #: LauncherForm.cs:37
 msgctxt "Launch GoldSrc dialog"
 msgid "Width:"
-msgstr ""
+msgstr "Ширина:"
 
 #: LauncherForm.cs:38
 msgctxt "Launch GoldSrc dialog"
 msgid "Height:"
-msgstr ""
+msgstr "Высота:"
 
 #: LauncherForm.cs:39
 msgctxt "Launch GoldSrc dialog"
 msgid "Color Depth:"
-msgstr ""
+msgstr "Глубина цвета:"
 
 #: LauncherForm.cs:40
 msgctxt "Launch GoldSrc dialog"
 msgid "force resolution"
-msgstr ""
+msgstr "принудительное разрешение"
 
 #: LauncherForm.cs:41
 msgctxt "Launch GoldSrc dialog"
 msgid "full screen"
-msgstr ""
+msgstr "полный экран"
 
 #: LauncherForm.cs:45
 msgctxt "Launch GoldSrc dialog bpp"
 msgid "32 (High)"
-msgstr ""
+msgstr "32 (Высокая)"
 
 #: LauncherForm.cs:46
 msgctxt "Launch GoldSrc dialog bpp"
 msgid "24 (Medium)"
-msgstr ""
+msgstr "24 (Средняя)"
 
 #: LauncherForm.cs:47
 msgctxt "Launch GoldSrc dialog bpp"
 msgid "16 (Low)"
-msgstr ""
+msgstr "16 (Низкая)"
 
 #: LauncherForm.cs:50
 msgctxt "Launch GoldSrc dialog"
 msgid "Advanced Settings"
-msgstr ""
+msgstr "Расширенные настройки"
 
 #: LauncherForm.cs:51
 msgctxt "Launch GoldSrc dialog"
 msgid "Force 8 bit alpha channel"
-msgstr ""
+msgstr "Принудительное использование 8-битного альфа канала"
 
 #: LauncherForm.cs:52
 msgctxt "Launch GoldSrc dialog"
 msgid "Optimize window visibilty on capture"
-msgstr ""
+msgstr "Оптимизировать видимость окна при захвате"
 
 #: LauncherForm.cs:53
 msgctxt "Launch GoldSrc dialog"
 msgid "Optimize desktop resolution"
-msgstr ""
+msgstr "Оптимизировать разрешение рабочего стола"
 
 #: LauncherForm.cs:55
 msgctxt "Launch GoldSrc dialog"
 msgid "Render mode:"
-msgstr ""
+msgstr "Режим рендеринга:"
 
 #: LauncherForm.cs:58
 msgctxt "Launch GoldSrc dialog render mode"
 msgid "Standard"
-msgstr ""
+msgstr "Standard"
 
 #: LauncherForm.cs:59
 msgctxt "Launch GoldSrc dialog render mode"
 msgid "FrameBuffer Object"
-msgstr ""
+msgstr "FrameBuffer Object"
 
 #: LauncherForm.cs:60
 msgctxt "Launch GoldSrc dialog render mode"
 msgid "Memory DC"
-msgstr ""
+msgstr "Memory DC"
 
 #: LauncherForm.cs:63
 msgctxt "Launch GoldSrc dialog"
 msgid "remember my changes"
-msgstr ""
+msgstr "сохранить изменения"
 
 #: LauncherForm.cs:64
 msgctxt "Launch GoldSrc dialog"
 msgid "L&aunch"
-msgstr ""
+msgstr "З&апуск"
 
 #: LauncherForm.cs:65
 msgctxt "Launch GoldSrc dialog"
 msgid "Can&cel"
-msgstr ""
+msgstr "От&мена"
 
 #: Loader.cs:138
 msgid ""
 "Image injection problem.\n"
 "Continue waiting?"
 msgstr ""
+"Проблема с инъекцией изображения.\n"
+"Продолжить ожидание?"
 
 #: Loader.cs:138
 msgid "injector Warning"
-msgstr ""
+msgstr "Предупреждение инжектора"
 
 #: Loader.cs:311
 msgid "Can not get Kernel32.dll handle."
-msgstr ""
+msgstr "Невозможно получить дескриптор Kernel32.dll."
 
 #: Loader.cs:324
 #, csharp-format
 msgid "IsWow64Process failed, error code: {0}"
-msgstr ""
+msgstr "Сбой IsWow64Process, код ошибки: {0}"
 
 #: MainForm.cs:26
 msgctxt "Main window"
 msgid "Half-Life Advanced Effects"
-msgstr ""
+msgstr "Half-Life Advanced Effects"
 
 #: MainForm.cs:28
 msgctxt "Main window | menu"
 msgid "File"
-msgstr ""
+msgstr "Файл"
 
 #: MainForm.cs:29
 msgctxt "Main window | menu | File"
 msgid "Launch CS:GO"
-msgstr ""
+msgstr "Запустить CS:GO"
 
 #: MainForm.cs:30
 msgctxt "Main window | menu | File"
 msgid "Launch GoldSrc"
-msgstr ""
+msgstr "Запустить GoldSrc"
 
 #: MainForm.cs:31
 msgctxt "Main window | menu | File"
 msgid "Exit"
-msgstr ""
+msgstr "Выход"
 
 #: MainForm.cs:33
 msgctxt "Main Window | menu"
 msgid "View"
-msgstr ""
+msgstr "Вид"
 
 #: MainForm.cs:34
 msgctxt "Main window | menu | View"
 msgid "Status Bar"
-msgstr ""
+msgstr "Строка состояния"
 
 #: MainForm.cs:36
 msgctxt "Main window | menu"
 msgid "Tools"
-msgstr ""
+msgstr "Инструменты"
 
 #: MainForm.cs:37
 msgctxt "Main window | menu | Tools"
 msgid "Calculators"
-msgstr ""
+msgstr "Калькуляторы"
 
 #: MainForm.cs:38
 msgctxt "Main window | menu | Tools | Calculators"
 msgid "File Size"
-msgstr ""
+msgstr "Размер файла"
 
 #: MainForm.cs:39
 msgctxt "Main window | menu | Tools"
 msgid "GoldSrc"
-msgstr ""
+msgstr "GoldSrc"
 
 #: MainForm.cs:40
 msgctxt "Main window | menu | Tools | GoldSrc"
 msgid "Demo Tools"
-msgstr ""
+msgstr "Утилиты для демо"
 
 #: MainForm.cs:41
 msgctxt "Main window | menu | Tools | GoldSrc"
 msgid "Sky Manager"
-msgstr ""
+msgstr "Менеджер скайбокса"
 
 #: MainForm.cs:43
 msgctxt "Main window | menu | Tools"
 msgid "Developer"
-msgstr ""
+msgstr "Разработчик"
 
 #: MainForm.cs:44
 msgctxt "Main window | menu | Tools | Developer"
 msgid "Custom Loader"
-msgstr ""
+msgstr "Пользовательский загрузчик"
 
 #: MainForm.cs:45
 msgctxt "Main window | menu | Tools | Developer"
 msgid "Own GUID to ClipBoard"
-msgstr ""
+msgstr "Свой GUID в буфер обмена"
 
 #: MainForm.cs:46
 msgctxt "Main window | menu | Tools | Developer"
 msgid "New GUID to ClipBoard"
-msgstr ""
+msgstr "Новый GUID в буфер обмена"
 
 #: MainForm.cs:48
 msgctxt "Manual URL language (localized)"
 msgid "English"
-msgstr ""
+msgstr "Английский"
 
 #: MainForm.cs:49
 msgctxt "Manual URL (localized)"
 msgid "https://github.com/advancedfx/advancedfx/wiki"
-msgstr ""
+msgstr "https://github.com/advancedfx/advancedfx/wiki"
 
 #: MainForm.cs:59
 msgctxt "Main window | menu"
 msgid "Help"
-msgstr ""
+msgstr "Помощь"
 
 #: MainForm.cs:60
 #, csharp-format
 msgctxt "Main window | menu | Help"
 msgid "Online Manual ({0})"
-msgstr ""
+msgstr "Онлайн руководство ({0})"
 
 #: MainForm.cs:62
 msgctxt "Main window | menu | Help"
 msgid "Check for Updates"
-msgstr ""
+msgstr "Проверять обновления"
 
 #: MainForm.cs:63
 msgctxt "Main window | menu | Help | Check for Updates"
 msgid "Auto Check"
-msgstr ""
+msgstr "Автоматически"
 
 #: MainForm.cs:64
 msgctxt "Main window | menu | Help | Check for Updates"
 msgid "Check Now"
-msgstr ""
+msgstr "Проверить сейчас"
 
 #: MainForm.cs:65
 msgctxt "Main window | menu | Help"
 msgid "Official Website"
-msgstr ""
+msgstr "Официальный сайт"
 
 #: MainForm.cs:67
 msgctxt "Main window | menu"
 msgid "Donate"
-msgstr ""
+msgstr "Пожертвование"
 
 #: MainForm.cs:69
 msgctxt "Main window | check updates strip"
 msgid "Check for updates automatically?"
-msgstr ""
+msgstr "Проверять обновления автоматически?"
 
 #: MainForm.cs:70
 msgctxt "Main window | check updates strip"
 msgid "Yes"
-msgstr ""
+msgstr "Да"
 
 #: MainForm.cs:71
 msgctxt "Main window | check updates strip"
 msgid "No"
-msgstr ""
+msgstr "Нет"
 
 #: MainForm.cs:74
 msgctxt "Main window | update status strip"
 msgid "Ignore"
-msgstr ""
+msgstr "Пропустить"
 
 #: MainForm.cs:75
 msgctxt "Main window | update status strip"
 msgid "OK"
-msgstr ""
+msgstr "ОК"
 
 #: MainForm.cs:76
 msgctxt "Main window | update status strip | label"
