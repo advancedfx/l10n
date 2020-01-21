@@ -2,818 +2,812 @@
 # Copyright (C) 2020 advancedfx.org
 # This file is distributed under the same license as the hlae package.
 # <EMAIL@ADDRESS>, 2020.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: hlae\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-13 21:32+0100\n"
-"PO-Revision-Date: 2020-01-20 12:23+0100\n"
-"Last-Translator: <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2020-01-20 21:49+0000\n"
+"Last-Translator: Dominik <dominik@matrixstorm.com>\n"
 "Language-Team: Language zh-CN\n"
-"Language: zh-CN\n"
+"Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pontoon\n"
 
 #: AfxError.cs:11
 msgid "AfxError"
-msgstr ""
+msgstr "AfxError"
 
 #: AfxError.cs:40
 #, csharp-format
 msgctxt "AfxError (number code)"
 msgid "AfxError #{0}: "
-msgstr ""
+msgstr "AfxError #{0}: "
 
 #: AfxError.cs:41
 #, csharp-format
 msgctxt "AfxError"
 msgid "Title: {0}"
-msgstr ""
+msgstr "标题: {0}"
 
 #: AfxError.cs:42
 #, csharp-format
 msgctxt "AfxError"
 msgid "Description: {0}"
-msgstr ""
+msgstr "简介: {0}"
 
 #: AfxError.cs:43
 #, csharp-format
 msgctxt "AfxError"
 msgid "Solution: {0}"
-msgstr ""
+msgstr "解决方法: {0}"
 
 #: AfxError.cs:44
 #, csharp-format
 msgctxt "AfxError"
 msgid "Inner exception: {0}"
-msgstr ""
+msgstr "内部错误: {0}"
 
 #: Config.cs:56 Config.cs:197
 msgctxt "Config (game path)"
 msgid "please select"
-msgstr ""
+msgstr "请选择"
 
 #: ErrorDialogue.cs:21
 msgctxt "Error dialog"
 msgid "HLAE Error"
-msgstr ""
+msgstr "HLAE出错了"
 
 #: ErrorDialogue.cs:22
 msgctxt "Error dialog"
 msgid "Code:"
-msgstr ""
+msgstr "代码："
 
 #: ErrorDialogue.cs:23
 msgctxt "Error dialog"
 msgid "n/a"
-msgstr ""
+msgstr "非法数值"
 
 #: ErrorDialogue.cs:24
 msgctxt "Error dialog"
 msgid "Description:"
-msgstr ""
+msgstr "简介"
 
 #: ErrorDialogue.cs:25
 msgctxt "Error dialog"
 msgid "Solution:"
-msgstr ""
+msgstr "解决方法"
 
 #: ErrorDialogue.cs:26
 msgctxt "Error dialog"
 msgid "&Copy to clipboard for support"
-msgstr ""
+msgstr "复制到粘贴板寻求帮助"
 
 #: ErrorDialogue.cs:27
 msgctxt "Error dialog"
 msgid "Okay"
-msgstr ""
+msgstr "好的"
 
 #: ErrorDialogue.cs:29
 msgctxt "Error dialog"
 msgid "Unknown error."
-msgstr ""
+msgstr "未知错误。"
 
 #: ErrorDialogue.cs:30
 msgctxt "Error dialog"
 msgid "No description available."
-msgstr ""
+msgstr "无可用简介。"
 
 #: ErrorDialogue.cs:31
 msgctxt "Error dialog"
 msgid "No solution available."
-msgstr ""
+msgstr "无可用解决方法。"
 
 #: HlaeErrors.cs:48
 msgctxt "HLAE errors"
 msgid "AfxHook error"
-msgstr ""
+msgstr "AfxHook错误"
 
 #: HlaeErrors.cs:49
 msgctxt "HLAE errors"
-msgid ""
-"Make sure you run the injector and the program to inject with same access "
-"rights and that no anti virus / anti cheat is blocking its calls."
-msgstr ""
+msgid "Make sure you run the injector and the program to inject with same access rights and that no anti virus / anti cheat is blocking its calls."
+msgstr "请确保注入器和被注入程序拥有一致的访问权限，并且没有反病毒软件或是反作弊系统阻拦。"
 
 #: HlaeErrors.cs:50
 msgctxt "HLAE errors"
-msgid ""
-"Make sure to exit anitcheats like ESEA client / Faceit client, Challengeme."
-"gg before using HLAE."
-msgstr ""
+msgid "Make sure to exit anitcheats like ESEA client / Faceit client, Challengeme.gg before using HLAE."
+msgstr "使用HLAE前请确保 ESEA客户端，Faceit客户端，Challengame.gg，5E，B5等程序已经退出。"
 
 #: HlaeErrors.cs:65
 msgctxt "HLAE errors"
 msgid "Could not access / enter directory of DLL to inject"
-msgstr ""
+msgstr "无法访问DLL所在的文件夹 无法注入"
 
 #: HlaeErrors.cs:66
 msgctxt "HLAE errors"
 msgid "DLL can't be found."
-msgstr ""
+msgstr "无法找到DLL文件。"
 
 #: HlaeErrors.cs:70
 msgctxt "HLAE errors"
 msgid "OpenProcess failed"
-msgstr ""
+msgstr "打开进程失败"
 
 #: HlaeErrors.cs:71
 msgctxt "HLAE errors"
 msgid "VirtualAllocEx read|write allocation failed."
-msgstr ""
+msgstr "VirtualAllocEx 读|写分配失败。"
 
 #: HlaeErrors.cs:72
 msgctxt "HLAE errors"
 msgid "GetImage failed."
-msgstr ""
+msgstr "获取图片失败。"
 
 #: HlaeErrors.cs:72
 msgctxt "HLAE errors"
 msgid "AfxHook.dat missing / broken / not accessible"
-msgstr ""
+msgstr "AfxHook.dat 丢失|损坏|不可达"
 
 #: HlaeErrors.cs:72
 msgctxt "HLAE errors"
 msgid "Try reextracting / repairing HLAE."
-msgstr ""
+msgstr "尝试重新提取 / 修复 HLAE。"
 
 #: HlaeErrors.cs:73
 msgctxt "HLAE errors"
 msgid "VirtualAllocEx read|write|execute allocation failed."
-msgstr ""
+msgstr "VirtualAllocEx 读|写|加载分配失败。"
 
 #: HlaeErrors.cs:74
 msgctxt "HLAE errors"
 msgid "WriteProcessMemory failed."
-msgstr ""
+msgstr "写入进程内存 失败。"
 
 #: HlaeErrors.cs:75
 msgctxt "HLAE errors"
 msgid "FlushInstructionCache failed."
-msgstr ""
+msgstr "刷新指令缓存失败。"
 
 #: HlaeErrors.cs:76
 msgctxt "HLAE errors"
 msgid "CreateRemoteThread failed."
-msgstr ""
+msgstr "创建移动线程失败。"
 
 #: HlaeErrors.cs:77
 msgctxt "HLAE errors"
 msgid "AfxHook error: Unknown error code."
-msgstr ""
+msgstr "AfxHook 错误：未知错误代码。"
 
 #: HlaeErrors.cs:110
 msgctxt "HLAE errors"
 msgid "Failed to start injector."
-msgstr ""
+msgstr "启动注入器时发生错误。"
 
 #: HlaeErrors.cs:110
 #, csharp-format
 msgctxt "HLAE errors"
 msgid "Failed to start injector: {0}"
-msgstr ""
+msgstr "启动injecto失败：{0}"
 
 #: HlaeErrors.cs:110
 msgctxt "HLAE errors"
-msgid ""
-"injector.exe blocked. Probably caused by antivirus. Check it and reextract "
-"HLAE (HLAE NEEDS to be extracted, don't run it from a .zip file)."
-msgstr ""
+msgid "injector.exe blocked. Probably caused by antivirus. Check it and reextract HLAE (HLAE NEEDS to be extracted, don't run it from a .zip file)."
+msgstr "injector.exe受阻。可能由杀毒软件导致。请检查并重新解压HLAE（不要在压缩包中打开HLAE）。"
 
 #: HlaeErrors.cs:117
 msgctxt "HLAE errors"
 msgid "Loader failed."
-msgstr ""
+msgstr "加载失败。"
 
 #: HlaeErrors.cs:131
 msgctxt "HLAE errors"
 msgid "Try using CSGO Launcher instead of Custom Launcher."
-msgstr ""
+msgstr "请尝试使用CSGO启动器启动 而不是自定义启动。"
 
 #: HlaeErrors.cs:134
 msgctxt "HLAE errors"
-msgid ""
-"Make sure neither HLAE.exe nor Steam.exe nor csgo.exe are set to run as "
-"admin."
-msgstr ""
+msgid "Make sure neither HLAE.exe nor Steam.exe nor csgo.exe are set to run as admin."
+msgstr "请确保HLAE.EXE，STEAM.EXE，CSGO.EXE都不是再管理员模式下运行。"
 
 #: HlaeErrors.cs:138
 msgctxt "HLAE errors"
 msgid "Loader could not create requested process."
-msgstr ""
+msgstr "Loader无法创建所请求的进程。"
 
 #: HlaeErrors.cs:138
 #, csharp-format
 msgctxt "HLAE errors"
 msgid "GetLastWin32Error = {0}: {1}"
-msgstr ""
+msgstr "GetLastWin32Error = {0}: {1}"
 
 #: LaunchCsgo.cs:42
 msgid "64 Bit CS:GO is not supported."
-msgstr ""
+msgstr "不支持64位CSGO。"
 
 #: LaunchCsgoForm.cs:20
 msgctxt "Launch CS:GO dialog"
 msgid "Launch CS:GO ..."
-msgstr ""
+msgstr "运行 CS:GO ..."
 
 #: LaunchCsgoForm.cs:21
 msgctxt "Launch CS:GO dialog"
 msgid "Game"
-msgstr ""
+msgstr "游戏"
 
 #: LaunchCsgoForm.cs:22
 msgctxt "Launch CS:GO dialog"
 msgid "csgo.exe file:"
-msgstr ""
+msgstr "csgo.exe 文件:"
 
 #: LaunchCsgoForm.cs:23 LaunchCsgoForm.cs:27
 msgctxt "Launch CS:GO dialog"
 msgid "Browse ..."
-msgstr ""
+msgstr "浏览..."
 
 #: LaunchCsgoForm.cs:24
 msgctxt "Launch CS:GO dialog"
 msgid "Movie making config parent folder"
-msgstr ""
+msgstr "视频制作专用Config文件夹"
 
 #: LaunchCsgoForm.cs:25
 msgctxt "Launch CS:GO dialog"
 msgid "What's this?"
-msgstr ""
+msgstr "这是啥？"
 
 #: LaunchCsgoForm.cs:26 LaunchCsgoForm.cs:29
 msgctxt "Launch CS:GO dialog"
 msgid "enable"
-msgstr ""
+msgstr "启用"
 
 #: LaunchCsgoForm.cs:28
 msgctxt "Launch CS:GO dialog"
 msgid "Graphic Resolution"
-msgstr ""
+msgstr "画面分辨率"
 
 #: LaunchCsgoForm.cs:30
 msgctxt "Launch CS:GO dialog"
 msgid "Width:"
-msgstr ""
+msgstr "宽："
 
 #: LaunchCsgoForm.cs:31
 msgctxt "Launch CS:GO dialog"
 msgid "Height:"
-msgstr ""
+msgstr "高："
 
 #: LaunchCsgoForm.cs:32
 msgctxt "Launch CS:GO dialog"
 msgid "Actual results depend on the game."
-msgstr ""
+msgstr "实际效果取决于游戏显示"
 
 #: LaunchCsgoForm.cs:33
 msgctxt "Launch CS:GO dialog"
 msgid "full screen"
-msgstr ""
+msgstr "全屏"
 
 #: LaunchCsgoForm.cs:34
 msgctxt "Launch CS:GO dialog"
 msgid "Custom command line options"
-msgstr ""
+msgstr "自定义命令选项"
 
 #: LaunchCsgoForm.cs:35
 #, csharp-format
 msgctxt "Launch CS:GO dialog"
 msgid "{0} (prevents joining VAC secured server / VAC bans)"
-msgstr ""
+msgstr "{0} (以防加入VAC安全服务器 / 被VAC封禁)"
 
 #: LaunchCsgoForm.cs:36
 msgctxt "Launch CS:GO dialog"
 msgid "remember my changes"
-msgstr ""
+msgstr "保存我的设置"
 
 #: LaunchCsgoForm.cs:37
 msgctxt "Launch CS:GO dialog"
 msgid "L&aunch"
-msgstr ""
+msgstr "启动"
 
 #: LaunchCsgoForm.cs:38
 msgctxt "Launch CS:GO dialog"
 msgid "Can&cel"
-msgstr ""
+msgstr "取消"
 
 #: Launcher.cs:36
 msgctxt "Launcher dialog"
 msgid "Launching failed."
-msgstr ""
+msgstr "启动失败。"
 
 #: Launcher.cs:36 Tools/CustomLoader.cs:54
 msgid "Error"
-msgstr ""
+msgstr "错误"
 
 #: Launcher.cs:50
 msgid "64 Bit GoldSrc is not supported."
-msgstr ""
+msgstr "64位的GoldSrc未被支持。"
 
 #: LauncherForm.cs:20
 msgctxt "Launch GoldSrc dialog"
 msgid "Launch GoldSrc ..."
-msgstr ""
+msgstr "运行 GoldSrc ..."
 
 #: LauncherForm.cs:21
 msgctxt "Launch GoldSrc dialog"
 msgid ""
-msgstr ""
+msgstr " "
 
 #: LauncherForm.cs:22
 msgctxt "Launch GoldSrc dialog"
 msgid "Game"
-msgstr ""
+msgstr "游戏"
 
 #: LauncherForm.cs:23
 msgctxt "Launch GoldSrc dialog"
 msgid "Browse ..."
-msgstr ""
+msgstr "浏览 ..."
 
 #: LauncherForm.cs:24
 msgctxt "Launch GoldSrc dialog"
 msgid "Modification:"
-msgstr ""
+msgstr "自定义："
 
 #: LauncherForm.cs:28
 #, csharp-format
 msgctxt "Launch GoldSrc dialog"
 msgid "{0} (Counter-Strike)"
-msgstr ""
+msgstr "{0} (CS)"
 
 #: LauncherForm.cs:29
 #, csharp-format
 msgctxt "Launch GoldSrc dialog"
 msgid "{0} (Day of Defeat)"
-msgstr ""
+msgstr "{0} (胜利之日)"
 
 #: LauncherForm.cs:30
 #, csharp-format
 msgctxt "Launch GoldSrc dialog"
 msgid "{0} (Team Fortress Classic)"
-msgstr ""
+msgstr "{0} (军团要塞·经典)"
 
 #: LauncherForm.cs:31
 #, csharp-format
 msgctxt "Launch GoldSrc dialog"
 msgid "{0} (Half-Life)"
-msgstr ""
+msgstr "{0} (半条命)"
 
 #: LauncherForm.cs:32
 msgctxt "Launch GoldSrc dialog"
 msgid "Other modification:"
-msgstr ""
+msgstr "其它自定义选项"
 
 #: LauncherForm.cs:35
 msgctxt "Launch GoldSrc dialog"
 msgid "Custom command line options"
-msgstr ""
+msgstr "自定义命令行选项"
 
 #: LauncherForm.cs:36
 msgctxt "Launch GoldSrc dialog"
 msgid "Graphic Resolution"
-msgstr ""
+msgstr "显示分辨率"
 
 #: LauncherForm.cs:37
 msgctxt "Launch GoldSrc dialog"
 msgid "Width:"
-msgstr ""
+msgstr "宽："
 
 #: LauncherForm.cs:38
 msgctxt "Launch GoldSrc dialog"
 msgid "Height:"
-msgstr ""
+msgstr "高："
 
 #: LauncherForm.cs:39
 msgctxt "Launch GoldSrc dialog"
 msgid "Color Depth:"
-msgstr ""
+msgstr "色深："
 
 #: LauncherForm.cs:40
 msgctxt "Launch GoldSrc dialog"
 msgid "force resolution"
-msgstr ""
+msgstr "强制使用分辨率"
 
 #: LauncherForm.cs:41
 msgctxt "Launch GoldSrc dialog"
 msgid "full screen"
-msgstr ""
+msgstr "全屏"
 
 #: LauncherForm.cs:45
 msgctxt "Launch GoldSrc dialog bpp"
 msgid "32 (High)"
-msgstr ""
+msgstr "32 (高)"
 
 #: LauncherForm.cs:46
 msgctxt "Launch GoldSrc dialog bpp"
 msgid "24 (Medium)"
-msgstr ""
+msgstr "24 (中)"
 
 #: LauncherForm.cs:47
 msgctxt "Launch GoldSrc dialog bpp"
 msgid "16 (Low)"
-msgstr ""
+msgstr "16 (低)"
 
 #: LauncherForm.cs:50
 msgctxt "Launch GoldSrc dialog"
 msgid "Advanced Settings"
-msgstr ""
+msgstr "高级设置"
 
 #: LauncherForm.cs:51
 msgctxt "Launch GoldSrc dialog"
 msgid "Force 8 bit alpha channel"
-msgstr ""
+msgstr "强制使用8位通道"
 
 #: LauncherForm.cs:52
 msgctxt "Launch GoldSrc dialog"
 msgid "Optimize window visibilty on capture"
-msgstr ""
+msgstr "优化采集时的窗口能见度"
 
 #: LauncherForm.cs:53
 msgctxt "Launch GoldSrc dialog"
 msgid "Optimize desktop resolution"
-msgstr ""
+msgstr "优化桌面分辨率"
 
 #: LauncherForm.cs:55
 msgctxt "Launch GoldSrc dialog"
 msgid "Render mode:"
-msgstr ""
+msgstr "渲染模式："
 
 #: LauncherForm.cs:58
 msgctxt "Launch GoldSrc dialog render mode"
 msgid "Standard"
-msgstr ""
+msgstr "标准"
 
 #: LauncherForm.cs:59
 msgctxt "Launch GoldSrc dialog render mode"
 msgid "FrameBuffer Object"
-msgstr ""
+msgstr "帧缓存物体"
 
 #: LauncherForm.cs:60
 msgctxt "Launch GoldSrc dialog render mode"
 msgid "Memory DC"
-msgstr ""
+msgstr "内存DC"
 
 #: LauncherForm.cs:63
 msgctxt "Launch GoldSrc dialog"
 msgid "remember my changes"
-msgstr ""
+msgstr "记住我的设置"
 
 #: LauncherForm.cs:64
 msgctxt "Launch GoldSrc dialog"
 msgid "L&aunch"
-msgstr ""
+msgstr "运&行"
 
 #: LauncherForm.cs:65
 msgctxt "Launch GoldSrc dialog"
 msgid "Can&cel"
-msgstr ""
+msgstr "取&消"
 
 #: Loader.cs:138
 msgid ""
 "Image injection problem.\n"
 "Continue waiting?"
-msgstr ""
+msgstr "图像注入时遇到了一些问题 继续等待？"
 
 #: Loader.cs:138
 msgid "injector Warning"
-msgstr ""
+msgstr "injector警告"
 
 #: Loader.cs:311
 msgid "Can not get Kernel32.dll handle."
-msgstr ""
+msgstr "无法处理Kernel32.dll。"
 
 #: Loader.cs:324
 #, csharp-format
 msgid "IsWow64Process failed, error code: {0}"
-msgstr ""
+msgstr "IsWow64Process 失败，错误代码： {0}"
 
 #: MainForm.cs:26
 msgctxt "Main window"
 msgid "Half-Life Advanced Effects"
-msgstr ""
+msgstr "半条命高级特效"
 
 #: MainForm.cs:28
 msgctxt "Main window | menu"
 msgid "File"
-msgstr ""
+msgstr "文件"
 
 #: MainForm.cs:29
 msgctxt "Main window | menu | File"
 msgid "Launch CS:GO"
-msgstr ""
+msgstr "启动CSGO"
 
 #: MainForm.cs:30
 msgctxt "Main window | menu | File"
 msgid "Launch GoldSrc"
-msgstr ""
+msgstr "启动GoldSrc"
 
 #: MainForm.cs:31
 msgctxt "Main window | menu | File"
 msgid "Exit"
-msgstr ""
+msgstr "退出"
 
 #: MainForm.cs:33
 msgctxt "Main Window | menu"
 msgid "View"
-msgstr ""
+msgstr "观看"
 
 #: MainForm.cs:34
 msgctxt "Main window | menu | View"
 msgid "Status Bar"
-msgstr ""
+msgstr "状态栏"
 
 #: MainForm.cs:36
 msgctxt "Main window | menu"
 msgid "Tools"
-msgstr ""
+msgstr "工具"
 
 #: MainForm.cs:37
 msgctxt "Main window | menu | Tools"
 msgid "Calculators"
-msgstr ""
+msgstr "计算器"
 
 #: MainForm.cs:38
 msgctxt "Main window | menu | Tools | Calculators"
 msgid "File Size"
-msgstr ""
+msgstr "文件大小"
 
 #: MainForm.cs:39
 msgctxt "Main window | menu | Tools"
 msgid "GoldSrc"
-msgstr ""
+msgstr "GoldSrc"
 
 #: MainForm.cs:40
 msgctxt "Main window | menu | Tools | GoldSrc"
 msgid "Demo Tools"
-msgstr ""
+msgstr "Demo工具"
 
 #: MainForm.cs:41
 msgctxt "Main window | menu | Tools | GoldSrc"
 msgid "Sky Manager"
-msgstr ""
+msgstr "天空贴图管理"
 
 #: MainForm.cs:43
 msgctxt "Main window | menu | Tools"
 msgid "Developer"
-msgstr ""
+msgstr "开发者选项"
 
 #: MainForm.cs:44
 msgctxt "Main window | menu | Tools | Developer"
 msgid "Custom Loader"
-msgstr ""
+msgstr "自定义载入"
 
 #: MainForm.cs:45
 msgctxt "Main window | menu | Tools | Developer"
 msgid "Own GUID to ClipBoard"
-msgstr ""
+msgstr "将自己的GUID复制到剪切板"
 
 #: MainForm.cs:46
 msgctxt "Main window | menu | Tools | Developer"
 msgid "New GUID to ClipBoard"
-msgstr ""
+msgstr "新建GUID至剪切板"
 
 #: MainForm.cs:48
 msgctxt "Manual URL language (localized)"
 msgid "English"
-msgstr ""
+msgstr "英语"
 
 #: MainForm.cs:49
 msgctxt "Manual URL (localized)"
 msgid "https://github.com/advancedfx/advancedfx/wiki"
-msgstr ""
+msgstr "https://github.com/advancedfx/advancedfx/wiki"
 
 #: MainForm.cs:59
 msgctxt "Main window | menu"
 msgid "Help"
-msgstr ""
+msgstr "帮助"
 
 #: MainForm.cs:60
 #, csharp-format
 msgctxt "Main window | menu | Help"
 msgid "Online Manual ({0})"
-msgstr ""
+msgstr "在线手册 ({0})"
 
 #: MainForm.cs:62
 msgctxt "Main window | menu | Help"
 msgid "Check for Updates"
-msgstr ""
+msgstr "检查更新"
 
 #: MainForm.cs:63
 msgctxt "Main window | menu | Help | Check for Updates"
 msgid "Auto Check"
-msgstr ""
+msgstr "自动检查"
 
 #: MainForm.cs:64
 msgctxt "Main window | menu | Help | Check for Updates"
 msgid "Check Now"
-msgstr ""
+msgstr "现在检查"
 
 #: MainForm.cs:65
 msgctxt "Main window | menu | Help"
 msgid "Official Website"
-msgstr ""
+msgstr "官方网站"
 
 #: MainForm.cs:67
 msgctxt "Main window | menu"
 msgid "Donate"
-msgstr ""
+msgstr "捐赠"
 
 #: MainForm.cs:69
 msgctxt "Main window | check updates strip"
 msgid "Check for updates automatically?"
-msgstr ""
+msgstr "是否自动检查更新？"
 
 #: MainForm.cs:70
 msgctxt "Main window | check updates strip"
 msgid "Yes"
-msgstr ""
+msgstr "好的"
 
 #: MainForm.cs:71
 msgctxt "Main window | check updates strip"
 msgid "No"
-msgstr ""
+msgstr "不行"
 
 #: MainForm.cs:74
 msgctxt "Main window | update status strip"
 msgid "Ignore"
-msgstr ""
+msgstr "忽略"
 
 #: MainForm.cs:75
 msgctxt "Main window | update status strip"
 msgid "OK"
-msgstr ""
+msgstr "好的"
 
 #: MainForm.cs:76
 msgctxt "Main window | update status strip | label"
 msgid "Update status unknown"
-msgstr ""
+msgstr "更新状况未知"
 
 #: MainForm.cs:78
 #, csharp-format
 msgctxt "Main window"
 msgid "Open Online Manual ({0})"
-msgstr ""
+msgstr "打开在线手册 ({0})"
 
 #: MainForm.cs:109
 msgctxt "Main window | update status strip | label"
 msgid "Update available!"
-msgstr ""
+msgstr "更新可用！"
 
 #: MainForm.cs:118
 msgctxt "Main window | update status strip | label"
 msgid "Your version is up to date :)"
-msgstr ""
+msgstr "当前是最新版本 :)"
 
 #: MainForm.cs:130
 msgctxt "Main window | update status strip | label"
 msgid "Update check failed :("
-msgstr ""
+msgstr "检查更新失败 :("
 
 #: MainForm.cs:139
 msgctxt "Main window | update status strip | label"
 msgid "Checking for updates ..."
-msgstr ""
+msgstr "正在检查更新..."
 
 #: Tools/Calculator.cs:18
 msgctxt "File Size Calculator"
 msgid "File Size Calculator"
-msgstr ""
+msgstr "文件大小计算器"
 
 #: Tools/Calculator.cs:19
 msgctxt "File Size Calculator"
 msgid "Width:"
-msgstr ""
+msgstr "宽："
 
 #: Tools/Calculator.cs:20
 msgctxt "File Size Calculator"
 msgid "Height:"
-msgstr ""
+msgstr "高："
 
 #: Tools/Calculator.cs:21
 msgctxt "File Size Calculator"
 msgid "FPS:"
-msgstr ""
+msgstr "帧率："
 
 #: Tools/Calculator.cs:22
 msgctxt "File Size Calculator"
 msgid "Duration:"
-msgstr ""
+msgstr "时长："
 
 #: Tools/Calculator.cs:23
 msgctxt "File Size Calculator | Duration"
 msgid "min"
-msgstr ""
+msgstr "最小"
 
 #: Tools/Calculator.cs:24
 msgctxt "File Size Calculator | Duration"
 msgid "sec"
-msgstr ""
+msgstr "秒"
 
 #: Tools/Calculator.cs:25
 msgctxt "File Size Calculator"
 msgid "Estimated Disk Usage"
-msgstr ""
+msgstr "预计磁盘使用量"
 
 #: Tools/Calculator.cs:26
 msgctxt "File Size Calculator | Estimate"
 msgid "HuffYuv encoded output"
-msgstr ""
+msgstr "HuffYuv 编码输出"
 
 #: Tools/CustomLoader.cs:54
 msgctxt "Custom Loader dialog"
 msgid "CustomLoader failed"
-msgstr ""
+msgstr "自定义加载 失败"
 
 #: Tools/CustomLoaderForm.cs:24
 msgctxt "Custom Loader dialog"
 msgid "Custom Loader"
-msgstr ""
+msgstr "自定义加载"
 
 #: Tools/CustomLoaderForm.cs:25
 msgctxt "Custom Loader dialog | Program"
 msgid "ProgramPath:"
-msgstr ""
+msgstr "程序路径："
 
 #: Tools/CustomLoaderForm.cs:26
 msgctxt "Custom Loader dialog | Program"
 msgid "CommandLine:"
-msgstr ""
+msgstr "命令行："
 
 #: Tools/CustomLoaderForm.cs:27
 msgctxt "Custom Loader dialog | Program"
 msgid "Browse ..."
-msgstr ""
+msgstr "浏览 ..."
 
 #: Tools/CustomLoaderForm.cs:28
 msgctxt "Custom Loader dialog | DLLS"
 msgid "DLLs to inject"
-msgstr ""
+msgstr "要加载的DLL"
 
 #: Tools/CustomLoaderForm.cs:29
 msgctxt "Custom Loader dialog | DLLS"
 msgid "Browse ..."
-msgstr ""
+msgstr "浏览 ..."
 
 #: Tools/CustomLoaderForm.cs:30
 msgctxt "Custom Loader dialog | DLLS"
 msgid "Delete"
-msgstr ""
+msgstr "删除"
 
 #: Tools/CustomLoaderForm.cs:31
 msgctxt "Custom Loader dialog | DLLS"
 msgid "Up"
-msgstr ""
+msgstr "上"
 
 #: Tools/CustomLoaderForm.cs:32
 msgctxt "Custom Loader dialog | DLLS"
 msgid "Down"
-msgstr ""
+msgstr "下"
 
 #: Tools/CustomLoaderForm.cs:33
 msgctxt "Custom Loader dialog | DLLS"
 msgid "Hint: You can Drag && Drop DLLs in the box above."
-msgstr ""
+msgstr "提示：你可以拖拽DLL到窗口上方。"
 
 #: Tools/CustomLoaderForm.cs:34
 msgctxt "Custom Loader dialog"
 msgid "&OK"
-msgstr ""
+msgstr "&确定"
 
 #: Tools/CustomLoaderForm.cs:35
 msgctxt "Custom Loader dialog"
 msgid "&Abort"
-msgstr ""
+msgstr "&关闭"
 
 #: Tools/CustomLoaderForm.cs:63
 msgctxt "Custom Loader dialog | Program filter"
 msgid "Program to launch and hook (.exe)|*.exe"
-msgstr ""
+msgstr "需要被注入的程序 (.exe)|*.exe"
 
 #: Tools/CustomLoaderForm.cs:71
 msgctxt "Custom Loader dialog | DLL filter"
 msgid "Hook DLL (.dll)|*.dll"
-msgstr ""
+msgstr "Hook dll位置（.dll）|*.dll"
