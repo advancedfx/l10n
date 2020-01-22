@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: hlae\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-21 07:22+0100\n"
-"PO-Revision-Date: 2020-01-21 22:59+0000\n"
-"Last-Translator: Vladimir <akkardeon@gmail.com>\n"
+"PO-Revision-Date: 2020-01-22 00:00+0000\n"
+"Last-Translator: yovaN <akkardeon@gmail.com>\n"
 "Language-Team: Russian\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
@@ -197,7 +197,7 @@ msgstr "Не удалось запустить инжектор: {0}"
 #: HlaeErrors.cs:110
 msgctxt "HLAE errors"
 msgid "injector.exe blocked. Probably caused by antivirus. Check it and reextract HLAE (HLAE NEEDS to be extracted, don't run it from a .zip file)."
-msgstr "injector.exe заблокирован. Скорее всего из-за антивируса. Проверьте антивирус и заново распакуйте HLAE (HLAE должен быть распакован, не запускайте его из .zip архива)."
+msgstr "injector.exe заблокирован. Вероятно из-за антивируса. Проверьте антивирус и заново распакуйте HLAE (HLAE должен быть распакован, не запускайте его из .zip архива)."
 
 #: HlaeErrors.cs:117
 msgctxt "HLAE errors"
@@ -667,150 +667,150 @@ msgstr "ОК"
 #: MainForm.cs:76
 msgctxt "Main window | update status strip | label"
 msgid "Update status unknown"
-msgstr ""
+msgstr "Состояние обновлений неизвестно"
 
 #: MainForm.cs:78
 #, csharp-format
 msgctxt "Main window"
 msgid "Open Online Manual ({0})"
-msgstr ""
+msgstr "Открыть онлайн руководство ({0})"
 
 #: MainForm.cs:109
 msgctxt "Main window | update status strip | label"
 msgid "Update available!"
-msgstr ""
+msgstr "Обновление доступно!"
 
 #: MainForm.cs:118
 msgctxt "Main window | update status strip | label"
 msgid "Your version is up to date :)"
-msgstr ""
+msgstr "Ваша версия актуальна :)"
 
 #: MainForm.cs:130
 msgctxt "Main window | update status strip | label"
 msgid "Update check failed :("
-msgstr ""
+msgstr "Проверка обновления не удалась :("
 
 #: MainForm.cs:139
 msgctxt "Main window | update status strip | label"
 msgid "Checking for updates ..."
-msgstr ""
+msgstr "Проверка обновлений ..."
 
 #: Tools/Calculator.cs:18
 msgctxt "File Size Calculator"
 msgid "File Size Calculator"
-msgstr ""
+msgstr "Калькулятор размера файла"
 
 #: Tools/Calculator.cs:19
 msgctxt "File Size Calculator"
 msgid "Width:"
-msgstr ""
+msgstr "Ширина:"
 
 #: Tools/Calculator.cs:20
 msgctxt "File Size Calculator"
 msgid "Height:"
-msgstr ""
+msgstr "Высота:"
 
 #: Tools/Calculator.cs:21
 msgctxt "File Size Calculator"
 msgid "FPS:"
-msgstr ""
+msgstr "FPS:"
 
 #: Tools/Calculator.cs:22
 msgctxt "File Size Calculator"
 msgid "Duration:"
-msgstr ""
+msgstr "Длительность:"
 
 #: Tools/Calculator.cs:23
 msgctxt "File Size Calculator | Duration"
 msgid "min"
-msgstr ""
+msgstr "минут"
 
 #: Tools/Calculator.cs:24
 msgctxt "File Size Calculator | Duration"
 msgid "sec"
-msgstr ""
+msgstr "секунд"
 
 #: Tools/Calculator.cs:25
 msgctxt "File Size Calculator"
 msgid "Estimated Disk Usage"
-msgstr ""
+msgstr "Расчетное использование диска"
 
 #: Tools/Calculator.cs:26
 msgctxt "File Size Calculator | Estimate"
 msgid "HuffYuv encoded output"
-msgstr ""
+msgstr "HuffYuv кодировка вывода"
 
 #: Tools/CustomLoader.cs:54
 msgctxt "Custom Loader dialog"
 msgid "CustomLoader failed"
-msgstr ""
+msgstr "Сбой пользовательского загрузчика"
 
 #: Tools/CustomLoaderForm.cs:24
 msgctxt "Custom Loader dialog"
 msgid "Custom Loader"
-msgstr ""
+msgstr "Пользовательский загрузчик"
 
 #: Tools/CustomLoaderForm.cs:25
 msgctxt "Custom Loader dialog | Program"
 msgid "ProgramPath:"
-msgstr ""
+msgstr "Путь к программе:"
 
 #: Tools/CustomLoaderForm.cs:26
 msgctxt "Custom Loader dialog | Program"
 msgid "CommandLine:"
-msgstr ""
+msgstr "Параметры запуска:"
 
 #: Tools/CustomLoaderForm.cs:27
 msgctxt "Custom Loader dialog | Program"
 msgid "Browse ..."
-msgstr ""
+msgstr "Обзор ..."
 
 #: Tools/CustomLoaderForm.cs:28
 msgctxt "Custom Loader dialog | DLLS"
 msgid "DLLs to inject"
-msgstr ""
+msgstr "DLL для инъекции"
 
 #: Tools/CustomLoaderForm.cs:29
 msgctxt "Custom Loader dialog | DLLS"
 msgid "Browse ..."
-msgstr ""
+msgstr "Обзор ..."
 
 #: Tools/CustomLoaderForm.cs:30
 msgctxt "Custom Loader dialog | DLLS"
 msgid "Delete"
-msgstr ""
+msgstr "Удалить"
 
 #: Tools/CustomLoaderForm.cs:31
 msgctxt "Custom Loader dialog | DLLS"
 msgid "Up"
-msgstr ""
+msgstr "Вверх"
 
 #: Tools/CustomLoaderForm.cs:32
 msgctxt "Custom Loader dialog | DLLS"
 msgid "Down"
-msgstr ""
+msgstr "Вниз"
 
 #: Tools/CustomLoaderForm.cs:33
 msgctxt "Custom Loader dialog | DLLS"
 msgid "Hint: You can Drag && Drop DLLs in the box above."
-msgstr ""
+msgstr "Совет: Вы можете перетащить DLL из папки в поле выше."
 
 #: Tools/CustomLoaderForm.cs:34
 msgctxt "Custom Loader dialog"
 msgid "&OK"
-msgstr ""
+msgstr "&ОК"
 
 #: Tools/CustomLoaderForm.cs:35
 msgctxt "Custom Loader dialog"
 msgid "&Abort"
-msgstr ""
+msgstr "&Отмена"
 
 #: Tools/CustomLoaderForm.cs:63
 msgctxt "Custom Loader dialog | Program filter"
 msgid "Program to launch and hook (.exe)|*.exe"
-msgstr ""
+msgstr "Программа для запуска и подключения (.exe)|*.exe"
 
 #: Tools/CustomLoaderForm.cs:71
 msgctxt "Custom Loader dialog | DLL filter"
 msgid "Hook DLL (.dll)|*.dll"
-msgstr ""
+msgstr "Подключаемая DLL (.dll)|*.dll"
