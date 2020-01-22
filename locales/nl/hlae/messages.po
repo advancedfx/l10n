@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hlae\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-01-22 06:55+0100\n"
+"POT-Creation-Date: 2020-01-22 11:54+0100\n"
 "PO-Revision-Date: 2020-01-21 14:01+0000\n"
 "Last-Translator: boltgolt <hey@boltgolt.nl>\n"
 "Language-Team: Dutch\n"
@@ -610,103 +610,105 @@ msgid "New GUID to ClipBoard"
 msgstr "Nieuw GUID naar klembord kopiëren"
 
 #: MainForm.cs:48
-msgctxt "Manual URL language (localized)"
-msgid "English"
-msgstr "Engels"
-
-#: MainForm.cs:49
-msgctxt "Manual URL (localized)"
-msgid "https://github.com/advancedfx/advancedfx/wiki"
-msgstr "https://github.com/advancedfx/advancedfx/wiki"
-
-#: MainForm.cs:59
 msgctxt "Main window | menu"
 msgid "Help"
 msgstr "Hulp"
 
-#: MainForm.cs:60
-#, csharp-format
-msgctxt "Main window | menu | Help"
-msgid "Online Manual ({0})"
-msgstr "Online handleiding ({0})"
-
-#: MainForm.cs:62
+#: MainForm.cs:49
 msgctxt "Main window | menu | Help"
 msgid "Check for Updates"
 msgstr "Zoeken naar updates"
 
-#: MainForm.cs:63
+#: MainForm.cs:50
 msgctxt "Main window | menu | Help | Check for Updates"
 msgid "Auto Check"
 msgstr "Automatisch zoeken"
 
-#: MainForm.cs:64
+#: MainForm.cs:51
 msgctxt "Main window | menu | Help | Check for Updates"
 msgid "Check Now"
 msgstr "Zoek nu"
 
-#: MainForm.cs:65
+#: MainForm.cs:52
 msgctxt "Main window | menu | Help"
 msgid "Official Website"
 msgstr "Officiële website"
 
-#: MainForm.cs:67
+#: MainForm.cs:54
 msgctxt "Main window | menu"
 msgid "Donate"
 msgstr "Doneer"
 
-#: MainForm.cs:69
+#: MainForm.cs:56
 msgctxt "Main window | check updates strip"
 msgid "Check for updates automatically?"
 msgstr "Automatisch naar updates zoeken?"
 
-#: MainForm.cs:70
+#: MainForm.cs:57
 msgctxt "Main window | check updates strip"
 msgid "Yes"
 msgstr "Ja"
 
-#: MainForm.cs:71
+#: MainForm.cs:58
 msgctxt "Main window | check updates strip"
 msgid "No"
 msgstr "Nee"
 
-#: MainForm.cs:74
+#: MainForm.cs:61
 msgctxt "Main window | update status strip"
 msgid "Ignore"
 msgstr "Negeer"
 
-#: MainForm.cs:75
+#: MainForm.cs:62
 msgctxt "Main window | update status strip"
 msgid "OK"
 msgstr "Oke"
 
-#: MainForm.cs:76
+#: MainForm.cs:63
 msgctxt "Main window | update status strip | label"
 msgid "Update status unknown"
 msgstr "Status van update onbekend"
 
-#: MainForm.cs:78
-#, csharp-format
-msgctxt "Main window"
-msgid "Open Online Manual ({0})"
-msgstr "Online handleiding openen ({0})"
+#: MainForm.cs:65
+#, fuzzy
+msgid "Help"
+msgstr "Hulp"
 
-#: MainForm.cs:109
+#: MainForm.cs:66
+msgid "Langauge:"
+msgstr ""
+
+#: MainForm.cs:67
+#, fuzzy
+msgid "Selection:"
+msgstr "Oplossing:"
+
+#: MainForm.cs:69
+msgid "Official support page (English)"
+msgstr ""
+
+#: MainForm.cs:72
+#, fuzzy
+msgctxt "Language"
+msgid "English"
+msgstr "Engels"
+
+#: MainForm.cs:180
 msgctxt "Main window | update status strip | label"
 msgid "Update available!"
 msgstr "Update beschikbaar!"
 
-#: MainForm.cs:118
+#: MainForm.cs:189
 msgctxt "Main window | update status strip | label"
 msgid "Your version is up to date :)"
 msgstr "Jouw versie is up-to-date :)"
 
-#: MainForm.cs:130
+#: MainForm.cs:201
 msgctxt "Main window | update status strip | label"
 msgid "Update check failed :("
 msgstr "Zoeken naar updates is mislukt :("
 
-#: MainForm.cs:139
+#: MainForm.cs:210
 msgctxt "Main window | update status strip | label"
 msgid "Checking for updates ..."
 msgstr "Aan het zoeken naar updates..."
@@ -830,3 +832,17 @@ msgstr "Programma om op te starten en te injecteren (.exe)|*.exe"
 msgctxt "Custom Loader dialog | DLL filter"
 msgid "Hook DLL (.dll)|*.dll"
 msgstr "Hook DLL (.dll)|*.dll"
+
+#~ msgctxt "Manual URL (localized)"
+#~ msgid "https://github.com/advancedfx/advancedfx/wiki"
+#~ msgstr "https://github.com/advancedfx/advancedfx/wiki"
+
+#, csharp-format
+#~ msgctxt "Main window | menu | Help"
+#~ msgid "Online Manual ({0})"
+#~ msgstr "Online handleiding ({0})"
+
+#, csharp-format
+#~ msgctxt "Main window"
+#~ msgid "Open Online Manual ({0})"
+#~ msgstr "Online handleiding openen ({0})"

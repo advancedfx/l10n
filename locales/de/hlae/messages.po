@@ -3,12 +3,12 @@
 # Copyright (C) 2020 advancedfx.org
 # This file is distributed under the same license as the hlae package.
 # <EMAIL@ADDRESS>, 2020.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: hlae\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-01-22 06:55+0100\n"
+"POT-Creation-Date: 2020-01-22 11:54+0100\n"
 "PO-Revision-Date: 2020-01-22 06:08+0000\n"
 "Last-Translator: Dominik <dominik@matrixstorm.com>\n"
 "Language-Team: German\n"
@@ -197,8 +197,7 @@ msgstr "Starten des Inkektors fehlgeschlagen: {0}"
 #: HlaeErrors.cs:110
 msgctxt "HLAE errors"
 msgid "injector.exe blocked. Probably caused by antivirus. Check it and reextract HLAE (HLAE NEEDS to be extracted, don't run it from a .zip file)."
-msgstr ""
-"injector.exe blockiert. Wahrscheinlich durch Antivirus verursacht. Überprüfen Sie das und entpacken Sie HLAE nochmals (HLAE MUSS extrahiert werden, führen Sie es nicht von einer .zip Datei aus)."
+msgstr "injector.exe blockiert. Wahrscheinlich durch Antivirus verursacht. Überprüfen Sie das und entpacken Sie HLAE nochmals (HLAE MUSS extrahiert werden, führen Sie es nicht von einer .zip Datei aus)."
 
 #: HlaeErrors.cs:117
 msgctxt "HLAE errors"
@@ -615,103 +614,105 @@ msgid "New GUID to ClipBoard"
 msgstr "Neue GUID an Zwischenablage senden"
 
 #: MainForm.cs:48
-msgctxt "Manual URL language (localized)"
-msgid "English"
-msgstr "Englisch"
-
-#: MainForm.cs:49
-msgctxt "Manual URL (localized)"
-msgid "https://github.com/advancedfx/advancedfx/wiki"
-msgstr "https://github.com/advancedfx/advancedfx/wiki"
-
-#: MainForm.cs:59
 msgctxt "Main window | menu"
 msgid "Help"
 msgstr "Hilfe"
 
-#: MainForm.cs:60
-#, csharp-format
-msgctxt "Main window | menu | Help"
-msgid "Online Manual ({0})"
-msgstr "Online-Anleitung ({0})"
-
-#: MainForm.cs:62
+#: MainForm.cs:49
 msgctxt "Main window | menu | Help"
 msgid "Check for Updates"
 msgstr "Auf Aktualisierungen prüfen"
 
-#: MainForm.cs:63
+#: MainForm.cs:50
 msgctxt "Main window | menu | Help | Check for Updates"
 msgid "Auto Check"
 msgstr "Automatisch prüfen"
 
-#: MainForm.cs:64
+#: MainForm.cs:51
 msgctxt "Main window | menu | Help | Check for Updates"
 msgid "Check Now"
 msgstr "Jetzt prüfen"
 
-#: MainForm.cs:65
+#: MainForm.cs:52
 msgctxt "Main window | menu | Help"
 msgid "Official Website"
 msgstr "Offizielle Webseite"
 
-#: MainForm.cs:67
+#: MainForm.cs:54
 msgctxt "Main window | menu"
 msgid "Donate"
 msgstr "Spenden"
 
-#: MainForm.cs:69
+#: MainForm.cs:56
 msgctxt "Main window | check updates strip"
 msgid "Check for updates automatically?"
 msgstr "Automatisch auf Update prüfen?"
 
-#: MainForm.cs:70
+#: MainForm.cs:57
 msgctxt "Main window | check updates strip"
 msgid "Yes"
 msgstr "Ja"
 
-#: MainForm.cs:71
+#: MainForm.cs:58
 msgctxt "Main window | check updates strip"
 msgid "No"
 msgstr "Nein"
 
-#: MainForm.cs:74
+#: MainForm.cs:61
 msgctxt "Main window | update status strip"
 msgid "Ignore"
 msgstr "Ignorieren"
 
-#: MainForm.cs:75
+#: MainForm.cs:62
 msgctxt "Main window | update status strip"
 msgid "OK"
 msgstr "OK"
 
-#: MainForm.cs:76
+#: MainForm.cs:63
 msgctxt "Main window | update status strip | label"
 msgid "Update status unknown"
 msgstr "Aktualisierungsstatus unbekannt"
 
-#: MainForm.cs:78
-#, csharp-format
-msgctxt "Main window"
-msgid "Open Online Manual ({0})"
-msgstr "Öffne Onlinebeschreibung ({0})"
+#: MainForm.cs:65
+#, fuzzy
+msgid "Help"
+msgstr "Hilfe"
 
-#: MainForm.cs:109
+#: MainForm.cs:66
+msgid "Langauge:"
+msgstr ""
+
+#: MainForm.cs:67
+#, fuzzy
+msgid "Selection:"
+msgstr "Lösung:"
+
+#: MainForm.cs:69
+msgid "Official support page (English)"
+msgstr ""
+
+#: MainForm.cs:72
+#, fuzzy
+msgctxt "Language"
+msgid "English"
+msgstr "Englisch"
+
+#: MainForm.cs:180
 msgctxt "Main window | update status strip | label"
 msgid "Update available!"
 msgstr "Aktualisierung verfügbar!"
 
-#: MainForm.cs:118
+#: MainForm.cs:189
 msgctxt "Main window | update status strip | label"
 msgid "Your version is up to date :)"
 msgstr "Ihre Version ist aktuell :)"
 
-#: MainForm.cs:130
+#: MainForm.cs:201
 msgctxt "Main window | update status strip | label"
 msgid "Update check failed :("
 msgstr "Aktualisierungsprüfung fehlgeschlagen :("
 
-#: MainForm.cs:139
+#: MainForm.cs:210
 msgctxt "Main window | update status strip | label"
 msgid "Checking for updates ..."
 msgstr "Prüfe auf Aktualisierungen ..."
@@ -835,3 +836,17 @@ msgstr "Zu startendes und hookendes programm (.exe)|*.exe"
 msgctxt "Custom Loader dialog | DLL filter"
 msgid "Hook DLL (.dll)|*.dll"
 msgstr "Hook DLL (.dll)|*.dll"
+
+#~ msgctxt "Manual URL (localized)"
+#~ msgid "https://github.com/advancedfx/advancedfx/wiki"
+#~ msgstr "https://github.com/advancedfx/advancedfx/wiki"
+
+#, csharp-format
+#~ msgctxt "Main window | menu | Help"
+#~ msgid "Online Manual ({0})"
+#~ msgstr "Online-Anleitung ({0})"
+
+#, csharp-format
+#~ msgctxt "Main window"
+#~ msgid "Open Online Manual ({0})"
+#~ msgstr "Öffne Onlinebeschreibung ({0})"

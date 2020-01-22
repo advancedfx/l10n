@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hlae\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-01-22 06:55+0100\n"
+"POT-Creation-Date: 2020-01-22 11:54+0100\n"
 "PO-Revision-Date: 2020-01-21 10:53+0000\n"
 "Last-Translator: FlowingSPDG <shugo_k@flowing.tokyo>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -610,103 +610,105 @@ msgid "New GUID to ClipBoard"
 msgstr ""
 
 #: MainForm.cs:48
-msgctxt "Manual URL language (localized)"
-msgid "English"
-msgstr "英語"
-
-#: MainForm.cs:49
-msgctxt "Manual URL (localized)"
-msgid "https://github.com/advancedfx/advancedfx/wiki"
-msgstr "https://github.com/advancedfx/advancedfx/wiki"
-
-#: MainForm.cs:59
 msgctxt "Main window | menu"
 msgid "Help"
 msgstr "ヘルプ"
 
-#: MainForm.cs:60
-#, csharp-format
-msgctxt "Main window | menu | Help"
-msgid "Online Manual ({0})"
-msgstr "オンラインマニュアル ({0})"
-
-#: MainForm.cs:62
+#: MainForm.cs:49
 msgctxt "Main window | menu | Help"
 msgid "Check for Updates"
 msgstr "アップデートを確認"
 
-#: MainForm.cs:63
+#: MainForm.cs:50
 msgctxt "Main window | menu | Help | Check for Updates"
 msgid "Auto Check"
 msgstr "自動チェック"
 
-#: MainForm.cs:64
+#: MainForm.cs:51
 msgctxt "Main window | menu | Help | Check for Updates"
 msgid "Check Now"
 msgstr "今すぐ確認する"
 
-#: MainForm.cs:65
+#: MainForm.cs:52
 msgctxt "Main window | menu | Help"
 msgid "Official Website"
 msgstr "公式ウェブサイト"
 
-#: MainForm.cs:67
+#: MainForm.cs:54
 msgctxt "Main window | menu"
 msgid "Donate"
 msgstr "寄付"
 
-#: MainForm.cs:69
+#: MainForm.cs:56
 msgctxt "Main window | check updates strip"
 msgid "Check for updates automatically?"
 msgstr "アップデートを自動的に確認しますか?"
 
-#: MainForm.cs:70
+#: MainForm.cs:57
 msgctxt "Main window | check updates strip"
 msgid "Yes"
 msgstr "はい"
 
-#: MainForm.cs:71
+#: MainForm.cs:58
 msgctxt "Main window | check updates strip"
 msgid "No"
 msgstr "いいえ"
 
-#: MainForm.cs:74
+#: MainForm.cs:61
 msgctxt "Main window | update status strip"
 msgid "Ignore"
 msgstr "無視"
 
-#: MainForm.cs:75
+#: MainForm.cs:62
 msgctxt "Main window | update status strip"
 msgid "OK"
 msgstr "OK"
 
-#: MainForm.cs:76
+#: MainForm.cs:63
 msgctxt "Main window | update status strip | label"
 msgid "Update status unknown"
 msgstr "アップデート状況不明"
 
-#: MainForm.cs:78
-#, csharp-format
-msgctxt "Main window"
-msgid "Open Online Manual ({0})"
-msgstr "オンラインマニュアルを開く ({0})"
+#: MainForm.cs:65
+#, fuzzy
+msgid "Help"
+msgstr "ヘルプ"
 
-#: MainForm.cs:109
+#: MainForm.cs:66
+msgid "Langauge:"
+msgstr ""
+
+#: MainForm.cs:67
+#, fuzzy
+msgid "Selection:"
+msgstr "解決方法:"
+
+#: MainForm.cs:69
+msgid "Official support page (English)"
+msgstr ""
+
+#: MainForm.cs:72
+#, fuzzy
+msgctxt "Language"
+msgid "English"
+msgstr "英語"
+
+#: MainForm.cs:180
 msgctxt "Main window | update status strip | label"
 msgid "Update available!"
 msgstr "アップデートがあります!"
 
-#: MainForm.cs:118
+#: MainForm.cs:189
 msgctxt "Main window | update status strip | label"
 msgid "Your version is up to date :)"
 msgstr "最新版を使用しています :)"
 
-#: MainForm.cs:130
+#: MainForm.cs:201
 msgctxt "Main window | update status strip | label"
 msgid "Update check failed :("
 msgstr "アップデート確認に失敗しました :("
 
-#: MainForm.cs:139
+#: MainForm.cs:210
 msgctxt "Main window | update status strip | label"
 msgid "Checking for updates ..."
 msgstr "アップデートを確認中..."
@@ -830,3 +832,17 @@ msgstr "起動するプログラムとフック (.exe)|*.exe"
 msgctxt "Custom Loader dialog | DLL filter"
 msgid "Hook DLL (.dll)|*.dll"
 msgstr "フックするDLL (.dll)|*.dll"
+
+#~ msgctxt "Manual URL (localized)"
+#~ msgid "https://github.com/advancedfx/advancedfx/wiki"
+#~ msgstr "https://github.com/advancedfx/advancedfx/wiki"
+
+#, csharp-format
+#~ msgctxt "Main window | menu | Help"
+#~ msgid "Online Manual ({0})"
+#~ msgstr "オンラインマニュアル ({0})"
+
+#, csharp-format
+#~ msgctxt "Main window"
+#~ msgid "Open Online Manual ({0})"
+#~ msgstr "オンラインマニュアルを開く ({0})"
