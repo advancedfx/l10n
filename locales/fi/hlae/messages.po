@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hlae\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-01-22 11:54+0100\n"
+"POT-Creation-Date: 2020-01-22 11:56+0100\n"
 "PO-Revision-Date: 2020-01-20 12:21+0100\n"
 "Last-Translator: <EMAIL@ADDRESS>\n"
 "Language-Team: Finnish\n"
@@ -670,7 +670,7 @@ msgid "Help"
 msgstr ""
 
 #: MainForm.cs:66
-msgid "Langauge:"
+msgid "Language:"
 msgstr ""
 
 #: MainForm.cs:67

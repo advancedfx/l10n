@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hlae\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-01-22 11:54+0100\n"
+"POT-Creation-Date: 2020-01-22 11:56+0100\n"
 "PO-Revision-Date: 2020-01-21 16:39+0000\n"
 "Last-Translator: Tuc <leijinboas@hotmail.com>\n"
 "Language-Team: Language zh-CN\n"
@@ -672,7 +672,7 @@ msgid "Help"
 msgstr "帮助"
 
 #: MainForm.cs:66
-msgid "Langauge:"
+msgid "Language:"
 msgstr ""
 
 #: MainForm.cs:67
