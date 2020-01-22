@@ -2,13 +2,13 @@
 # Copyright (C) YEAR advancedfx.org
 # This file is distributed under the same license as the hlae package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
+#
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: hlae\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-01-21 07:22+0100\n"
+"POT-Creation-Date: 2020-01-22 06:55+0100\n"
 "PO-Revision-Date: 2020-01-21 10:53+0000\n"
 "Last-Translator: FlowingSPDG <shugo_k@flowing.tokyo>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -314,6 +314,22 @@ msgstr "起動"
 msgctxt "Launch CS:GO dialog"
 msgid "Can&cel"
 msgstr "キャンセル"
+
+#: LaunchCsgoForm.cs:133
+msgctxt "Launch CS:GO dialog | MmcfgFolder Description"
+msgid ""
+"When enabled you can set a parent folder for your movie making config for the game.\n"
+"The game will create a sub-folder called cfg there and store config.cfg\n"
+"and video settings in that folder.\n"
+"Also you can put your movie making config into that cfg sub-folder,\n"
+"however the game will load those only if they are not present inthe csgo/cfg folder already."
+msgstr ""
+
+#: LaunchCsgoForm.cs:134
+#, fuzzy
+msgctxt "Launch CS:GO dialog | MmcfgFolder Title"
+msgid "About movie making config parent folder"
+msgstr "ムービー作成コンフィグ 親フォルダ"
 
 #: Launcher.cs:36
 msgctxt "Launcher dialog"

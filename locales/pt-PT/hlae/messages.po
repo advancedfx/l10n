@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hlae\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-01-21 07:22+0100\n"
+"POT-Creation-Date: 2020-01-22 06:55+0100\n"
 "PO-Revision-Date: 2020-01-20 12:22+0100\n"
 "Last-Translator: <EMAIL@ADDRESS>\n"
 "Language-Team: Language pt-PT\n"
@@ -310,6 +310,21 @@ msgstr ""
 #: LaunchCsgoForm.cs:38
 msgctxt "Launch CS:GO dialog"
 msgid "Can&cel"
+msgstr ""
+
+#: LaunchCsgoForm.cs:133
+msgctxt "Launch CS:GO dialog | MmcfgFolder Description"
+msgid ""
+"When enabled you can set a parent folder for your movie making config for the game.\n"
+"The game will create a sub-folder called cfg there and store config.cfg\n"
+"and video settings in that folder.\n"
+"Also you can put your movie making config into that cfg sub-folder,\n"
+"however the game will load those only if they are not present inthe csgo/cfg folder already."
+msgstr ""
+
+#: LaunchCsgoForm.cs:134
+msgctxt "Launch CS:GO dialog | MmcfgFolder Title"
+msgid "About movie making config parent folder"
 msgstr ""
 
 #: Launcher.cs:36
