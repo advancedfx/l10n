@@ -3,13 +3,13 @@
 # Copyright (C) 2020 advancedfx.org
 # This file is distributed under the same license as the hlae package.
 # <EMAIL@ADDRESS>, 2020.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: hlae\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-22 06:55+0100\n"
-"PO-Revision-Date: 2020-01-21 09:47+0000\n"
+"PO-Revision-Date: 2020-01-22 06:08+0000\n"
 "Last-Translator: Dominik <dominik@matrixstorm.com>\n"
 "Language-Team: German\n"
 "Language: de\n"
@@ -197,7 +197,8 @@ msgstr "Starten des Inkektors fehlgeschlagen: {0}"
 #: HlaeErrors.cs:110
 msgctxt "HLAE errors"
 msgid "injector.exe blocked. Probably caused by antivirus. Check it and reextract HLAE (HLAE NEEDS to be extracted, don't run it from a .zip file)."
-msgstr "injector.exe blockiert. Wahrscheinlich durch Antivirus verursacht. Überprüfen Sie das und entpacken Sie HLAE nochmals (HLAE MUSS extrahiert werden, führen Sie es nicht von einer .zip Datei aus)."
+msgstr ""
+"injector.exe blockiert. Wahrscheinlich durch Antivirus verursacht. Überprüfen Sie das und entpacken Sie HLAE nochmals (HLAE MUSS extrahiert werden, führen Sie es nicht von einer .zip Datei aus)."
 
 #: HlaeErrors.cs:117
 msgctxt "HLAE errors"
@@ -324,12 +325,16 @@ msgid ""
 "Also you can put your movie making config into that cfg sub-folder,\n"
 "however the game will load those only if they are not present inthe csgo/cfg folder already."
 msgstr ""
+"Wenn aktiv können Sie an Elternordner für Ihre Filmerstellungskonfiguration für das Spiel einstellen.\n"
+"Das Spiel wird dort einen Unterordner mit Namen cfg erstellen und in diesem Ordner config.cfg\n"
+"und die Videoeinstellungen speichern.\n"
+"Außerdem können Sie Ihre Filmerstellungskonfigurationsdateien in diesem cfg Unterordner ablegen,\n"
+"jedoch wird das Spiel diese nur laden, wenn diese nicht beriets in dem csgo/cfg Ordner vorhanden sind."
 
 #: LaunchCsgoForm.cs:134
-#, fuzzy
 msgctxt "Launch CS:GO dialog | MmcfgFolder Title"
 msgid "About movie making config parent folder"
-msgstr "Elternordner für Filmerstellungs-Konfiguration"
+msgstr "Über Elternordner für Filmerstellungs-Konfiguration"
 
 #: Launcher.cs:36
 msgctxt "Launcher dialog"
