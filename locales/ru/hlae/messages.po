@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: hlae\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-22 11:56+0100\n"
-"PO-Revision-Date: 2020-01-22 08:11+0000\n"
+"PO-Revision-Date: 2020-01-23 16:02+0000\n"
 "Last-Translator: yovaN <akkardeon@gmail.com>\n"
 "Language-Team: Russian\n"
 "Language: ru\n"
@@ -672,25 +672,22 @@ msgid "Update status unknown"
 msgstr "Состояние обновлений неизвестно"
 
 #: MainForm.cs:65
-#, fuzzy
 msgid "Help"
-msgstr "Помощь"
+msgstr "Справка"
 
 #: MainForm.cs:66
 msgid "Language:"
-msgstr ""
+msgstr "Язык:"
 
 #: MainForm.cs:67
-#, fuzzy
 msgid "Selection:"
-msgstr "Решение:"
+msgstr "Выбор:"
 
 #: MainForm.cs:69
 msgid "Official support page (English)"
-msgstr ""
+msgstr "Официальная страница поддержки (Английский)"
 
 #: MainForm.cs:72
-#, fuzzy
 msgctxt "Language"
 msgid "English"
 msgstr "Английский"
