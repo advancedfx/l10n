@@ -2,69 +2,70 @@
 # Copyright (C) 2020 advancedfx.org
 # This file is distributed under the same license as the hlae package.
 # <EMAIL@ADDRESS>, 2020.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: hlae\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-22 11:56+0100\n"
-"PO-Revision-Date: 2020-01-25 07:50+0100\n"
-"Last-Translator: <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2020-01-25 23:10+0000\n"
+"Last-Translator: fiskal.rafael <fiskal.rafael@gmail.com>\n"
 "Language-Team: Hungarian\n"
 "Language: hu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pontoon\n"
 
 #: AfxError.cs:11
 msgid "AfxError"
-msgstr ""
+msgstr "AfxHiba"
 
 #: AfxError.cs:40
 #, csharp-format
 msgctxt "AfxError (number code)"
 msgid "AfxError #{0}: "
-msgstr ""
+msgstr "AfxHiba #{0}: "
 
 #: AfxError.cs:41
 #, csharp-format
 msgctxt "AfxError"
 msgid "Title: {0}"
-msgstr ""
+msgstr "Cím: {0}"
 
 #: AfxError.cs:42
 #, csharp-format
 msgctxt "AfxError"
 msgid "Description: {0}"
-msgstr ""
+msgstr "Leírás: {0}"
 
 #: AfxError.cs:43
 #, csharp-format
 msgctxt "AfxError"
 msgid "Solution: {0}"
-msgstr ""
+msgstr "Megoldás: {0}"
 
 #: AfxError.cs:44
 #, csharp-format
 msgctxt "AfxError"
 msgid "Inner exception: {0}"
-msgstr ""
+msgstr "Belső kivétel: {0}"
 
 #: Config.cs:56 Config.cs:197
 msgctxt "Config (game path)"
 msgid "please select"
-msgstr ""
+msgstr "kérlek, válassz"
 
 #: ErrorDialogue.cs:21
 msgctxt "Error dialog"
 msgid "HLAE Error"
-msgstr ""
+msgstr "HLAE Hiba"
 
 #: ErrorDialogue.cs:22
 msgctxt "Error dialog"
 msgid "Code:"
-msgstr ""
+msgstr "Kód:"
 
 #: ErrorDialogue.cs:23
 msgctxt "Error dialog"
@@ -74,56 +75,52 @@ msgstr ""
 #: ErrorDialogue.cs:24
 msgctxt "Error dialog"
 msgid "Description:"
-msgstr ""
+msgstr "Leírás:"
 
 #: ErrorDialogue.cs:25
 msgctxt "Error dialog"
 msgid "Solution:"
-msgstr ""
+msgstr "Megoldás:"
 
 #: ErrorDialogue.cs:26
 msgctxt "Error dialog"
 msgid "&Copy to clipboard for support"
-msgstr ""
+msgstr "&Másold vágólapra a támogatáshoz"
 
 #: ErrorDialogue.cs:27
 msgctxt "Error dialog"
 msgid "Okay"
-msgstr ""
+msgstr "Rendben"
 
 #: ErrorDialogue.cs:29
 msgctxt "Error dialog"
 msgid "Unknown error."
-msgstr ""
+msgstr "Ismeretlen hiba."
 
 #: ErrorDialogue.cs:30
 msgctxt "Error dialog"
 msgid "No description available."
-msgstr ""
+msgstr "Leírás nem elérhető."
 
 #: ErrorDialogue.cs:31
 msgctxt "Error dialog"
 msgid "No solution available."
-msgstr ""
+msgstr "Megoldás nem elérhető."
 
 #: HlaeErrors.cs:48
 msgctxt "HLAE errors"
 msgid "AfxHook error"
-msgstr ""
+msgstr "AfxHook hiba"
 
 #: HlaeErrors.cs:49
 msgctxt "HLAE errors"
-msgid ""
-"Make sure you run the injector and the program to inject with same access "
-"rights and that no anti virus / anti cheat is blocking its calls."
+msgid "Make sure you run the injector and the program to inject with same access rights and that no anti virus / anti cheat is blocking its calls."
 msgstr ""
 
 #: HlaeErrors.cs:50
 msgctxt "HLAE errors"
-msgid ""
-"Make sure to exit anitcheats like ESEA client / Faceit client, Challengeme."
-"gg before using HLAE."
-msgstr ""
+msgid "Make sure to exit anitcheats like ESEA client / Faceit client, Challengeme.gg before using HLAE."
+msgstr "A HLAE indítása előtt lépj ki az olyan anti-cheat programokból, mint az ESEA kliens / Faceit kliens, Challangeme.gg stb."
 
 #: HlaeErrors.cs:65
 msgctxt "HLAE errors"
@@ -133,12 +130,12 @@ msgstr ""
 #: HlaeErrors.cs:66
 msgctxt "HLAE errors"
 msgid "DLL can't be found."
-msgstr ""
+msgstr "DLL nem található."
 
 #: HlaeErrors.cs:70
 msgctxt "HLAE errors"
 msgid "OpenProcess failed"
-msgstr ""
+msgstr "OpenProcess sikertelen"
 
 #: HlaeErrors.cs:71
 msgctxt "HLAE errors"
@@ -148,42 +145,42 @@ msgstr ""
 #: HlaeErrors.cs:72
 msgctxt "HLAE errors"
 msgid "GetImage failed."
-msgstr ""
+msgstr "GetImage sikertelen."
 
 #: HlaeErrors.cs:72
 msgctxt "HLAE errors"
 msgid "AfxHook.dat missing / broken / not accessible"
-msgstr ""
+msgstr "AfxHook.dat hiányzik / hibás / nem elérhető"
 
 #: HlaeErrors.cs:72
 msgctxt "HLAE errors"
 msgid "Try reextracting / repairing HLAE."
-msgstr ""
+msgstr "Próbáld újra kicsomagolni vagy javítani a HLAE-t."
 
 #: HlaeErrors.cs:73
 msgctxt "HLAE errors"
 msgid "VirtualAllocEx read|write|execute allocation failed."
-msgstr ""
+msgstr "VirtualAllocEx olvasás|írás|futtatás kiosztása sikertelen."
 
 #: HlaeErrors.cs:74
 msgctxt "HLAE errors"
 msgid "WriteProcessMemory failed."
-msgstr ""
+msgstr "WriteProcessMemory sikertelen."
 
 #: HlaeErrors.cs:75
 msgctxt "HLAE errors"
 msgid "FlushInstructionCache failed."
-msgstr ""
+msgstr "FlushInstructionCache sikertelen."
 
 #: HlaeErrors.cs:76
 msgctxt "HLAE errors"
 msgid "CreateRemoteThread failed."
-msgstr ""
+msgstr "CreateRemoteThread sikertelen."
 
 #: HlaeErrors.cs:77
 msgctxt "HLAE errors"
 msgid "AfxHook error: Unknown error code."
-msgstr ""
+msgstr "AfxHook hiba: Ismeretlen hibakód."
 
 #: HlaeErrors.cs:110
 msgctxt "HLAE errors"
@@ -198,267 +195,266 @@ msgstr ""
 
 #: HlaeErrors.cs:110
 msgctxt "HLAE errors"
-msgid ""
-"injector.exe blocked. Probably caused by antivirus. Check it and reextract "
-"HLAE (HLAE NEEDS to be extracted, don't run it from a .zip file)."
+msgid "injector.exe blocked. Probably caused by antivirus. Check it and reextract HLAE (HLAE NEEDS to be extracted, don't run it from a .zip file)."
 msgstr ""
 
 #: HlaeErrors.cs:117
 msgctxt "HLAE errors"
 msgid "Loader failed."
-msgstr ""
+msgstr "Betöltő hiba."
 
 #: HlaeErrors.cs:131
 msgctxt "HLAE errors"
 msgid "Try using CSGO Launcher instead of Custom Launcher."
-msgstr ""
+msgstr "Próbáld a CSGO Indítót használni az Egyedi Indító helyett."
 
 #: HlaeErrors.cs:134
 msgctxt "HLAE errors"
-msgid ""
-"Make sure neither HLAE.exe nor Steam.exe nor csgo.exe are set to run as "
-"admin."
-msgstr ""
+msgid "Make sure neither HLAE.exe nor Steam.exe nor csgo.exe are set to run as admin."
+msgstr "Ellenőrizd, hogy a HLAE.exe, a Steam.exe és a csgo.exe se legyen rendszergazdaként futtatva."
 
 #: HlaeErrors.cs:138
 msgctxt "HLAE errors"
 msgid "Loader could not create requested process."
-msgstr ""
+msgstr "A betöltő nem tudta létrehozni a kért folyamatot."
 
 #: HlaeErrors.cs:138
 #, csharp-format
 msgctxt "HLAE errors"
 msgid "GetLastWin32Error = {0}: {1}"
-msgstr ""
+msgstr "GetLastWin32Error = {0}: {1}"
 
 #: LaunchCsgo.cs:42
 msgid "64 Bit CS:GO is not supported."
-msgstr ""
+msgstr "A 64 bites CS:GO nem támogatott."
 
 #: LaunchCsgoForm.cs:20
 msgctxt "Launch CS:GO dialog"
 msgid "Launch CS:GO ..."
-msgstr ""
+msgstr "CS:GO indítása ..."
 
 #: LaunchCsgoForm.cs:21
 msgctxt "Launch CS:GO dialog"
 msgid "Game"
-msgstr ""
+msgstr "Játék"
 
 #: LaunchCsgoForm.cs:22
 msgctxt "Launch CS:GO dialog"
 msgid "csgo.exe file:"
-msgstr ""
+msgstr "csgo.exe fájl:"
 
 #: LaunchCsgoForm.cs:23 LaunchCsgoForm.cs:27
 msgctxt "Launch CS:GO dialog"
 msgid "Browse ..."
-msgstr ""
+msgstr "Tallózás ..."
 
 #: LaunchCsgoForm.cs:24
 msgctxt "Launch CS:GO dialog"
 msgid "Movie making config parent folder"
-msgstr ""
+msgstr "Movie making config szülőkönyvtár"
 
 #: LaunchCsgoForm.cs:25
 msgctxt "Launch CS:GO dialog"
 msgid "What's this?"
-msgstr ""
+msgstr "Mi ez?"
 
 #: LaunchCsgoForm.cs:26 LaunchCsgoForm.cs:29
 msgctxt "Launch CS:GO dialog"
 msgid "enable"
-msgstr ""
+msgstr "engedélyez"
 
 #: LaunchCsgoForm.cs:28
 msgctxt "Launch CS:GO dialog"
 msgid "Graphic Resolution"
-msgstr ""
+msgstr "Videó felbontás"
 
 #: LaunchCsgoForm.cs:30
 msgctxt "Launch CS:GO dialog"
 msgid "Width:"
-msgstr ""
+msgstr "Szélesség:"
 
 #: LaunchCsgoForm.cs:31
 msgctxt "Launch CS:GO dialog"
 msgid "Height:"
-msgstr ""
+msgstr "Magasság:"
 
 #: LaunchCsgoForm.cs:32
 msgctxt "Launch CS:GO dialog"
 msgid "Actual results depend on the game."
-msgstr ""
+msgstr "A tényleges eredményt a játék befolyásolja."
 
 #: LaunchCsgoForm.cs:33
 msgctxt "Launch CS:GO dialog"
 msgid "full screen"
-msgstr ""
+msgstr "teljes képernyő"
 
 #: LaunchCsgoForm.cs:34
 msgctxt "Launch CS:GO dialog"
 msgid "Custom command line options"
-msgstr ""
+msgstr "Egyedi parancssoros beállítások"
 
 #: LaunchCsgoForm.cs:35
 #, csharp-format
 msgctxt "Launch CS:GO dialog"
 msgid "{0} (prevents joining VAC secured server / VAC bans)"
-msgstr ""
+msgstr "{0} (megakadályozza VAC szerverhez csatlakozást / VAC ban-t)"
 
 #: LaunchCsgoForm.cs:36
 msgctxt "Launch CS:GO dialog"
 msgid "remember my changes"
-msgstr ""
+msgstr "emlékezz a változtatásokra"
 
 #: LaunchCsgoForm.cs:37
 msgctxt "Launch CS:GO dialog"
 msgid "L&aunch"
-msgstr ""
+msgstr "I&ndítás"
 
 #: LaunchCsgoForm.cs:38
 msgctxt "Launch CS:GO dialog"
 msgid "Can&cel"
-msgstr ""
+msgstr "Kil&épés"
 
 #: LaunchCsgoForm.cs:133
 msgctxt "Launch CS:GO dialog | MmcfgFolder Description"
 msgid ""
-"When enabled you can set a parent folder for your movie making config for "
-"the game.\n"
+"When enabled you can set a parent folder for your movie making config for the game.\n"
 "The game will create a sub-folder called cfg there and store config.cfg\n"
 "and video settings in that folder.\n"
 "Also you can put your movie making config into that cfg sub-folder,\n"
-"however the game will load those only if they are not present inthe csgo/cfg "
-"folder already."
+"however the game will load those only if they are not present inthe csgo/cfg folder already."
 msgstr ""
+"Ha engedélyezed, beállíthatsz egy szülőkönyvtárt a movie making config-od számára az adott játékhoz.\n"
+"A játék létrehoz benne egy \"cfg\" nevű almappát és ide menti a config.cfg-t\n"
+"és a videóbeállításokat.\n"
+"A movie making configodat is bemásolhatod ebbe a cfg almappába,\n"
+"de a játék ezeket csak akkor tölti be, ha még nem szerepelnek a csgo/cfg mappában."
 
 #: LaunchCsgoForm.cs:134
 msgctxt "Launch CS:GO dialog | MmcfgFolder Title"
 msgid "About movie making config parent folder"
-msgstr ""
+msgstr "A movie making config szülőkönyvtárról"
 
 #: Launcher.cs:36
 msgctxt "Launcher dialog"
 msgid "Launching failed."
-msgstr ""
+msgstr "Indítás sikertelen."
 
 #: Launcher.cs:36 Tools/CustomLoader.cs:54
 msgid "Error"
-msgstr ""
+msgstr "Hiba"
 
 #: Launcher.cs:50
 msgid "64 Bit GoldSrc is not supported."
-msgstr ""
+msgstr "A 64 bites GoldSrc nem támogatott."
 
 #: LauncherForm.cs:20
 msgctxt "Launch GoldSrc dialog"
 msgid "Launch GoldSrc ..."
-msgstr ""
+msgstr "GoldSrc indítása ..."
 
 #: LauncherForm.cs:21
 msgctxt "Launch GoldSrc dialog"
 msgid "Game"
-msgstr ""
+msgstr "Játék"
 
 #: LauncherForm.cs:22
 msgctxt "Launch GoldSrc dialog"
 msgid "hl.exe"
-msgstr ""
+msgstr "hl.exe"
 
 #: LauncherForm.cs:23
 msgctxt "Launch GoldSrc dialog"
 msgid "Browse ..."
-msgstr ""
+msgstr "Tallózás ..."
 
 #: LauncherForm.cs:24
 msgctxt "Launch GoldSrc dialog"
 msgid "Modification:"
-msgstr ""
+msgstr "Módosítások:"
 
 #: LauncherForm.cs:28
 #, csharp-format
 msgctxt "Launch GoldSrc dialog"
 msgid "{0} (Counter-Strike)"
-msgstr ""
+msgstr "{0} (Counter-Strike)"
 
 #: LauncherForm.cs:29
 #, csharp-format
 msgctxt "Launch GoldSrc dialog"
 msgid "{0} (Day of Defeat)"
-msgstr ""
+msgstr "{0} (Day of Defeat)"
 
 #: LauncherForm.cs:30
 #, csharp-format
 msgctxt "Launch GoldSrc dialog"
 msgid "{0} (Team Fortress Classic)"
-msgstr ""
+msgstr "{0} (Team Fortress Classic)"
 
 #: LauncherForm.cs:31
 #, csharp-format
 msgctxt "Launch GoldSrc dialog"
 msgid "{0} (Half-Life)"
-msgstr ""
+msgstr "{0} (Half-Life)"
 
 #: LauncherForm.cs:32
 msgctxt "Launch GoldSrc dialog"
 msgid "Other modification:"
-msgstr ""
+msgstr "Egyéb módosítások:"
 
 #: LauncherForm.cs:35
 msgctxt "Launch GoldSrc dialog"
 msgid "Custom command line options"
-msgstr ""
+msgstr "Egyedi parancssoros beállítások"
 
 #: LauncherForm.cs:36
 msgctxt "Launch GoldSrc dialog"
 msgid "Graphic Resolution"
-msgstr ""
+msgstr "Videó felbontás"
 
 #: LauncherForm.cs:37
 msgctxt "Launch GoldSrc dialog"
 msgid "Width:"
-msgstr ""
+msgstr "Szélesség:"
 
 #: LauncherForm.cs:38
 msgctxt "Launch GoldSrc dialog"
 msgid "Height:"
-msgstr ""
+msgstr "Magasság:"
 
 #: LauncherForm.cs:39
 msgctxt "Launch GoldSrc dialog"
 msgid "Color Depth:"
-msgstr ""
+msgstr "Színmélység:"
 
 #: LauncherForm.cs:40
 msgctxt "Launch GoldSrc dialog"
 msgid "force resolution"
-msgstr ""
+msgstr "felbontás kikényszerítése"
 
 #: LauncherForm.cs:41
 msgctxt "Launch GoldSrc dialog"
 msgid "full screen"
-msgstr ""
+msgstr "teljes képernyő"
 
 #: LauncherForm.cs:45
 msgctxt "Launch GoldSrc dialog bpp"
 msgid "32 (High)"
-msgstr ""
+msgstr "32 (Magas)"
 
 #: LauncherForm.cs:46
 msgctxt "Launch GoldSrc dialog bpp"
 msgid "24 (Medium)"
-msgstr ""
+msgstr "24 (Közepes)"
 
 #: LauncherForm.cs:47
 msgctxt "Launch GoldSrc dialog bpp"
 msgid "16 (Low)"
-msgstr ""
+msgstr "16 (Alacsony)"
 
 #: LauncherForm.cs:50
 msgctxt "Launch GoldSrc dialog"
 msgid "Advanced Settings"
-msgstr ""
+msgstr "Haladó Beállítások"
 
 #: LauncherForm.cs:51
 msgctxt "Launch GoldSrc dialog"
