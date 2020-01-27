@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: hlae\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-22 11:56+0100\n"
-"PO-Revision-Date: 2020-01-25 23:10+0000\n"
+"PO-Revision-Date: 2020-01-26 19:25+0000\n"
 "Last-Translator: fiskal.rafael <fiskal.rafael@gmail.com>\n"
 "Language-Team: Hungarian\n"
 "Language: hu\n"
@@ -70,7 +70,7 @@ msgstr "Kód:"
 #: ErrorDialogue.cs:23
 msgctxt "Error dialog"
 msgid "n/a"
-msgstr ""
+msgstr "n/a"
 
 #: ErrorDialogue.cs:24
 msgctxt "Error dialog"
@@ -140,7 +140,7 @@ msgstr "OpenProcess sikertelen"
 #: HlaeErrors.cs:71
 msgctxt "HLAE errors"
 msgid "VirtualAllocEx read|write allocation failed."
-msgstr ""
+msgstr "VirtualAllocEx olvasás|írás kiosztása sikertelen."
 
 #: HlaeErrors.cs:72
 msgctxt "HLAE errors"
@@ -459,32 +459,32 @@ msgstr "Haladó Beállítások"
 #: LauncherForm.cs:51
 msgctxt "Launch GoldSrc dialog"
 msgid "Force 8 bit alpha channel"
-msgstr ""
+msgstr "8 bites alpha csatorna kikényszerítése"
 
 #: LauncherForm.cs:52
 msgctxt "Launch GoldSrc dialog"
 msgid "Optimize window visibilty on capture"
-msgstr ""
+msgstr "Ablak láthatóságának optimalizálása felvételkor"
 
 #: LauncherForm.cs:53
 msgctxt "Launch GoldSrc dialog"
 msgid "Optimize desktop resolution"
-msgstr ""
+msgstr "Asztal felbontásának optimalizálása"
 
 #: LauncherForm.cs:55
 msgctxt "Launch GoldSrc dialog"
 msgid "Render mode:"
-msgstr ""
+msgstr "Felvételi mód:"
 
 #: LauncherForm.cs:58
 msgctxt "Launch GoldSrc dialog render mode"
 msgid "Standard"
-msgstr ""
+msgstr "Szokásos"
 
 #: LauncherForm.cs:59
 msgctxt "Launch GoldSrc dialog render mode"
 msgid "FrameBuffer Object"
-msgstr ""
+msgstr "FrameBuffer Objektum"
 
 #: LauncherForm.cs:60
 msgctxt "Launch GoldSrc dialog render mode"
@@ -494,23 +494,25 @@ msgstr ""
 #: LauncherForm.cs:63
 msgctxt "Launch GoldSrc dialog"
 msgid "remember my changes"
-msgstr ""
+msgstr "emlékezz a változtatásokra"
 
 #: LauncherForm.cs:64
 msgctxt "Launch GoldSrc dialog"
 msgid "L&aunch"
-msgstr ""
+msgstr "I&ndítás"
 
 #: LauncherForm.cs:65
 msgctxt "Launch GoldSrc dialog"
 msgid "Can&cel"
-msgstr ""
+msgstr "Még&se"
 
 #: Loader.cs:138
 msgid ""
 "Image injection problem.\n"
 "Continue waiting?"
 msgstr ""
+"Kép beszúrási probléma.\n"
+"Várakozol tovább?"
 
 #: Loader.cs:138
 msgid "injector Warning"
@@ -523,7 +525,7 @@ msgstr ""
 #: Loader.cs:324
 #, csharp-format
 msgid "IsWow64Process failed, error code: {0}"
-msgstr ""
+msgstr "IsWow64Process összeomlott, hiba kód: {0}"
 
 #: MainForm.cs:26
 msgctxt "Main window"
@@ -533,72 +535,72 @@ msgstr ""
 #: MainForm.cs:28
 msgctxt "Main window | menu"
 msgid "File"
-msgstr ""
+msgstr "Fájl"
 
 #: MainForm.cs:29
 msgctxt "Main window | menu | File"
 msgid "Launch CS:GO"
-msgstr ""
+msgstr "CS:GO indítása"
 
 #: MainForm.cs:30
 msgctxt "Main window | menu | File"
 msgid "Launch GoldSrc"
-msgstr ""
+msgstr "GoldSrc indítása"
 
 #: MainForm.cs:31
 msgctxt "Main window | menu | File"
 msgid "Exit"
-msgstr ""
+msgstr "Kilépés"
 
 #: MainForm.cs:33
 msgctxt "Main Window | menu"
 msgid "View"
-msgstr ""
+msgstr "Nézet"
 
 #: MainForm.cs:34
 msgctxt "Main window | menu | View"
 msgid "Status Bar"
-msgstr ""
+msgstr "Állapotsáv"
 
 #: MainForm.cs:36
 msgctxt "Main window | menu"
 msgid "Tools"
-msgstr ""
+msgstr "Eszközök"
 
 #: MainForm.cs:37
 msgctxt "Main window | menu | Tools"
 msgid "Calculators"
-msgstr ""
+msgstr "Számítások"
 
 #: MainForm.cs:38
 msgctxt "Main window | menu | Tools | Calculators"
 msgid "File Size"
-msgstr ""
+msgstr "Fájl Méret"
 
 #: MainForm.cs:39
 msgctxt "Main window | menu | Tools"
 msgid "GoldSrc"
-msgstr ""
+msgstr "GoldSrc"
 
 #: MainForm.cs:40
 msgctxt "Main window | menu | Tools | GoldSrc"
 msgid "Demo Tools"
-msgstr ""
+msgstr "Demo Eszközök"
 
 #: MainForm.cs:41
 msgctxt "Main window | menu | Tools | GoldSrc"
 msgid "Sky Manager"
-msgstr ""
+msgstr "Égbolt Igazgató"
 
 #: MainForm.cs:43
 msgctxt "Main window | menu | Tools"
 msgid "Developer"
-msgstr ""
+msgstr "Fejlesztő"
 
 #: MainForm.cs:44
 msgctxt "Main window | menu | Tools | Developer"
 msgid "Custom Loader"
-msgstr ""
+msgstr "Egyedi Betöltő"
 
 #: MainForm.cs:45
 msgctxt "Main window | menu | Tools | Developer"
@@ -613,143 +615,143 @@ msgstr ""
 #: MainForm.cs:48
 msgctxt "Main window | menu"
 msgid "Help"
-msgstr ""
+msgstr "Súgó"
 
 #: MainForm.cs:49
 msgctxt "Main window | menu | Help"
 msgid "Check for Updates"
-msgstr ""
+msgstr "Frissítések Ellenőrzése"
 
 #: MainForm.cs:50
 msgctxt "Main window | menu | Help | Check for Updates"
 msgid "Auto Check"
-msgstr ""
+msgstr "Auto Ellenőrzés"
 
 #: MainForm.cs:51
 msgctxt "Main window | menu | Help | Check for Updates"
 msgid "Check Now"
-msgstr ""
+msgstr "Ellenőrzés Most"
 
 #: MainForm.cs:52
 msgctxt "Main window | menu | Help"
 msgid "Official Website"
-msgstr ""
+msgstr "Hivatalos Weboldal"
 
 #: MainForm.cs:54
 msgctxt "Main window | menu"
 msgid "Donate"
-msgstr ""
+msgstr "Adományozás"
 
 #: MainForm.cs:56
 msgctxt "Main window | check updates strip"
 msgid "Check for updates automatically?"
-msgstr ""
+msgstr "Frissítések ellenőrzése automatikusan?"
 
 #: MainForm.cs:57
 msgctxt "Main window | check updates strip"
 msgid "Yes"
-msgstr ""
+msgstr "Igen"
 
 #: MainForm.cs:58
 msgctxt "Main window | check updates strip"
 msgid "No"
-msgstr ""
+msgstr "Nem"
 
 #: MainForm.cs:61
 msgctxt "Main window | update status strip"
 msgid "Ignore"
-msgstr ""
+msgstr "Mégse"
 
 #: MainForm.cs:62
 msgctxt "Main window | update status strip"
 msgid "OK"
-msgstr ""
+msgstr "OK"
 
 #: MainForm.cs:63
 msgctxt "Main window | update status strip | label"
 msgid "Update status unknown"
-msgstr ""
+msgstr "Frissítési állapot nem ismert"
 
 #: MainForm.cs:65
 msgid "Help"
-msgstr ""
+msgstr "Súgó"
 
 #: MainForm.cs:66
 msgid "Language:"
-msgstr ""
+msgstr "Nyelv:"
 
 #: MainForm.cs:67
 msgid "Selection:"
-msgstr ""
+msgstr "Kiválasztás:"
 
 #: MainForm.cs:69
 msgid "Official support page (English)"
-msgstr ""
+msgstr "Hivatalos támogató oldal (Angol)"
 
 #: MainForm.cs:72
 msgctxt "Language"
 msgid "English"
-msgstr ""
+msgstr "Angol"
 
 #: MainForm.cs:180
 msgctxt "Main window | update status strip | label"
 msgid "Update available!"
-msgstr ""
+msgstr "Frissítés elérhető!"
 
 #: MainForm.cs:189
 msgctxt "Main window | update status strip | label"
 msgid "Your version is up to date :)"
-msgstr ""
+msgstr "Ez a legfrissebb verzió :)"
 
 #: MainForm.cs:201
 msgctxt "Main window | update status strip | label"
 msgid "Update check failed :("
-msgstr ""
+msgstr "Frissítés keresése sikertelen :("
 
 #: MainForm.cs:210
 msgctxt "Main window | update status strip | label"
 msgid "Checking for updates ..."
-msgstr ""
+msgstr "Frissítések keresése ..."
 
 #: Tools/Calculator.cs:18
 msgctxt "File Size Calculator"
 msgid "File Size Calculator"
-msgstr ""
+msgstr "Fájlméret Számoló"
 
 #: Tools/Calculator.cs:19
 msgctxt "File Size Calculator"
 msgid "Width:"
-msgstr ""
+msgstr "Szélesség:"
 
 #: Tools/Calculator.cs:20
 msgctxt "File Size Calculator"
 msgid "Height:"
-msgstr ""
+msgstr "Magasság:"
 
 #: Tools/Calculator.cs:21
 msgctxt "File Size Calculator"
 msgid "FPS:"
-msgstr ""
+msgstr "FPS:"
 
 #: Tools/Calculator.cs:22
 msgctxt "File Size Calculator"
 msgid "Duration:"
-msgstr ""
+msgstr "Hossz:"
 
 #: Tools/Calculator.cs:23
 msgctxt "File Size Calculator | Duration"
 msgid "min"
-msgstr ""
+msgstr "perc"
 
 #: Tools/Calculator.cs:24
 msgctxt "File Size Calculator | Duration"
 msgid "sec"
-msgstr ""
+msgstr "mp"
 
 #: Tools/Calculator.cs:25
 msgctxt "File Size Calculator"
 msgid "Estimated Disk Usage"
-msgstr ""
+msgstr "Becsült Lemezhasználat"
 
 #: Tools/Calculator.cs:26
 msgctxt "File Size Calculator | Estimate"
@@ -779,7 +781,7 @@ msgstr ""
 #: Tools/CustomLoaderForm.cs:27
 msgctxt "Custom Loader dialog | Program"
 msgid "Browse ..."
-msgstr ""
+msgstr "Tallózás ..."
 
 #: Tools/CustomLoaderForm.cs:28
 msgctxt "Custom Loader dialog | DLLS"
@@ -789,37 +791,37 @@ msgstr ""
 #: Tools/CustomLoaderForm.cs:29
 msgctxt "Custom Loader dialog | DLLS"
 msgid "Browse ..."
-msgstr ""
+msgstr "Tallózás ..."
 
 #: Tools/CustomLoaderForm.cs:30
 msgctxt "Custom Loader dialog | DLLS"
 msgid "Delete"
-msgstr ""
+msgstr "Törlés"
 
 #: Tools/CustomLoaderForm.cs:31
 msgctxt "Custom Loader dialog | DLLS"
 msgid "Up"
-msgstr ""
+msgstr "Fel"
 
 #: Tools/CustomLoaderForm.cs:32
 msgctxt "Custom Loader dialog | DLLS"
 msgid "Down"
-msgstr ""
+msgstr "Le"
 
 #: Tools/CustomLoaderForm.cs:33
 msgctxt "Custom Loader dialog | DLLS"
 msgid "Hint: You can Drag && Drop DLLs in the box above."
-msgstr ""
+msgstr "Tipp: A fenti dobozba DLL-eket húzhatsz át."
 
 #: Tools/CustomLoaderForm.cs:34
 msgctxt "Custom Loader dialog"
 msgid "&OK"
-msgstr ""
+msgstr "&OK"
 
 #: Tools/CustomLoaderForm.cs:35
 msgctxt "Custom Loader dialog"
 msgid "&Abort"
-msgstr ""
+msgstr "&Megszakít"
 
 #: Tools/CustomLoaderForm.cs:63
 msgctxt "Custom Loader dialog | Program filter"
