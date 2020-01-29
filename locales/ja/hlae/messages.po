@@ -2,14 +2,14 @@
 # Copyright (C) YEAR advancedfx.org
 # This file is distributed under the same license as the hlae package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: hlae\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-22 11:56+0100\n"
-"PO-Revision-Date: 2020-01-21 10:53+0000\n"
+"PO-Revision-Date: 2020-01-29 12:09+0000\n"
 "Last-Translator: FlowingSPDG <shugo_k@flowing.tokyo>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ja\n"
@@ -676,7 +676,7 @@ msgstr "ヘルプ"
 
 #: MainForm.cs:66
 msgid "Language:"
-msgstr ""
+msgstr "言語:"
 
 #: MainForm.cs:67
 #, fuzzy
@@ -685,7 +685,7 @@ msgstr "解決方法:"
 
 #: MainForm.cs:69
 msgid "Official support page (English)"
-msgstr ""
+msgstr "公式サポートページ(英語)"
 
 #: MainForm.cs:72
 #, fuzzy
@@ -837,12 +837,10 @@ msgstr "フックするDLL (.dll)|*.dll"
 #~ msgid "https://github.com/advancedfx/advancedfx/wiki"
 #~ msgstr "https://github.com/advancedfx/advancedfx/wiki"
 
-#, csharp-format
 #~ msgctxt "Main window | menu | Help"
 #~ msgid "Online Manual ({0})"
 #~ msgstr "オンラインマニュアル ({0})"
 
-#, csharp-format
 #~ msgctxt "Main window"
 #~ msgid "Open Online Manual ({0})"
 #~ msgstr "オンラインマニュアルを開く ({0})"
