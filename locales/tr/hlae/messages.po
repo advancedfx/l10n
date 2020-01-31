@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: hlae\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-22 11:56+0100\n"
-"PO-Revision-Date: 2020-01-31 09:47+0000\n"
+"PO-Revision-Date: 2020-01-31 19:44+0000\n"
 "Last-Translator: Twissen <selimcan.krgzl@gmail.com>\n"
 "Language-Team: Turkish\n"
 "Language: tr\n"
@@ -136,7 +136,7 @@ msgstr "DLL bulunamadı."
 #: HlaeErrors.cs:70
 msgctxt "HLAE errors"
 msgid "OpenProcess failed"
-msgstr ""
+msgstr "OpenProcess başarısız oldu"
 
 #: HlaeErrors.cs:71
 msgctxt "HLAE errors"
@@ -146,7 +146,7 @@ msgstr ""
 #: HlaeErrors.cs:72
 msgctxt "HLAE errors"
 msgid "GetImage failed."
-msgstr ""
+msgstr "GetImage başarısız oldu."
 
 #: HlaeErrors.cs:72
 msgctxt "HLAE errors"
@@ -156,7 +156,7 @@ msgstr ""
 #: HlaeErrors.cs:72
 msgctxt "HLAE errors"
 msgid "Try reextracting / repairing HLAE."
-msgstr ""
+msgstr "HLAE'yi tekrar çıkartmayı / onarmayı deneyin."
 
 #: HlaeErrors.cs:73
 msgctxt "HLAE errors"
@@ -166,17 +166,17 @@ msgstr ""
 #: HlaeErrors.cs:74
 msgctxt "HLAE errors"
 msgid "WriteProcessMemory failed."
-msgstr ""
+msgstr "WriteProcessMemory başarısız oldu."
 
 #: HlaeErrors.cs:75
 msgctxt "HLAE errors"
 msgid "FlushInstructionCache failed."
-msgstr ""
+msgstr "FlushInstructionCache başarısız oldu."
 
 #: HlaeErrors.cs:76
 msgctxt "HLAE errors"
 msgid "CreateRemoteThread failed."
-msgstr ""
+msgstr "CreateRemoteThread başarısız oldu."
 
 #: HlaeErrors.cs:77
 msgctxt "HLAE errors"
@@ -207,7 +207,7 @@ msgstr "Yükleyici başlatılamadı."
 #: HlaeErrors.cs:131
 msgctxt "HLAE errors"
 msgid "Try using CSGO Launcher instead of Custom Launcher."
-msgstr ""
+msgstr "Özel Başlatıcı yerine CSGO Başlatıcısı'nı kullanmayı deneyin."
 
 #: HlaeErrors.cs:134
 msgctxt "HLAE errors"
@@ -333,7 +333,7 @@ msgstr ""
 #: Launcher.cs:36
 msgctxt "Launcher dialog"
 msgid "Launching failed."
-msgstr ""
+msgstr "Başlatma başarısız oldu."
 
 #: Launcher.cs:36 Tools/CustomLoader.cs:54
 msgid "Error"
@@ -465,12 +465,12 @@ msgstr ""
 #: LauncherForm.cs:53
 msgctxt "Launch GoldSrc dialog"
 msgid "Optimize desktop resolution"
-msgstr ""
+msgstr "Masaüstü çözünürlüğünü optimize et"
 
 #: LauncherForm.cs:55
 msgctxt "Launch GoldSrc dialog"
 msgid "Render mode:"
-msgstr ""
+msgstr "Render modu:"
 
 #: LauncherForm.cs:58
 msgctxt "Launch GoldSrc dialog render mode"
@@ -524,7 +524,7 @@ msgstr ""
 #: MainForm.cs:26
 msgctxt "Main window"
 msgid "Half-Life Advanced Effects"
-msgstr ""
+msgstr "Half-Life Advanced Effects"
 
 #: MainForm.cs:28
 msgctxt "Main window | menu"
