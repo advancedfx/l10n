@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: hlae\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-22 11:56+0100\n"
-"PO-Revision-Date: 2020-01-29 12:09+0000\n"
+"PO-Revision-Date: 2020-01-22 11:00+0000\n"
 "Last-Translator: FlowingSPDG <shugo_k@flowing.tokyo>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ja\n"
@@ -670,7 +670,6 @@ msgid "Update status unknown"
 msgstr "アップデート状況不明"
 
 #: MainForm.cs:65
-#, fuzzy
 msgid "Help"
 msgstr "ヘルプ"
 
@@ -679,7 +678,6 @@ msgid "Language:"
 msgstr "言語:"
 
 #: MainForm.cs:67
-#, fuzzy
 msgid "Selection:"
 msgstr "解決方法:"
 
@@ -688,7 +686,6 @@ msgid "Official support page (English)"
 msgstr "公式サポートページ(英語)"
 
 #: MainForm.cs:72
-#, fuzzy
 msgctxt "Language"
 msgid "English"
 msgstr "英語"
