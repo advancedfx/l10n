@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: hlae\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-22 11:56+0100\n"
-"PO-Revision-Date: 2020-02-04 11:08+0000\n"
+"PO-Revision-Date: 2020-02-24 07:04+0000\n"
 "Last-Translator: Purp1e <438518244@qq.com>\n"
 "Language-Team: Language zh-CN\n"
 "Language: zh_CN\n"
@@ -684,7 +684,7 @@ msgstr "解决方法："
 
 #: MainForm.cs:69
 msgid "Official support page (English)"
-msgstr ""
+msgstr "官方支持页面（中文）"
 
 #: MainForm.cs:72
 msgctxt "Language"
