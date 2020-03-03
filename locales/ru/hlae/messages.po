@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: hlae\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-22 11:56+0100\n"
-"PO-Revision-Date: 2020-01-23 16:02+0000\n"
+"PO-Revision-Date: 2020-03-03 11:28+0000\n"
 "Last-Translator: yovaN <akkardeon@gmail.com>\n"
 "Language-Team: Russian\n"
 "Language: ru\n"
@@ -705,7 +705,7 @@ msgstr "Ваша версия актуальна :)"
 #: MainForm.cs:201
 msgctxt "Main window | update status strip | label"
 msgid "Update check failed :("
-msgstr "Проверка обновления не удалась :("
+msgstr "Проверка обновлений не удалась :("
 
 #: MainForm.cs:210
 msgctxt "Main window | update status strip | label"
@@ -740,12 +740,12 @@ msgstr "Длительность:"
 #: Tools/Calculator.cs:23
 msgctxt "File Size Calculator | Duration"
 msgid "min"
-msgstr "минут"
+msgstr "м"
 
 #: Tools/Calculator.cs:24
 msgctxt "File Size Calculator | Duration"
 msgid "sec"
-msgstr "секунд"
+msgstr "c"
 
 #: Tools/Calculator.cs:25
 msgctxt "File Size Calculator"
