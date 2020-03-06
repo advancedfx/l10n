@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"PO-Revision-Date: 2020-01-31 09:50+0000\n"
+"PO-Revision-Date: 2020-03-06 16:53+0000\n"
 "Last-Translator: Twissen <selimcan.krgzl@gmail.com>\n"
 "Language-Team: Turkish\n"
 "Language: tr\n"
@@ -14,11 +14,11 @@ msgstr ""
 
 msgctxt "Caption"
 msgid "[WixBundleName] Setup"
-msgstr ""
+msgstr "[WixBundleName] Kurulum"
 
 msgctxt "Title"
 msgid "[WixBundleName]"
-msgstr ""
+msgstr "[WixBundleName]"
 
 msgctxt "InstallHeader"
 msgid "Welcome"
@@ -26,7 +26,7 @@ msgstr "Hoşgeldiniz"
 
 msgctxt "InstallMessage"
 msgid "Setup will install [WixBundleName] on your computer. Click install to continue"
-msgstr ""
+msgstr "Kurulum bilgisayarınıza şunu yükleyecektir: [WixBundleName]. Devam etmek için lütfen tıklayınız"
 
 msgctxt "InstallVersion"
 msgid "Version [WixBundleVersion]"
@@ -42,7 +42,7 @@ msgstr "Önceki versiyon"
 
 msgctxt "HelpHeader"
 msgid "Setup Help"
-msgstr ""
+msgstr "Kurulum Yardımı"
 
 msgctxt "HelpText"
 msgid ""
@@ -70,23 +70,23 @@ msgstr ""
 
 msgctxt "InstallOptionsButton"
 msgid "&Options"
-msgstr ""
+msgstr "&Ayarlar"
 
 msgctxt "InstallInstallButton"
 msgid "&Install"
-msgstr ""
+msgstr "&Yükle"
 
 msgctxt "InstallCloseButton"
 msgid "&Close"
-msgstr ""
+msgstr "&Kapat"
 
 msgctxt "OptionsHeader"
 msgid "Setup Options"
-msgstr ""
+msgstr "Kurulum Ayarları"
 
 msgctxt "OptionsLocationLabel"
 msgid "Install location:"
-msgstr ""
+msgstr "Kurulum yeri:"
 
 msgctxt "OptionsBrowseButton"
 msgid "&Browse"
@@ -94,15 +94,15 @@ msgstr ""
 
 msgctxt "OptionsOkButton"
 msgid "&OK"
-msgstr ""
+msgstr "&Tamam"
 
 msgctxt "OptionsCancelButton"
 msgid "&Cancel"
-msgstr ""
+msgstr "&İptal"
 
 msgctxt "ProgressHeader"
 msgid "Setup Progress"
-msgstr ""
+msgstr "Kurulum İlerlemesi"
 
 msgctxt "ProgressLabel"
 msgid "Processing:"
@@ -114,71 +114,71 @@ msgstr ""
 
 msgctxt "ProgressCancelButton"
 msgid "&Cancel"
-msgstr ""
+msgstr "&İptal"
 
 msgctxt "ModifyHeader"
 msgid "Modify Setup"
-msgstr ""
+msgstr "Kurulumu özelleştirin"
 
 msgctxt "ModifyRepairButton"
 msgid "&Repair"
-msgstr ""
+msgstr "&Onar"
 
 msgctxt "ModifyUninstallButton"
 msgid "&Uninstall"
-msgstr ""
+msgstr "&Kaldır"
 
 msgctxt "ModifyCloseButton"
 msgid "&Close"
-msgstr ""
+msgstr "&Kapat"
 
 msgctxt "SuccessRepairHeader"
 msgid "Repair Successfully Completed"
-msgstr ""
+msgstr "Onarım başarı ile tamamlandı"
 
 msgctxt "SuccessUninstallHeader"
 msgid "Uninstall Successfully Completed"
-msgstr ""
+msgstr "Kaldırma başarı ile tamamlandı"
 
 msgctxt "SuccessInstallHeader"
 msgid "Installation Successfully Completed"
-msgstr ""
+msgstr "Yükleme başarı ile tamamlandı"
 
 msgctxt "SuccessHeader"
 msgid "Setup Successful"
-msgstr ""
+msgstr "Kurulum işlemi başarılı"
 
 msgctxt "SuccessLaunchButton"
 msgid "&Launch"
-msgstr ""
+msgstr "&Başlat"
 
 msgctxt "SuccessRestartText"
 msgid "You must restart your computer before you can use the software."
-msgstr ""
+msgstr "Programı kullanmadan önce bilgisayarınızı yeniden başlatmalısınız."
 
 msgctxt "SuccessRestartButton"
 msgid "&Restart"
-msgstr ""
+msgstr "&Yeniden Başlat"
 
 msgctxt "SuccessCloseButton"
 msgid "&Close"
-msgstr ""
+msgstr "&Kapat"
 
 msgctxt "FailureHeader"
 msgid "Setup Failed"
-msgstr ""
+msgstr "Kurulum işlemi başarısız oldu"
 
 msgctxt "FailureInstallHeader"
 msgid "Setup Failed"
-msgstr ""
+msgstr "Kurulum işlemi başarısız oldu"
 
 msgctxt "FailureUninstallHeader"
 msgid "Uninstall Failed"
-msgstr ""
+msgstr "Kaldırma işlemi başarısız oldu"
 
 msgctxt "FailureRepairHeader"
 msgid "Repair Failed"
-msgstr ""
+msgstr "Onarım işlemi başarısız oldu"
 
 msgctxt "FailureHyperlinkLogText"
 msgid "One or more issues caused the setup to fail. Please fix the issues and then retry setup. For more information see the <a href=\"#\">log file</a>."
@@ -190,15 +190,15 @@ msgstr ""
 
 msgctxt "FailureRestartButton"
 msgid "&Restart"
-msgstr ""
+msgstr "&Yeniden Başlat"
 
 msgctxt "FailureCloseButton"
 msgid "&Close"
-msgstr ""
+msgstr "&Kapat"
 
 msgctxt "FilesInUseHeader"
 msgid "Files In Use"
-msgstr ""
+msgstr "Dosyalar kullanımda"
 
 msgctxt "FilesInUseLabel"
 msgid "The following applications are using files that need to be updated:"
@@ -206,19 +206,19 @@ msgstr ""
 
 msgctxt "FilesInUseCloseRadioButton"
 msgid "Close the &applications and attempt to restart them."
-msgstr ""
+msgstr "&Uygulamaları kapatın ve yeniden başlatmayı deneyin."
 
 msgctxt "FilesInUseDontCloseRadioButton"
 msgid "&Do not close applications. A reboot will be required."
-msgstr ""
+msgstr "&Uygulamaları kapatmayın. Yeniden başlatma gerekebilir."
 
 msgctxt "FilesInUseOkButton"
 msgid "&OK"
-msgstr ""
+msgstr "&Tamam"
 
 msgctxt "FilesInUseCancelButton"
 msgid "&Cancel"
-msgstr ""
+msgstr "&İptal"
 
 msgctxt "ErrorFailNoActionReboot"
 msgid "No action was taken as a system reboot is required."
@@ -234,8 +234,10 @@ msgstr ""
 
 msgctxt "HlaeFeaturesHeader"
 msgid "Features"
-msgstr ""
+msgstr "Özellikler"
 
 msgctxt "HlaeFfmpegFeature"
 msgid "Install FFMPEG from https://ffmpeg.zeranoe.com/builds/ (200 MB)"
 msgstr ""
+"FFmpeg'i şuradan yükle\n"
+"https://ffmpeg.zeranoe.com/builds/"
