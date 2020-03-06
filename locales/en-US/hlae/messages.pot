@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hlae\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-03-06 06:57+0100\n"
+"POT-Creation-Date: 2020-03-06 07:01+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -49,6 +49,150 @@ msgstr ""
 #, csharp-format
 msgctxt "AfxError"
 msgid "Inner exception: {0}"
+msgstr ""
+
+#: AfxRgbaLutVoronoiGenerator.cs:18
+msgid "Voronoi Color Lookup Table"
+msgstr ""
+
+#: AfxRgbaLutVoronoiGenerator.cs:19
+msgid "Color map"
+msgstr ""
+
+#: AfxRgbaLutVoronoiGenerator.cs:20 AfxRgbaLutVoronoiGenerator.cs:32
+msgid "Generate"
+msgstr ""
+
+#: AfxRgbaLutVoronoiGenerator.cs:21
+msgid "Check"
+msgstr ""
+
+#: AfxRgbaLutVoronoiGenerator.cs:22
+msgid "Copy all to clipboard"
+msgstr ""
+
+#: AfxRgbaLutVoronoiGenerator.cs:23
+msgid "Paste all from clipboard"
+msgstr ""
+
+#: AfxRgbaLutVoronoiGenerator.cs:24
+msgctxt "Number/Key"
+msgid "Index"
+msgstr ""
+
+#: AfxRgbaLutVoronoiGenerator.cs:25
+msgid "Comment"
+msgstr ""
+
+#: AfxRgbaLutVoronoiGenerator.cs:26
+msgid "Weight"
+msgstr ""
+
+#: AfxRgbaLutVoronoiGenerator.cs:27 AfxRgbaLutVoronoiGenerator.cs:28
+msgid "image"
+msgstr ""
+
+#: AfxRgbaLutVoronoiGenerator.cs:29
+msgid "Preview"
+msgstr ""
+
+#: AfxRgbaLutVoronoiGenerator.cs:30
+msgid "Horizontal:"
+msgstr ""
+
+#: AfxRgbaLutVoronoiGenerator.cs:31
+msgid "Vertical:"
+msgstr ""
+
+#: AfxRgbaLutVoronoiGenerator.cs:33
+msgid "Save"
+msgstr ""
+
+#: AfxRgbaLutVoronoiGenerator.cs:37 AfxRgbaLutVoronoiGenerator.cs:38
+msgctxt "terrorist"
+msgid "T"
+msgstr ""
+
+#: AfxRgbaLutVoronoiGenerator.cs:39 AfxRgbaLutVoronoiGenerator.cs:40
+msgctxt "counter-terrorist"
+msgid "CT"
+msgstr ""
+
+#: AfxRgbaLutVoronoiGenerator.cs:41 AfxRgbaLutVoronoiGenerator.cs:42
+msgctxt "terrorist / counter-terrorist"
+msgid "T/CT neutral"
+msgstr ""
+
+#: AfxRgbaLutVoronoiGenerator.cs:44 AfxRgbaLutVoronoiGenerator.cs:45
+msgctxt "terrorist"
+msgid "T aim"
+msgstr ""
+
+#: AfxRgbaLutVoronoiGenerator.cs:46 AfxRgbaLutVoronoiGenerator.cs:47
+msgctxt "counter-terrorist"
+msgid "CT aim"
+msgstr ""
+
+#: AfxRgbaLutVoronoiGenerator.cs:48 AfxRgbaLutVoronoiGenerator.cs:49
+msgctxt "terrorist / counter-terrorist"
+msgid "T/CT aim neutral"
+msgstr ""
+
+#: AfxRgbaLutVoronoiGenerator.cs:90
+msgctxt "Image"
+msgid "Target"
+msgstr ""
+
+#: AfxRgbaLutVoronoiGenerator.cs:91
+msgctxt "Image"
+msgid "Source"
+msgstr ""
+
+#: AfxRgbaLutVoronoiGenerator.cs:92
+msgctxt "Image"
+msgid "RGB difference"
+msgstr ""
+
+#: AfxRgbaLutVoronoiGenerator.cs:381
+#, csharp-format
+msgid "Invalid / missing value in row {0}, column {1}."
+msgstr ""
+
+#: AfxRgbaLutVoronoiGenerator.cs:382 AfxRgbaLutVoronoiGenerator.cs:435
+#: AfxRgbaLutVoronoiGenerator.cs:452 AfxRgbaLutVoronoiGenerator.cs:632
+#: AfxRgbaLutVoronoiGenerator.cs:644 AfxRgbaLutVoronoiGenerator.cs:835
+#: Launcher.cs:36 Tools/CustomLoader.cs:54
+msgid "Error"
+msgstr ""
+
+#: AfxRgbaLutVoronoiGenerator.cs:434
+#, csharp-format
+msgid "Duplicate source color in row {0} (of row {1})."
+msgstr ""
+
+#: AfxRgbaLutVoronoiGenerator.cs:451
+msgid "Color map must not be empty."
+msgstr ""
+
+#: AfxRgbaLutVoronoiGenerator.cs:467
+msgid "No Errors"
+msgstr ""
+
+#: AfxRgbaLutVoronoiGenerator.cs:468
+msgid "Check passsed"
+msgstr ""
+
+#: AfxRgbaLutVoronoiGenerator.cs:631
+msgid "Error when creating / re-sizing color map."
+msgstr ""
+
+#: AfxRgbaLutVoronoiGenerator.cs:643
+msgid "Iteration aborted."
+msgstr ""
+
+#: AfxRgbaLutVoronoiGenerator.cs:834
+#, csharp-format
+msgid "Saving to \"{0}\" failed."
 msgstr ""
 
 #: Config.cs:56 Config.cs:197
@@ -341,10 +485,6 @@ msgstr ""
 #: Launcher.cs:36
 msgctxt "Launcher dialog"
 msgid "Launching failed."
-msgstr ""
-
-#: Launcher.cs:36 Tools/CustomLoader.cs:54
-msgid "Error"
 msgstr ""
 
 #: Launcher.cs:50
