@@ -3,13 +3,13 @@
 # Copyright (C) 2020 advancedfx.org
 # This file is distributed under the same license as the hlae package.
 # <EMAIL@ADDRESS>, 2020.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: hlae\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-03-06 07:01+0100\n"
-"PO-Revision-Date: 2020-01-22 11:03+0000\n"
+"PO-Revision-Date: 2020-03-06 06:14+0000\n"
 "Last-Translator: Dominik <dominik@matrixstorm.com>\n"
 "Language-Team: German\n"
 "Language: de\n"
@@ -55,114 +55,110 @@ msgstr "Innere Ausnahme: {0}"
 
 #: AfxRgbaLutVoronoiGenerator.cs:18
 msgid "Voronoi Color Lookup Table"
-msgstr ""
+msgstr "Voronoi Frabsuchtabelle"
 
 #: AfxRgbaLutVoronoiGenerator.cs:19
-#, fuzzy
 msgid "Color map"
-msgstr "Farbtiefe:"
+msgstr "Farbkarte"
 
 #: AfxRgbaLutVoronoiGenerator.cs:20 AfxRgbaLutVoronoiGenerator.cs:32
 msgid "Generate"
-msgstr ""
+msgstr "Erstelle"
 
 #: AfxRgbaLutVoronoiGenerator.cs:21
-#, fuzzy
 msgid "Check"
-msgstr "Jetzt prüfen"
+msgstr "Prüfen"
 
 #: AfxRgbaLutVoronoiGenerator.cs:22
-#, fuzzy
 msgid "Copy all to clipboard"
-msgstr "In &Zwischenablage für Unterstützung kopieren"
+msgstr "Alle in Zwischenablage kopieren"
 
 #: AfxRgbaLutVoronoiGenerator.cs:23
 msgid "Paste all from clipboard"
-msgstr ""
+msgstr "Alle von Zwischenablage einfügen"
 
 #: AfxRgbaLutVoronoiGenerator.cs:24
 msgctxt "Number/Key"
 msgid "Index"
-msgstr ""
+msgstr "Index"
 
 #: AfxRgbaLutVoronoiGenerator.cs:25
 msgid "Comment"
-msgstr ""
+msgstr "Kommentar"
 
 #: AfxRgbaLutVoronoiGenerator.cs:26
-#, fuzzy
 msgid "Weight"
-msgstr "Höhe:"
+msgstr "Gewicht"
 
 #: AfxRgbaLutVoronoiGenerator.cs:27 AfxRgbaLutVoronoiGenerator.cs:28
 msgid "image"
-msgstr ""
+msgstr "Bild"
 
 #: AfxRgbaLutVoronoiGenerator.cs:29
 msgid "Preview"
-msgstr ""
+msgstr "Vorschau"
 
 #: AfxRgbaLutVoronoiGenerator.cs:30
 msgid "Horizontal:"
-msgstr ""
+msgstr "Horizontal:"
 
 #: AfxRgbaLutVoronoiGenerator.cs:31
 msgid "Vertical:"
-msgstr ""
+msgstr "Vertikal:"
 
 #: AfxRgbaLutVoronoiGenerator.cs:33
 msgid "Save"
-msgstr ""
+msgstr "Speichern"
 
 #: AfxRgbaLutVoronoiGenerator.cs:37 AfxRgbaLutVoronoiGenerator.cs:38
 msgctxt "terrorist"
 msgid "T"
-msgstr ""
+msgstr "T"
 
 #: AfxRgbaLutVoronoiGenerator.cs:39 AfxRgbaLutVoronoiGenerator.cs:40
 msgctxt "counter-terrorist"
 msgid "CT"
-msgstr ""
+msgstr "CT"
 
 #: AfxRgbaLutVoronoiGenerator.cs:41 AfxRgbaLutVoronoiGenerator.cs:42
 msgctxt "terrorist / counter-terrorist"
 msgid "T/CT neutral"
-msgstr ""
+msgstr "T/CT neutral"
 
 #: AfxRgbaLutVoronoiGenerator.cs:44 AfxRgbaLutVoronoiGenerator.cs:45
 msgctxt "terrorist"
 msgid "T aim"
-msgstr ""
+msgstr "T Ziel"
 
 #: AfxRgbaLutVoronoiGenerator.cs:46 AfxRgbaLutVoronoiGenerator.cs:47
 msgctxt "counter-terrorist"
 msgid "CT aim"
-msgstr ""
+msgstr "CT Ziel"
 
 #: AfxRgbaLutVoronoiGenerator.cs:48 AfxRgbaLutVoronoiGenerator.cs:49
 msgctxt "terrorist / counter-terrorist"
 msgid "T/CT aim neutral"
-msgstr ""
+msgstr "T/CT Ziel neutral"
 
 #: AfxRgbaLutVoronoiGenerator.cs:90
 msgctxt "Image"
 msgid "Target"
-msgstr ""
+msgstr "Ziel"
 
 #: AfxRgbaLutVoronoiGenerator.cs:91
 msgctxt "Image"
 msgid "Source"
-msgstr ""
+msgstr "Quelle"
 
 #: AfxRgbaLutVoronoiGenerator.cs:92
 msgctxt "Image"
 msgid "RGB difference"
-msgstr ""
+msgstr "RGB-Differenz"
 
 #: AfxRgbaLutVoronoiGenerator.cs:381
 #, csharp-format
 msgid "Invalid / missing value in row {0}, column {1}."
-msgstr ""
+msgstr "Ungültiger / fehlender Wert in Zeile {0}, Spalte {1}."
 
 #: AfxRgbaLutVoronoiGenerator.cs:382 AfxRgbaLutVoronoiGenerator.cs:435 AfxRgbaLutVoronoiGenerator.cs:452 AfxRgbaLutVoronoiGenerator.cs:632 AfxRgbaLutVoronoiGenerator.cs:644
 #: AfxRgbaLutVoronoiGenerator.cs:835 Launcher.cs:36 Tools/CustomLoader.cs:54
@@ -172,33 +168,32 @@ msgstr "Fehler"
 #: AfxRgbaLutVoronoiGenerator.cs:434
 #, csharp-format
 msgid "Duplicate source color in row {0} (of row {1})."
-msgstr ""
+msgstr "Doppelte Quellfrabe in Zeile {0} (von Zeile {1})."
 
 #: AfxRgbaLutVoronoiGenerator.cs:451
 msgid "Color map must not be empty."
-msgstr ""
+msgstr "Farbkarte darf nicht leer sein."
 
 #: AfxRgbaLutVoronoiGenerator.cs:467
-#, fuzzy
 msgid "No Errors"
-msgstr "Fehler"
+msgstr "Keine Fehler"
 
 #: AfxRgbaLutVoronoiGenerator.cs:468
 msgid "Check passsed"
-msgstr ""
+msgstr "Prüfung erfolgreich"
 
 #: AfxRgbaLutVoronoiGenerator.cs:631
 msgid "Error when creating / re-sizing color map."
-msgstr ""
+msgstr "Fehler beim Erstellen / Ändern der Größe der Farbkarte."
 
 #: AfxRgbaLutVoronoiGenerator.cs:643
 msgid "Iteration aborted."
-msgstr ""
+msgstr "Iteration abgebrochen."
 
 #: AfxRgbaLutVoronoiGenerator.cs:834
 #, csharp-format
 msgid "Saving to \"{0}\" failed."
-msgstr ""
+msgstr "Speichern nach \"{0}\" fehlgeschlagen."
 
 #: Config.cs:56 Config.cs:197
 msgctxt "Config (game path)"
@@ -344,7 +339,8 @@ msgstr "Starten des Inkektors fehlgeschlagen: {0}"
 #: HlaeErrors.cs:110
 msgctxt "HLAE errors"
 msgid "injector.exe blocked. Probably caused by antivirus. Check it and reextract HLAE (HLAE NEEDS to be extracted, don't run it from a .zip file)."
-msgstr "injector.exe blockiert. Wahrscheinlich durch Antivirus verursacht. Überprüfen Sie das und entpacken Sie HLAE nochmals (HLAE MUSS extrahiert werden, führen Sie es nicht von einer .zip Datei aus)."
+msgstr ""
+"injector.exe blockiert. Wahrscheinlich durch Antivirus verursacht. Überprüfen Sie das und entpacken Sie HLAE nochmals (HLAE MUSS extrahiert werden, führen Sie es nicht von einer .zip Datei aus)."
 
 #: HlaeErrors.cs:117
 msgctxt "HLAE errors"
@@ -724,12 +720,12 @@ msgstr "Dateigröße"
 #: MainForm.cs:39
 msgctxt "Main window | menu | Tools"
 msgid "Color Lookup Tables"
-msgstr ""
+msgstr "Frabsuchtabellen"
 
 #: MainForm.cs:40
 msgctxt "Main window | menu | Tools | Color Lookup Tables"
 msgid "Voronoi"
-msgstr ""
+msgstr "Voronoi"
 
 #: MainForm.cs:41
 msgctxt "Main window | menu | Tools"
@@ -828,7 +824,7 @@ msgstr "Aktualisierungsstatus unbekannt"
 
 #: MainForm.cs:67
 msgid "Contact / Privacy Policy / Imprint (advancedfx.org)"
-msgstr ""
+msgstr "Kontakt / Datenschutz / Impressum (advancedfx.org)"
 
 #: MainForm.cs:69
 msgid "Help"
@@ -848,18 +844,17 @@ msgstr "Offizielle Supportseite (Englisch)"
 
 #: MainForm.cs:74
 msgid "HLAE Chinese Station"
-msgstr ""
+msgstr "HLAE Chinesische Station"
 
 #: MainForm.cs:77
-#, fuzzy
 msgctxt "Language"
 msgid "English (en)"
-msgstr "Englisch"
+msgstr "Englisch (en)"
 
 #: MainForm.cs:80
 msgctxt "Language"
 msgid "Chinese (zh-CN)"
-msgstr ""
+msgstr "Chinesisch (zh-CN)"
 
 #: MainForm.cs:189
 msgctxt "Main window | update status strip | label"
