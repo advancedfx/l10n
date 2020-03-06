@@ -2,12 +2,12 @@
 # Copyright (C) 2020 advancedfx.org
 # This file is distributed under the same license as the hlae package.
 # <EMAIL@ADDRESS>, 2020.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: hlae\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-01-22 11:56+0100\n"
+"POT-Creation-Date: 2020-03-06 07:01+0100\n"
 "PO-Revision-Date: 2020-01-26 19:25+0000\n"
 "Last-Translator: fiskal.rafael <fiskal.rafael@gmail.com>\n"
 "Language-Team: Hungarian\n"
@@ -51,6 +51,153 @@ msgstr "Megoldás: {0}"
 msgctxt "AfxError"
 msgid "Inner exception: {0}"
 msgstr "Belső kivétel: {0}"
+
+#: AfxRgbaLutVoronoiGenerator.cs:18
+msgid "Voronoi Color Lookup Table"
+msgstr ""
+
+#: AfxRgbaLutVoronoiGenerator.cs:19
+#, fuzzy
+msgid "Color map"
+msgstr "Színmélység:"
+
+#: AfxRgbaLutVoronoiGenerator.cs:20 AfxRgbaLutVoronoiGenerator.cs:32
+msgid "Generate"
+msgstr ""
+
+#: AfxRgbaLutVoronoiGenerator.cs:21
+#, fuzzy
+msgid "Check"
+msgstr "Ellenőrzés Most"
+
+#: AfxRgbaLutVoronoiGenerator.cs:22
+#, fuzzy
+msgid "Copy all to clipboard"
+msgstr "&Másold vágólapra a támogatáshoz"
+
+#: AfxRgbaLutVoronoiGenerator.cs:23
+msgid "Paste all from clipboard"
+msgstr ""
+
+#: AfxRgbaLutVoronoiGenerator.cs:24
+msgctxt "Number/Key"
+msgid "Index"
+msgstr ""
+
+#: AfxRgbaLutVoronoiGenerator.cs:25
+msgid "Comment"
+msgstr ""
+
+#: AfxRgbaLutVoronoiGenerator.cs:26
+#, fuzzy
+msgid "Weight"
+msgstr "Magasság:"
+
+#: AfxRgbaLutVoronoiGenerator.cs:27 AfxRgbaLutVoronoiGenerator.cs:28
+msgid "image"
+msgstr ""
+
+#: AfxRgbaLutVoronoiGenerator.cs:29
+msgid "Preview"
+msgstr ""
+
+#: AfxRgbaLutVoronoiGenerator.cs:30
+msgid "Horizontal:"
+msgstr ""
+
+#: AfxRgbaLutVoronoiGenerator.cs:31
+msgid "Vertical:"
+msgstr ""
+
+#: AfxRgbaLutVoronoiGenerator.cs:33
+msgid "Save"
+msgstr ""
+
+#: AfxRgbaLutVoronoiGenerator.cs:37 AfxRgbaLutVoronoiGenerator.cs:38
+msgctxt "terrorist"
+msgid "T"
+msgstr ""
+
+#: AfxRgbaLutVoronoiGenerator.cs:39 AfxRgbaLutVoronoiGenerator.cs:40
+msgctxt "counter-terrorist"
+msgid "CT"
+msgstr ""
+
+#: AfxRgbaLutVoronoiGenerator.cs:41 AfxRgbaLutVoronoiGenerator.cs:42
+msgctxt "terrorist / counter-terrorist"
+msgid "T/CT neutral"
+msgstr ""
+
+#: AfxRgbaLutVoronoiGenerator.cs:44 AfxRgbaLutVoronoiGenerator.cs:45
+msgctxt "terrorist"
+msgid "T aim"
+msgstr ""
+
+#: AfxRgbaLutVoronoiGenerator.cs:46 AfxRgbaLutVoronoiGenerator.cs:47
+msgctxt "counter-terrorist"
+msgid "CT aim"
+msgstr ""
+
+#: AfxRgbaLutVoronoiGenerator.cs:48 AfxRgbaLutVoronoiGenerator.cs:49
+msgctxt "terrorist / counter-terrorist"
+msgid "T/CT aim neutral"
+msgstr ""
+
+#: AfxRgbaLutVoronoiGenerator.cs:90
+msgctxt "Image"
+msgid "Target"
+msgstr ""
+
+#: AfxRgbaLutVoronoiGenerator.cs:91
+msgctxt "Image"
+msgid "Source"
+msgstr ""
+
+#: AfxRgbaLutVoronoiGenerator.cs:92
+msgctxt "Image"
+msgid "RGB difference"
+msgstr ""
+
+#: AfxRgbaLutVoronoiGenerator.cs:381
+#, csharp-format
+msgid "Invalid / missing value in row {0}, column {1}."
+msgstr ""
+
+#: AfxRgbaLutVoronoiGenerator.cs:382 AfxRgbaLutVoronoiGenerator.cs:435 AfxRgbaLutVoronoiGenerator.cs:452 AfxRgbaLutVoronoiGenerator.cs:632 AfxRgbaLutVoronoiGenerator.cs:644
+#: AfxRgbaLutVoronoiGenerator.cs:835 Launcher.cs:36 Tools/CustomLoader.cs:54
+msgid "Error"
+msgstr "Hiba"
+
+#: AfxRgbaLutVoronoiGenerator.cs:434
+#, csharp-format
+msgid "Duplicate source color in row {0} (of row {1})."
+msgstr ""
+
+#: AfxRgbaLutVoronoiGenerator.cs:451
+msgid "Color map must not be empty."
+msgstr ""
+
+#: AfxRgbaLutVoronoiGenerator.cs:467
+#, fuzzy
+msgid "No Errors"
+msgstr "Hiba"
+
+#: AfxRgbaLutVoronoiGenerator.cs:468
+msgid "Check passsed"
+msgstr ""
+
+#: AfxRgbaLutVoronoiGenerator.cs:631
+msgid "Error when creating / re-sizing color map."
+msgstr ""
+
+#: AfxRgbaLutVoronoiGenerator.cs:643
+msgid "Iteration aborted."
+msgstr ""
+
+#: AfxRgbaLutVoronoiGenerator.cs:834
+#, csharp-format
+msgid "Saving to \"{0}\" failed."
+msgstr ""
 
 #: Config.cs:56 Config.cs:197
 msgctxt "Config (game path)"
@@ -339,10 +486,6 @@ msgctxt "Launcher dialog"
 msgid "Launching failed."
 msgstr "Indítás sikertelen."
 
-#: Launcher.cs:36 Tools/CustomLoader.cs:54
-msgid "Error"
-msgstr "Hiba"
-
 #: Launcher.cs:50
 msgid "64 Bit GoldSrc is not supported."
 msgstr "A 64 bites GoldSrc nem támogatott."
@@ -579,136 +722,160 @@ msgstr "Fájl Méret"
 
 #: MainForm.cs:39
 msgctxt "Main window | menu | Tools"
+msgid "Color Lookup Tables"
+msgstr ""
+
+#: MainForm.cs:40
+msgctxt "Main window | menu | Tools | Color Lookup Tables"
+msgid "Voronoi"
+msgstr ""
+
+#: MainForm.cs:41
+msgctxt "Main window | menu | Tools"
 msgid "GoldSrc"
 msgstr "GoldSrc"
 
-#: MainForm.cs:40
+#: MainForm.cs:42
 msgctxt "Main window | menu | Tools | GoldSrc"
 msgid "Demo Tools"
 msgstr "Demo Eszközök"
 
-#: MainForm.cs:41
+#: MainForm.cs:43
 msgctxt "Main window | menu | Tools | GoldSrc"
 msgid "Sky Manager"
 msgstr "Égbolt Igazgató"
 
-#: MainForm.cs:43
+#: MainForm.cs:45
 msgctxt "Main window | menu | Tools"
 msgid "Developer"
 msgstr "Fejlesztő"
 
-#: MainForm.cs:44
+#: MainForm.cs:46
 msgctxt "Main window | menu | Tools | Developer"
 msgid "Custom Loader"
 msgstr "Egyedi Betöltő"
 
-#: MainForm.cs:45
+#: MainForm.cs:47
 msgctxt "Main window | menu | Tools | Developer"
 msgid "Own GUID to ClipBoard"
 msgstr ""
 
-#: MainForm.cs:46
+#: MainForm.cs:48
 msgctxt "Main window | menu | Tools | Developer"
 msgid "New GUID to ClipBoard"
 msgstr ""
 
-#: MainForm.cs:48
+#: MainForm.cs:50
 msgctxt "Main window | menu"
 msgid "Help"
 msgstr "Súgó"
 
-#: MainForm.cs:49
+#: MainForm.cs:51
 msgctxt "Main window | menu | Help"
 msgid "Check for Updates"
 msgstr "Frissítések Ellenőrzése"
 
-#: MainForm.cs:50
+#: MainForm.cs:52
 msgctxt "Main window | menu | Help | Check for Updates"
 msgid "Auto Check"
 msgstr "Auto Ellenőrzés"
 
-#: MainForm.cs:51
+#: MainForm.cs:53
 msgctxt "Main window | menu | Help | Check for Updates"
 msgid "Check Now"
 msgstr "Ellenőrzés Most"
 
-#: MainForm.cs:52
+#: MainForm.cs:54
 msgctxt "Main window | menu | Help"
 msgid "Official Website"
 msgstr "Hivatalos Weboldal"
 
-#: MainForm.cs:54
+#: MainForm.cs:56
 msgctxt "Main window | menu"
 msgid "Donate"
 msgstr "Adományozás"
 
-#: MainForm.cs:56
+#: MainForm.cs:58
 msgctxt "Main window | check updates strip"
 msgid "Check for updates automatically?"
 msgstr "Frissítések ellenőrzése automatikusan?"
 
-#: MainForm.cs:57
+#: MainForm.cs:59
 msgctxt "Main window | check updates strip"
 msgid "Yes"
 msgstr "Igen"
 
-#: MainForm.cs:58
+#: MainForm.cs:60
 msgctxt "Main window | check updates strip"
 msgid "No"
 msgstr "Nem"
 
-#: MainForm.cs:61
+#: MainForm.cs:63
 msgctxt "Main window | update status strip"
 msgid "Ignore"
 msgstr "Mégse"
 
-#: MainForm.cs:62
+#: MainForm.cs:64
 msgctxt "Main window | update status strip"
 msgid "OK"
 msgstr "OK"
 
-#: MainForm.cs:63
+#: MainForm.cs:65
 msgctxt "Main window | update status strip | label"
 msgid "Update status unknown"
 msgstr "Frissítési állapot nem ismert"
 
-#: MainForm.cs:65
+#: MainForm.cs:67
+msgid "Contact / Privacy Policy / Imprint (advancedfx.org)"
+msgstr ""
+
+#: MainForm.cs:69
 msgid "Help"
 msgstr "Súgó"
 
-#: MainForm.cs:66
+#: MainForm.cs:70
 msgid "Language:"
 msgstr "Nyelv:"
 
-#: MainForm.cs:67
+#: MainForm.cs:71
 msgid "Selection:"
 msgstr "Kiválasztás:"
 
-#: MainForm.cs:69
+#: MainForm.cs:73
 msgid "Official support page (English)"
 msgstr "Hivatalos támogató oldal (Angol)"
 
-#: MainForm.cs:72
+#: MainForm.cs:74
+msgid "HLAE Chinese Station"
+msgstr ""
+
+#: MainForm.cs:77
+#, fuzzy
 msgctxt "Language"
-msgid "English"
+msgid "English (en)"
 msgstr "Angol"
 
-#: MainForm.cs:180
+#: MainForm.cs:80
+msgctxt "Language"
+msgid "Chinese (zh-CN)"
+msgstr ""
+
+#: MainForm.cs:189
 msgctxt "Main window | update status strip | label"
 msgid "Update available!"
 msgstr "Frissítés elérhető!"
 
-#: MainForm.cs:189
+#: MainForm.cs:198
 msgctxt "Main window | update status strip | label"
 msgid "Your version is up to date :)"
 msgstr "Ez a legfrissebb verzió :)"
 
-#: MainForm.cs:201
+#: MainForm.cs:210
 msgctxt "Main window | update status strip | label"
 msgid "Update check failed :("
 msgstr "Frissítés keresése sikertelen :("
 
-#: MainForm.cs:210
+#: MainForm.cs:219
 msgctxt "Main window | update status strip | label"
 msgid "Checking for updates ..."
 msgstr "Frissítések keresése ..."
