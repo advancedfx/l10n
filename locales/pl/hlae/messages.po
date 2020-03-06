@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: hlae\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-03-06 07:01+0100\n"
-"PO-Revision-Date: 2020-03-06 19:59+0000\n"
+"PO-Revision-Date: 2020-03-06 20:24+0000\n"
 "Last-Translator: tedybooking <tedybooking@gmail.com>\n"
 "Language-Team: Polish\n"
 "Language: pl\n"
@@ -180,15 +180,15 @@ msgstr "Brak błędów"
 
 #: AfxRgbaLutVoronoiGenerator.cs:468
 msgid "Check passsed"
-msgstr ""
+msgstr "Sprawdzenie poprawne"
 
 #: AfxRgbaLutVoronoiGenerator.cs:631
 msgid "Error when creating / re-sizing color map."
-msgstr ""
+msgstr "Błąd podczas tworzenia / zmiany rozmiaru mapy kolorów."
 
 #: AfxRgbaLutVoronoiGenerator.cs:643
 msgid "Iteration aborted."
-msgstr ""
+msgstr "Iteracja przerwana"
 
 #: AfxRgbaLutVoronoiGenerator.cs:834
 #, csharp-format
@@ -203,12 +203,12 @@ msgstr ""
 #: ErrorDialogue.cs:21
 msgctxt "Error dialog"
 msgid "HLAE Error"
-msgstr ""
+msgstr "Błąd HLAE"
 
 #: ErrorDialogue.cs:22
 msgctxt "Error dialog"
 msgid "Code:"
-msgstr ""
+msgstr "Kod:"
 
 #: ErrorDialogue.cs:23
 msgctxt "Error dialog"
@@ -218,12 +218,12 @@ msgstr ""
 #: ErrorDialogue.cs:24
 msgctxt "Error dialog"
 msgid "Description:"
-msgstr ""
+msgstr "Opis:"
 
 #: ErrorDialogue.cs:25
 msgctxt "Error dialog"
 msgid "Solution:"
-msgstr ""
+msgstr "Rozwiązanie:"
 
 #: ErrorDialogue.cs:26
 msgctxt "Error dialog"
@@ -233,7 +233,7 @@ msgstr ""
 #: ErrorDialogue.cs:27
 msgctxt "Error dialog"
 msgid "Okay"
-msgstr ""
+msgstr "Potwierdzam"
 
 #: ErrorDialogue.cs:29
 msgctxt "Error dialog"
