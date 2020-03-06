@@ -3,182 +3,180 @@
 # Copyright (C) 2020 advancedfx.org
 # This file is distributed under the same license as the hlae package.
 # <EMAIL@ADDRESS>, 2020.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: hlae\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-03-06 07:01+0100\n"
-"PO-Revision-Date: 2020-03-06 07:04+0100\n"
-"Last-Translator: <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2020-03-06 19:59+0000\n"
+"Last-Translator: tedybooking <tedybooking@gmail.com>\n"
 "Language-Team: Polish\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
-"|| n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Pontoon\n"
 
 #: AfxError.cs:11
 msgid "AfxError"
-msgstr ""
+msgstr "AfxError"
 
 #: AfxError.cs:40
 #, csharp-format
 msgctxt "AfxError (number code)"
 msgid "AfxError #{0}: "
-msgstr ""
+msgstr "AfxError #{0}:"
 
 #: AfxError.cs:41
 #, csharp-format
 msgctxt "AfxError"
 msgid "Title: {0}"
-msgstr ""
+msgstr "Tytuł: {0}"
 
 #: AfxError.cs:42
 #, csharp-format
 msgctxt "AfxError"
 msgid "Description: {0}"
-msgstr ""
+msgstr "Opis: {0}"
 
 #: AfxError.cs:43
 #, csharp-format
 msgctxt "AfxError"
 msgid "Solution: {0}"
-msgstr ""
+msgstr "Rozwiązanie: {0}"
 
 #: AfxError.cs:44
 #, csharp-format
 msgctxt "AfxError"
 msgid "Inner exception: {0}"
-msgstr ""
+msgstr "Wyjątek: {0}"
 
 #: AfxRgbaLutVoronoiGenerator.cs:18
 msgid "Voronoi Color Lookup Table"
-msgstr ""
+msgstr "Tabela kolorów Voronoi"
 
 #: AfxRgbaLutVoronoiGenerator.cs:19
 msgid "Color map"
-msgstr ""
+msgstr "Mapa kolorów"
 
 #: AfxRgbaLutVoronoiGenerator.cs:20 AfxRgbaLutVoronoiGenerator.cs:32
 msgid "Generate"
-msgstr ""
+msgstr "Generuj"
 
 #: AfxRgbaLutVoronoiGenerator.cs:21
 msgid "Check"
-msgstr ""
+msgstr "Sprawdź"
 
 #: AfxRgbaLutVoronoiGenerator.cs:22
 msgid "Copy all to clipboard"
-msgstr ""
+msgstr "Skopiuj do schowka"
 
 #: AfxRgbaLutVoronoiGenerator.cs:23
 msgid "Paste all from clipboard"
-msgstr ""
+msgstr "Wklej ze schowka"
 
 #: AfxRgbaLutVoronoiGenerator.cs:24
 msgctxt "Number/Key"
 msgid "Index"
-msgstr ""
+msgstr "Index"
 
 #: AfxRgbaLutVoronoiGenerator.cs:25
 msgid "Comment"
-msgstr ""
+msgstr "Komentarz"
 
 #: AfxRgbaLutVoronoiGenerator.cs:26
 msgid "Weight"
-msgstr ""
+msgstr "Szerokość"
 
 #: AfxRgbaLutVoronoiGenerator.cs:27 AfxRgbaLutVoronoiGenerator.cs:28
 msgid "image"
-msgstr ""
+msgstr "obraz"
 
 #: AfxRgbaLutVoronoiGenerator.cs:29
 msgid "Preview"
-msgstr ""
+msgstr "Podgląd"
 
 #: AfxRgbaLutVoronoiGenerator.cs:30
 msgid "Horizontal:"
-msgstr ""
+msgstr "Poziom:"
 
 #: AfxRgbaLutVoronoiGenerator.cs:31
 msgid "Vertical:"
-msgstr ""
+msgstr "Pion:"
 
 #: AfxRgbaLutVoronoiGenerator.cs:33
 msgid "Save"
-msgstr ""
+msgstr "Zapisz"
 
 #: AfxRgbaLutVoronoiGenerator.cs:37 AfxRgbaLutVoronoiGenerator.cs:38
 msgctxt "terrorist"
 msgid "T"
-msgstr ""
+msgstr "Strona T"
 
 #: AfxRgbaLutVoronoiGenerator.cs:39 AfxRgbaLutVoronoiGenerator.cs:40
 msgctxt "counter-terrorist"
 msgid "CT"
-msgstr ""
+msgstr "Strona CT"
 
 #: AfxRgbaLutVoronoiGenerator.cs:41 AfxRgbaLutVoronoiGenerator.cs:42
 msgctxt "terrorist / counter-terrorist"
 msgid "T/CT neutral"
-msgstr ""
+msgstr "Kolor neutralny strony T/CT"
 
 #: AfxRgbaLutVoronoiGenerator.cs:44 AfxRgbaLutVoronoiGenerator.cs:45
 msgctxt "terrorist"
 msgid "T aim"
-msgstr ""
+msgstr "Cel T"
 
 #: AfxRgbaLutVoronoiGenerator.cs:46 AfxRgbaLutVoronoiGenerator.cs:47
 msgctxt "counter-terrorist"
 msgid "CT aim"
-msgstr ""
+msgstr "Cel CT"
 
 #: AfxRgbaLutVoronoiGenerator.cs:48 AfxRgbaLutVoronoiGenerator.cs:49
 msgctxt "terrorist / counter-terrorist"
 msgid "T/CT aim neutral"
-msgstr ""
+msgstr "Kolor neutralny celu strony T/CT"
 
 #: AfxRgbaLutVoronoiGenerator.cs:90
 msgctxt "Image"
 msgid "Target"
-msgstr ""
+msgstr "Cel"
 
 #: AfxRgbaLutVoronoiGenerator.cs:91
 msgctxt "Image"
 msgid "Source"
-msgstr ""
+msgstr "Źródło"
 
 #: AfxRgbaLutVoronoiGenerator.cs:92
 msgctxt "Image"
 msgid "RGB difference"
-msgstr ""
+msgstr "RGB"
 
 #: AfxRgbaLutVoronoiGenerator.cs:381
 #, csharp-format
 msgid "Invalid / missing value in row {0}, column {1}."
-msgstr ""
+msgstr "Niepoprawna / brakująca wartość w wierszu {0}, kolumnie {1}."
 
-#: AfxRgbaLutVoronoiGenerator.cs:382 AfxRgbaLutVoronoiGenerator.cs:435
-#: AfxRgbaLutVoronoiGenerator.cs:452 AfxRgbaLutVoronoiGenerator.cs:632
-#: AfxRgbaLutVoronoiGenerator.cs:644 AfxRgbaLutVoronoiGenerator.cs:835
-#: Launcher.cs:36 Tools/CustomLoader.cs:54
+#: AfxRgbaLutVoronoiGenerator.cs:382 AfxRgbaLutVoronoiGenerator.cs:435 AfxRgbaLutVoronoiGenerator.cs:452 AfxRgbaLutVoronoiGenerator.cs:632 AfxRgbaLutVoronoiGenerator.cs:644
+#: AfxRgbaLutVoronoiGenerator.cs:835 Launcher.cs:36 Tools/CustomLoader.cs:54
 msgid "Error"
-msgstr ""
+msgstr "Błąd"
 
 #: AfxRgbaLutVoronoiGenerator.cs:434
 #, csharp-format
 msgid "Duplicate source color in row {0} (of row {1})."
-msgstr ""
+msgstr "Podwójny kolor źródłowy w wierszu {0} (w rzędzie {1})."
 
 #: AfxRgbaLutVoronoiGenerator.cs:451
 msgid "Color map must not be empty."
-msgstr ""
+msgstr "Mapa kolorów nie może być pusta."
 
 #: AfxRgbaLutVoronoiGenerator.cs:467
 msgid "No Errors"
-msgstr ""
+msgstr "Brak błędów"
 
 #: AfxRgbaLutVoronoiGenerator.cs:468
 msgid "Check passsed"
@@ -259,16 +257,12 @@ msgstr ""
 
 #: HlaeErrors.cs:49
 msgctxt "HLAE errors"
-msgid ""
-"Make sure you run the injector and the program to inject with same access "
-"rights and that no anti virus / anti cheat is blocking its calls."
+msgid "Make sure you run the injector and the program to inject with same access rights and that no anti virus / anti cheat is blocking its calls."
 msgstr ""
 
 #: HlaeErrors.cs:50
 msgctxt "HLAE errors"
-msgid ""
-"Make sure to exit anitcheats like ESEA client / Faceit client, Challengeme."
-"gg before using HLAE."
+msgid "Make sure to exit anitcheats like ESEA client / Faceit client, Challengeme.gg before using HLAE."
 msgstr ""
 
 #: HlaeErrors.cs:65
@@ -344,9 +338,7 @@ msgstr ""
 
 #: HlaeErrors.cs:110
 msgctxt "HLAE errors"
-msgid ""
-"injector.exe blocked. Probably caused by antivirus. Check it and reextract "
-"HLAE (HLAE NEEDS to be extracted, don't run it from a .zip file)."
+msgid "injector.exe blocked. Probably caused by antivirus. Check it and reextract HLAE (HLAE NEEDS to be extracted, don't run it from a .zip file)."
 msgstr ""
 
 #: HlaeErrors.cs:117
@@ -361,9 +353,7 @@ msgstr ""
 
 #: HlaeErrors.cs:134
 msgctxt "HLAE errors"
-msgid ""
-"Make sure neither HLAE.exe nor Steam.exe nor csgo.exe are set to run as "
-"admin."
+msgid "Make sure neither HLAE.exe nor Steam.exe nor csgo.exe are set to run as admin."
 msgstr ""
 
 #: HlaeErrors.cs:138
@@ -470,13 +460,11 @@ msgstr ""
 #: LaunchCsgoForm.cs:133
 msgctxt "Launch CS:GO dialog | MmcfgFolder Description"
 msgid ""
-"When enabled you can set a parent folder for your movie making config for "
-"the game.\n"
+"When enabled you can set a parent folder for your movie making config for the game.\n"
 "The game will create a sub-folder called cfg there and store config.cfg\n"
 "and video settings in that folder.\n"
 "Also you can put your movie making config into that cfg sub-folder,\n"
-"however the game will load those only if they are not present inthe csgo/cfg "
-"folder already."
+"however the game will load those only if they are not present inthe csgo/cfg folder already."
 msgstr ""
 
 #: LaunchCsgoForm.cs:134
