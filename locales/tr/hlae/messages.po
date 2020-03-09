@@ -3,12 +3,12 @@
 # Copyright (C) 2020 advancedfx.org
 # This file is distributed under the same license as the hlae package.
 # <EMAIL@ADDRESS>, 2020.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: hlae\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-03-06 07:01+0100\n"
+"POT-Creation-Date: 2020-03-09 19:25+0100\n"
 "PO-Revision-Date: 2020-03-06 16:57+0000\n"
 "Last-Translator: Twissen <selimcan.krgzl@gmail.com>\n"
 "Language-Team: Turkish\n"
@@ -179,8 +179,9 @@ msgid "No Errors"
 msgstr "Hata bulunamadı"
 
 #: AfxRgbaLutVoronoiGenerator.cs:468
-msgid "Check passsed"
-msgstr ""
+#, fuzzy
+msgid "Check passed"
+msgstr "Güncelleştirmeleri Kontrol Et"
 
 #: AfxRgbaLutVoronoiGenerator.cs:631
 msgid "Error when creating / re-sizing color map."

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hlae\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-03-06 07:01+0100\n"
+"POT-Creation-Date: 2020-03-09 19:25+0100\n"
 "PO-Revision-Date: 2020-01-20 12:22+0100\n"
 "Last-Translator: <EMAIL@ADDRESS>\n"
 "Language-Team: Language pt-PT\n"
@@ -176,7 +176,7 @@ msgid "No Errors"
 msgstr ""
 
 #: AfxRgbaLutVoronoiGenerator.cs:468
-msgid "Check passsed"
+msgid "Check passed"
 msgstr ""
 
 #: AfxRgbaLutVoronoiGenerator.cs:631

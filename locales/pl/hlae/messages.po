@@ -3,12 +3,12 @@
 # Copyright (C) 2020 advancedfx.org
 # This file is distributed under the same license as the hlae package.
 # <EMAIL@ADDRESS>, 2020.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: hlae\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-03-06 07:01+0100\n"
+"POT-Creation-Date: 2020-03-09 19:25+0100\n"
 "PO-Revision-Date: 2020-03-06 20:24+0000\n"
 "Last-Translator: tedybooking <tedybooking@gmail.com>\n"
 "Language-Team: Polish\n"
@@ -179,7 +179,8 @@ msgid "No Errors"
 msgstr "Brak błędów"
 
 #: AfxRgbaLutVoronoiGenerator.cs:468
-msgid "Check passsed"
+#, fuzzy
+msgid "Check passed"
 msgstr "Sprawdzenie poprawne"
 
 #: AfxRgbaLutVoronoiGenerator.cs:631

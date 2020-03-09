@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hlae\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-03-06 07:01+0100\n"
+"POT-Creation-Date: 2020-03-09 19:25+0100\n"
 "PO-Revision-Date: 2020-01-22 11:00+0000\n"
 "Last-Translator: FlowingSPDG <shugo_k@flowing.tokyo>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -184,8 +184,9 @@ msgid "No Errors"
 msgstr "エラー"
 
 #: AfxRgbaLutVoronoiGenerator.cs:468
-msgid "Check passsed"
-msgstr ""
+#, fuzzy
+msgid "Check passed"
+msgstr "アップデートを確認"
 
 #: AfxRgbaLutVoronoiGenerator.cs:631
 msgid "Error when creating / re-sizing color map."
