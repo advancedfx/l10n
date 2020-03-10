@@ -2,14 +2,14 @@
 # Copyright (C) 2020 advancedfx.org
 # This file is distributed under the same license as the hlae package.
 # <EMAIL@ADDRESS>, 2020.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: hlae\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-03-09 19:25+0100\n"
-"PO-Revision-Date: 2020-03-04 03:02+0000\n"
-"Last-Translator: Purp1e <438518244@qq.com>\n"
+"PO-Revision-Date: 2020-03-10 16:00+0000\n"
+"Last-Translator: Dominik <dominik@matrixstorm.com>\n"
 "Language-Team: Language zh-CN\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
@@ -857,7 +857,7 @@ msgstr "英语"
 #: MainForm.cs:80
 msgctxt "Language"
 msgid "Chinese (zh-CN)"
-msgstr ""
+msgstr "中文（简体)"
 
 #: MainForm.cs:189
 msgctxt "Main window | update status strip | label"
