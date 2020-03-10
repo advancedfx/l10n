@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: hlae\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-03-09 19:25+0100\n"
-"PO-Revision-Date: 2020-03-10 16:00+0000\n"
-"Last-Translator: Dominik <dominik@matrixstorm.com>\n"
+"PO-Revision-Date: 2020-03-04 03:04+0000\n"
+"Last-Translator: Purp1e <438518244@qq.com>\n"
 "Language-Team: Language zh-CN\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
@@ -846,10 +846,9 @@ msgstr "官方支持页面（英文）"
 
 #: MainForm.cs:74
 msgid "HLAE Chinese Station"
-msgstr ""
+msgstr "HLAE中文站"
 
 #: MainForm.cs:77
-#, fuzzy
 msgctxt "Language"
 msgid "English (en)"
 msgstr "英语"
@@ -857,7 +856,7 @@ msgstr "英语"
 #: MainForm.cs:80
 msgctxt "Language"
 msgid "Chinese (zh-CN)"
-msgstr "中文（简体)"
+msgstr "中文（简体）"
 
 #: MainForm.cs:189
 msgctxt "Main window | update status strip | label"
