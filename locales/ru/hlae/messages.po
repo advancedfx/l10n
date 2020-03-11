@@ -3,13 +3,13 @@
 # Copyright (C) 2020 advancedfx.org
 # This file is distributed under the same license as the hlae package.
 # <EMAIL@ADDRESS>, 2020.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: hlae\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-03-09 19:25+0100\n"
-"PO-Revision-Date: 2020-03-03 11:28+0000\n"
+"PO-Revision-Date: 2020-03-11 14:25+0000\n"
 "Last-Translator: yovaN <akkardeon@gmail.com>\n"
 "Language-Team: Russian\n"
 "Language: ru\n"
@@ -55,114 +55,110 @@ msgstr "Внутреннее исключение: {0}"
 
 #: AfxRgbaLutVoronoiGenerator.cs:18
 msgid "Voronoi Color Lookup Table"
-msgstr ""
+msgstr "Таблица поиска цвета Вороного"
 
 #: AfxRgbaLutVoronoiGenerator.cs:19
-#, fuzzy
 msgid "Color map"
-msgstr "Глубина цвета:"
+msgstr "Таблица цвета"
 
 #: AfxRgbaLutVoronoiGenerator.cs:20 AfxRgbaLutVoronoiGenerator.cs:32
 msgid "Generate"
-msgstr ""
+msgstr "Создать"
 
 #: AfxRgbaLutVoronoiGenerator.cs:21
-#, fuzzy
 msgid "Check"
-msgstr "Проверить сейчас"
+msgstr "Проверка"
 
 #: AfxRgbaLutVoronoiGenerator.cs:22
-#, fuzzy
 msgid "Copy all to clipboard"
-msgstr "&Скопировать в буфер обмена для поддержки"
+msgstr "Скопировать все в буфер обмена"
 
 #: AfxRgbaLutVoronoiGenerator.cs:23
 msgid "Paste all from clipboard"
-msgstr ""
+msgstr "Вставить из буфера обмена"
 
 #: AfxRgbaLutVoronoiGenerator.cs:24
 msgctxt "Number/Key"
 msgid "Index"
-msgstr ""
+msgstr "Номер"
 
 #: AfxRgbaLutVoronoiGenerator.cs:25
 msgid "Comment"
-msgstr ""
+msgstr "Комментарий"
 
 #: AfxRgbaLutVoronoiGenerator.cs:26
-#, fuzzy
 msgid "Weight"
-msgstr "Высота:"
+msgstr "Высота"
 
 #: AfxRgbaLutVoronoiGenerator.cs:27 AfxRgbaLutVoronoiGenerator.cs:28
 msgid "image"
-msgstr ""
+msgstr "изображение"
 
 #: AfxRgbaLutVoronoiGenerator.cs:29
 msgid "Preview"
-msgstr ""
+msgstr "Просмотр"
 
 #: AfxRgbaLutVoronoiGenerator.cs:30
 msgid "Horizontal:"
-msgstr ""
+msgstr "Горизонтальный:"
 
 #: AfxRgbaLutVoronoiGenerator.cs:31
 msgid "Vertical:"
-msgstr ""
+msgstr "Вертикальный:"
 
 #: AfxRgbaLutVoronoiGenerator.cs:33
 msgid "Save"
-msgstr ""
+msgstr "Сохранить"
 
 #: AfxRgbaLutVoronoiGenerator.cs:37 AfxRgbaLutVoronoiGenerator.cs:38
 msgctxt "terrorist"
 msgid "T"
-msgstr ""
+msgstr "Т"
 
 #: AfxRgbaLutVoronoiGenerator.cs:39 AfxRgbaLutVoronoiGenerator.cs:40
 msgctxt "counter-terrorist"
 msgid "CT"
-msgstr ""
+msgstr "CT"
 
 #: AfxRgbaLutVoronoiGenerator.cs:41 AfxRgbaLutVoronoiGenerator.cs:42
 msgctxt "terrorist / counter-terrorist"
 msgid "T/CT neutral"
-msgstr ""
+msgstr "T/CT нейтральный"
 
 #: AfxRgbaLutVoronoiGenerator.cs:44 AfxRgbaLutVoronoiGenerator.cs:45
 msgctxt "terrorist"
 msgid "T aim"
-msgstr ""
+msgstr "Т прицел"
 
 #: AfxRgbaLutVoronoiGenerator.cs:46 AfxRgbaLutVoronoiGenerator.cs:47
 msgctxt "counter-terrorist"
 msgid "CT aim"
-msgstr ""
+msgstr "CT прицел"
 
 #: AfxRgbaLutVoronoiGenerator.cs:48 AfxRgbaLutVoronoiGenerator.cs:49
 msgctxt "terrorist / counter-terrorist"
 msgid "T/CT aim neutral"
-msgstr ""
+msgstr "T/CT нейтральный прицел"
 
 #: AfxRgbaLutVoronoiGenerator.cs:90
 msgctxt "Image"
 msgid "Target"
-msgstr ""
+msgstr "Цель"
 
 #: AfxRgbaLutVoronoiGenerator.cs:91
 msgctxt "Image"
 msgid "Source"
-msgstr ""
+msgstr "Источник"
 
 #: AfxRgbaLutVoronoiGenerator.cs:92
 msgctxt "Image"
 msgid "RGB difference"
-msgstr ""
+msgstr "Разница RGB"
 
 #: AfxRgbaLutVoronoiGenerator.cs:381
 #, csharp-format
 msgid "Invalid / missing value in row {0}, column {1}."
-msgstr ""
+msgstr "Неверное / отсутствующее значение в строке {0}, столбце {1}."
 
 #: AfxRgbaLutVoronoiGenerator.cs:382 AfxRgbaLutVoronoiGenerator.cs:435 AfxRgbaLutVoronoiGenerator.cs:452 AfxRgbaLutVoronoiGenerator.cs:632 AfxRgbaLutVoronoiGenerator.cs:644
 #: AfxRgbaLutVoronoiGenerator.cs:835 Launcher.cs:36 Tools/CustomLoader.cs:54
@@ -172,34 +168,32 @@ msgstr "Ошибка"
 #: AfxRgbaLutVoronoiGenerator.cs:434
 #, csharp-format
 msgid "Duplicate source color in row {0} (of row {1})."
-msgstr ""
+msgstr "Дублировать исходный цвет в строке {0} (ряд {1})."
 
 #: AfxRgbaLutVoronoiGenerator.cs:451
 msgid "Color map must not be empty."
-msgstr ""
+msgstr "Таблица цветов не должна быть пустой."
 
 #: AfxRgbaLutVoronoiGenerator.cs:467
-#, fuzzy
 msgid "No Errors"
-msgstr "Ошибка"
+msgstr "Нет ошибок"
 
 #: AfxRgbaLutVoronoiGenerator.cs:468
-#, fuzzy
 msgid "Check passed"
-msgstr "Проверять обновления"
+msgstr "Проверка успешна"
 
 #: AfxRgbaLutVoronoiGenerator.cs:631
 msgid "Error when creating / re-sizing color map."
-msgstr ""
+msgstr "Ошибка при создании / изменении таблицы цветов."
 
 #: AfxRgbaLutVoronoiGenerator.cs:643
 msgid "Iteration aborted."
-msgstr ""
+msgstr "Итерация прервана."
 
 #: AfxRgbaLutVoronoiGenerator.cs:834
 #, csharp-format
 msgid "Saving to \"{0}\" failed."
-msgstr ""
+msgstr "Сохранение в \"{0}\" не удалось."
 
 #: Config.cs:56 Config.cs:197
 msgctxt "Config (game path)"
@@ -723,12 +717,12 @@ msgstr "Размер файла"
 #: MainForm.cs:39
 msgctxt "Main window | menu | Tools"
 msgid "Color Lookup Tables"
-msgstr ""
+msgstr "Таблицы цветов"
 
 #: MainForm.cs:40
 msgctxt "Main window | menu | Tools | Color Lookup Tables"
 msgid "Voronoi"
-msgstr ""
+msgstr "Вороной"
 
 #: MainForm.cs:41
 msgctxt "Main window | menu | Tools"
@@ -793,7 +787,7 @@ msgstr "Официальный сайт"
 #: MainForm.cs:56
 msgctxt "Main window | menu"
 msgid "Donate"
-msgstr "Пожертвование"
+msgstr "Донат"
 
 #: MainForm.cs:58
 msgctxt "Main window | check updates strip"
@@ -827,7 +821,7 @@ msgstr "Состояние обновлений неизвестно"
 
 #: MainForm.cs:67
 msgid "Contact / Privacy Policy / Imprint (advancedfx.org)"
-msgstr ""
+msgstr "Контакты / Политика конфиденциальности / Выходные сведения (advancedfx.org)"
 
 #: MainForm.cs:69
 msgid "Help"
@@ -847,18 +841,17 @@ msgstr "Официальная страница поддержки (Англий
 
 #: MainForm.cs:74
 msgid "HLAE Chinese Station"
-msgstr ""
+msgstr "Китайский ресурс HLAE"
 
 #: MainForm.cs:77
-#, fuzzy
 msgctxt "Language"
 msgid "English (en)"
-msgstr "Английский"
+msgstr "Английский (en)"
 
 #: MainForm.cs:80
 msgctxt "Language"
 msgid "Chinese (zh-CN)"
-msgstr ""
+msgstr "Китайский (zh-CN)"
 
 #: MainForm.cs:189
 msgctxt "Main window | update status strip | label"
@@ -923,7 +916,7 @@ msgstr "Расчетное использование диска"
 #: Tools/Calculator.cs:26
 msgctxt "File Size Calculator | Estimate"
 msgid "HuffYuv encoded output"
-msgstr "HuffYuv кодировка вывода"
+msgstr "HuffYuv кодировка"
 
 #: Tools/CustomLoader.cs:54
 msgctxt "Custom Loader dialog"
