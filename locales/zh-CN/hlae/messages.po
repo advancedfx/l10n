@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: hlae\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-03-09 19:25+0100\n"
-"PO-Revision-Date: 2020-03-12 05:59+0000\n"
+"PO-Revision-Date: 2020-03-12 13:28+0000\n"
 "Last-Translator: Purp1e <438518244@qq.com>\n"
 "Language-Team: Language zh-CN\n"
 "Language: zh_CN\n"
@@ -54,7 +54,7 @@ msgstr "内部错误: {0}"
 
 #: AfxRgbaLutVoronoiGenerator.cs:18
 msgid "Voronoi Color Lookup Table"
-msgstr ""
+msgstr "维诺图颜色查看表"
 
 #: AfxRgbaLutVoronoiGenerator.cs:19
 msgid "Color map"
@@ -62,7 +62,7 @@ msgstr "色深："
 
 #: AfxRgbaLutVoronoiGenerator.cs:20 AfxRgbaLutVoronoiGenerator.cs:32
 msgid "Generate"
-msgstr ""
+msgstr "生成"
 
 #: AfxRgbaLutVoronoiGenerator.cs:21
 msgid "Check"
@@ -74,16 +74,16 @@ msgstr "复制到粘贴板"
 
 #: AfxRgbaLutVoronoiGenerator.cs:23
 msgid "Paste all from clipboard"
-msgstr ""
+msgstr "从剪切板粘贴所有内容"
 
 #: AfxRgbaLutVoronoiGenerator.cs:24
 msgctxt "Number/Key"
 msgid "Index"
-msgstr ""
+msgstr "指引"
 
 #: AfxRgbaLutVoronoiGenerator.cs:25
 msgid "Comment"
-msgstr ""
+msgstr "注释"
 
 #: AfxRgbaLutVoronoiGenerator.cs:26
 msgid "Weight"
@@ -91,38 +91,38 @@ msgstr "高"
 
 #: AfxRgbaLutVoronoiGenerator.cs:27 AfxRgbaLutVoronoiGenerator.cs:28
 msgid "image"
-msgstr ""
+msgstr "图片"
 
 #: AfxRgbaLutVoronoiGenerator.cs:29
 msgid "Preview"
-msgstr ""
+msgstr "预览"
 
 #: AfxRgbaLutVoronoiGenerator.cs:30
 msgid "Horizontal:"
-msgstr ""
+msgstr "水平："
 
 #: AfxRgbaLutVoronoiGenerator.cs:31
 msgid "Vertical:"
-msgstr ""
+msgstr "竖直："
 
 #: AfxRgbaLutVoronoiGenerator.cs:33
 msgid "Save"
-msgstr ""
+msgstr "保存"
 
 #: AfxRgbaLutVoronoiGenerator.cs:37 AfxRgbaLutVoronoiGenerator.cs:38
 msgctxt "terrorist"
 msgid "T"
-msgstr ""
+msgstr "恐怖份子"
 
 #: AfxRgbaLutVoronoiGenerator.cs:39 AfxRgbaLutVoronoiGenerator.cs:40
 msgctxt "counter-terrorist"
 msgid "CT"
-msgstr ""
+msgstr "反恐精英"
 
 #: AfxRgbaLutVoronoiGenerator.cs:41 AfxRgbaLutVoronoiGenerator.cs:42
 msgctxt "terrorist / counter-terrorist"
 msgid "T/CT neutral"
-msgstr ""
+msgstr "T/CT 中立"
 
 #: AfxRgbaLutVoronoiGenerator.cs:44 AfxRgbaLutVoronoiGenerator.cs:45
 msgctxt "terrorist"
@@ -142,22 +142,22 @@ msgstr ""
 #: AfxRgbaLutVoronoiGenerator.cs:90
 msgctxt "Image"
 msgid "Target"
-msgstr ""
+msgstr "目标"
 
 #: AfxRgbaLutVoronoiGenerator.cs:91
 msgctxt "Image"
 msgid "Source"
-msgstr ""
+msgstr "来源"
 
 #: AfxRgbaLutVoronoiGenerator.cs:92
 msgctxt "Image"
 msgid "RGB difference"
-msgstr ""
+msgstr "RGB区别"
 
 #: AfxRgbaLutVoronoiGenerator.cs:381
 #, csharp-format
 msgid "Invalid / missing value in row {0}, column {1}."
-msgstr ""
+msgstr "第{0}行，第{1}列的值无效或丢失"
 
 #: AfxRgbaLutVoronoiGenerator.cs:382 AfxRgbaLutVoronoiGenerator.cs:435 AfxRgbaLutVoronoiGenerator.cs:452 AfxRgbaLutVoronoiGenerator.cs:632 AfxRgbaLutVoronoiGenerator.cs:644
 #: AfxRgbaLutVoronoiGenerator.cs:835 Launcher.cs:36 Tools/CustomLoader.cs:54
@@ -167,11 +167,11 @@ msgstr "错误"
 #: AfxRgbaLutVoronoiGenerator.cs:434
 #, csharp-format
 msgid "Duplicate source color in row {0} (of row {1})."
-msgstr ""
+msgstr "复制第{0}行（第{1}列）的源颜色"
 
 #: AfxRgbaLutVoronoiGenerator.cs:451
 msgid "Color map must not be empty."
-msgstr ""
+msgstr "颜色图不能为空。"
 
 #: AfxRgbaLutVoronoiGenerator.cs:467
 msgid "No Errors"
@@ -183,16 +183,16 @@ msgstr "检查通过"
 
 #: AfxRgbaLutVoronoiGenerator.cs:631
 msgid "Error when creating / re-sizing color map."
-msgstr ""
+msgstr "创建或缩放颜色图时出错。"
 
 #: AfxRgbaLutVoronoiGenerator.cs:643
 msgid "Iteration aborted."
-msgstr ""
+msgstr "重复终止。"
 
 #: AfxRgbaLutVoronoiGenerator.cs:834
 #, csharp-format
 msgid "Saving to \"{0}\" failed."
-msgstr ""
+msgstr "保存到“{0}”失败"
 
 #: Config.cs:56 Config.cs:197
 msgctxt "Config (game path)"
@@ -716,12 +716,12 @@ msgstr "文件大小"
 #: MainForm.cs:39
 msgctxt "Main window | menu | Tools"
 msgid "Color Lookup Tables"
-msgstr ""
+msgstr "颜色查看表"
 
 #: MainForm.cs:40
 msgctxt "Main window | menu | Tools | Color Lookup Tables"
 msgid "Voronoi"
-msgstr ""
+msgstr "维诺图"
 
 #: MainForm.cs:41
 msgctxt "Main window | menu | Tools"
@@ -820,7 +820,7 @@ msgstr "更新状况未知"
 
 #: MainForm.cs:67
 msgid "Contact / Privacy Policy / Imprint (advancedfx.org)"
-msgstr ""
+msgstr "联系/隐私政策/版本说明(advancedfx.org)"
 
 #: MainForm.cs:69
 msgid "Help"
