@@ -3,12 +3,12 @@
 # Copyright (C) 2020 advancedfx.org
 # This file is distributed under the same license as the hlae package.
 # <EMAIL@ADDRESS>, 2020.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: hlae\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-03-09 19:25+0100\n"
+"POT-Creation-Date: 2020-03-28 12:31+0100\n"
 "PO-Revision-Date: 2020-03-11 14:25+0000\n"
 "Last-Translator: yovaN <akkardeon@gmail.com>\n"
 "Language-Team: Russian\n"
@@ -161,7 +161,7 @@ msgid "Invalid / missing value in row {0}, column {1}."
 msgstr "Неверное / отсутствующее значение в строке {0}, столбце {1}."
 
 #: AfxRgbaLutVoronoiGenerator.cs:382 AfxRgbaLutVoronoiGenerator.cs:435 AfxRgbaLutVoronoiGenerator.cs:452 AfxRgbaLutVoronoiGenerator.cs:632 AfxRgbaLutVoronoiGenerator.cs:644
-#: AfxRgbaLutVoronoiGenerator.cs:835 Launcher.cs:36 Tools/CustomLoader.cs:54
+#: AfxRgbaLutVoronoiGenerator.cs:835 Launcher.cs:36 Tools/CustomLoader.cs:76
 msgid "Error"
 msgstr "Ошибка"
 
@@ -195,7 +195,7 @@ msgstr "Итерация прервана."
 msgid "Saving to \"{0}\" failed."
 msgstr "Сохранение в \"{0}\" не удалось."
 
-#: Config.cs:56 Config.cs:197
+#: Config.cs:56 Config.cs:200
 msgctxt "Config (game path)"
 msgid "please select"
 msgstr "пожалуйста, выберите"
@@ -918,7 +918,7 @@ msgctxt "File Size Calculator | Estimate"
 msgid "HuffYuv encoded output"
 msgstr "HuffYuv кодировка"
 
-#: Tools/CustomLoader.cs:54
+#: Tools/CustomLoader.cs:76
 msgctxt "Custom Loader dialog"
 msgid "CustomLoader failed"
 msgstr "Сбой пользовательского загрузчика"
@@ -983,12 +983,16 @@ msgctxt "Custom Loader dialog"
 msgid "&Abort"
 msgstr "&Отмена"
 
-#: Tools/CustomLoaderForm.cs:63
+#: Tools/CustomLoaderForm.cs:36
+msgid "Add environment variables: name=value"
+msgstr ""
+
+#: Tools/CustomLoaderForm.cs:72
 msgctxt "Custom Loader dialog | Program filter"
 msgid "Program to launch and hook (.exe)|*.exe"
 msgstr "Программа для запуска и подключения (.exe)|*.exe"
 
-#: Tools/CustomLoaderForm.cs:71
+#: Tools/CustomLoaderForm.cs:80
 msgctxt "Custom Loader dialog | DLL filter"
 msgid "Hook DLL (.dll)|*.dll"
 msgstr "Подключаемая DLL (.dll)|*.dll"

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hlae\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-03-09 19:25+0100\n"
+"POT-Creation-Date: 2020-03-28 12:31+0100\n"
 "PO-Revision-Date: 2020-01-22 11:00+0000\n"
 "Last-Translator: FlowingSPDG <shugo_k@flowing.tokyo>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -165,7 +165,7 @@ msgid "Invalid / missing value in row {0}, column {1}."
 msgstr ""
 
 #: AfxRgbaLutVoronoiGenerator.cs:382 AfxRgbaLutVoronoiGenerator.cs:435 AfxRgbaLutVoronoiGenerator.cs:452 AfxRgbaLutVoronoiGenerator.cs:632 AfxRgbaLutVoronoiGenerator.cs:644
-#: AfxRgbaLutVoronoiGenerator.cs:835 Launcher.cs:36 Tools/CustomLoader.cs:54
+#: AfxRgbaLutVoronoiGenerator.cs:835 Launcher.cs:36 Tools/CustomLoader.cs:76
 msgid "Error"
 msgstr "エラー"
 
@@ -201,7 +201,7 @@ msgstr ""
 msgid "Saving to \"{0}\" failed."
 msgstr ""
 
-#: Config.cs:56 Config.cs:197
+#: Config.cs:56 Config.cs:200
 msgctxt "Config (game path)"
 msgid "please select"
 msgstr "選択"
@@ -923,7 +923,7 @@ msgctxt "File Size Calculator | Estimate"
 msgid "HuffYuv encoded output"
 msgstr "HuffYuvエンコード出力"
 
-#: Tools/CustomLoader.cs:54
+#: Tools/CustomLoader.cs:76
 msgctxt "Custom Loader dialog"
 msgid "CustomLoader failed"
 msgstr "CustomLoader失敗"
@@ -988,12 +988,16 @@ msgctxt "Custom Loader dialog"
 msgid "&Abort"
 msgstr "&放棄"
 
-#: Tools/CustomLoaderForm.cs:63
+#: Tools/CustomLoaderForm.cs:36
+msgid "Add environment variables: name=value"
+msgstr ""
+
+#: Tools/CustomLoaderForm.cs:72
 msgctxt "Custom Loader dialog | Program filter"
 msgid "Program to launch and hook (.exe)|*.exe"
 msgstr "起動するプログラムとフック (.exe)|*.exe"
 
-#: Tools/CustomLoaderForm.cs:71
+#: Tools/CustomLoaderForm.cs:80
 msgctxt "Custom Loader dialog | DLL filter"
 msgid "Hook DLL (.dll)|*.dll"
 msgstr "フックするDLL (.dll)|*.dll"

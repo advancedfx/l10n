@@ -3,12 +3,12 @@
 # Copyright (C) 2020 advancedfx.org
 # This file is distributed under the same license as the hlae package.
 # <EMAIL@ADDRESS>, 2020.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: hlae\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-03-09 19:25+0100\n"
+"POT-Creation-Date: 2020-03-28 12:31+0100\n"
 "PO-Revision-Date: 2020-03-10 00:00+0000\n"
 "Last-Translator: Dominik <dominik@matrixstorm.com>\n"
 "Language-Team: German\n"
@@ -161,7 +161,7 @@ msgid "Invalid / missing value in row {0}, column {1}."
 msgstr "Ungültiger / fehlender Wert in Zeile {0}, Spalte {1}."
 
 #: AfxRgbaLutVoronoiGenerator.cs:382 AfxRgbaLutVoronoiGenerator.cs:435 AfxRgbaLutVoronoiGenerator.cs:452 AfxRgbaLutVoronoiGenerator.cs:632 AfxRgbaLutVoronoiGenerator.cs:644
-#: AfxRgbaLutVoronoiGenerator.cs:835 Launcher.cs:36 Tools/CustomLoader.cs:54
+#: AfxRgbaLutVoronoiGenerator.cs:835 Launcher.cs:36 Tools/CustomLoader.cs:76
 msgid "Error"
 msgstr "Fehler"
 
@@ -195,7 +195,7 @@ msgstr "Iteration abgebrochen."
 msgid "Saving to \"{0}\" failed."
 msgstr "Speichern nach \"{0}\" fehlgeschlagen."
 
-#: Config.cs:56 Config.cs:197
+#: Config.cs:56 Config.cs:200
 msgctxt "Config (game path)"
 msgid "please select"
 msgstr "bitte auswählen"
@@ -339,8 +339,7 @@ msgstr "Starten des Inkektors fehlgeschlagen: {0}"
 #: HlaeErrors.cs:110
 msgctxt "HLAE errors"
 msgid "injector.exe blocked. Probably caused by antivirus. Check it and reextract HLAE (HLAE NEEDS to be extracted, don't run it from a .zip file)."
-msgstr ""
-"injector.exe blockiert. Wahrscheinlich durch Antivirus verursacht. Überprüfen Sie das und entpacken Sie HLAE nochmals (HLAE MUSS extrahiert werden, führen Sie es nicht von einer .zip Datei aus)."
+msgstr "injector.exe blockiert. Wahrscheinlich durch Antivirus verursacht. Überprüfen Sie das und entpacken Sie HLAE nochmals (HLAE MUSS extrahiert werden, führen Sie es nicht von einer .zip Datei aus)."
 
 #: HlaeErrors.cs:117
 msgctxt "HLAE errors"
@@ -921,7 +920,7 @@ msgctxt "File Size Calculator | Estimate"
 msgid "HuffYuv encoded output"
 msgstr "HuffYuv kodierte Ausgabe"
 
-#: Tools/CustomLoader.cs:54
+#: Tools/CustomLoader.cs:76
 msgctxt "Custom Loader dialog"
 msgid "CustomLoader failed"
 msgstr "Benutzerdefinierter Starter fehlgeschlagen"
@@ -986,12 +985,16 @@ msgctxt "Custom Loader dialog"
 msgid "&Abort"
 msgstr "&Abbrechen"
 
-#: Tools/CustomLoaderForm.cs:63
+#: Tools/CustomLoaderForm.cs:36
+msgid "Add environment variables: name=value"
+msgstr ""
+
+#: Tools/CustomLoaderForm.cs:72
 msgctxt "Custom Loader dialog | Program filter"
 msgid "Program to launch and hook (.exe)|*.exe"
 msgstr "Zu startendes und hookendes programm (.exe)|*.exe"
 
-#: Tools/CustomLoaderForm.cs:71
+#: Tools/CustomLoaderForm.cs:80
 msgctxt "Custom Loader dialog | DLL filter"
 msgid "Hook DLL (.dll)|*.dll"
 msgstr "Hook DLL (.dll)|*.dll"

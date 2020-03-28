@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hlae\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-03-09 19:25+0100\n"
+"POT-Creation-Date: 2020-03-28 12:31+0100\n"
 "PO-Revision-Date: 2020-03-06 16:57+0000\n"
 "Last-Translator: Twissen <selimcan.krgzl@gmail.com>\n"
 "Language-Team: Turkish\n"
@@ -161,7 +161,7 @@ msgid "Invalid / missing value in row {0}, column {1}."
 msgstr ""
 
 #: AfxRgbaLutVoronoiGenerator.cs:382 AfxRgbaLutVoronoiGenerator.cs:435 AfxRgbaLutVoronoiGenerator.cs:452 AfxRgbaLutVoronoiGenerator.cs:632 AfxRgbaLutVoronoiGenerator.cs:644
-#: AfxRgbaLutVoronoiGenerator.cs:835 Launcher.cs:36 Tools/CustomLoader.cs:54
+#: AfxRgbaLutVoronoiGenerator.cs:835 Launcher.cs:36 Tools/CustomLoader.cs:76
 msgid "Error"
 msgstr "Hata"
 
@@ -196,7 +196,7 @@ msgstr ""
 msgid "Saving to \"{0}\" failed."
 msgstr ""
 
-#: Config.cs:56 Config.cs:197
+#: Config.cs:56 Config.cs:200
 msgctxt "Config (game path)"
 msgid "please select"
 msgstr "lütfen seçiniz"
@@ -914,7 +914,7 @@ msgctxt "File Size Calculator | Estimate"
 msgid "HuffYuv encoded output"
 msgstr ""
 
-#: Tools/CustomLoader.cs:54
+#: Tools/CustomLoader.cs:76
 msgctxt "Custom Loader dialog"
 msgid "CustomLoader failed"
 msgstr "Özel Yükleyici başarısız oldu."
@@ -979,12 +979,16 @@ msgctxt "Custom Loader dialog"
 msgid "&Abort"
 msgstr "&İptal Et"
 
-#: Tools/CustomLoaderForm.cs:63
+#: Tools/CustomLoaderForm.cs:36
+msgid "Add environment variables: name=value"
+msgstr ""
+
+#: Tools/CustomLoaderForm.cs:72
 msgctxt "Custom Loader dialog | Program filter"
 msgid "Program to launch and hook (.exe)|*.exe"
 msgstr ""
 
-#: Tools/CustomLoaderForm.cs:71
+#: Tools/CustomLoaderForm.cs:80
 msgctxt "Custom Loader dialog | DLL filter"
 msgid "Hook DLL (.dll)|*.dll"
 msgstr "Hook DLL (.dll)|*.dll"
