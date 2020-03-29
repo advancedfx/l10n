@@ -3,14 +3,14 @@
 # Copyright (C) 2020 advancedfx.org
 # This file is distributed under the same license as the hlae package.
 # <EMAIL@ADDRESS>, 2020.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: hlae\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-03-28 12:31+0100\n"
-"PO-Revision-Date: 2020-03-06 16:57+0000\n"
-"Last-Translator: Twissen <selimcan.krgzl@gmail.com>\n"
+"PO-Revision-Date: 2020-03-28 13:34+0000\n"
+"Last-Translator: koman1cus <koman1cus@gmail.com>\n"
 "Language-Team: Turkish\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
@@ -833,7 +833,7 @@ msgstr ""
 
 #: MainForm.cs:73
 msgid "Official support page (English)"
-msgstr ""
+msgstr "Resmi destek sayfası (İngilizce)"
 
 #: MainForm.cs:74
 msgid "HLAE Chinese Station"
