@@ -3,13 +3,13 @@
 # Copyright (C) 2020 advancedfx.org
 # This file is distributed under the same license as the hlae package.
 # <EMAIL@ADDRESS>, 2020.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: hlae\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-03-28 12:31+0100\n"
-"PO-Revision-Date: 2020-03-11 14:25+0000\n"
+"PO-Revision-Date: 2020-04-11 10:47+0000\n"
 "Last-Translator: yovaN <akkardeon@gmail.com>\n"
 "Language-Team: Russian\n"
 "Language: ru\n"
@@ -985,7 +985,7 @@ msgstr "&Отмена"
 
 #: Tools/CustomLoaderForm.cs:36
 msgid "Add environment variables: name=value"
-msgstr ""
+msgstr "Добавить переменные среды: название=значение"
 
 #: Tools/CustomLoaderForm.cs:72
 msgctxt "Custom Loader dialog | Program filter"
