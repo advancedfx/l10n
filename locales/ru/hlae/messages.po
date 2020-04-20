@@ -3,12 +3,12 @@
 # Copyright (C) 2020 advancedfx.org
 # This file is distributed under the same license as the hlae package.
 # <EMAIL@ADDRESS>, 2020.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: hlae\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-03-28 12:31+0100\n"
+"POT-Creation-Date: 2020-04-20 16:30+0200\n"
 "PO-Revision-Date: 2020-04-11 10:47+0000\n"
 "Last-Translator: yovaN <akkardeon@gmail.com>\n"
 "Language-Team: Russian\n"
@@ -458,13 +458,14 @@ msgid "Can&cel"
 msgstr "От&мена"
 
 #: LaunchCsgoForm.cs:133
+#, fuzzy
 msgctxt "Launch CS:GO dialog | MmcfgFolder Description"
 msgid ""
 "When enabled you can set a parent folder for your movie making config for the game.\n"
 "The game will create a sub-folder called cfg there and store config.cfg\n"
 "and video settings in that folder.\n"
 "Also you can put your movie making config into that cfg sub-folder,\n"
-"however the game will load those only if they are not present inthe csgo/cfg folder already."
+"however the game will load those only if they are not present in the csgo/cfg folder already."
 msgstr ""
 "Если включено, то вы можете установить родительскую папку для вашего мувимейкинг конфига.\n"
 "Игра создаст подпапку cfg и будет хранить там config.cfg и настройки видео.\n"
