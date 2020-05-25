@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"PO-Revision-Date: 2020-03-07 19:05+0000\n"
+"PO-Revision-Date: 2020-05-25 11:45+0000\n"
 "Last-Translator: Twissen <selimcan.krgzl@gmail.com>\n"
 "Language-Team: Turkish\n"
 "Language: tr\n"
@@ -26,7 +26,7 @@ msgstr "Hoşgeldiniz"
 
 msgctxt "InstallMessage"
 msgid "Setup will install [WixBundleName] on your computer. Click install to continue"
-msgstr "Kurulum bilgisayarınıza şunu yükleyecektir: [WixBundleName]. Devam etmek için lütfen tıklayınız"
+msgstr "Kurulum bilgisayarınıza şunu yükleyecektir: [WixBundleName]. Devam etmek için lütfen yükle butonuna tıklayınız"
 
 msgctxt "InstallVersion"
 msgid "Version [WixBundleVersion]"
@@ -62,11 +62,11 @@ msgstr "&Kapat"
 
 msgctxt "InstallLicenseLinkText"
 msgid "[WixBundleName] <a href=\"#\">license terms</a>."
-msgstr ""
+msgstr "[WixBundleName] <a href=\"#\">lisans hükümleri</a>."
 
 msgctxt "InstallAcceptCheckbox"
 msgid "I &agree to the license terms and conditions"
-msgstr ""
+msgstr "Lisans hüküm ve koşullarını &onaylıyorum"
 
 msgctxt "InstallOptionsButton"
 msgid "&Options"
@@ -86,11 +86,11 @@ msgstr "Kurulum Ayarları"
 
 msgctxt "OptionsLocationLabel"
 msgid "Install location:"
-msgstr "Kurulum yeri:"
+msgstr "Kurulum lokasyonu:"
 
 msgctxt "OptionsBrowseButton"
 msgid "&Browse"
-msgstr ""
+msgstr "&Ara"
 
 msgctxt "OptionsOkButton"
 msgid "&OK"
@@ -106,11 +106,11 @@ msgstr "Kurulum İlerlemesi"
 
 msgctxt "ProgressLabel"
 msgid "Processing:"
-msgstr ""
+msgstr "İşleniyor:"
 
 msgctxt "OverallProgressPackageText"
 msgid "Initializing..."
-msgstr ""
+msgstr "Başlatılıyor..."
 
 msgctxt "ProgressCancelButton"
 msgid "&Cancel"
@@ -134,15 +134,15 @@ msgstr "&Kapat"
 
 msgctxt "SuccessRepairHeader"
 msgid "Repair Successfully Completed"
-msgstr "Onarım başarı ile tamamlandı"
+msgstr "Onarım işlemi başarı ile tamamlandı"
 
 msgctxt "SuccessUninstallHeader"
 msgid "Uninstall Successfully Completed"
-msgstr "Kaldırma başarı ile tamamlandı"
+msgstr "Kaldırma işlemi başarı ile tamamlandı"
 
 msgctxt "SuccessInstallHeader"
 msgid "Installation Successfully Completed"
-msgstr "Yükleme başarı ile tamamlandı"
+msgstr "Yükleme işlemi başarı ile tamamlandı"
 
 msgctxt "SuccessHeader"
 msgid "Setup Successful"
@@ -202,7 +202,7 @@ msgstr "Dosyalar kullanımda"
 
 msgctxt "FilesInUseLabel"
 msgid "The following applications are using files that need to be updated:"
-msgstr ""
+msgstr "Aşağıdaki uygulamalar güncellenmesi gereken dosyalar kullanıyor:"
 
 msgctxt "FilesInUseCloseRadioButton"
 msgid "Close the &applications and attempt to restart them."
@@ -226,11 +226,11 @@ msgstr ""
 
 msgctxt "HlaeDisclaimerTitle"
 msgid "Disclaimer"
-msgstr ""
+msgstr "Sorumluluk reddi"
 
 msgctxt "HlaeDisclaimer"
 msgid "This software is for your enjoyment and you are using it at your own risk."
-msgstr ""
+msgstr "Bu yazılım eğlence amaçlı geliştirilmiştir. Yazılımı kullanırkenki risk tarafınıza aittir."
 
 msgctxt "HlaeFeaturesHeader"
 msgid "Features"

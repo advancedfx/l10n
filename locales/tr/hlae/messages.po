@@ -3,14 +3,14 @@
 # Copyright (C) 2020 advancedfx.org
 # This file is distributed under the same license as the hlae package.
 # <EMAIL@ADDRESS>, 2020.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: hlae\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-04-20 16:30+0200\n"
-"PO-Revision-Date: 2020-03-28 13:34+0000\n"
-"Last-Translator: koman1cus <koman1cus@gmail.com>\n"
+"PO-Revision-Date: 2020-05-25 14:12+0000\n"
+"Last-Translator: DSR <koman1cus@gmail.com>\n"
 "Language-Team: Turkish\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
@@ -51,15 +51,15 @@ msgstr "Çözüm: {0}"
 #, csharp-format
 msgctxt "AfxError"
 msgid "Inner exception: {0}"
-msgstr ""
+msgstr "Dahili İstisna: {0}"
 
 #: AfxRgbaLutVoronoiGenerator.cs:18
 msgid "Voronoi Color Lookup Table"
-msgstr ""
+msgstr "Voronoi Renk Arama Tablosu"
 
 #: AfxRgbaLutVoronoiGenerator.cs:19
 msgid "Color map"
-msgstr ""
+msgstr "Renk Kalıbı"
 
 #: AfxRgbaLutVoronoiGenerator.cs:20 AfxRgbaLutVoronoiGenerator.cs:32
 msgid "Generate"
@@ -71,11 +71,11 @@ msgstr "Denetle"
 
 #: AfxRgbaLutVoronoiGenerator.cs:22
 msgid "Copy all to clipboard"
-msgstr "Her şeyi panoya kopyala"
+msgstr "Tümünü panoya kopyala"
 
 #: AfxRgbaLutVoronoiGenerator.cs:23
 msgid "Paste all from clipboard"
-msgstr "Her şeyi panoya yapıştır"
+msgstr "Tümünü panoya yapıştır"
 
 #: AfxRgbaLutVoronoiGenerator.cs:24
 msgctxt "Number/Key"
@@ -88,11 +88,11 @@ msgstr "Yorum"
 
 #: AfxRgbaLutVoronoiGenerator.cs:26
 msgid "Weight"
-msgstr ""
+msgstr "Yoğunluk"
 
 #: AfxRgbaLutVoronoiGenerator.cs:27 AfxRgbaLutVoronoiGenerator.cs:28
 msgid "image"
-msgstr "resim"
+msgstr "görüntü"
 
 #: AfxRgbaLutVoronoiGenerator.cs:29
 msgid "Preview"
@@ -123,7 +123,7 @@ msgstr "CT"
 #: AfxRgbaLutVoronoiGenerator.cs:41 AfxRgbaLutVoronoiGenerator.cs:42
 msgctxt "terrorist / counter-terrorist"
 msgid "T/CT neutral"
-msgstr ""
+msgstr "T/CT ham"
 
 #: AfxRgbaLutVoronoiGenerator.cs:44 AfxRgbaLutVoronoiGenerator.cs:45
 msgctxt "terrorist"
@@ -158,7 +158,7 @@ msgstr "RGB farklılığı"
 #: AfxRgbaLutVoronoiGenerator.cs:381
 #, csharp-format
 msgid "Invalid / missing value in row {0}, column {1}."
-msgstr ""
+msgstr "{0} sırasındaki, {1} sütunundaki eksik / geçersiz değer."
 
 #: AfxRgbaLutVoronoiGenerator.cs:382 AfxRgbaLutVoronoiGenerator.cs:435 AfxRgbaLutVoronoiGenerator.cs:452 AfxRgbaLutVoronoiGenerator.cs:632 AfxRgbaLutVoronoiGenerator.cs:644
 #: AfxRgbaLutVoronoiGenerator.cs:835 Launcher.cs:36 Tools/CustomLoader.cs:76
@@ -168,33 +168,32 @@ msgstr "Hata"
 #: AfxRgbaLutVoronoiGenerator.cs:434
 #, csharp-format
 msgid "Duplicate source color in row {0} (of row {1})."
-msgstr ""
+msgstr "Renk kaynağını {0} sırasına kopyala ({1} sırasından)."
 
 #: AfxRgbaLutVoronoiGenerator.cs:451
 msgid "Color map must not be empty."
-msgstr ""
+msgstr "Renk kalıbı boş olmamalıdır."
 
 #: AfxRgbaLutVoronoiGenerator.cs:467
 msgid "No Errors"
 msgstr "Hata bulunamadı"
 
 #: AfxRgbaLutVoronoiGenerator.cs:468
-#, fuzzy
 msgid "Check passed"
-msgstr "Güncelleştirmeleri Kontrol Et"
+msgstr "Kontrol başarıyla tamamlandı."
 
 #: AfxRgbaLutVoronoiGenerator.cs:631
 msgid "Error when creating / re-sizing color map."
-msgstr ""
+msgstr "Renk kalıbı oluşturulurken / yeniden boyutlandırılırken hata meydana geldi."
 
 #: AfxRgbaLutVoronoiGenerator.cs:643
 msgid "Iteration aborted."
-msgstr ""
+msgstr "Yineleme durduruldu."
 
 #: AfxRgbaLutVoronoiGenerator.cs:834
 #, csharp-format
 msgid "Saving to \"{0}\" failed."
-msgstr ""
+msgstr "\"{0}\" kaydetmede başarısız olundu."
 
 #: Config.cs:56 Config.cs:200
 msgctxt "Config (game path)"
@@ -214,7 +213,7 @@ msgstr "Kod:"
 #: ErrorDialogue.cs:23
 msgctxt "Error dialog"
 msgid "n/a"
-msgstr ""
+msgstr "n/a"
 
 #: ErrorDialogue.cs:24
 msgctxt "Error dialog"
@@ -259,17 +258,17 @@ msgstr "AfxHook Hatası"
 #: HlaeErrors.cs:49
 msgctxt "HLAE errors"
 msgid "Make sure you run the injector and the program to inject with same access rights and that no anti virus / anti cheat is blocking its calls."
-msgstr ""
+msgstr "Aynı erişim izinleri ile enjekte edebilmek için, programı ve enjektörü çalıştırdığınızdan, bunların herhangi bir antivirüs / anti hile programı tarafından engellenmediğinden emin olunuz."
 
 #: HlaeErrors.cs:50
 msgctxt "HLAE errors"
 msgid "Make sure to exit anitcheats like ESEA client / Faceit client, Challengeme.gg before using HLAE."
-msgstr ""
+msgstr "HLAE'yi kullanmadan önce ESEA / Faceit ve Challengeme.gg vb. hile karşıtı yazılımlarının kapalı olduğundan emin olunuz."
 
 #: HlaeErrors.cs:65
 msgctxt "HLAE errors"
 msgid "Could not access / enter directory of DLL to inject"
-msgstr ""
+msgstr "Enjekte edilecek DLL dizini girilemedi / DLL dizinine ulaşılamadı"
 
 #: HlaeErrors.cs:66
 msgctxt "HLAE errors"
@@ -284,7 +283,7 @@ msgstr "OpenProcess başarısız oldu"
 #: HlaeErrors.cs:71
 msgctxt "HLAE errors"
 msgid "VirtualAllocEx read|write allocation failed."
-msgstr ""
+msgstr "VirtualAllocEx okuma|yazma ayrımı başarısız oldu."
 
 #: HlaeErrors.cs:72
 msgctxt "HLAE errors"
@@ -294,17 +293,17 @@ msgstr "GetImage başarısız oldu."
 #: HlaeErrors.cs:72
 msgctxt "HLAE errors"
 msgid "AfxHook.dat missing / broken / not accessible"
-msgstr ""
+msgstr "AfxHook.dat bulunamıyor / bozuk / erişilemez durumda"
 
 #: HlaeErrors.cs:72
 msgctxt "HLAE errors"
 msgid "Try reextracting / repairing HLAE."
-msgstr "HLAE'yi tekrar çıkartmayı / onarmayı deneyin."
+msgstr "HLAE'yi tekrar çıkartmayı / onarmayı deneyiniz."
 
 #: HlaeErrors.cs:73
 msgctxt "HLAE errors"
 msgid "VirtualAllocEx read|write|execute allocation failed."
-msgstr ""
+msgstr "VirtualAllocEx okuma|yazma|çalıştırma ayrımı başarısız oldu."
 
 #: HlaeErrors.cs:74
 msgctxt "HLAE errors"
@@ -329,18 +328,20 @@ msgstr "AfxHook Hatası: Bilinmeyen hata kodu."
 #: HlaeErrors.cs:110
 msgctxt "HLAE errors"
 msgid "Failed to start injector."
-msgstr "İnjektörü başlatmada başarısız olundu."
+msgstr "Enjektörü başlatmada başarısız olundu."
 
 #: HlaeErrors.cs:110
 #, csharp-format
 msgctxt "HLAE errors"
 msgid "Failed to start injector: {0}"
-msgstr "İnjektörü başlatmada başarısız olundu: {0}"
+msgstr "Enjektörü başlatmada başarısız olundu: {0}"
 
 #: HlaeErrors.cs:110
 msgctxt "HLAE errors"
 msgid "injector.exe blocked. Probably caused by antivirus. Check it and reextract HLAE (HLAE NEEDS to be extracted, don't run it from a .zip file)."
 msgstr ""
+"injector.exe engellendi. Sebebi antivirüs programınız olabilir. Lütfen gerekli kontrolleri yapınız ve HLAE'yi tekrardan çıkartmayı deneyiniz. (HLAE çalıştırılmadan önce .zip dosyasından "
+"çıkartılmalıdır. Zip dosyası üzerinden çalıştırmayınız.)"
 
 #: HlaeErrors.cs:117
 msgctxt "HLAE errors"
@@ -350,17 +351,17 @@ msgstr "Yükleyici başlatılamadı."
 #: HlaeErrors.cs:131
 msgctxt "HLAE errors"
 msgid "Try using CSGO Launcher instead of Custom Launcher."
-msgstr "Özel Başlatıcı yerine CSGO Başlatıcısı'nı kullanmayı deneyin."
+msgstr "Özel Başlatıcı yerine CSGO Başlatıcısı'nı kullanmayı deneyiniz."
 
 #: HlaeErrors.cs:134
 msgctxt "HLAE errors"
 msgid "Make sure neither HLAE.exe nor Steam.exe nor csgo.exe are set to run as admin."
-msgstr ""
+msgstr "Ne HLAE.exe ne de Steam.exe'nin yönetici olarak çalıştırılmaya ayarlanmadığından emin olunuz."
 
 #: HlaeErrors.cs:138
 msgctxt "HLAE errors"
 msgid "Loader could not create requested process."
-msgstr ""
+msgstr "Yükleyici istenen işlemi gerçekleştiremedi."
 
 #: HlaeErrors.cs:138
 #, csharp-format
@@ -390,12 +391,12 @@ msgstr "csgo.exe dosyası:"
 #: LaunchCsgoForm.cs:23 LaunchCsgoForm.cs:27
 msgctxt "Launch CS:GO dialog"
 msgid "Browse ..."
-msgstr ""
+msgstr "Bul ..."
 
 #: LaunchCsgoForm.cs:24
 msgctxt "Launch CS:GO dialog"
 msgid "Movie making config parent folder"
-msgstr ""
+msgstr "Movie making ayar klasörü"
 
 #: LaunchCsgoForm.cs:25
 msgctxt "Launch CS:GO dialog"
@@ -410,7 +411,7 @@ msgstr "etkinleştir"
 #: LaunchCsgoForm.cs:28
 msgctxt "Launch CS:GO dialog"
 msgid "Graphic Resolution"
-msgstr "Çözünürlük"
+msgstr "Grafik Çözünürlüğü"
 
 #: LaunchCsgoForm.cs:30
 msgctxt "Launch CS:GO dialog"
@@ -425,7 +426,7 @@ msgstr "Yükseklik:"
 #: LaunchCsgoForm.cs:32
 msgctxt "Launch CS:GO dialog"
 msgid "Actual results depend on the game."
-msgstr ""
+msgstr "Ayarlarınız oyunda değişkenlik gösterebilir."
 
 #: LaunchCsgoForm.cs:33
 msgctxt "Launch CS:GO dialog"
@@ -441,7 +442,7 @@ msgstr "Özel komut satırı ayarları"
 #, csharp-format
 msgctxt "Launch CS:GO dialog"
 msgid "{0} (prevents joining VAC secured server / VAC bans)"
-msgstr ""
+msgstr "(VAC korumalı sunuculara girmeyi engeller/VAC yasağı yemenizi önler)"
 
 #: LaunchCsgoForm.cs:36
 msgctxt "Launch CS:GO dialog"
@@ -471,12 +472,12 @@ msgstr ""
 #: LaunchCsgoForm.cs:134
 msgctxt "Launch CS:GO dialog | MmcfgFolder Title"
 msgid "About movie making config parent folder"
-msgstr ""
+msgstr "Movie making ayar klasörü hakkında"
 
 #: Launcher.cs:36
 msgctxt "Launcher dialog"
 msgid "Launching failed."
-msgstr "Başlatma başarısız oldu."
+msgstr "Başlatılamadı."
 
 #: Launcher.cs:50
 msgid "64 Bit GoldSrc is not supported."
@@ -500,12 +501,12 @@ msgstr "hl.exe"
 #: LauncherForm.cs:23
 msgctxt "Launch GoldSrc dialog"
 msgid "Browse ..."
-msgstr ""
+msgstr "Bul ..."
 
 #: LauncherForm.cs:24
 msgctxt "Launch GoldSrc dialog"
 msgid "Modification:"
-msgstr ""
+msgstr "Değişiklikler:"
 
 #: LauncherForm.cs:28
 #, csharp-format
@@ -534,37 +535,37 @@ msgstr "{0} (Half-Life)"
 #: LauncherForm.cs:32
 msgctxt "Launch GoldSrc dialog"
 msgid "Other modification:"
-msgstr ""
+msgstr "Diğer değişiklikler:"
 
 #: LauncherForm.cs:35
 msgctxt "Launch GoldSrc dialog"
 msgid "Custom command line options"
-msgstr ""
+msgstr "Özel komut satırı ayarları"
 
 #: LauncherForm.cs:36
 msgctxt "Launch GoldSrc dialog"
 msgid "Graphic Resolution"
-msgstr ""
+msgstr "Grafik Çözünürlüğü"
 
 #: LauncherForm.cs:37
 msgctxt "Launch GoldSrc dialog"
 msgid "Width:"
-msgstr ""
+msgstr "Genişlik:"
 
 #: LauncherForm.cs:38
 msgctxt "Launch GoldSrc dialog"
 msgid "Height:"
-msgstr ""
+msgstr "Yükseklik:"
 
 #: LauncherForm.cs:39
 msgctxt "Launch GoldSrc dialog"
 msgid "Color Depth:"
-msgstr ""
+msgstr "Renk Derinliği:"
 
 #: LauncherForm.cs:40
 msgctxt "Launch GoldSrc dialog"
 msgid "force resolution"
-msgstr ""
+msgstr "çözünürlüğe zorla"
 
 #: LauncherForm.cs:41
 msgctxt "Launch GoldSrc dialog"
@@ -589,7 +590,7 @@ msgstr "16 (Düşük)"
 #: LauncherForm.cs:50
 msgctxt "Launch GoldSrc dialog"
 msgid "Advanced Settings"
-msgstr "Gelişmiş Seçenekler"
+msgstr "Gelişmiş Ayarlar"
 
 #: LauncherForm.cs:51
 msgctxt "Launch GoldSrc dialog"
@@ -599,7 +600,7 @@ msgstr "8 bit alfa kanalını kullanmaya zorla"
 #: LauncherForm.cs:52
 msgctxt "Launch GoldSrc dialog"
 msgid "Optimize window visibilty on capture"
-msgstr ""
+msgstr "Kayıttayken pencere görünürlüğünü optimize et"
 
 #: LauncherForm.cs:53
 msgctxt "Launch GoldSrc dialog"
@@ -619,17 +620,17 @@ msgstr "Standart"
 #: LauncherForm.cs:59
 msgctxt "Launch GoldSrc dialog render mode"
 msgid "FrameBuffer Object"
-msgstr ""
+msgstr "FrameBuffer Nesne"
 
 #: LauncherForm.cs:60
 msgctxt "Launch GoldSrc dialog render mode"
 msgid "Memory DC"
-msgstr ""
+msgstr "Hafıza Aygıt İçeriği"
 
 #: LauncherForm.cs:63
 msgctxt "Launch GoldSrc dialog"
 msgid "remember my changes"
-msgstr "yaptığım değişiklikleri kaydet"
+msgstr "yaptığım değişiklikleri hatırla"
 
 #: LauncherForm.cs:64
 msgctxt "Launch GoldSrc dialog"
@@ -646,19 +647,21 @@ msgid ""
 "Image injection problem.\n"
 "Continue waiting?"
 msgstr ""
+"İmaj enjekte problemi.¶\n"
+"Beklemeye devam etmek istiyor musunuz?"
 
 #: Loader.cs:138
 msgid "injector Warning"
-msgstr "injektör uyarısı"
+msgstr "enjektör uyarısı"
 
 #: Loader.cs:311
 msgid "Can not get Kernel32.dll handle."
-msgstr ""
+msgstr "Kerner32.dll handle çalıştırılamadı."
 
 #: Loader.cs:324
 #, csharp-format
 msgid "IsWow64Process failed, error code: {0}"
-msgstr ""
+msgstr "IsWow64Process başarısız oldu, hata kodu: {0}"
 
 #: MainForm.cs:26
 msgctxt "Main window"
@@ -703,7 +706,7 @@ msgstr "Araçlar"
 #: MainForm.cs:37
 msgctxt "Main window | menu | Tools"
 msgid "Calculators"
-msgstr ""
+msgstr "Hesaplamalar"
 
 #: MainForm.cs:38
 msgctxt "Main window | menu | Tools | Calculators"
@@ -718,7 +721,7 @@ msgstr "LUTs"
 #: MainForm.cs:40
 msgctxt "Main window | menu | Tools | Color Lookup Tables"
 msgid "Voronoi"
-msgstr ""
+msgstr "Voronoi"
 
 #: MainForm.cs:41
 msgctxt "Main window | menu | Tools"
