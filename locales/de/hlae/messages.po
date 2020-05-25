@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: hlae\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-04-20 16:30+0200\n"
-"PO-Revision-Date: 2020-04-20 15:00+0000\n"
+"PO-Revision-Date: 2020-05-25 14:14+0000\n"
 "Last-Translator: Dominik <dominik@matrixstorm.com>\n"
 "Language-Team: German\n"
 "Language: de\n"
@@ -283,7 +283,7 @@ msgstr "OpenProcess ist fehlgeschlagen"
 #: HlaeErrors.cs:71
 msgctxt "HLAE errors"
 msgid "VirtualAllocEx read|write allocation failed."
-msgstr "VirtualAllocEx ready|write Allokation fehlgeschlagen."
+msgstr "VirtualAllocEx lesen|schreiben Allokation fehlgeschlagen."
 
 #: HlaeErrors.cs:72
 msgctxt "HLAE errors"
