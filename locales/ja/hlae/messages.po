@@ -2,13 +2,13 @@
 # Copyright (C) YEAR advancedfx.org
 # This file is distributed under the same license as the hlae package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
+#
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: hlae\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-04-20 16:30+0200\n"
+"POT-Creation-Date: 2020-05-25 16:12+0200\n"
 "PO-Revision-Date: 2020-05-18 18:08+0000\n"
 "Last-Translator: FlowingSPDG <shugo_k@flowing.tokyo>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -92,9 +92,16 @@ msgstr "コメント"
 msgid "Weight"
 msgstr "縦:"
 
-#: AfxRgbaLutVoronoiGenerator.cs:27 AfxRgbaLutVoronoiGenerator.cs:28
-msgid "image"
-msgstr "画像"
+#: AfxRgbaLutVoronoiGenerator.cs:27
+#, fuzzy
+msgctxt "image"
+msgid "Resolution"
+msgstr "解決方法:"
+
+#: AfxRgbaLutVoronoiGenerator.cs:28
+msgctxt "image"
+msgid "Memory estimate (Bytes):"
+msgstr ""
 
 #: AfxRgbaLutVoronoiGenerator.cs:29
 msgid "Preview"
@@ -1001,6 +1008,9 @@ msgstr "起動するプログラムとフック (.exe)|*.exe"
 msgctxt "Custom Loader dialog | DLL filter"
 msgid "Hook DLL (.dll)|*.dll"
 msgstr "フックするDLL (.dll)|*.dll"
+
+#~ msgid "image"
+#~ msgstr "画像"
 
 #~ msgctxt "Manual URL (localized)"
 #~ msgid "https://github.com/advancedfx/advancedfx/wiki"

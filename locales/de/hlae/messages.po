@@ -3,12 +3,12 @@
 # Copyright (C) 2020 advancedfx.org
 # This file is distributed under the same license as the hlae package.
 # <EMAIL@ADDRESS>, 2020.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: hlae\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-04-20 16:30+0200\n"
+"POT-Creation-Date: 2020-05-25 16:12+0200\n"
 "PO-Revision-Date: 2020-05-25 14:14+0000\n"
 "Last-Translator: Dominik <dominik@matrixstorm.com>\n"
 "Language-Team: German\n"
@@ -90,9 +90,16 @@ msgstr "Kommentar"
 msgid "Weight"
 msgstr "Gewicht"
 
-#: AfxRgbaLutVoronoiGenerator.cs:27 AfxRgbaLutVoronoiGenerator.cs:28
-msgid "image"
-msgstr "Bild"
+#: AfxRgbaLutVoronoiGenerator.cs:27
+#, fuzzy
+msgctxt "image"
+msgid "Resolution"
+msgstr "Lösung:"
+
+#: AfxRgbaLutVoronoiGenerator.cs:28
+msgctxt "image"
+msgid "Memory estimate (Bytes):"
+msgstr ""
 
 #: AfxRgbaLutVoronoiGenerator.cs:29
 msgid "Preview"
@@ -339,8 +346,7 @@ msgstr "Starten des Inkektors fehlgeschlagen: {0}"
 #: HlaeErrors.cs:110
 msgctxt "HLAE errors"
 msgid "injector.exe blocked. Probably caused by antivirus. Check it and reextract HLAE (HLAE NEEDS to be extracted, don't run it from a .zip file)."
-msgstr ""
-"injector.exe blockiert. Wahrscheinlich durch Antivirus verursacht. Überprüfen Sie das und entpacken Sie HLAE nochmals (HLAE MUSS extrahiert werden, führen Sie es nicht von einer .zip Datei aus)."
+msgstr "injector.exe blockiert. Wahrscheinlich durch Antivirus verursacht. Überprüfen Sie das und entpacken Sie HLAE nochmals (HLAE MUSS extrahiert werden, führen Sie es nicht von einer .zip Datei aus)."
 
 #: HlaeErrors.cs:117
 msgctxt "HLAE errors"
@@ -999,6 +1005,9 @@ msgstr "Zu startendes und hookendes programm (.exe)|*.exe"
 msgctxt "Custom Loader dialog | DLL filter"
 msgid "Hook DLL (.dll)|*.dll"
 msgstr "Hook DLL (.dll)|*.dll"
+
+#~ msgid "image"
+#~ msgstr "Bild"
 
 #~ msgctxt "Manual URL (localized)"
 #~ msgid "https://github.com/advancedfx/advancedfx/wiki"

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hlae\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-04-20 16:30+0200\n"
+"POT-Creation-Date: 2020-05-25 16:12+0200\n"
 "PO-Revision-Date: 2020-03-06 20:24+0000\n"
 "Last-Translator: tedybooking <tedybooking@gmail.com>\n"
 "Language-Team: Polish\n"
@@ -90,9 +90,16 @@ msgstr "Komentarz"
 msgid "Weight"
 msgstr "Szerokość"
 
-#: AfxRgbaLutVoronoiGenerator.cs:27 AfxRgbaLutVoronoiGenerator.cs:28
-msgid "image"
-msgstr "obraz"
+#: AfxRgbaLutVoronoiGenerator.cs:27
+#, fuzzy
+msgctxt "image"
+msgid "Resolution"
+msgstr "Rozwiązanie:"
+
+#: AfxRgbaLutVoronoiGenerator.cs:28
+msgctxt "image"
+msgid "Memory estimate (Bytes):"
+msgstr ""
 
 #: AfxRgbaLutVoronoiGenerator.cs:29
 msgid "Preview"
@@ -992,3 +999,6 @@ msgstr ""
 msgctxt "Custom Loader dialog | DLL filter"
 msgid "Hook DLL (.dll)|*.dll"
 msgstr ""
+
+#~ msgid "image"
+#~ msgstr "obraz"

@@ -3,12 +3,12 @@
 # Copyright (C) 2020 advancedfx.org
 # This file is distributed under the same license as the hlae package.
 # <EMAIL@ADDRESS>, 2020.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: hlae\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-04-20 16:30+0200\n"
+"POT-Creation-Date: 2020-05-25 16:12+0200\n"
 "PO-Revision-Date: 2020-05-17 09:36+0000\n"
 "Last-Translator: yovaN <akkardeon@gmail.com>\n"
 "Language-Team: Russian\n"
@@ -90,9 +90,16 @@ msgstr "Комментарий"
 msgid "Weight"
 msgstr "Высота"
 
-#: AfxRgbaLutVoronoiGenerator.cs:27 AfxRgbaLutVoronoiGenerator.cs:28
-msgid "image"
-msgstr "изображение"
+#: AfxRgbaLutVoronoiGenerator.cs:27
+#, fuzzy
+msgctxt "image"
+msgid "Resolution"
+msgstr "Решение:"
+
+#: AfxRgbaLutVoronoiGenerator.cs:28
+msgctxt "image"
+msgid "Memory estimate (Bytes):"
+msgstr ""
 
 #: AfxRgbaLutVoronoiGenerator.cs:29
 msgid "Preview"
@@ -996,6 +1003,9 @@ msgstr "Программа для запуска и подключения (.exe
 msgctxt "Custom Loader dialog | DLL filter"
 msgid "Hook DLL (.dll)|*.dll"
 msgstr "Подключаемая DLL (.dll)|*.dll"
+
+#~ msgid "image"
+#~ msgstr "изображение"
 
 #~ msgctxt "Manual URL (localized)"
 #~ msgid "https://github.com/advancedfx/advancedfx/wiki"

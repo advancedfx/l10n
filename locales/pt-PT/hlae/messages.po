@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hlae\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-04-20 16:30+0200\n"
+"POT-Creation-Date: 2020-05-25 16:12+0200\n"
 "PO-Revision-Date: 2020-01-20 12:22+0100\n"
 "Last-Translator: <EMAIL@ADDRESS>\n"
 "Language-Team: Language pt-PT\n"
@@ -87,8 +87,14 @@ msgstr ""
 msgid "Weight"
 msgstr ""
 
-#: AfxRgbaLutVoronoiGenerator.cs:27 AfxRgbaLutVoronoiGenerator.cs:28
-msgid "image"
+#: AfxRgbaLutVoronoiGenerator.cs:27
+msgctxt "image"
+msgid "Resolution"
+msgstr ""
+
+#: AfxRgbaLutVoronoiGenerator.cs:28
+msgctxt "image"
+msgid "Memory estimate (Bytes):"
 msgstr ""
 
 #: AfxRgbaLutVoronoiGenerator.cs:29
