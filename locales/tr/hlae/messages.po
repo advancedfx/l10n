@@ -3,14 +3,14 @@
 # Copyright (C) 2020 advancedfx.org
 # This file is distributed under the same license as the hlae package.
 # <EMAIL@ADDRESS>, 2020.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: hlae\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-05-25 16:12+0200\n"
-"PO-Revision-Date: 2020-05-25 14:12+0000\n"
-"Last-Translator: DSR <koman1cus@gmail.com>\n"
+"PO-Revision-Date: 2020-05-25 16:01+0000\n"
+"Last-Translator: Twissen <selimcan.krgzl@gmail.com>\n"
 "Language-Team: Turkish\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
@@ -91,15 +91,14 @@ msgid "Weight"
 msgstr "Yoğunluk"
 
 #: AfxRgbaLutVoronoiGenerator.cs:27
-#, fuzzy
 msgctxt "image"
 msgid "Resolution"
-msgstr "Çözüm:"
+msgstr "Çözünürlük"
 
 #: AfxRgbaLutVoronoiGenerator.cs:28
 msgctxt "image"
 msgid "Memory estimate (Bytes):"
-msgstr ""
+msgstr "Tahmini bellek (Bayt)"
 
 #: AfxRgbaLutVoronoiGenerator.cs:29
 msgid "Preview"
@@ -130,7 +129,7 @@ msgstr "CT"
 #: AfxRgbaLutVoronoiGenerator.cs:41 AfxRgbaLutVoronoiGenerator.cs:42
 msgctxt "terrorist / counter-terrorist"
 msgid "T/CT neutral"
-msgstr "T/CT ham"
+msgstr "T/CT nötr"
 
 #: AfxRgbaLutVoronoiGenerator.cs:44 AfxRgbaLutVoronoiGenerator.cs:45
 msgctxt "terrorist"
@@ -145,7 +144,7 @@ msgstr "CT hedef"
 #: AfxRgbaLutVoronoiGenerator.cs:48 AfxRgbaLutVoronoiGenerator.cs:49
 msgctxt "terrorist / counter-terrorist"
 msgid "T/CT aim neutral"
-msgstr ""
+msgstr "T/CT nötr hedef"
 
 #: AfxRgbaLutVoronoiGenerator.cs:90
 msgctxt "Image"
@@ -270,7 +269,7 @@ msgstr "Aynı erişim izinleri ile enjekte edebilmek için, programı ve enjekt�
 #: HlaeErrors.cs:50
 msgctxt "HLAE errors"
 msgid "Make sure to exit anitcheats like ESEA client / Faceit client, Challengeme.gg before using HLAE."
-msgstr "HLAE'yi kullanmadan önce ESEA / Faceit ve Challengeme.gg vb. hile karşıtı yazılımlarının kapalı olduğundan emin olunuz."
+msgstr "HLAE'yi kullanmadan önce ESEA / Faceit ve Challengeme.gg vb. anti hile yazılımlarının kapalı olduğundan emin olunuz."
 
 #: HlaeErrors.cs:65
 msgctxt "HLAE errors"
@@ -346,7 +345,9 @@ msgstr "Enjektörü başlatmada başarısız olundu: {0}"
 #: HlaeErrors.cs:110
 msgctxt "HLAE errors"
 msgid "injector.exe blocked. Probably caused by antivirus. Check it and reextract HLAE (HLAE NEEDS to be extracted, don't run it from a .zip file)."
-msgstr "injector.exe engellendi. Sebebi antivirüs programınız olabilir. Lütfen gerekli kontrolleri yapınız ve HLAE'yi tekrardan çıkartmayı deneyiniz. (HLAE çalıştırılmadan önce .zip dosyasından çıkartılmalıdır. Zip dosyası üzerinden çalıştırmayınız.)"
+msgstr ""
+"injector.exe engellendi. Sebebi antivirüs programınız olabilir. Lütfen gerekli kontrolleri yapınız ve HLAE'yi tekrardan çıkartmayı deneyiniz. (HLAE çalıştırılmadan önce .zip dosyasından "
+"çıkartılmalıdır. Zip dosyası üzerinden çalıştırmayınız.)"
 
 #: HlaeErrors.cs:117
 msgctxt "HLAE errors"
@@ -447,7 +448,7 @@ msgstr "Özel komut satırı ayarları"
 #, csharp-format
 msgctxt "Launch CS:GO dialog"
 msgid "{0} (prevents joining VAC secured server / VAC bans)"
-msgstr "(VAC korumalı sunuculara girmeyi engeller/VAC yasağı yemenizi önler)"
+msgstr "(VAC korumalı sunuculara girmeyi engeller / VAC yasağı yemenizi önler)"
 
 #: LaunchCsgoForm.cs:36
 msgctxt "Launch CS:GO dialog"
@@ -473,6 +474,11 @@ msgid ""
 "Also you can put your movie making config into that cfg sub-folder,\n"
 "however the game will load those only if they are not present in the csgo/cfg folder already."
 msgstr ""
+"Etkinleştirildiğinde, movie making ayarlarını yapılandırmanız için ana klasörünüzü seçebilirsiniz.\n"
+"Oyun cfg adlı bir alt klasör oluşturacak. Bu klasörde config.cfg¶\n"
+"ve video ayarlarını saklayacak.¶\n"
+"Ayrıca movie making ayarlarınızı bu alt, cfg isimli klasöre de atabilirsiniz, ¶\n"
+"ancak oyun yalnızca csgo / cfg klasöründe aynı isimli ayar dosyaları yoksa alt, cfg klasöründeki ayarları yükler."
 
 #: LaunchCsgoForm.cs:134
 msgctxt "Launch CS:GO dialog | MmcfgFolder Title"
@@ -630,7 +636,7 @@ msgstr "FrameBuffer Nesne"
 #: LauncherForm.cs:60
 msgctxt "Launch GoldSrc dialog render mode"
 msgid "Memory DC"
-msgstr "Hafıza Aygıt İçeriği"
+msgstr "Hafıza A.İ."
 
 #: LauncherForm.cs:63
 msgctxt "Launch GoldSrc dialog"
@@ -721,7 +727,7 @@ msgstr "Dosya Boyutu"
 #: MainForm.cs:39
 msgctxt "Main window | menu | Tools"
 msgid "Color Lookup Tables"
-msgstr "LUTs"
+msgstr "Renk Arama Tabloları"
 
 #: MainForm.cs:40
 msgctxt "Main window | menu | Tools | Color Lookup Tables"
@@ -741,7 +747,7 @@ msgstr "Demo Araçları"
 #: MainForm.cs:43
 msgctxt "Main window | menu | Tools | GoldSrc"
 msgid "Sky Manager"
-msgstr "Gökyüzü Yöneticisi"
+msgstr "Gökyüzü Düzenleyicisi"
 
 #: MainForm.cs:45
 msgctxt "Main window | menu | Tools"
@@ -756,12 +762,12 @@ msgstr "Özel Yükleyici"
 #: MainForm.cs:47
 msgctxt "Main window | menu | Tools | Developer"
 msgid "Own GUID to ClipBoard"
-msgstr ""
+msgstr "Kendi GUID'ni Panoya"
 
 #: MainForm.cs:48
 msgctxt "Main window | menu | Tools | Developer"
 msgid "New GUID to ClipBoard"
-msgstr ""
+msgstr "Yeni GUID'yi Panoya"
 
 #: MainForm.cs:50
 msgctxt "Main window | menu"
@@ -786,7 +792,7 @@ msgstr "Şimdi Kontrol Et"
 #: MainForm.cs:54
 msgctxt "Main window | menu | Help"
 msgid "Official Website"
-msgstr "Resmi Websitesi"
+msgstr "Resmi Website"
 
 #: MainForm.cs:56
 msgctxt "Main window | menu"
@@ -821,11 +827,11 @@ msgstr "Tamam"
 #: MainForm.cs:65
 msgctxt "Main window | update status strip | label"
 msgid "Update status unknown"
-msgstr ""
+msgstr "Güncelleştirme durumu belirsiz"
 
 #: MainForm.cs:67
 msgid "Contact / Privacy Policy / Imprint (advancedfx.org)"
-msgstr ""
+msgstr "İletişim / Gizlilik Politikası / Künye (advancedfx.org)"
 
 #: MainForm.cs:69
 msgid "Help"
@@ -837,7 +843,7 @@ msgstr "Dil:"
 
 #: MainForm.cs:71
 msgid "Selection:"
-msgstr ""
+msgstr "Seçim:"
 
 #: MainForm.cs:73
 msgid "Official support page (English)"
@@ -845,7 +851,7 @@ msgstr "Resmi destek sayfası (İngilizce)"
 
 #: MainForm.cs:74
 msgid "HLAE Chinese Station"
-msgstr ""
+msgstr "HLAE Çince Websitesi"
 
 #: MainForm.cs:77
 msgctxt "Language"
@@ -860,7 +866,7 @@ msgstr "Çince (zh-CN)"
 #: MainForm.cs:189
 msgctxt "Main window | update status strip | label"
 msgid "Update available!"
-msgstr "Yeni güncelleştirme mevcut!"
+msgstr "Güncelleştirme mevcut!"
 
 #: MainForm.cs:198
 msgctxt "Main window | update status strip | label"
@@ -915,17 +921,17 @@ msgstr "sn."
 #: Tools/Calculator.cs:25
 msgctxt "File Size Calculator"
 msgid "Estimated Disk Usage"
-msgstr "Yaklaşık Kaplanacak Boyut"
+msgstr "Tahmini Kaplanacak Boyut"
 
 #: Tools/Calculator.cs:26
 msgctxt "File Size Calculator | Estimate"
 msgid "HuffYuv encoded output"
-msgstr ""
+msgstr "HuffYuv kodlanmış çıktı"
 
 #: Tools/CustomLoader.cs:76
 msgctxt "Custom Loader dialog"
 msgid "CustomLoader failed"
-msgstr "Özel Yükleyici başarısız oldu."
+msgstr "ÖzelYükleyici başarısız oldu"
 
 #: Tools/CustomLoaderForm.cs:24
 msgctxt "Custom Loader dialog"
@@ -945,17 +951,17 @@ msgstr "KomutSatırı:"
 #: Tools/CustomLoaderForm.cs:27
 msgctxt "Custom Loader dialog | Program"
 msgid "Browse ..."
-msgstr ""
+msgstr "Bul ..."
 
 #: Tools/CustomLoaderForm.cs:28
 msgctxt "Custom Loader dialog | DLLS"
 msgid "DLLs to inject"
-msgstr ""
+msgstr "Enjekte edilecek DLLler"
 
 #: Tools/CustomLoaderForm.cs:29
 msgctxt "Custom Loader dialog | DLLS"
 msgid "Browse ..."
-msgstr ""
+msgstr "Bul ..."
 
 #: Tools/CustomLoaderForm.cs:30
 msgctxt "Custom Loader dialog | DLLS"
@@ -975,7 +981,7 @@ msgstr "Aşağı"
 #: Tools/CustomLoaderForm.cs:33
 msgctxt "Custom Loader dialog | DLLS"
 msgid "Hint: You can Drag && Drop DLLs in the box above."
-msgstr ""
+msgstr "İpucu: DLLleri sürükleyip yukarıdaki kutucuğa bırakabilirsiniz."
 
 #: Tools/CustomLoaderForm.cs:34
 msgctxt "Custom Loader dialog"
@@ -989,12 +995,12 @@ msgstr "&İptal Et"
 
 #: Tools/CustomLoaderForm.cs:36
 msgid "Add environment variables: name=value"
-msgstr ""
+msgstr "Çevre değişkenleri ekleyiniz: isim=değer"
 
 #: Tools/CustomLoaderForm.cs:72
 msgctxt "Custom Loader dialog | Program filter"
 msgid "Program to launch and hook (.exe)|*.exe"
-msgstr ""
+msgstr "Başlatılacak ve bağlanacak program (.exe)|*.exe"
 
 #: Tools/CustomLoaderForm.cs:80
 msgctxt "Custom Loader dialog | DLL filter"
