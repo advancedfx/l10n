@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"PO-Revision-Date: 2020-03-06 19:24+0000\n"
-"Last-Translator: tedybooking <tedybooking@gmail.com>\n"
+"PO-Revision-Date: 2020-05-25 21:20+0000\n"
+"Last-Translator: itzshadowitzshadow <itzshadowitzshadow@gmail.com>\n"
 "Language-Team: Polish\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
@@ -14,7 +14,7 @@ msgstr ""
 
 msgctxt "ApplicationName"
 msgid "HLAE Core"
-msgstr "HLAE"
+msgstr "Rdzeń HLAE"
 
 msgctxt "Manufacturer"
 msgid "advancedfx.org"
@@ -46,7 +46,7 @@ msgstr "Pobieram z https://ffmpeg.zeranoe.com/"
 
 msgctxt "InstallFfmpegDownload_Template"
 msgid "[1] of [2] Bytes"
-msgstr "[1] z [2]"
+msgstr "[1] z [2] Bajtów"
 
 msgctxt "InstallFfmpegExtract"
 msgid "Extracting FFMPEG"

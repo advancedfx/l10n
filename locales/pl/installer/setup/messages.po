@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"PO-Revision-Date: 2020-03-06 19:50+0000\n"
-"Last-Translator: tedybooking <tedybooking@gmail.com>\n"
+"PO-Revision-Date: 2020-05-25 21:24+0000\n"
+"Last-Translator: itzshadowitzshadow <itzshadowitzshadow@gmail.com>\n"
 "Language-Team: Polish\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
@@ -26,7 +26,7 @@ msgstr "Witaj"
 
 msgctxt "InstallMessage"
 msgid "Setup will install [WixBundleName] on your computer. Click install to continue"
-msgstr "Zainstaluj [WixBundleName] na swoim komputerze, kliknij \"instaluj\"."
+msgstr "Program zainstaluje [WixBundleName] na twoim komputerze. Kliknij \"instaluj\", aby kontynuować."
 
 msgctxt "InstallVersion"
 msgid "Version [WixBundleVersion]"
@@ -34,7 +34,7 @@ msgstr "Wersja [WixBundleVersion]"
 
 msgctxt "ConfirmCancelMessage"
 msgid "Are you sure you want to cancel?"
-msgstr "Zakończyć instalację ?"
+msgstr "Czy jesteś pewien, że chcesz anulować instalację?"
 
 msgctxt "ExecuteUpgradeRelatedBundleMessage"
 msgid "Previous version"
@@ -111,11 +111,11 @@ msgstr "Postęp instalacji"
 
 msgctxt "ProgressLabel"
 msgid "Processing:"
-msgstr "Postęp:"
+msgstr "Przetwarzanie:"
 
 msgctxt "OverallProgressPackageText"
 msgid "Initializing..."
-msgstr "Przygotowanie"
+msgstr "Przygotowywanie..."
 
 msgctxt "ProgressCancelButton"
 msgid "&Cancel"
