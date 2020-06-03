@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"PO-Revision-Date: 2020-05-25 17:05+0000\n"
+"PO-Revision-Date: 2020-05-28 12:05+0000\n"
 "Last-Translator: Twissen <selimcan.krgzl@gmail.com>\n"
 "Language-Team: Turkish\n"
 "Language: tr\n"
@@ -14,7 +14,7 @@ msgstr ""
 
 msgctxt "Caption"
 msgid "[WixBundleName] Setup"
-msgstr "[WixBundleName] Kurulum"
+msgstr "[WixBundleName] Kurulumu"
 
 msgctxt "Title"
 msgid "[WixBundleName]"
@@ -22,11 +22,11 @@ msgstr "[WixBundleName]"
 
 msgctxt "InstallHeader"
 msgid "Welcome"
-msgstr "Hoşgeldiniz"
+msgstr "Hoş Geldiniz"
 
 msgctxt "InstallMessage"
 msgid "Setup will install [WixBundleName] on your computer. Click install to continue"
-msgstr "Kurulum bilgisayarınıza şunu yükleyecektir: [WixBundleName]. Devam etmek için lütfen yükle butonuna tıklayınız"
+msgstr "Kurulum bilgisayarınıza [WixBundleName]'yi yükleyecektir. Devam etmek için lütfen yükle butonuna tıklayınız."
 
 msgctxt "InstallVersion"
 msgid "Version [WixBundleVersion]"
@@ -74,11 +74,11 @@ msgstr "[WixBundleName] <a href=\"#\">lisans koşulları</a>."
 
 msgctxt "InstallAcceptCheckbox"
 msgid "I &agree to the license terms and conditions"
-msgstr "Lisans hüküm ve koşullarını &onaylıyorum"
+msgstr "Lisans hüküm ve şartlarını &kabul ediyorum"
 
 msgctxt "InstallOptionsButton"
 msgid "&Options"
-msgstr "&Ayarlar"
+msgstr "&Seçenekler"
 
 msgctxt "InstallInstallButton"
 msgid "&Install"
@@ -90,11 +90,11 @@ msgstr "&Kapat"
 
 msgctxt "OptionsHeader"
 msgid "Setup Options"
-msgstr "Kurulum Ayarları"
+msgstr "Kurulum Seçenekleri"
 
 msgctxt "OptionsLocationLabel"
 msgid "Install location:"
-msgstr "Kurulum dizini:"
+msgstr "Yükleme konumu:"
 
 msgctxt "OptionsBrowseButton"
 msgid "&Browse"
@@ -150,7 +150,7 @@ msgstr "Kaldırma işlemi başarı ile tamamlandı"
 
 msgctxt "SuccessInstallHeader"
 msgid "Installation Successfully Completed"
-msgstr "Yükleme işlemi başarı ile tamamlandı"
+msgstr "Kurulum işlemi başarı ile tamamlandı"
 
 msgctxt "SuccessHeader"
 msgid "Setup Successful"
@@ -230,22 +230,22 @@ msgstr "&İptal"
 
 msgctxt "ErrorFailNoActionReboot"
 msgid "No action was taken as a system reboot is required."
-msgstr "Yeniden başlatmayı gerektirecek hiçbir işlem yapılmadı."
+msgstr "Yeniden başlatmayı gerektirecek herhangi bir işlem yapılmadı."
 
 msgctxt "HlaeDisclaimerTitle"
 msgid "Disclaimer"
-msgstr "Sorumluluk reddi"
+msgstr "Sorumluluk Reddi"
 
 msgctxt "HlaeDisclaimer"
 msgid "This software is for your enjoyment and you are using it at your own risk."
-msgstr "Bu yazılım eğlence amaçlı geliştirilmiştir. Yazılımı kullanım sorumluluğu tarafınıza aittir."
+msgstr "Bu yazılım keyfi amaçlar için geliştirilmiştir. Yazılımın kullanımından doğacak sorumluluklar tarafınıza aittir."
 
 msgctxt "HlaeFeaturesHeader"
 msgid "Features"
-msgstr "Özellikler"
+msgstr "Ek Özellikler"
 
 msgctxt "HlaeFfmpegFeature"
 msgid "Install FFMPEG from https://ffmpeg.zeranoe.com/builds/ (200 MB)"
 msgstr ""
 "FFMPEG'i şuradan yükle\n"
-"https://ffmpeg.zeranoe.com/builds/"
+"https://ffmpeg.zeranoe.com/builds/ (200 MB)"

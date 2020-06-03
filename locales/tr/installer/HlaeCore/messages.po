@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"PO-Revision-Date: 2020-05-25 15:41+0000\n"
+"PO-Revision-Date: 2020-05-28 11:38+0000\n"
 "Last-Translator: Twissen <selimcan.krgzl@gmail.com>\n"
 "Language-Team: Turkish\n"
 "Language: tr\n"
@@ -14,7 +14,7 @@ msgstr ""
 
 msgctxt "ApplicationName"
 msgid "HLAE Core"
-msgstr "HLAE çekirdeği"
+msgstr "HLAE Çekirdeği"
 
 msgctxt "Manufacturer"
 msgid "advancedfx.org"
