@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: hlae\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-05-25 16:12+0200\n"
-"PO-Revision-Date: 2020-05-25 16:01+0000\n"
+"PO-Revision-Date: 2020-06-04 08:59+0000\n"
 "Last-Translator: Twissen <selimcan.krgzl@gmail.com>\n"
 "Language-Team: Turkish\n"
 "Language: tr\n"
@@ -397,7 +397,7 @@ msgstr "csgo.exe dosyası:"
 #: LaunchCsgoForm.cs:23 LaunchCsgoForm.cs:27
 msgctxt "Launch CS:GO dialog"
 msgid "Browse ..."
-msgstr "Bul ..."
+msgstr "Göz at ..."
 
 #: LaunchCsgoForm.cs:24
 msgctxt "Launch CS:GO dialog"
@@ -512,7 +512,7 @@ msgstr "hl.exe"
 #: LauncherForm.cs:23
 msgctxt "Launch GoldSrc dialog"
 msgid "Browse ..."
-msgstr "Bul ..."
+msgstr "Göz at ..."
 
 #: LauncherForm.cs:24
 msgctxt "Launch GoldSrc dialog"
@@ -951,7 +951,7 @@ msgstr "KomutSatırı:"
 #: Tools/CustomLoaderForm.cs:27
 msgctxt "Custom Loader dialog | Program"
 msgid "Browse ..."
-msgstr "Bul ..."
+msgstr "Göz at ..."
 
 #: Tools/CustomLoaderForm.cs:28
 msgctxt "Custom Loader dialog | DLLS"
@@ -961,7 +961,7 @@ msgstr "Enjekte edilecek DLLler"
 #: Tools/CustomLoaderForm.cs:29
 msgctxt "Custom Loader dialog | DLLS"
 msgid "Browse ..."
-msgstr "Bul ..."
+msgstr "Göz at ..."
 
 #: Tools/CustomLoaderForm.cs:30
 msgctxt "Custom Loader dialog | DLLS"

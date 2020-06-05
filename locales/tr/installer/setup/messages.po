@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"PO-Revision-Date: 2020-05-28 12:05+0000\n"
+"PO-Revision-Date: 2020-06-04 09:00+0000\n"
 "Last-Translator: Twissen <selimcan.krgzl@gmail.com>\n"
 "Language-Team: Turkish\n"
 "Language: tr\n"
@@ -98,7 +98,7 @@ msgstr "Yükleme konumu:"
 
 msgctxt "OptionsBrowseButton"
 msgid "&Browse"
-msgstr "&Bul"
+msgstr "&Göz at"
 
 msgctxt "OptionsOkButton"
 msgid "&OK"
