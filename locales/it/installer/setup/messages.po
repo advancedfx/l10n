@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"PO-Revision-Date: 2020-06-05 14:55+0000\n"
+"PO-Revision-Date: 2020-06-05 15:30+0000\n"
 "Last-Translator: andrea68 <witeZ68@outlook.it>\n"
 "Language-Team: Italian\n"
 "Language: it\n"
@@ -14,11 +14,11 @@ msgstr ""
 
 msgctxt "Caption"
 msgid "[WixBundleName] Setup"
-msgstr ""
+msgstr "[WixBundleName] Setup"
 
 msgctxt "Title"
 msgid "[WixBundleName]"
-msgstr ""
+msgstr "[WixBundleName]"
 
 msgctxt "InstallHeader"
 msgid "Welcome"
@@ -26,15 +26,15 @@ msgstr "Benvenuto"
 
 msgctxt "InstallMessage"
 msgid "Setup will install [WixBundleName] on your computer. Click install to continue"
-msgstr ""
+msgstr "Il setup installerà [WixBundleName] sul tuo computer. Clicca installa per proseguire"
 
 msgctxt "InstallVersion"
 msgid "Version [WixBundleVersion]"
-msgstr ""
+msgstr "Versione [WixBundleVersion]"
 
 msgctxt "ConfirmCancelMessage"
 msgid "Are you sure you want to cancel?"
-msgstr ""
+msgstr "Sei sicuro di volere annullare?"
 
 msgctxt "ExecuteUpgradeRelatedBundleMessage"
 msgid "Previous version"
@@ -42,7 +42,7 @@ msgstr "Versione precente"
 
 msgctxt "HelpHeader"
 msgid "Setup Help"
-msgstr ""
+msgstr "Aiuto con il setup"
 
 msgctxt "HelpText"
 msgid ""
@@ -58,127 +58,127 @@ msgstr ""
 
 msgctxt "HelpCloseButton"
 msgid "&Close"
-msgstr ""
+msgstr "&Chiudi"
 
 msgctxt "InstallLicenseLinkText"
 msgid "[WixBundleName] <a href=\"#\">license terms</a>."
-msgstr ""
+msgstr "[WixBundleName] <a href=\"#\">Termini e Condizioni d'uso</a>."
 
 msgctxt "InstallAcceptCheckbox"
 msgid "I &agree to the license terms and conditions"
-msgstr ""
+msgstr "Accetto i termini e condizioni d'uso"
 
 msgctxt "InstallOptionsButton"
 msgid "&Options"
-msgstr ""
+msgstr "&Opzioni"
 
 msgctxt "InstallInstallButton"
 msgid "&Install"
-msgstr ""
+msgstr "&Installa"
 
 msgctxt "InstallCloseButton"
 msgid "&Close"
-msgstr ""
+msgstr "&Chiudi"
 
 msgctxt "OptionsHeader"
 msgid "Setup Options"
-msgstr ""
+msgstr "Opzioni del setup"
 
 msgctxt "OptionsLocationLabel"
 msgid "Install location:"
-msgstr ""
+msgstr "Percorso di installazione:"
 
 msgctxt "OptionsBrowseButton"
 msgid "&Browse"
-msgstr ""
+msgstr "&Sfoglia"
 
 msgctxt "OptionsOkButton"
 msgid "&OK"
-msgstr ""
+msgstr "&OK"
 
 msgctxt "OptionsCancelButton"
 msgid "&Cancel"
-msgstr ""
+msgstr "&Annulla"
 
 msgctxt "ProgressHeader"
 msgid "Setup Progress"
-msgstr ""
+msgstr "Progresso del setup"
 
 msgctxt "ProgressLabel"
 msgid "Processing:"
-msgstr ""
+msgstr "Processando:"
 
 msgctxt "OverallProgressPackageText"
 msgid "Initializing..."
-msgstr ""
+msgstr "Inizializzazione in corso..."
 
 msgctxt "ProgressCancelButton"
 msgid "&Cancel"
-msgstr ""
+msgstr "&Annulla"
 
 msgctxt "ModifyHeader"
 msgid "Modify Setup"
-msgstr ""
+msgstr "Modifica il setup"
 
 msgctxt "ModifyRepairButton"
 msgid "&Repair"
-msgstr ""
+msgstr "&Ripara"
 
 msgctxt "ModifyUninstallButton"
 msgid "&Uninstall"
-msgstr ""
+msgstr "&Disinstalla"
 
 msgctxt "ModifyCloseButton"
 msgid "&Close"
-msgstr ""
+msgstr "&Chiudi"
 
 msgctxt "SuccessRepairHeader"
 msgid "Repair Successfully Completed"
-msgstr ""
+msgstr "Riparazione Completata con Successo"
 
 msgctxt "SuccessUninstallHeader"
 msgid "Uninstall Successfully Completed"
-msgstr ""
+msgstr "Disinstallazione Completata con Successo"
 
 msgctxt "SuccessInstallHeader"
 msgid "Installation Successfully Completed"
-msgstr ""
+msgstr "Installazione Completata con Successo"
 
 msgctxt "SuccessHeader"
 msgid "Setup Successful"
-msgstr ""
+msgstr "Il setup è andato a buon fine"
 
 msgctxt "SuccessLaunchButton"
 msgid "&Launch"
-msgstr ""
+msgstr "&Avvia"
 
 msgctxt "SuccessRestartText"
 msgid "You must restart your computer before you can use the software."
-msgstr ""
+msgstr "Devi riavviare il computer prima di poter usare il software."
 
 msgctxt "SuccessRestartButton"
 msgid "&Restart"
-msgstr ""
+msgstr "&Riavvia"
 
 msgctxt "SuccessCloseButton"
 msgid "&Close"
-msgstr ""
+msgstr "&Chiudi"
 
 msgctxt "FailureHeader"
 msgid "Setup Failed"
-msgstr ""
+msgstr "Il setup non è andato a buon fine"
 
 msgctxt "FailureInstallHeader"
 msgid "Setup Failed"
-msgstr ""
+msgstr "Il setup non è andato a buon fine"
 
 msgctxt "FailureUninstallHeader"
 msgid "Uninstall Failed"
-msgstr ""
+msgstr "La disinstallazione non è andata a buon fine"
 
 msgctxt "FailureRepairHeader"
 msgid "Repair Failed"
-msgstr ""
+msgstr "La riparazione non è andata a buon fine"
 
 msgctxt "FailureHyperlinkLogText"
 msgid "One or more issues caused the setup to fail. Please fix the issues and then retry setup. For more information see the <a href=\"#\">log file</a>."
@@ -190,11 +190,11 @@ msgstr ""
 
 msgctxt "FailureRestartButton"
 msgid "&Restart"
-msgstr ""
+msgstr "&Riavvia"
 
 msgctxt "FailureCloseButton"
 msgid "&Close"
-msgstr ""
+msgstr "&Chiudi"
 
 msgctxt "FilesInUseHeader"
 msgid "Files In Use"
@@ -210,32 +210,32 @@ msgstr ""
 
 msgctxt "FilesInUseDontCloseRadioButton"
 msgid "&Do not close applications. A reboot will be required."
-msgstr ""
+msgstr "&Non chiudere le applicazioni. Sarà richiesto un riavvio."
 
 msgctxt "FilesInUseOkButton"
 msgid "&OK"
-msgstr ""
+msgstr "&OK"
 
 msgctxt "FilesInUseCancelButton"
 msgid "&Cancel"
-msgstr ""
+msgstr "&Annulla"
 
 msgctxt "ErrorFailNoActionReboot"
 msgid "No action was taken as a system reboot is required."
-msgstr ""
+msgstr "Non è stata intrapresa alcuna azione in quanto è richiesto un riavvio del sistema."
 
 msgctxt "HlaeDisclaimerTitle"
 msgid "Disclaimer"
-msgstr ""
+msgstr "Clausola di responsabilità"
 
 msgctxt "HlaeDisclaimer"
 msgid "This software is for your enjoyment and you are using it at your own risk."
-msgstr ""
+msgstr "Questo programma è per il tuo divertimento e lo stai usando a tuo rischio e pericolo."
 
 msgctxt "HlaeFeaturesHeader"
 msgid "Features"
-msgstr ""
+msgstr "Funzionalità"
 
 msgctxt "HlaeFfmpegFeature"
 msgid "Install FFMPEG from https://ffmpeg.zeranoe.com/builds/ (200 MB)"
-msgstr ""
+msgstr "Installa FFMPEG da https://ffmpeg.zeranoe.com/builds/ (200 MB)"
