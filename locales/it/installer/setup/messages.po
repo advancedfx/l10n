@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"PO-Revision-Date: 2020-06-05 15:30+0000\n"
-"Last-Translator: andrea68 <witeZ68@outlook.it>\n"
+"PO-Revision-Date: 2020-06-06 14:11+0000\n"
+"Last-Translator: Gian <giangiga74@gmail.com>\n"
 "Language-Team: Italian\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
@@ -166,11 +166,11 @@ msgstr "&Chiudi"
 
 msgctxt "FailureHeader"
 msgid "Setup Failed"
-msgstr "Il setup non è andato a buon fine"
+msgstr "Setup Fallito"
 
 msgctxt "FailureInstallHeader"
 msgid "Setup Failed"
-msgstr "Il setup non è andato a buon fine"
+msgstr "Setup Fallito"
 
 msgctxt "FailureUninstallHeader"
 msgid "Uninstall Failed"
@@ -186,7 +186,7 @@ msgstr ""
 
 msgctxt "FailureRestartText"
 msgid "You must restart your computer to complete the rollback of the software."
-msgstr ""
+msgstr "Devi riavviare il computer per rendere il passaggio a una versione precedente del software completo"
 
 msgctxt "FailureRestartButton"
 msgid "&Restart"
@@ -198,15 +198,15 @@ msgstr "&Chiudi"
 
 msgctxt "FilesInUseHeader"
 msgid "Files In Use"
-msgstr ""
+msgstr "File Utilizzati"
 
 msgctxt "FilesInUseLabel"
 msgid "The following applications are using files that need to be updated:"
-msgstr ""
+msgstr "Le seguenti applicazioni utilizzano file che necessitano un aggiornamento"
 
 msgctxt "FilesInUseCloseRadioButton"
 msgid "Close the &applications and attempt to restart them."
-msgstr ""
+msgstr "Chiudi le &applicazioni e prova a riavviarle"
 
 msgctxt "FilesInUseDontCloseRadioButton"
 msgid "&Do not close applications. A reboot will be required."

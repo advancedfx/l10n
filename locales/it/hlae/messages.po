@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: hlae\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-05-25 16:12+0200\n"
-"PO-Revision-Date: 2020-06-05 15:55+0000\n"
+"PO-Revision-Date: 2020-06-07 09:57+0000\n"
 "Last-Translator: andrea68 <witeZ68@outlook.it>\n"
 "Language-Team: Italian\n"
 "Language: it\n"
@@ -21,37 +21,37 @@ msgstr ""
 
 #: AfxError.cs:11
 msgid "AfxError"
-msgstr ""
+msgstr "AfxError"
 
 #: AfxError.cs:40
 #, csharp-format
 msgctxt "AfxError (number code)"
 msgid "AfxError #{0}: "
-msgstr ""
+msgstr "AfxError #{0}:"
 
 #: AfxError.cs:41
 #, csharp-format
 msgctxt "AfxError"
 msgid "Title: {0}"
-msgstr "Titolo:"
+msgstr "Titolo: {0}"
 
 #: AfxError.cs:42
 #, csharp-format
 msgctxt "AfxError"
 msgid "Description: {0}"
-msgstr "Descrizione:"
+msgstr "Descrizione: {0}"
 
 #: AfxError.cs:43
 #, csharp-format
 msgctxt "AfxError"
 msgid "Solution: {0}"
-msgstr "Soluzione:"
+msgstr "Soluzione: {0}"
 
 #: AfxError.cs:44
 #, csharp-format
 msgctxt "AfxError"
 msgid "Inner exception: {0}"
-msgstr ""
+msgstr "Eccezione interna: {0}"
 
 #: AfxRgbaLutVoronoiGenerator.cs:18
 msgid "Voronoi Color Lookup Table"
@@ -71,34 +71,34 @@ msgstr "Controllo"
 
 #: AfxRgbaLutVoronoiGenerator.cs:22
 msgid "Copy all to clipboard"
-msgstr ""
+msgstr "Copia tutto negli appunti"
 
 #: AfxRgbaLutVoronoiGenerator.cs:23
 msgid "Paste all from clipboard"
-msgstr ""
+msgstr "Incolla"
 
 #: AfxRgbaLutVoronoiGenerator.cs:24
 msgctxt "Number/Key"
 msgid "Index"
-msgstr ""
+msgstr "Indice"
 
 #: AfxRgbaLutVoronoiGenerator.cs:25
 msgid "Comment"
-msgstr ""
+msgstr "Commento"
 
 #: AfxRgbaLutVoronoiGenerator.cs:26
 msgid "Weight"
-msgstr ""
+msgstr "Peso"
 
 #: AfxRgbaLutVoronoiGenerator.cs:27
 msgctxt "image"
 msgid "Resolution"
-msgstr ""
+msgstr "Risoluzione"
 
 #: AfxRgbaLutVoronoiGenerator.cs:28
 msgctxt "image"
 msgid "Memory estimate (Bytes):"
-msgstr ""
+msgstr "Memoria stimata (Bytes):"
 
 #: AfxRgbaLutVoronoiGenerator.cs:29
 msgid "Preview"
@@ -106,11 +106,11 @@ msgstr "Anteprima"
 
 #: AfxRgbaLutVoronoiGenerator.cs:30
 msgid "Horizontal:"
-msgstr "Orizzontale"
+msgstr "Orizzontale:"
 
 #: AfxRgbaLutVoronoiGenerator.cs:31
 msgid "Vertical:"
-msgstr "Verticale"
+msgstr "Verticale:"
 
 #: AfxRgbaLutVoronoiGenerator.cs:33
 msgid "Save"
@@ -134,42 +134,42 @@ msgstr "T/AT Neutrale"
 #: AfxRgbaLutVoronoiGenerator.cs:44 AfxRgbaLutVoronoiGenerator.cs:45
 msgctxt "terrorist"
 msgid "T aim"
-msgstr ""
+msgstr "Mira T"
 
 #: AfxRgbaLutVoronoiGenerator.cs:46 AfxRgbaLutVoronoiGenerator.cs:47
 msgctxt "counter-terrorist"
 msgid "CT aim"
-msgstr ""
+msgstr "Mira AT"
 
 #: AfxRgbaLutVoronoiGenerator.cs:48 AfxRgbaLutVoronoiGenerator.cs:49
 msgctxt "terrorist / counter-terrorist"
 msgid "T/CT aim neutral"
-msgstr ""
+msgstr "Mira neutrale T/AT"
 
 #: AfxRgbaLutVoronoiGenerator.cs:90
 msgctxt "Image"
 msgid "Target"
-msgstr ""
+msgstr "Bersaglio"
 
 #: AfxRgbaLutVoronoiGenerator.cs:91
 msgctxt "Image"
 msgid "Source"
-msgstr ""
+msgstr "Sorgente"
 
 #: AfxRgbaLutVoronoiGenerator.cs:92
 msgctxt "Image"
 msgid "RGB difference"
-msgstr ""
+msgstr "Differenza RGB"
 
 #: AfxRgbaLutVoronoiGenerator.cs:381
 #, csharp-format
 msgid "Invalid / missing value in row {0}, column {1}."
-msgstr ""
+msgstr "Non valido / valore mancante in riga {0}, colonna {1}"
 
 #: AfxRgbaLutVoronoiGenerator.cs:382 AfxRgbaLutVoronoiGenerator.cs:435 AfxRgbaLutVoronoiGenerator.cs:452 AfxRgbaLutVoronoiGenerator.cs:632 AfxRgbaLutVoronoiGenerator.cs:644
 #: AfxRgbaLutVoronoiGenerator.cs:835 Launcher.cs:36 Tools/CustomLoader.cs:76
 msgid "Error"
-msgstr ""
+msgstr "Errore"
 
 #: AfxRgbaLutVoronoiGenerator.cs:434
 #, csharp-format

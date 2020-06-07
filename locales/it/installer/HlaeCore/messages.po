@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"PO-Revision-Date: 2020-06-05 15:57+0000\n"
+"PO-Revision-Date: 2020-06-07 09:50+0000\n"
 "Last-Translator: andrea68 <witeZ68@outlook.it>\n"
 "Language-Team: Italian\n"
 "Language: it\n"
@@ -14,7 +14,7 @@ msgstr ""
 
 msgctxt "ApplicationName"
 msgid "HLAE Core"
-msgstr ""
+msgstr "Core di HLAE"
 
 msgctxt "Manufacturer"
 msgid "advancedfx.org"
@@ -22,19 +22,19 @@ msgstr "advancedfx.org"
 
 msgctxt "DowngradeErrorMessage"
 msgid "A newer version of [ProductName] is already installed."
-msgstr ""
+msgstr "Una nuova versione di [ProductName] è già installata"
 
 msgctxt "FfmpegFeature"
 msgid "Install FFMPEG from https://ffmpeg.zeranoe.com/builds/"
-msgstr ""
+msgstr "Installa FFMPEG da https://ffmpeg.zeranoe.com/builds/"
 
 msgctxt "InstallFfmpeg"
 msgid "Installing FFMPEG ..."
-msgstr ""
+msgstr "Installazione di FFMPEG in corso..."
 
 msgctxt "InstallFfmpegConnect"
 msgid "Connecting to https://ffmpeg.zeranoe.com/"
-msgstr ""
+msgstr "Connessione a https://ffmpeg.zeranoe.com/ in corso"
 
 msgctxt "InstallFfmpegConnect_Template"
 msgid "..."
@@ -42,7 +42,7 @@ msgstr "..."
 
 msgctxt "InstallFfmpegDownload"
 msgid "Downloading from https://ffmpeg.zeranoe.com/"
-msgstr ""
+msgstr "Download da https://ffmpeg.zeranoe.com/ in corso"
 
 msgctxt "InstallFfmpegDownload_Template"
 msgid "[1] of [2] Bytes"
@@ -50,12 +50,12 @@ msgstr "[1] di [2] Bytes"
 
 msgctxt "InstallFfmpegExtract"
 msgid "Extracting FFMPEG"
-msgstr "Sto Estraendo FFMPEG"
+msgstr "Estraendo FFMPEG"
 
 msgctxt "InstallFfmpegExtract_Template"
 msgid "Item [1] of [2] ..."
-msgstr ""
+msgstr "Elemento [1] di [2] ..."
 
 msgctxt "AppFolderMustBeLatin"
 msgid "The HLAE application folder path contains invalid characters: Only basic latin character set is allowed. Please choose a different installation folder in options accordingly."
-msgstr ""
+msgstr "La cartella di HLAE contiene caratteri non validi: Solo caratteri latini di base sono ammessi. Per favore scegli una diversa cartella che rispetti tali regole"
