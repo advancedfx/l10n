@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: hlae\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-05-25 16:12+0200\n"
-"PO-Revision-Date: 2020-06-07 13:38+0000\n"
+"PO-Revision-Date: 2020-06-08 08:49+0000\n"
 "Last-Translator: andrea68 <witeZ68@outlook.it>\n"
 "Language-Team: Italian\n"
 "Language: it\n"
@@ -264,17 +264,17 @@ msgstr "errore AfxHook"
 #: HlaeErrors.cs:49
 msgctxt "HLAE errors"
 msgid "Make sure you run the injector and the program to inject with same access rights and that no anti virus / anti cheat is blocking its calls."
-msgstr ""
+msgstr "Accertati di eseguire l'iniettore e il programma da iniettare con gli stessi diritti d'accesso e che nessun anti virus / anticheat li stia bloccando"
 
 #: HlaeErrors.cs:50
 msgctxt "HLAE errors"
 msgid "Make sure to exit anitcheats like ESEA client / Faceit client, Challengeme.gg before using HLAE."
-msgstr ""
+msgstr "Sii sicuro di chiudere anticheat come quelli di ESEA / Faceit / Challengeme.gg prima di usare HLAE."
 
 #: HlaeErrors.cs:65
 msgctxt "HLAE errors"
 msgid "Could not access / enter directory of DLL to inject"
-msgstr ""
+msgstr "Non ho potuto accedere / entrare nella cartella del DLL da iniettare"
 
 #: HlaeErrors.cs:66
 msgctxt "HLAE errors"
@@ -289,7 +289,7 @@ msgstr "OpenProcess fallito"
 #: HlaeErrors.cs:71
 msgctxt "HLAE errors"
 msgid "VirtualAllocEx read|write allocation failed."
-msgstr ""
+msgstr "lettura|scrittura allocazione non riuscita."
 
 #: HlaeErrors.cs:72
 msgctxt "HLAE errors"
@@ -299,7 +299,7 @@ msgstr "GetImage fallito."
 #: HlaeErrors.cs:72
 msgctxt "HLAE errors"
 msgid "AfxHook.dat missing / broken / not accessible"
-msgstr ""
+msgstr "AfxHook.dat mancante / non funzionante / non accessibile"
 
 #: HlaeErrors.cs:72
 msgctxt "HLAE errors"
@@ -309,7 +309,7 @@ msgstr "Prova a estrarre di nuovo / riparare HLAE."
 #: HlaeErrors.cs:73
 msgctxt "HLAE errors"
 msgid "VirtualAllocEx read|write|execute allocation failed."
-msgstr ""
+msgstr "VirtualAllocEx lettura|scrittura allocazione non riuscita."
 
 #: HlaeErrors.cs:74
 msgctxt "HLAE errors"
@@ -380,17 +380,17 @@ msgstr "CS:GO a 64 Bit non è supportato."
 #: LaunchCsgoForm.cs:20
 msgctxt "Launch CS:GO dialog"
 msgid "Launch CS:GO ..."
-msgstr ""
+msgstr "Avvia CS:GO ..."
 
 #: LaunchCsgoForm.cs:21
 msgctxt "Launch CS:GO dialog"
 msgid "Game"
-msgstr ""
+msgstr "Giocare"
 
 #: LaunchCsgoForm.cs:22
 msgctxt "Launch CS:GO dialog"
 msgid "csgo.exe file:"
-msgstr ""
+msgstr "csgo.exe file:"
 
 #: LaunchCsgoForm.cs:23 LaunchCsgoForm.cs:27
 msgctxt "Launch CS:GO dialog"
@@ -634,27 +634,27 @@ msgstr "Memoria DC"
 #: LauncherForm.cs:63
 msgctxt "Launch GoldSrc dialog"
 msgid "remember my changes"
-msgstr ""
+msgstr "ricorda i miei cambiamenti"
 
 #: LauncherForm.cs:64
 msgctxt "Launch GoldSrc dialog"
 msgid "L&aunch"
-msgstr ""
+msgstr "A&vvia"
 
 #: LauncherForm.cs:65
 msgctxt "Launch GoldSrc dialog"
 msgid "Can&cel"
-msgstr ""
+msgstr "Ann&ulla"
 
 #: Loader.cs:138
 msgid ""
 "Image injection problem.\n"
 "Continue waiting?"
-msgstr ""
+msgstr "Problema nell'iniezione dell'immagine. Vuoi continuare ad aspettare?"
 
 #: Loader.cs:138
 msgid "injector Warning"
-msgstr ""
+msgstr "Avvertenze sull'iniezione"
 
 #: Loader.cs:311
 msgid "Can not get Kernel32.dll handle."
@@ -663,7 +663,7 @@ msgstr ""
 #: Loader.cs:324
 #, csharp-format
 msgid "IsWow64Process failed, error code: {0}"
-msgstr ""
+msgstr "IsWow64Process non avviato, codice di errore: {0}"
 
 #: MainForm.cs:26
 msgctxt "Main window"
