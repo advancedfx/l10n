@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: hlae\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-05-25 16:12+0200\n"
-"PO-Revision-Date: 2020-05-26 08:42+0000\n"
-"Last-Translator: itzshadowitzshadow <itzshadowitzshadow@gmail.com>\n"
+"PO-Revision-Date: 2020-06-11 20:45+0000\n"
+"Last-Translator: tedybooking <tedybooking@gmail.com>\n"
 "Language-Team: Polish\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
@@ -88,7 +88,7 @@ msgstr "Komentarz"
 
 #: AfxRgbaLutVoronoiGenerator.cs:26
 msgid "Weight"
-msgstr "Szerokość"
+msgstr "Priorytet"
 
 #: AfxRgbaLutVoronoiGenerator.cs:27
 msgctxt "image"
@@ -400,7 +400,7 @@ msgstr "Przeglądaj ..."
 #: LaunchCsgoForm.cs:24
 msgctxt "Launch CS:GO dialog"
 msgid "Movie making config parent folder"
-msgstr "Folder rodzicielski dla plików konfiguracyjnych ( .cfg) do tworzenia filmów"
+msgstr "Folder z konfiguracjami ( .cfg) do tworzenia filmów"
 
 #: LaunchCsgoForm.cs:25
 msgctxt "Launch CS:GO dialog"
@@ -415,7 +415,7 @@ msgstr "włącz"
 #: LaunchCsgoForm.cs:28
 msgctxt "Launch CS:GO dialog"
 msgid "Graphic Resolution"
-msgstr "Rozdzielczość grafiki"
+msgstr "Rozdzielczość"
 
 #: LaunchCsgoForm.cs:30
 msgctxt "Launch CS:GO dialog"
@@ -854,12 +854,12 @@ msgstr "Chińska stacja HLAE"
 #: MainForm.cs:77
 msgctxt "Language"
 msgid "English (en)"
-msgstr "English (en)"
+msgstr "Angielski (en)"
 
 #: MainForm.cs:80
 msgctxt "Language"
 msgid "Chinese (zh-CN)"
-msgstr "Chinese (zh-CN)"
+msgstr "Chiński (zh-CN)"
 
 #: MainForm.cs:189
 msgctxt "Main window | update status strip | label"
