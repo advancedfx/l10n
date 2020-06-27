@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: hlae\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-05-25 16:12+0200\n"
-"PO-Revision-Date: 2020-06-08 08:49+0000\n"
+"PO-Revision-Date: 2020-06-27 08:47+0000\n"
 "Last-Translator: andrea68 <witeZ68@outlook.it>\n"
 "Language-Team: Italian\n"
 "Language: it\n"
@@ -55,7 +55,7 @@ msgstr "Eccezione interna: {0}"
 
 #: AfxRgbaLutVoronoiGenerator.cs:18
 msgid "Voronoi Color Lookup Table"
-msgstr ""
+msgstr "Lookup Table Colore Voronoi"
 
 #: AfxRgbaLutVoronoiGenerator.cs:19
 msgid "Color map"
@@ -371,7 +371,7 @@ msgstr ""
 #, csharp-format
 msgctxt "HLAE errors"
 msgid "GetLastWin32Error = {0}: {1}"
-msgstr ""
+msgstr "GetLastWin32Error = {0}: {1}"
 
 #: LaunchCsgo.cs:42
 msgid "64 Bit CS:GO is not supported."
@@ -440,7 +440,7 @@ msgstr "schermo intero"
 #: LaunchCsgoForm.cs:34
 msgctxt "Launch CS:GO dialog"
 msgid "Custom command line options"
-msgstr ""
+msgstr "Opzioni a riga di comando personalizzate"
 
 #: LaunchCsgoForm.cs:35
 #, csharp-format
@@ -624,7 +624,7 @@ msgstr "Standard"
 #: LauncherForm.cs:59
 msgctxt "Launch GoldSrc dialog render mode"
 msgid "FrameBuffer Object"
-msgstr ""
+msgstr "Oggetto FrameBuffer"
 
 #: LauncherForm.cs:60
 msgctxt "Launch GoldSrc dialog render mode"
@@ -693,7 +693,7 @@ msgstr "Esci"
 #: MainForm.cs:33
 msgctxt "Main Window | menu"
 msgid "View"
-msgstr ""
+msgstr "Visualizza"
 
 #: MainForm.cs:34
 msgctxt "Main window | menu | View"
@@ -718,7 +718,7 @@ msgstr "Grandezza File"
 #: MainForm.cs:39
 msgctxt "Main window | menu | Tools"
 msgid "Color Lookup Tables"
-msgstr ""
+msgstr "Lookup Table dei colori"
 
 #: MainForm.cs:40
 msgctxt "Main window | menu | Tools | Color Lookup Tables"
@@ -738,7 +738,7 @@ msgstr "Strumento per le Demo"
 #: MainForm.cs:43
 msgctxt "Main window | menu | Tools | GoldSrc"
 msgid "Sky Manager"
-msgstr ""
+msgstr "Gestione del cielo"
 
 #: MainForm.cs:45
 msgctxt "Main window | menu | Tools"
@@ -986,12 +986,12 @@ msgstr "&Abortire"
 
 #: Tools/CustomLoaderForm.cs:36
 msgid "Add environment variables: name=value"
-msgstr ""
+msgstr "Aggiungi variabile d'ambiente: nome=valore"
 
 #: Tools/CustomLoaderForm.cs:72
 msgctxt "Custom Loader dialog | Program filter"
 msgid "Program to launch and hook (.exe)|*.exe"
-msgstr ""
+msgstr "Programma da lanciare e agganciare (.exe)|*.exe"
 
 #: Tools/CustomLoaderForm.cs:80
 msgctxt "Custom Loader dialog | DLL filter"
