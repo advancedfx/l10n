@@ -1,19 +1,22 @@
-#
+# 
 msgid ""
 msgstr ""
-"Language: de_DE\n"
+"PO-Revision-Date: 2020-07-10 16:59+0000\n"
+"Last-Translator: Dominik <dominik@matrixstorm.com>\n"
+"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pontoon\n"
 
-#, fuzzy
 msgctxt "ApplicationName"
 msgid "HLAE"
-msgstr "HLAE Kern"
+msgstr "HLAE"
 
 msgctxt "HlaeLocalesTitle"
 msgid "Translations"
-msgstr ""
+msgstr "Übersetzungen"
 
 msgctxt "Manufacturer"
 msgid "advancedfx.org"
@@ -25,72 +28,71 @@ msgstr "Eine neuere Version von [ProductName] ist bereits installiert."
 
 msgctxt "FfmpegTitle"
 msgid "FFMPEG"
-msgstr ""
+msgstr "FFMPEG"
 
 msgctxt "FfmpegDescription"
 msgid "FFMPEG can be used  for encoding mirv_streams to videos."
-msgstr ""
+msgstr "FFMPEG kann für die Kodierung von mirv_streams in Videos verwendet werden."
 
 msgctxt "FfmpegDlgTitle"
 msgid "{\\WixUI_Font_Title}FFMPEG"
-msgstr ""
+msgstr "{\\WixUI_Font_Title}FFMPEG"
 
 msgctxt "FfmpegDlgDescription"
 msgid "Install FFMPEG or use exsiting one."
-msgstr ""
+msgstr "Intalliere FFMPEG oder verwende vorhandene Version."
 
-#, fuzzy
 msgctxt "FfmpegDlgReinstall"
 msgid "Reinstall FFMPEG"
-msgstr "Installiere FFMPEG ..."
+msgstr "FFMPEG neuinstallieren"
 
 msgctxt "FfmpegDlgDownloaded"
 msgid "FFMPEG will be downloaded from https://ffmpeg.zeranoe.com/builds/ and installed using your current internet connection and proxy settings."
-msgstr ""
+msgstr "FFMPEG wird von https://ffmpeg.zeranoe.com/builds/ heruntergeladen und installiert werden, unter Benutzung Ihrer jetzigen Internet Vebindung und Proxyeinstellungen."
 
 msgctxt "FfmpegDlgVersion"
 msgid "Select version:"
-msgstr ""
+msgstr "Version auswählen:"
 
 msgctxt "FfmpegDlgLatest"
 msgid "latest (recommended)"
-msgstr ""
+msgstr "neuste (empfohlen)"
 
 msgctxt "FfmpegDlgCustom"
 msgid "Select existing on disk"
-msgstr ""
+msgstr "Existiernde auf Laufwerk auswählen"
 
 msgctxt "FfmpegDlgLinking"
 msgid "Select linking:"
-msgstr ""
+msgstr "Linking auswählen:"
 
 msgctxt "FfmpegDlgStatic"
 msgid "static (faster, 100 MB download, recommended)"
-msgstr ""
+msgstr "statisch (schneller, 100 MB Download, empfohlen)"
 
 msgctxt "FfmpegDlgShared"
 msgid "shared (smaller, 50 MB download)"
-msgstr ""
+msgstr "geteilt (kleiner, 50 MB Download)"
 
 msgctxt "FfmpegDlgLicense"
 msgid "Select license:"
-msgstr ""
+msgstr "Lizenz auswählen:"
 
 msgctxt "FfmpegDlgGpl3"
 msgid "GPL3 (complete, recommended)"
-msgstr ""
+msgstr "GPL3 (vollständig, empfohlen)"
 
 msgctxt "FfmpegDlgLgpl3"
 msgid "LGPL3 (less features, more permissive)"
-msgstr ""
+msgstr "LGPL3 (weniger Funktionen, freizügiger)"
 
 msgctxt "FfmpegDlgPath"
 msgid "Please enter the full path to your custom ffmpeg.exe here:"
-msgstr ""
+msgstr "Bitte geben Sie den kompletten Pfad zu Ihrer eigenen ffmpeg.exe hier an:"
 
 msgctxt "FfmpegDlgPathBrowse"
 msgid "Browse"
-msgstr ""
+msgstr "Durchsuchen"
 
 msgctxt "FfmpegDlgPathError"
 msgid "{\\WixUI_Font_Bold}File does not exist or is not accessible. Please fix and click Next button to try again."
@@ -124,10 +126,9 @@ msgctxt "InstallFfmpegExtract_Template"
 msgid "Item [1] of [2] ..."
 msgstr "Element [1] von [2] ..."
 
-#, fuzzy
 msgctxt "AppFolderMustBeLatin"
 msgid "The HLAE application folder path contains invalid characters: Only basic latin character set is allowed (7bit ASCII)."
-msgstr "HLAE Anwendungsordner enthält ungültige Zeichen: Nur Zeichen des lateinischen Basiszeichensatzes sind erlaubt. Bitte wählen Sie entsprechend einen anderen Installationsordner in den Optionen."
+msgstr "HLAE Anwendungsordner enthält ungültige Zeichen: Nur der lateinische Basiszeichensatz ist erlaubt (7 Bit ASCII)."
 
 msgctxt "RemoveHlaeAppDataFolder"
 msgid "Remove HLAE application data folder (not recommended)."
