@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"PO-Revision-Date: 2020-07-10 13:58+0000\n"
+"PO-Revision-Date: 2020-07-10 14:14+0000\n"
 "Last-Translator: yovaN <akkardeon@gmail.com>\n"
 "Language-Team: Russian\n"
 "Language: ru\n"
@@ -12,10 +12,9 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pontoon\n"
 
-#, fuzzy
 msgctxt "ApplicationName"
 msgid "HLAE"
-msgstr "Ядро HLAE"
+msgstr "HLAE"
 
 msgctxt "HlaeLocalesTitle"
 msgid "Translations"
@@ -43,12 +42,11 @@ msgstr "{\\WixUI_Font_Title}FFMPEG"
 
 msgctxt "FfmpegDlgDescription"
 msgid "Install FFMPEG or use exsiting one."
-msgstr "Установить FFMPEG или использовать имеющийся."
+msgstr "Установить FFMPEG или используйте имеющийся."
 
-#, fuzzy
 msgctxt "FfmpegDlgReinstall"
 msgid "Reinstall FFMPEG"
-msgstr "Установка FFMPEG ..."
+msgstr "Установка FFMPEG"
 
 msgctxt "FfmpegDlgDownloaded"
 msgid "FFMPEG will be downloaded from https://ffmpeg.zeranoe.com/builds/ and installed using your current internet connection and proxy settings."
@@ -56,51 +54,51 @@ msgstr "FFMPEG можно скачать с https://ffmpeg.zeranoe.com/builds/ �
 
 msgctxt "FfmpegDlgVersion"
 msgid "Select version:"
-msgstr ""
+msgstr "Выберите версию:"
 
 msgctxt "FfmpegDlgLatest"
 msgid "latest (recommended)"
-msgstr ""
+msgstr "последняя (рекомендуется)"
 
 msgctxt "FfmpegDlgCustom"
 msgid "Select existing on disk"
-msgstr ""
+msgstr "Уже установлен (выбрать на диске)"
 
 msgctxt "FfmpegDlgLinking"
 msgid "Select linking:"
-msgstr ""
+msgstr "Выбрать сборку:"
 
 msgctxt "FfmpegDlgStatic"
 msgid "static (faster, 100 MB download, recommended)"
-msgstr ""
+msgstr "статичная (быстрее, 100МБ загрузки, рекомендуется)"
 
 msgctxt "FfmpegDlgShared"
 msgid "shared (smaller, 50 MB download)"
-msgstr ""
+msgstr "общая (меньше, 50МБ загрузки)"
 
 msgctxt "FfmpegDlgLicense"
 msgid "Select license:"
-msgstr ""
+msgstr "Выбрать лицензию:"
 
 msgctxt "FfmpegDlgGpl3"
 msgid "GPL3 (complete, recommended)"
-msgstr ""
+msgstr "GPL3 (полная, рекомендуется)"
 
 msgctxt "FfmpegDlgLgpl3"
 msgid "LGPL3 (less features, more permissive)"
-msgstr ""
+msgstr "LGPL3 (меньше возможностей, больше разрешений)"
 
 msgctxt "FfmpegDlgPath"
 msgid "Please enter the full path to your custom ffmpeg.exe here:"
-msgstr ""
+msgstr "Пожалуйста введите полный путь до вашего пользовательского ffmpeg.exe здесь:"
 
 msgctxt "FfmpegDlgPathBrowse"
 msgid "Browse"
-msgstr ""
+msgstr "Обзор"
 
 msgctxt "FfmpegDlgPathError"
 msgid "{\\WixUI_Font_Bold}File does not exist or is not accessible. Please fix and click Next button to try again."
-msgstr ""
+msgstr "{\\WixUI_Font_Bold}Файл не существует или недоступен. Пожалуйста, исправьте ошибку и нажмите Далее."
 
 msgctxt "InstallFfmpeg"
 msgid "Installing FFMPEG ..."
@@ -108,7 +106,7 @@ msgstr "Установка FFMPEG ..."
 
 msgctxt "InstallFfmpegConnect"
 msgid "Connecting to [AFX_FFMPEGURL]"
-msgstr ""
+msgstr "Соединяемся с [AFX_FFMPEGURL]"
 
 msgctxt "InstallFfmpegConnect_Template"
 msgid "..."
@@ -116,7 +114,7 @@ msgstr "..."
 
 msgctxt "InstallFfmpegDownload"
 msgid "Downloading [AFX_FFMPEGURL]"
-msgstr ""
+msgstr "Скачиваем [AFX_FFMPEGURL]"
 
 msgctxt "InstallFfmpegDownload_Template"
 msgid "[1] of [2] Bytes"
@@ -130,14 +128,13 @@ msgctxt "InstallFfmpegExtract_Template"
 msgid "Item [1] of [2] ..."
 msgstr "Элемент [1] из [2] ..."
 
-#, fuzzy
 msgctxt "AppFolderMustBeLatin"
 msgid "The HLAE application folder path contains invalid characters: Only basic latin character set is allowed (7bit ASCII)."
-msgstr "Папка установки HLAE содержит недопустимые символы: Разрешены только основные латинские символы. Пожалуйста, выберите другую папку установки в настройках."
+msgstr "Папка установки HLAE содержит недопустимые символы: Разрешены только основные латинские символы (7bit ASCII)."
 
 msgctxt "RemoveHlaeAppDataFolder"
 msgid "Remove HLAE application data folder (not recommended)."
-msgstr ""
+msgstr "Удалить папку HLAE из AppData (не рекомендуется)"
 
 #~ msgctxt "FfmpegFeature"
 #~ msgid "Install FFMPEG from https://ffmpeg.zeranoe.com/builds/"

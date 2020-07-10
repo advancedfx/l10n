@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"PO-Revision-Date: 2020-01-21 23:41+0000\n"
+"PO-Revision-Date: 2020-07-10 14:18+0000\n"
 "Last-Translator: yovaN <akkardeon@gmail.com>\n"
 "Language-Team: Russian\n"
 "Language: ru\n"
@@ -243,7 +243,7 @@ msgstr "Эта программа предназначена для вашего
 
 msgctxt "HlaeSetupModifyInfo"
 msgid "To modify the exiting HLAE installation, please use the \"HLAE\" entry in the installed apps list instead."
-msgstr ""
+msgstr "Чтобы изменить существующую установку HLAE, пожалуйста используйте \"Параметры > Приложения и возможности > HLAE\"."
 
 #~ msgctxt "HlaeFeaturesHeader"
 #~ msgid "Features"
