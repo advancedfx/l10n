@@ -1,10 +1,14 @@
-#
+# 
 msgid ""
 msgstr ""
-"Language: de_DE\n"
+"PO-Revision-Date: 2020-07-10 17:02+0000\n"
+"Last-Translator: Dominik <dominik@matrixstorm.com>\n"
+"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pontoon\n"
 
 msgctxt "Caption"
 msgid "[WixBundleName] Setup"
@@ -186,7 +190,9 @@ msgstr "Reperatur fehlgeschlagen"
 
 msgctxt "FailureHyperlinkLogText"
 msgid "One or more issues caused the setup to fail. Please fix the issues and then retry setup. For more information see the <a href=\"#\">log file</a>."
-msgstr "Eine oder mehre Probleme brachten das Setup zum fehlschlagen. Bitte beheben Sie die Probleme und wiederholen Sie danach das Setup. Für weitere Informationen schauen Sie in die <a href=\"#\">Logdatei</a>."
+msgstr ""
+"Eine oder mehre Probleme brachten das Setup zum fehlschlagen. Bitte beheben Sie die Probleme und wiederholen Sie danach das Setup. Für weitere Informationen schauen Sie in die <a "
+"href=\"#\">Logdatei</a>."
 
 msgctxt "FailureRestartText"
 msgid "You must restart your computer to complete the rollback of the software."
@@ -238,7 +244,7 @@ msgstr "Die Software ist zu Ihrem Vergnügen and Sie benutzen sie auf eigenes Ri
 
 msgctxt "HlaeSetupModifyInfo"
 msgid "To modify the exiting HLAE installation, please use the \"HLAE\" entry in the installed apps list instead."
-msgstr ""
+msgstr "Um die existierende HLAE installation zu verändern, benutzen Sie bitten den \"HLAE\"-Eintrag in der Liste der installierten Anwendungen."
 
 #~ msgctxt "HlaeFeaturesHeader"
 #~ msgid "Features"

@@ -1,7 +1,7 @@
 # 
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2020-07-10 16:59+0000\n"
+"PO-Revision-Date: 2020-07-10 17:01+0000\n"
 "Last-Translator: Dominik <dominik@matrixstorm.com>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
@@ -96,7 +96,7 @@ msgstr "Durchsuchen"
 
 msgctxt "FfmpegDlgPathError"
 msgid "{\\WixUI_Font_Bold}File does not exist or is not accessible. Please fix and click Next button to try again."
-msgstr ""
+msgstr "{\\WixUI_Font_Bold}Datei existiert nicht oder ist nicht zugreifbar. Bitte beheben und Weiter-Knopf drücken um es erneut zu versuchen."
 
 msgctxt "InstallFfmpeg"
 msgid "Installing FFMPEG ..."
@@ -104,7 +104,7 @@ msgstr "Installiere FFMPEG ..."
 
 msgctxt "InstallFfmpegConnect"
 msgid "Connecting to [AFX_FFMPEGURL]"
-msgstr ""
+msgstr "Verbinde zu [AFX_FFMPEGURL]"
 
 msgctxt "InstallFfmpegConnect_Template"
 msgid "..."
@@ -112,7 +112,7 @@ msgstr "..."
 
 msgctxt "InstallFfmpegDownload"
 msgid "Downloading [AFX_FFMPEGURL]"
-msgstr ""
+msgstr "Lade [AFX_FFMPEGURL] herunter"
 
 msgctxt "InstallFfmpegDownload_Template"
 msgid "[1] of [2] Bytes"
@@ -132,7 +132,7 @@ msgstr "HLAE Anwendungsordner enthält ungültige Zeichen: Nur der lateinische B
 
 msgctxt "RemoveHlaeAppDataFolder"
 msgid "Remove HLAE application data folder (not recommended)."
-msgstr ""
+msgstr "Entfernen des HLAE Anwendungsdatenordners (nicht empfohlen)."
 
 #~ msgctxt "FfmpegFeature"
 #~ msgid "Install FFMPEG from https://ffmpeg.zeranoe.com/builds/"
