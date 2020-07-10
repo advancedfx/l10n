@@ -1,18 +1,23 @@
-# 
+#
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2020-01-21 11:26+0000\n"
 "Last-Translator: FlowingSPDG <shugo_k@flowing.tokyo>\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Pontoon\n"
 
+#, fuzzy
 msgctxt "ApplicationName"
-msgid "HLAE Core"
+msgid "HLAE"
 msgstr "HLAE コア"
+
+msgctxt "HlaeLocalesTitle"
+msgid "Translations"
+msgstr ""
 
 msgctxt "Manufacturer"
 msgid "advancedfx.org"
@@ -22,25 +27,94 @@ msgctxt "DowngradeErrorMessage"
 msgid "A newer version of [ProductName] is already installed."
 msgstr "より新しい[ProductName] が既にインストールされています。"
 
-msgctxt "FfmpegFeature"
-msgid "Install FFMPEG from https://ffmpeg.zeranoe.com/builds/"
-msgstr "https://ffmpeg.zeranoe.com/builds/ からFFMPEGをインストールします"
+msgctxt "FfmpegTitle"
+msgid "FFMPEG"
+msgstr ""
+
+msgctxt "FfmpegDescription"
+msgid "FFMPEG can be used  for encoding mirv_streams to videos."
+msgstr ""
+
+msgctxt "FfmpegDlgTitle"
+msgid "{\\WixUI_Font_Title}FFMPEG"
+msgstr ""
+
+msgctxt "FfmpegDlgDescription"
+msgid "Install FFMPEG or use exsiting one."
+msgstr ""
+
+#, fuzzy
+msgctxt "FfmpegDlgReinstall"
+msgid "Reinstall FFMPEG"
+msgstr "FFMPEGをインストール中..."
+
+msgctxt "FfmpegDlgDownloaded"
+msgid "FFMPEG will be downloaded from https://ffmpeg.zeranoe.com/builds/ and installed using your current internet connection and proxy settings."
+msgstr ""
+
+msgctxt "FfmpegDlgVersion"
+msgid "Select version:"
+msgstr ""
+
+msgctxt "FfmpegDlgLatest"
+msgid "latest (recommended)"
+msgstr ""
+
+msgctxt "FfmpegDlgCustom"
+msgid "Select existing on disk"
+msgstr ""
+
+msgctxt "FfmpegDlgLinking"
+msgid "Select linking:"
+msgstr ""
+
+msgctxt "FfmpegDlgStatic"
+msgid "static (faster, 100 MB download, recommended)"
+msgstr ""
+
+msgctxt "FfmpegDlgShared"
+msgid "shared (smaller, 50 MB download)"
+msgstr ""
+
+msgctxt "FfmpegDlgLicense"
+msgid "Select license:"
+msgstr ""
+
+msgctxt "FfmpegDlgGpl3"
+msgid "GPL3 (complete, recommended)"
+msgstr ""
+
+msgctxt "FfmpegDlgLgpl3"
+msgid "LGPL3 (less features, more permissive)"
+msgstr ""
+
+msgctxt "FfmpegDlgPath"
+msgid "Please enter the full path to your custom ffmpeg.exe here:"
+msgstr ""
+
+msgctxt "FfmpegDlgPathBrowse"
+msgid "Browse"
+msgstr ""
+
+msgctxt "FfmpegDlgPathError"
+msgid "{\\WixUI_Font_Bold}File does not exist or is not accessible. Please fix and click Next button to try again."
+msgstr ""
 
 msgctxt "InstallFfmpeg"
 msgid "Installing FFMPEG ..."
 msgstr "FFMPEGをインストール中..."
 
 msgctxt "InstallFfmpegConnect"
-msgid "Connecting to https://ffmpeg.zeranoe.com/"
-msgstr "https://ffmpeg.zeranoe.com/に接続中"
+msgid "Connecting to [AFX_FFMPEGURL]"
+msgstr ""
 
 msgctxt "InstallFfmpegConnect_Template"
 msgid "..."
 msgstr "..."
 
 msgctxt "InstallFfmpegDownload"
-msgid "Downloading from https://ffmpeg.zeranoe.com/"
-msgstr "https://ffmpeg.zeranoe.com/からダウンロード中"
+msgid "Downloading [AFX_FFMPEGURL]"
+msgstr ""
 
 msgctxt "InstallFfmpegDownload_Template"
 msgid "[1] of [2] Bytes"
@@ -54,8 +128,25 @@ msgctxt "InstallFfmpegExtract_Template"
 msgid "Item [1] of [2] ..."
 msgstr "アイテム[1] / [2]"
 
+#, fuzzy
 msgctxt "AppFolderMustBeLatin"
-msgid "The HLAE application folder path contains invalid characters: Only basic latin character set is allowed. Please choose a different installation folder in options accordingly."
+msgid "The HLAE application folder path contains invalid characters: Only basic latin character set is allowed (7bit ASCII)."
 msgstr ""
 "HLAEアプリケーションパスに無効な文字が含まれています: 基本的なラテン文字のみ許可されます。\n"
 "オプションから別のインストールパスを選択してください。"
+
+msgctxt "RemoveHlaeAppDataFolder"
+msgid "Remove HLAE application data folder (not recommended)."
+msgstr ""
+
+#~ msgctxt "FfmpegFeature"
+#~ msgid "Install FFMPEG from https://ffmpeg.zeranoe.com/builds/"
+#~ msgstr "https://ffmpeg.zeranoe.com/builds/ からFFMPEGをインストールします"
+
+#~ msgctxt "InstallFfmpegConnect"
+#~ msgid "Connecting to https://ffmpeg.zeranoe.com/"
+#~ msgstr "https://ffmpeg.zeranoe.com/に接続中"
+
+#~ msgctxt "InstallFfmpegDownload"
+#~ msgid "Downloading from https://ffmpeg.zeranoe.com/"
+#~ msgstr "https://ffmpeg.zeranoe.com/からダウンロード中"

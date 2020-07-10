@@ -1,4 +1,4 @@
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
@@ -12,9 +12,14 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pontoon\n"
 
+#, fuzzy
 msgctxt "ApplicationName"
-msgid "HLAE Core"
+msgid "HLAE"
 msgstr "Rdzeń HLAE"
+
+msgctxt "HlaeLocalesTitle"
+msgid "Translations"
+msgstr ""
 
 msgctxt "Manufacturer"
 msgid "advancedfx.org"
@@ -24,25 +29,94 @@ msgctxt "DowngradeErrorMessage"
 msgid "A newer version of [ProductName] is already installed."
 msgstr "Posiadasz najnowszą wersję [ProductName]"
 
-msgctxt "FfmpegFeature"
-msgid "Install FFMPEG from https://ffmpeg.zeranoe.com/builds/"
-msgstr "Zainstaluj FFMPEG z https://ffmpeg.zeranoe.com/builds/"
+msgctxt "FfmpegTitle"
+msgid "FFMPEG"
+msgstr ""
+
+msgctxt "FfmpegDescription"
+msgid "FFMPEG can be used  for encoding mirv_streams to videos."
+msgstr ""
+
+msgctxt "FfmpegDlgTitle"
+msgid "{\\WixUI_Font_Title}FFMPEG"
+msgstr ""
+
+msgctxt "FfmpegDlgDescription"
+msgid "Install FFMPEG or use exsiting one."
+msgstr ""
+
+#, fuzzy
+msgctxt "FfmpegDlgReinstall"
+msgid "Reinstall FFMPEG"
+msgstr "Instaluję FFMPEG..."
+
+msgctxt "FfmpegDlgDownloaded"
+msgid "FFMPEG will be downloaded from https://ffmpeg.zeranoe.com/builds/ and installed using your current internet connection and proxy settings."
+msgstr ""
+
+msgctxt "FfmpegDlgVersion"
+msgid "Select version:"
+msgstr ""
+
+msgctxt "FfmpegDlgLatest"
+msgid "latest (recommended)"
+msgstr ""
+
+msgctxt "FfmpegDlgCustom"
+msgid "Select existing on disk"
+msgstr ""
+
+msgctxt "FfmpegDlgLinking"
+msgid "Select linking:"
+msgstr ""
+
+msgctxt "FfmpegDlgStatic"
+msgid "static (faster, 100 MB download, recommended)"
+msgstr ""
+
+msgctxt "FfmpegDlgShared"
+msgid "shared (smaller, 50 MB download)"
+msgstr ""
+
+msgctxt "FfmpegDlgLicense"
+msgid "Select license:"
+msgstr ""
+
+msgctxt "FfmpegDlgGpl3"
+msgid "GPL3 (complete, recommended)"
+msgstr ""
+
+msgctxt "FfmpegDlgLgpl3"
+msgid "LGPL3 (less features, more permissive)"
+msgstr ""
+
+msgctxt "FfmpegDlgPath"
+msgid "Please enter the full path to your custom ffmpeg.exe here:"
+msgstr ""
+
+msgctxt "FfmpegDlgPathBrowse"
+msgid "Browse"
+msgstr ""
+
+msgctxt "FfmpegDlgPathError"
+msgid "{\\WixUI_Font_Bold}File does not exist or is not accessible. Please fix and click Next button to try again."
+msgstr ""
 
 msgctxt "InstallFfmpeg"
 msgid "Installing FFMPEG ..."
 msgstr "Instaluję FFMPEG..."
 
 msgctxt "InstallFfmpegConnect"
-msgid "Connecting to https://ffmpeg.zeranoe.com/"
-msgstr "Łączę z https://ffmpeg.zeranoe.com/"
+msgid "Connecting to [AFX_FFMPEGURL]"
+msgstr ""
 
 msgctxt "InstallFfmpegConnect_Template"
 msgid "..."
 msgstr "..."
 
 msgctxt "InstallFfmpegDownload"
-msgid "Downloading from https://ffmpeg.zeranoe.com/"
-msgstr "Pobieram z https://ffmpeg.zeranoe.com/"
+msgid "Downloading [AFX_FFMPEGURL]"
+msgstr ""
 
 msgctxt "InstallFfmpegDownload_Template"
 msgid "[1] of [2] Bytes"
@@ -56,6 +130,23 @@ msgctxt "InstallFfmpegExtract_Template"
 msgid "Item [1] of [2] ..."
 msgstr "[1] z [2]"
 
+#, fuzzy
 msgctxt "AppFolderMustBeLatin"
-msgid "The HLAE application folder path contains invalid characters: Only basic latin character set is allowed. Please choose a different installation folder in options accordingly."
+msgid "The HLAE application folder path contains invalid characters: Only basic latin character set is allowed (7bit ASCII)."
 msgstr "Ścieżka do folderu aplikacji HLAE zawiera nieprawidłowe znaki:  dozwolony jest tylko podstawowy zestaw znaków (bez polskich znaków). Wybierz inny folder instalacyjny!"
+
+msgctxt "RemoveHlaeAppDataFolder"
+msgid "Remove HLAE application data folder (not recommended)."
+msgstr ""
+
+#~ msgctxt "FfmpegFeature"
+#~ msgid "Install FFMPEG from https://ffmpeg.zeranoe.com/builds/"
+#~ msgstr "Zainstaluj FFMPEG z https://ffmpeg.zeranoe.com/builds/"
+
+#~ msgctxt "InstallFfmpegConnect"
+#~ msgid "Connecting to https://ffmpeg.zeranoe.com/"
+#~ msgstr "Łączę z https://ffmpeg.zeranoe.com/"
+
+#~ msgctxt "InstallFfmpegDownload"
+#~ msgid "Downloading from https://ffmpeg.zeranoe.com/"
+#~ msgstr "Pobieram z https://ffmpeg.zeranoe.com/"

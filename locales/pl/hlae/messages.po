@@ -3,12 +3,12 @@
 # Copyright (C) 2020 advancedfx.org
 # This file is distributed under the same license as the hlae package.
 # <EMAIL@ADDRESS>, 2020.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: hlae\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-05-25 16:12+0200\n"
+"POT-Creation-Date: 2020-07-05 08:08+0200\n"
 "PO-Revision-Date: 2020-06-11 20:45+0000\n"
 "Last-Translator: tedybooking <tedybooking@gmail.com>\n"
 "Language-Team: Polish\n"
@@ -53,150 +53,150 @@ msgctxt "AfxError"
 msgid "Inner exception: {0}"
 msgstr "Wyjątek: {0}"
 
-#: AfxRgbaLutVoronoiGenerator.cs:18
+#: AfxRgbaLutVoronoiGenerator.cs:19
 msgid "Voronoi Color Lookup Table"
 msgstr "Tabela kolorów Voronoi"
 
-#: AfxRgbaLutVoronoiGenerator.cs:19
+#: AfxRgbaLutVoronoiGenerator.cs:20
 msgid "Color map"
 msgstr "Mapa kolorów"
 
-#: AfxRgbaLutVoronoiGenerator.cs:20 AfxRgbaLutVoronoiGenerator.cs:32
+#: AfxRgbaLutVoronoiGenerator.cs:21 AfxRgbaLutVoronoiGenerator.cs:33
 msgid "Generate"
 msgstr "Generuj"
 
-#: AfxRgbaLutVoronoiGenerator.cs:21
+#: AfxRgbaLutVoronoiGenerator.cs:22
 msgid "Check"
 msgstr "Sprawdź"
 
-#: AfxRgbaLutVoronoiGenerator.cs:22
+#: AfxRgbaLutVoronoiGenerator.cs:23
 msgid "Copy all to clipboard"
 msgstr "Skopiuj do schowka"
 
-#: AfxRgbaLutVoronoiGenerator.cs:23
+#: AfxRgbaLutVoronoiGenerator.cs:24
 msgid "Paste all from clipboard"
 msgstr "Wklej ze schowka"
 
-#: AfxRgbaLutVoronoiGenerator.cs:24
+#: AfxRgbaLutVoronoiGenerator.cs:25
 msgctxt "Number/Key"
 msgid "Index"
 msgstr "Index"
 
-#: AfxRgbaLutVoronoiGenerator.cs:25
+#: AfxRgbaLutVoronoiGenerator.cs:26
 msgid "Comment"
 msgstr "Komentarz"
 
-#: AfxRgbaLutVoronoiGenerator.cs:26
+#: AfxRgbaLutVoronoiGenerator.cs:27
 msgid "Weight"
 msgstr "Priorytet"
 
-#: AfxRgbaLutVoronoiGenerator.cs:27
+#: AfxRgbaLutVoronoiGenerator.cs:28
 msgctxt "image"
 msgid "Resolution"
 msgstr "Rozdzielczość:"
 
-#: AfxRgbaLutVoronoiGenerator.cs:28
+#: AfxRgbaLutVoronoiGenerator.cs:29
 msgctxt "image"
 msgid "Memory estimate (Bytes):"
 msgstr "Szacowane zużycie pamięci (Bajty)"
 
-#: AfxRgbaLutVoronoiGenerator.cs:29
+#: AfxRgbaLutVoronoiGenerator.cs:30
 msgid "Preview"
 msgstr "Podgląd"
 
-#: AfxRgbaLutVoronoiGenerator.cs:30
+#: AfxRgbaLutVoronoiGenerator.cs:31
 msgid "Horizontal:"
 msgstr "Poziom:"
 
-#: AfxRgbaLutVoronoiGenerator.cs:31
+#: AfxRgbaLutVoronoiGenerator.cs:32
 msgid "Vertical:"
 msgstr "Pion:"
 
-#: AfxRgbaLutVoronoiGenerator.cs:33
+#: AfxRgbaLutVoronoiGenerator.cs:34
 msgid "Save"
 msgstr "Zapisz"
 
-#: AfxRgbaLutVoronoiGenerator.cs:37 AfxRgbaLutVoronoiGenerator.cs:38
+#: AfxRgbaLutVoronoiGenerator.cs:38 AfxRgbaLutVoronoiGenerator.cs:39
 msgctxt "terrorist"
 msgid "T"
 msgstr "Strona T"
 
-#: AfxRgbaLutVoronoiGenerator.cs:39 AfxRgbaLutVoronoiGenerator.cs:40
+#: AfxRgbaLutVoronoiGenerator.cs:40 AfxRgbaLutVoronoiGenerator.cs:41
 msgctxt "counter-terrorist"
 msgid "CT"
 msgstr "Strona CT"
 
-#: AfxRgbaLutVoronoiGenerator.cs:41 AfxRgbaLutVoronoiGenerator.cs:42
+#: AfxRgbaLutVoronoiGenerator.cs:42 AfxRgbaLutVoronoiGenerator.cs:43
 msgctxt "terrorist / counter-terrorist"
 msgid "T/CT neutral"
 msgstr "Kolor neutralny strony T/CT"
 
-#: AfxRgbaLutVoronoiGenerator.cs:44 AfxRgbaLutVoronoiGenerator.cs:45
+#: AfxRgbaLutVoronoiGenerator.cs:45 AfxRgbaLutVoronoiGenerator.cs:46
 msgctxt "terrorist"
 msgid "T aim"
 msgstr "Cel T"
 
-#: AfxRgbaLutVoronoiGenerator.cs:46 AfxRgbaLutVoronoiGenerator.cs:47
+#: AfxRgbaLutVoronoiGenerator.cs:47 AfxRgbaLutVoronoiGenerator.cs:48
 msgctxt "counter-terrorist"
 msgid "CT aim"
 msgstr "Cel CT"
 
-#: AfxRgbaLutVoronoiGenerator.cs:48 AfxRgbaLutVoronoiGenerator.cs:49
+#: AfxRgbaLutVoronoiGenerator.cs:49 AfxRgbaLutVoronoiGenerator.cs:50
 msgctxt "terrorist / counter-terrorist"
 msgid "T/CT aim neutral"
 msgstr "Kolor neutralny celu strony T/CT"
 
-#: AfxRgbaLutVoronoiGenerator.cs:90
+#: AfxRgbaLutVoronoiGenerator.cs:91
 msgctxt "Image"
 msgid "Target"
 msgstr "Cel"
 
-#: AfxRgbaLutVoronoiGenerator.cs:91
+#: AfxRgbaLutVoronoiGenerator.cs:92
 msgctxt "Image"
 msgid "Source"
 msgstr "Źródło"
 
-#: AfxRgbaLutVoronoiGenerator.cs:92
+#: AfxRgbaLutVoronoiGenerator.cs:93
 msgctxt "Image"
 msgid "RGB difference"
 msgstr "Różnica RGB"
 
-#: AfxRgbaLutVoronoiGenerator.cs:381
+#: AfxRgbaLutVoronoiGenerator.cs:386
 #, csharp-format
 msgid "Invalid / missing value in row {0}, column {1}."
 msgstr "Niepoprawna / brakująca wartość w wierszu {0}, kolumnie {1}."
 
-#: AfxRgbaLutVoronoiGenerator.cs:382 AfxRgbaLutVoronoiGenerator.cs:435 AfxRgbaLutVoronoiGenerator.cs:452 AfxRgbaLutVoronoiGenerator.cs:632 AfxRgbaLutVoronoiGenerator.cs:644
-#: AfxRgbaLutVoronoiGenerator.cs:835 Launcher.cs:36 Tools/CustomLoader.cs:76
+#: AfxRgbaLutVoronoiGenerator.cs:387 AfxRgbaLutVoronoiGenerator.cs:440 AfxRgbaLutVoronoiGenerator.cs:457 AfxRgbaLutVoronoiGenerator.cs:639 AfxRgbaLutVoronoiGenerator.cs:651
+#: AfxRgbaLutVoronoiGenerator.cs:842 Launcher.cs:36 Tools/CustomLoader.cs:76
 msgid "Error"
 msgstr "Błąd"
 
-#: AfxRgbaLutVoronoiGenerator.cs:434
+#: AfxRgbaLutVoronoiGenerator.cs:439
 #, csharp-format
 msgid "Duplicate source color in row {0} (of row {1})."
 msgstr "Podwójny kolor źródłowy w wierszu {0} (w rzędzie {1})."
 
-#: AfxRgbaLutVoronoiGenerator.cs:451
+#: AfxRgbaLutVoronoiGenerator.cs:456
 msgid "Color map must not be empty."
 msgstr "Mapa kolorów nie może być pusta."
 
-#: AfxRgbaLutVoronoiGenerator.cs:467
+#: AfxRgbaLutVoronoiGenerator.cs:472
 msgid "No Errors"
 msgstr "Brak błędów"
 
-#: AfxRgbaLutVoronoiGenerator.cs:468
+#: AfxRgbaLutVoronoiGenerator.cs:473
 msgid "Check passed"
 msgstr "Sprawdzenie powiodło się"
 
-#: AfxRgbaLutVoronoiGenerator.cs:631
+#: AfxRgbaLutVoronoiGenerator.cs:638
 msgid "Error when creating / re-sizing color map."
 msgstr "Błąd podczas tworzenia / zmiany rozmiaru mapy kolorów."
 
-#: AfxRgbaLutVoronoiGenerator.cs:643
+#: AfxRgbaLutVoronoiGenerator.cs:650
 msgid "Iteration aborted."
 msgstr "Iteracja przerwana"
 
-#: AfxRgbaLutVoronoiGenerator.cs:834
+#: AfxRgbaLutVoronoiGenerator.cs:841
 #, csharp-format
 msgid "Saving to \"{0}\" failed."
 msgstr "Zapisywanie do \"{0}\" nie powiodło się."

@@ -1,4 +1,4 @@
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
@@ -237,10 +237,14 @@ msgctxt "HlaeDisclaimer"
 msgid "This software is for your enjoyment and you are using it at your own risk."
 msgstr "To oprogramowanie nie jest oficjalnie wspierane i używasz go na własne ryzyko."
 
-msgctxt "HlaeFeaturesHeader"
-msgid "Features"
-msgstr "Funkcje"
+msgctxt "HlaeSetupModifyInfo"
+msgid "To modify the exiting HLAE installation, please use the \"HLAE\" entry in the installed apps list instead."
+msgstr ""
 
-msgctxt "HlaeFfmpegFeature"
-msgid "Install FFMPEG from https://ffmpeg.zeranoe.com/builds/ (200 MB)"
-msgstr "Zainstaluj FFMPEG z https://ffmpeg.zeranoe.com/builds/ (200 MB)"
+#~ msgctxt "HlaeFeaturesHeader"
+#~ msgid "Features"
+#~ msgstr "Funkcje"
+
+#~ msgctxt "HlaeFfmpegFeature"
+#~ msgid "Install FFMPEG from https://ffmpeg.zeranoe.com/builds/ (200 MB)"
+#~ msgstr "Zainstaluj FFMPEG z https://ffmpeg.zeranoe.com/builds/ (200 MB)"

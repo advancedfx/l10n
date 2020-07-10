@@ -1,4 +1,4 @@
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
@@ -189,9 +189,7 @@ msgstr "Reparatie is mislukt"
 
 msgctxt "FailureHyperlinkLogText"
 msgid "One or more issues caused the setup to fail. Please fix the issues and then retry setup. For more information see the <a href=\"#\">log file</a>."
-msgstr ""
-"De installatie is mislukt door één of meerdere problemen. Probeer de problemen op te lossen en start de installatie daarna opnieuw. Er is mogelijk meer informatie te vinden in het <a "
-"href=\"#\">logbestand</a>."
+msgstr "De installatie is mislukt door één of meerdere problemen. Probeer de problemen op te lossen en start de installatie daarna opnieuw. Er is mogelijk meer informatie te vinden in het <a href=\"#\">logbestand</a>."
 
 msgctxt "FailureRestartText"
 msgid "You must restart your computer to complete the rollback of the software."
@@ -241,10 +239,14 @@ msgctxt "HlaeDisclaimer"
 msgid "This software is for your enjoyment and you are using it at your own risk."
 msgstr "De software is voor eigen gebruik en word gebruikt op eigen risico."
 
-msgctxt "HlaeFeaturesHeader"
-msgid "Features"
-msgstr "Functies"
+msgctxt "HlaeSetupModifyInfo"
+msgid "To modify the exiting HLAE installation, please use the \"HLAE\" entry in the installed apps list instead."
+msgstr ""
 
-msgctxt "HlaeFfmpegFeature"
-msgid "Install FFMPEG from https://ffmpeg.zeranoe.com/builds/ (200 MB)"
-msgstr "Installeer FFMPEG van https://ffmpeg.zeranoe.com/builds/ (200 MB)"
+#~ msgctxt "HlaeFeaturesHeader"
+#~ msgid "Features"
+#~ msgstr "Functies"
+
+#~ msgctxt "HlaeFfmpegFeature"
+#~ msgid "Install FFMPEG from https://ffmpeg.zeranoe.com/builds/ (200 MB)"
+#~ msgstr "Installeer FFMPEG van https://ffmpeg.zeranoe.com/builds/ (200 MB)"
