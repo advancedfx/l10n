@@ -1,9 +1,9 @@
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"PO-Revision-Date: 2020-01-21 16:24+0000\n"
-"Last-Translator: Vladimir <akkardeon@gmail.com>\n"
+"PO-Revision-Date: 2020-07-10 13:58+0000\n"
+"Last-Translator: yovaN <akkardeon@gmail.com>\n"
 "Language-Team: Russian\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
@@ -19,7 +19,7 @@ msgstr "Ядро HLAE"
 
 msgctxt "HlaeLocalesTitle"
 msgid "Translations"
-msgstr ""
+msgstr "Переводы"
 
 msgctxt "Manufacturer"
 msgid "advancedfx.org"
@@ -31,19 +31,19 @@ msgstr "Более новая версия [ProductName] уже установл
 
 msgctxt "FfmpegTitle"
 msgid "FFMPEG"
-msgstr ""
+msgstr "FFMPEG"
 
 msgctxt "FfmpegDescription"
 msgid "FFMPEG can be used  for encoding mirv_streams to videos."
-msgstr ""
+msgstr "FFMPEG может быть использован  для перекодировки mirv_streams в видео."
 
 msgctxt "FfmpegDlgTitle"
 msgid "{\\WixUI_Font_Title}FFMPEG"
-msgstr ""
+msgstr "{\\WixUI_Font_Title}FFMPEG"
 
 msgctxt "FfmpegDlgDescription"
 msgid "Install FFMPEG or use exsiting one."
-msgstr ""
+msgstr "Установить FFMPEG или использовать имеющийся."
 
 #, fuzzy
 msgctxt "FfmpegDlgReinstall"
@@ -52,7 +52,7 @@ msgstr "Установка FFMPEG ..."
 
 msgctxt "FfmpegDlgDownloaded"
 msgid "FFMPEG will be downloaded from https://ffmpeg.zeranoe.com/builds/ and installed using your current internet connection and proxy settings."
-msgstr ""
+msgstr "FFMPEG можно скачать с https://ffmpeg.zeranoe.com/builds/ и установить, используя ваши настройки интернет соединения и прокси."
 
 msgctxt "FfmpegDlgVersion"
 msgid "Select version:"
