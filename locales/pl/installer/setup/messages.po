@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"PO-Revision-Date: 2020-05-25 21:24+0000\n"
+"PO-Revision-Date: 2020-07-10 16:32+0000\n"
 "Last-Translator: itzshadowitzshadow <itzshadowitzshadow@gmail.com>\n"
 "Language-Team: Polish\n"
 "Language: pl\n"
@@ -239,7 +239,7 @@ msgstr "To oprogramowanie nie jest oficjalnie wspierane i używasz go na własne
 
 msgctxt "HlaeSetupModifyInfo"
 msgid "To modify the exiting HLAE installation, please use the \"HLAE\" entry in the installed apps list instead."
-msgstr ""
+msgstr "Aby zmodyfikować istniejącą instalację HLAE, proszę skorzystać z opcji \"Modyfikuj\" w panelu \"Aplikacji i funkcji\" Windows."
 
 #~ msgctxt "HlaeFeaturesHeader"
 #~ msgid "Features"
