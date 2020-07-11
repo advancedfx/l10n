@@ -245,6 +245,10 @@ msgctxt "HlaeSetupModifyInfo"
 msgid "To modify the existing HLAE installation, please use the \"HLAE\" entry in the installed applications list instead."
 msgstr "Um die existierende HLAE installation zu verändern, benutzen Sie bitten den \"HLAE\"-Eintrag in der Liste der installierten Anwendungen."
 
+msgctxt "HlaeRemoveAppData"
+msgid "Check to remove HLAE %APPDATA% folder upon uinstall (not recommended)."
+msgstr ""
+
 #~ msgctxt "HlaeFeaturesHeader"
 #~ msgid "Features"
 #~ msgstr "Funktionen"
