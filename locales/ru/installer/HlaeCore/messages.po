@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"PO-Revision-Date: 2020-07-10 14:14+0000\n"
+"PO-Revision-Date: 2020-07-11 20:41+0000\n"
 "Last-Translator: yovaN <akkardeon@gmail.com>\n"
 "Language-Team: Russian\n"
 "Language: ru\n"
@@ -32,10 +32,9 @@ msgctxt "FfmpegTitle"
 msgid "FFMPEG"
 msgstr "FFMPEG"
 
-#, fuzzy
 msgctxt "FfmpegDescription"
 msgid "FFMPEG can be used for encoding mirv_streams to videos."
-msgstr "FFMPEG может быть использован  для перекодировки mirv_streams в видео."
+msgstr "FFMPEG может быть использован для перекодировки mirv_streams в видео."
 
 msgctxt "FfmpegDlgTitle"
 msgid "{\\WixUI_Font_Title}FFMPEG"

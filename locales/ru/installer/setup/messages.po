@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"PO-Revision-Date: 2020-07-10 14:18+0000\n"
+"PO-Revision-Date: 2020-07-11 20:44+0000\n"
 "Last-Translator: yovaN <akkardeon@gmail.com>\n"
 "Language-Team: Russian\n"
 "Language: ru\n"
@@ -241,14 +241,13 @@ msgctxt "HlaeDisclaimer"
 msgid "This software is for your enjoyment and you are using it at your own risk."
 msgstr "Эта программа предназначена для вашего удовольствия, и вы используете ее на свой страх и риск."
 
-#, fuzzy
 msgctxt "HlaeSetupModifyInfo"
 msgid "To modify the existing HLAE installation, please use the \"HLAE\" entry in the installed applications list instead."
 msgstr "Чтобы изменить существующую установку HLAE, пожалуйста используйте \"Параметры > Приложения и возможности > HLAE\"."
 
 msgctxt "HlaeRemoveAppData"
 msgid "Check to remove HLAE %APPDATA% folder upon uinstall (not recommended)."
-msgstr ""
+msgstr "Отметьте для удаления папки HLAE из %APPDATA% при деинсталяции (не рекомендуется)."
 
 #~ msgctxt "HlaeFeaturesHeader"
 #~ msgid "Features"
