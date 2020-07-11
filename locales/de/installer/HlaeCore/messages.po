@@ -1,4 +1,4 @@
-# 
+#
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2020-07-10 17:01+0000\n"
@@ -30,8 +30,9 @@ msgctxt "FfmpegTitle"
 msgid "FFMPEG"
 msgstr "FFMPEG"
 
+#, fuzzy
 msgctxt "FfmpegDescription"
-msgid "FFMPEG can be used  for encoding mirv_streams to videos."
+msgid "FFMPEG can be used for encoding mirv_streams to videos."
 msgstr "FFMPEG kann für die Kodierung von mirv_streams in Videos verwendet werden."
 
 msgctxt "FfmpegDlgTitle"

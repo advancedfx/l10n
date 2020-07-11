@@ -32,7 +32,7 @@ msgid "FFMPEG"
 msgstr ""
 
 msgctxt "FfmpegDescription"
-msgid "FFMPEG can be used  for encoding mirv_streams to videos."
+msgid "FFMPEG can be used for encoding mirv_streams to videos."
 msgstr ""
 
 msgctxt "FfmpegDlgTitle"
