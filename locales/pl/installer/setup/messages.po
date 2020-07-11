@@ -1,4 +1,4 @@
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
@@ -237,8 +237,9 @@ msgctxt "HlaeDisclaimer"
 msgid "This software is for your enjoyment and you are using it at your own risk."
 msgstr "To oprogramowanie nie jest oficjalnie wspierane i używasz go na własne ryzyko."
 
+#, fuzzy
 msgctxt "HlaeSetupModifyInfo"
-msgid "To modify the exiting HLAE installation, please use the \"HLAE\" entry in the installed apps list instead."
+msgid "To modify the existing HLAE installation, please use the \"HLAE\" entry in the installed applications list instead."
 msgstr "Aby zmodyfikować istniejącą instalację HLAE, proszę skorzystać z opcji \"Modyfikuj\" w panelu \"Aplikacji i funkcji\" Windows."
 
 #~ msgctxt "HlaeFeaturesHeader"

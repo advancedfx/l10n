@@ -233,7 +233,7 @@ msgid "This software is for your enjoyment and you are using it at your own risk
 msgstr "Questo programma è per il tuo divertimento e lo stai usando a tuo rischio e pericolo."
 
 msgctxt "HlaeSetupModifyInfo"
-msgid "To modify the exiting HLAE installation, please use the \"HLAE\" entry in the installed apps list instead."
+msgid "To modify the existing HLAE installation, please use the \"HLAE\" entry in the installed applications list instead."
 msgstr ""
 
 #~ msgctxt "HlaeFeaturesHeader"
