@@ -1,7 +1,7 @@
-#
+# 
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2020-07-10 17:02+0000\n"
+"PO-Revision-Date: 2020-07-14 16:51+0000\n"
 "Last-Translator: Dominik <dominik@matrixstorm.com>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
@@ -190,7 +190,9 @@ msgstr "Reperatur fehlgeschlagen"
 
 msgctxt "FailureHyperlinkLogText"
 msgid "One or more issues caused the setup to fail. Please fix the issues and then retry setup. For more information see the <a href=\"#\">log file</a>."
-msgstr "Eine oder mehre Probleme brachten das Setup zum fehlschlagen. Bitte beheben Sie die Probleme und wiederholen Sie danach das Setup. Für weitere Informationen schauen Sie in die <a href=\"#\">Logdatei</a>."
+msgstr ""
+"Eine oder mehre Probleme brachten das Setup zum fehlschlagen. Bitte beheben Sie die Probleme und wiederholen Sie danach das Setup. Für weitere Informationen schauen Sie in die <a "
+"href=\"#\">Logdatei</a>."
 
 msgctxt "FailureRestartText"
 msgid "You must restart your computer to complete the rollback of the software."
@@ -240,14 +242,13 @@ msgctxt "HlaeDisclaimer"
 msgid "This software is for your enjoyment and you are using it at your own risk."
 msgstr "Die Software ist zu Ihrem Vergnügen and Sie benutzen sie auf eigenes Risiko."
 
-#, fuzzy
 msgctxt "HlaeSetupModifyInfo"
 msgid "To modify the existing HLAE installation, please use the \"HLAE\" entry in the installed applications list instead."
 msgstr "Um die existierende HLAE installation zu verändern, benutzen Sie bitten den \"HLAE\"-Eintrag in der Liste der installierten Anwendungen."
 
 msgctxt "HlaeRemoveAppData"
 msgid "Check to remove HLAE %APPDATA% folder upon uinstall (not recommended)."
-msgstr ""
+msgstr "Markieren um den HLAE %APPDATA% Ordner während der Deinstallation zu entfernen (nicht empfohlen)."
 
 #~ msgctxt "HlaeFeaturesHeader"
 #~ msgid "Features"
