@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hlae\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-07-05 08:08+0200\n"
+"POT-Creation-Date: 2020-08-04 21:33+0200\n"
 "PO-Revision-Date: 2020-01-20 12:22+0100\n"
 "Last-Translator: <EMAIL@ADDRESS>\n"
 "Language-Team: Language pt-PT\n"
@@ -663,8 +663,9 @@ msgid "IsWow64Process failed, error code: {0}"
 msgstr ""
 
 #: MainForm.cs:26
-msgctxt "Main window"
-msgid "Half-Life Advanced Effects"
+#, csharp-format
+msgctxt "Window title, args: {0} - version"
+msgid "Half-Life Advanced Effects {0}"
 msgstr ""
 
 #: MainForm.cs:28
