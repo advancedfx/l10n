@@ -2,14 +2,14 @@
 # Copyright (C) 2020 advancedfx.org
 # This file is distributed under the same license as the hlae package.
 # <EMAIL@ADDRESS>, 2020.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: hlae\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-08-04 21:33+0200\n"
-"PO-Revision-Date: 2020-05-17 12:58+0000\n"
-"Last-Translator: Purp1e <438518244@qq.com>\n"
+"PO-Revision-Date: 2020-08-04 20:07+0000\n"
+"Last-Translator: Dominik <dominik@matrixstorm.com>\n"
 "Language-Team: Language zh-CN\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
@@ -671,10 +671,10 @@ msgid "IsWow64Process failed, error code: {0}"
 msgstr "IsWow64Process 失败，错误代码： {0}"
 
 #: MainForm.cs:26
-#, fuzzy, csharp-format
+#, csharp-format
 msgctxt "Window title, args: {0} - version"
 msgid "Half-Life Advanced Effects {0}"
-msgstr "HLAE"
+msgstr "HLAE {0}"
 
 #: MainForm.cs:28
 msgctxt "Main window | menu"
