@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"PO-Revision-Date: 2020-08-13 08:59+0000\n"
+"PO-Revision-Date: 2020-08-13 09:23+0000\n"
 "Last-Translator: Twissen <selimcan.krgzl@gmail.com>\n"
 "Language-Team: Turkish\n"
 "Language: tr\n"
@@ -54,7 +54,7 @@ msgstr "FFMPEG https://ffmpeg.zeranoe.com/builds/ adresinden internet bağlantı
 
 msgctxt "FfmpegDlgVersion"
 msgid "Select version:"
-msgstr "Sürüm seçiniz:"
+msgstr "Sürümü seçiniz:"
 
 msgctxt "FfmpegDlgLatest"
 msgid "latest (recommended)"
@@ -62,11 +62,11 @@ msgstr "en son (tavsiye edilen)"
 
 msgctxt "FfmpegDlgCustom"
 msgid "Select existing on disk"
-msgstr ""
+msgstr "Halihazırda yüklü olanı seçin"
 
 msgctxt "FfmpegDlgLinking"
 msgid "Select linking:"
-msgstr ""
+msgstr "Bağlantıyı seçiniz:"
 
 msgctxt "FfmpegDlgStatic"
 msgid "static (faster, 100 MB download, recommended)"
@@ -74,11 +74,11 @@ msgstr "statik (daha hızlı, 100 MB indirme, tavsiye edilen)"
 
 msgctxt "FfmpegDlgShared"
 msgid "shared (smaller, 50 MB download)"
-msgstr "paylaşılan (daha düşük boyutlu, 50 MB indirme)"
+msgstr "paylaşımlı (daha düşük boyutlu, 50 MB indirme)"
 
 msgctxt "FfmpegDlgLicense"
 msgid "Select license:"
-msgstr "Lisans seçiniz:"
+msgstr "Lisansı seçiniz:"
 
 msgctxt "FfmpegDlgGpl3"
 msgid "GPL3 (complete, recommended)"
@@ -102,11 +102,11 @@ msgstr "{\\WixUI_Font_Bold}Dosya bulunamıyor ya da dosyaya ulaşılamıyor. Lü
 
 msgctxt "InstallFfmpeg"
 msgid "Installing FFMPEG ..."
-msgstr "FFMPEG yükleniyor ..."
+msgstr "FFMPEG'i yükle ..."
 
 msgctxt "InstallFfmpegConnect"
 msgid "Connecting to [AFX_FFMPEGURL]"
-msgstr "[AFX_FFMPEGURL]'e bağlanılıyor."
+msgstr "[AFX_FFMPEGURL]'ye bağlanılıyor."
 
 msgctxt "InstallFfmpegConnect_Template"
 msgid "..."
@@ -134,7 +134,7 @@ msgstr "HLAE uygulaması dizin yolu geçersiz karakterler içeriyor: Sadece basi
 
 msgctxt "RemoveHlaeAppDataFolder"
 msgid "Remove HLAE application data folder (not recommended)."
-msgstr "HLAE'yi Appdata klasöründen kaldırın (önerilmez)"
+msgstr "HLAE'yi %APPDATA% klasöründen kaldırın (önerilmez)"
 
 #~ msgctxt "FfmpegFeature"
 #~ msgid "Install FFMPEG from https://ffmpeg.zeranoe.com/builds/"
