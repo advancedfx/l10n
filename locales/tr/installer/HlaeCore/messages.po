@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"PO-Revision-Date: 2020-05-28 11:38+0000\n"
+"PO-Revision-Date: 2020-08-13 08:59+0000\n"
 "Last-Translator: Twissen <selimcan.krgzl@gmail.com>\n"
 "Language-Team: Turkish\n"
 "Language: tr\n"
@@ -12,14 +12,13 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Generator: Pontoon\n"
 
-#, fuzzy
 msgctxt "ApplicationName"
 msgid "HLAE"
-msgstr "HLAE Çekirdeği"
+msgstr "HLAE"
 
 msgctxt "HlaeLocalesTitle"
 msgid "Translations"
-msgstr ""
+msgstr "Çeviriler"
 
 msgctxt "Manufacturer"
 msgid "advancedfx.org"
@@ -31,36 +30,35 @@ msgstr "[ProdcutName]'in daha yeni bir versiyonu hali hazırda yüklü."
 
 msgctxt "FfmpegTitle"
 msgid "FFMPEG"
-msgstr ""
+msgstr "FFMPEG"
 
 msgctxt "FfmpegDescription"
 msgid "FFMPEG can be used for encoding mirv_streams to videos."
-msgstr ""
+msgstr "FFMPEG mirv_streams'leri videoya dönüştürmek için kullanılabilir."
 
 msgctxt "FfmpegDlgTitle"
 msgid "{\\WixUI_Font_Title}FFMPEG"
-msgstr ""
+msgstr "{\\WixUI_Font_Title}FFMPEG"
 
 msgctxt "FfmpegDlgDescription"
 msgid "Install FFMPEG or use exsiting one."
-msgstr ""
+msgstr "FFMPEG'i yükleyin ya da halihazırda yüklü olanı kullanın."
 
-#, fuzzy
 msgctxt "FfmpegDlgReinstall"
 msgid "Reinstall FFMPEG"
-msgstr "FFMPEG yükleniyor ..."
+msgstr "FFMPEG'i yeniden yükle"
 
 msgctxt "FfmpegDlgDownloaded"
 msgid "FFMPEG will be downloaded from https://ffmpeg.zeranoe.com/builds/ and installed using your current internet connection and proxy settings."
-msgstr ""
+msgstr "FFMPEG https://ffmpeg.zeranoe.com/builds/ adresinden internet bağlantınız ve proxy ayarlarınız kullanarak indirilecektir."
 
 msgctxt "FfmpegDlgVersion"
 msgid "Select version:"
-msgstr ""
+msgstr "Sürüm seçiniz:"
 
 msgctxt "FfmpegDlgLatest"
 msgid "latest (recommended)"
-msgstr ""
+msgstr "en son (tavsiye edilen)"
 
 msgctxt "FfmpegDlgCustom"
 msgid "Select existing on disk"
@@ -72,35 +70,35 @@ msgstr ""
 
 msgctxt "FfmpegDlgStatic"
 msgid "static (faster, 100 MB download, recommended)"
-msgstr ""
+msgstr "statik (daha hızlı, 100 MB indirme, tavsiye edilen)"
 
 msgctxt "FfmpegDlgShared"
 msgid "shared (smaller, 50 MB download)"
-msgstr ""
+msgstr "paylaşılan (daha düşük boyutlu, 50 MB indirme)"
 
 msgctxt "FfmpegDlgLicense"
 msgid "Select license:"
-msgstr ""
+msgstr "Lisans seçiniz:"
 
 msgctxt "FfmpegDlgGpl3"
 msgid "GPL3 (complete, recommended)"
-msgstr ""
+msgstr "GPL3 (tam, tavsiye edilen)"
 
 msgctxt "FfmpegDlgLgpl3"
 msgid "LGPL3 (less features, more permissive)"
-msgstr ""
+msgstr "LGPL3 (daha az özellik, daha fazla müsamahakâr)"
 
 msgctxt "FfmpegDlgPath"
 msgid "Please enter the full path to your custom ffmpeg.exe here:"
-msgstr ""
+msgstr "Lütfen ffmpeg.exe için belirlediğiniz dosya dizin adresini buraya giriniz:"
 
 msgctxt "FfmpegDlgPathBrowse"
 msgid "Browse"
-msgstr ""
+msgstr "Göz at"
 
 msgctxt "FfmpegDlgPathError"
 msgid "{\\WixUI_Font_Bold}File does not exist or is not accessible. Please fix and click Next button to try again."
-msgstr ""
+msgstr "{\\WixUI_Font_Bold}Dosya bulunamıyor ya da dosyaya ulaşılamıyor. Lütfen kontrol ediniz ve tekrar denemek için İleri butonuna tıklayınız."
 
 msgctxt "InstallFfmpeg"
 msgid "Installing FFMPEG ..."
@@ -108,7 +106,7 @@ msgstr "FFMPEG yükleniyor ..."
 
 msgctxt "InstallFfmpegConnect"
 msgid "Connecting to [AFX_FFMPEGURL]"
-msgstr ""
+msgstr "[AFX_FFMPEGURL]'e bağlanılıyor."
 
 msgctxt "InstallFfmpegConnect_Template"
 msgid "..."
@@ -116,7 +114,7 @@ msgstr "..."
 
 msgctxt "InstallFfmpegDownload"
 msgid "Downloading [AFX_FFMPEGURL]"
-msgstr ""
+msgstr "İndiriliyor [AFX_FFMPEGURL]"
 
 msgctxt "InstallFfmpegDownload_Template"
 msgid "[1] of [2] Bytes"
@@ -130,14 +128,13 @@ msgctxt "InstallFfmpegExtract_Template"
 msgid "Item [1] of [2] ..."
 msgstr "Bileşenler [1] / [2]..."
 
-#, fuzzy
 msgctxt "AppFolderMustBeLatin"
 msgid "The HLAE application folder path contains invalid characters: Only basic latin character set is allowed (7bit ASCII)."
-msgstr "HLAE uygulaması dizin yolu geçersiz karakterler içeriyor: Sadece basit Latin karakterleri geçerlidir. Lütfen ayarlar kısmından farklı bir yükleme klasörü seçiniz."
+msgstr "HLAE uygulaması dizin yolu geçersiz karakterler içeriyor: Sadece basit Latin karakterleri geçerlidir (7bit ASCII)."
 
 msgctxt "RemoveHlaeAppDataFolder"
 msgid "Remove HLAE application data folder (not recommended)."
-msgstr ""
+msgstr "HLAE'yi Appdata klasöründen kaldırın (önerilmez)"
 
 #~ msgctxt "FfmpegFeature"
 #~ msgid "Install FFMPEG from https://ffmpeg.zeranoe.com/builds/"
