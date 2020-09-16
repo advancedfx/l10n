@@ -1,4 +1,4 @@
-# 
+#
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2020-07-11 03:00+0000\n"
@@ -46,9 +46,10 @@ msgctxt "FfmpegDlgReinstall"
 msgid "Reinstall FFMPEG"
 msgstr "FFMPEG neuinstallieren"
 
+#, fuzzy
 msgctxt "FfmpegDlgDownloaded"
-msgid "FFMPEG will be downloaded from https://ffmpeg.zeranoe.com/builds/ and installed using your current internet connection and proxy settings."
-msgstr "FFMPEG wird von https://ffmpeg.zeranoe.com/builds/ heruntergeladen und installiert werden, unter Benutzung Ihrer jetzigen Internet Vebindung und Proxyeinstellungen."
+msgid "FFMPEG will be downloaded from GitHub.com and installed using your current internet connection and proxy settings."
+msgstr "FFMPEG wird von GitHub.com heruntergeladen und installiert werden, unter Benutzung Ihrer jetzigen Internet Vebindung und Proxyeinstellungen."
 
 msgctxt "FfmpegDlgVersion"
 msgid "Select version:"
@@ -115,6 +116,15 @@ msgid "Downloading [AFX_FFMPEGURL]"
 msgstr "Lade [AFX_FFMPEGURL] herunter"
 
 msgctxt "InstallFfmpegDownload_Template"
+msgid "[1] of [2] Bytes"
+msgstr "[1] von [2] Bytes"
+
+msgctxt "InstallFfmpegChecksum"
+msgid "Verifying checksum"
+msgstr ""
+
+#, fuzzy
+msgctxt "InstallFfmpegChecksum_Template"
 msgid "[1] of [2] Bytes"
 msgstr "[1] von [2] Bytes"
 

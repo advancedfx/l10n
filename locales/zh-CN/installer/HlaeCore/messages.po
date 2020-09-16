@@ -45,7 +45,7 @@ msgid "Reinstall FFMPEG"
 msgstr "正在安装 FFMPEG ..."
 
 msgctxt "FfmpegDlgDownloaded"
-msgid "FFMPEG will be downloaded from https://ffmpeg.zeranoe.com/builds/ and installed using your current internet connection and proxy settings."
+msgid "FFMPEG will be downloaded from GitHub.com and installed using your current internet connection and proxy settings."
 msgstr ""
 
 msgctxt "FfmpegDlgVersion"
@@ -113,6 +113,15 @@ msgid "Downloading [AFX_FFMPEGURL]"
 msgstr ""
 
 msgctxt "InstallFfmpegDownload_Template"
+msgid "[1] of [2] Bytes"
+msgstr "[1] / [2] 字节"
+
+msgctxt "InstallFfmpegChecksum"
+msgid "Verifying checksum"
+msgstr ""
+
+#, fuzzy
+msgctxt "InstallFfmpegChecksum_Template"
 msgid "[1] of [2] Bytes"
 msgstr "[1] / [2] 字节"
 

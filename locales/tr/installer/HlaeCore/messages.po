@@ -1,4 +1,4 @@
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
@@ -48,8 +48,9 @@ msgctxt "FfmpegDlgReinstall"
 msgid "Reinstall FFMPEG"
 msgstr "FFMPEG'i yeniden yükle"
 
+#, fuzzy
 msgctxt "FfmpegDlgDownloaded"
-msgid "FFMPEG will be downloaded from https://ffmpeg.zeranoe.com/builds/ and installed using your current internet connection and proxy settings."
+msgid "FFMPEG will be downloaded from GitHub.com and installed using your current internet connection and proxy settings."
 msgstr "FFMPEG https://ffmpeg.zeranoe.com/builds/ adresinden internet bağlantınız ve proxy ayarlarınız kullanarak indirilecektir."
 
 msgctxt "FfmpegDlgVersion"
@@ -117,6 +118,15 @@ msgid "Downloading [AFX_FFMPEGURL]"
 msgstr "İndiriliyor [AFX_FFMPEGURL]"
 
 msgctxt "InstallFfmpegDownload_Template"
+msgid "[1] of [2] Bytes"
+msgstr "[1] / [2] Bayt"
+
+msgctxt "InstallFfmpegChecksum"
+msgid "Verifying checksum"
+msgstr ""
+
+#, fuzzy
+msgctxt "InstallFfmpegChecksum_Template"
 msgid "[1] of [2] Bytes"
 msgstr "[1] / [2] Bayt"
 
