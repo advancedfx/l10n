@@ -1,7 +1,7 @@
-#
+# 
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2020-07-11 03:00+0000\n"
+"PO-Revision-Date: 2020-09-18 20:42+0000\n"
 "Last-Translator: Dominik <dominik@matrixstorm.com>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
@@ -46,10 +46,9 @@ msgctxt "FfmpegDlgReinstall"
 msgid "Reinstall FFMPEG"
 msgstr "FFMPEG neuinstallieren"
 
-#, fuzzy
 msgctxt "FfmpegDlgDownloaded"
 msgid "FFMPEG will be downloaded from GitHub.com and installed using your current internet connection and proxy settings."
-msgstr "FFMPEG wird von GitHub.com heruntergeladen und installiert werden, unter Benutzung Ihrer jetzigen Internet Vebindung und Proxyeinstellungen."
+msgstr "FFMPEG wird von GitHub.com heruntergeladen und installiert werden, unter Benutzung Ihrer jetzigen Internetverbindung und Proxyeinstellungen."
 
 msgctxt "FfmpegDlgVersion"
 msgid "Select version:"
@@ -121,9 +120,8 @@ msgstr "[1] von [2] Bytes"
 
 msgctxt "InstallFfmpegChecksum"
 msgid "Verifying checksum"
-msgstr ""
+msgstr "Verifziere Prüfsumme"
 
-#, fuzzy
 msgctxt "InstallFfmpegChecksum_Template"
 msgid "[1] of [2] Bytes"
 msgstr "[1] von [2] Bytes"
