@@ -2,12 +2,12 @@
 # Copyright (C) 2020 advancedfx.org
 # This file is distributed under the same license as the hlae package.
 # <EMAIL@ADDRESS>, 2020.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: hlae\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-08-04 21:33+0200\n"
+"POT-Creation-Date: 2020-10-02 14:27+0200\n"
 "PO-Revision-Date: 2020-08-04 20:07+0000\n"
 "Last-Translator: Dominik <dominik@matrixstorm.com>\n"
 "Language-Team: Language zh-CN\n"
@@ -670,212 +670,225 @@ msgstr "无法处理Kernel32.dll。"
 msgid "IsWow64Process failed, error code: {0}"
 msgstr "IsWow64Process 失败，错误代码： {0}"
 
-#: MainForm.cs:26
+#: MainForm.cs:27
 #, csharp-format
 msgctxt "Window title, args: {0} - version"
 msgid "Half-Life Advanced Effects {0}"
 msgstr "HLAE {0}"
 
-#: MainForm.cs:28
+#: MainForm.cs:29
 msgctxt "Main window | menu"
 msgid "File"
 msgstr "文件"
 
-#: MainForm.cs:29
+#: MainForm.cs:30
 msgctxt "Main window | menu | File"
 msgid "Launch CS:GO"
 msgstr "启动CSGO"
 
-#: MainForm.cs:30
+#: MainForm.cs:31
 msgctxt "Main window | menu | File"
 msgid "Launch GoldSrc"
 msgstr "启动GoldSrc"
 
-#: MainForm.cs:31
+#: MainForm.cs:32
 msgctxt "Main window | menu | File"
 msgid "Exit"
 msgstr "退出"
 
-#: MainForm.cs:33
+#: MainForm.cs:34
 msgctxt "Main Window | menu"
 msgid "View"
 msgstr "观看"
 
-#: MainForm.cs:34
+#: MainForm.cs:35
 msgctxt "Main window | menu | View"
 msgid "Status Bar"
 msgstr "状态栏"
 
-#: MainForm.cs:36
+#: MainForm.cs:37
 msgctxt "Main window | menu"
 msgid "Tools"
 msgstr "工具"
 
-#: MainForm.cs:37
+#: MainForm.cs:38
 msgctxt "Main window | menu | Tools"
 msgid "Calculators"
 msgstr "计算器"
 
-#: MainForm.cs:38
+#: MainForm.cs:39
 msgctxt "Main window | menu | Tools | Calculators"
 msgid "File Size"
 msgstr "文件大小"
 
-#: MainForm.cs:39
+#: MainForm.cs:40
 msgctxt "Main window | menu | Tools"
 msgid "Color Lookup Tables"
 msgstr "颜色查看表"
 
-#: MainForm.cs:40
+#: MainForm.cs:41
 msgctxt "Main window | menu | Tools | Color Lookup Tables"
 msgid "Voronoi"
 msgstr "维诺图"
 
-#: MainForm.cs:41
+#: MainForm.cs:42
 msgctxt "Main window | menu | Tools"
 msgid "GoldSrc"
 msgstr "GoldSrc"
 
-#: MainForm.cs:42
+#: MainForm.cs:43
 msgctxt "Main window | menu | Tools | GoldSrc"
 msgid "Demo Tools"
 msgstr "Demo工具"
 
-#: MainForm.cs:43
+#: MainForm.cs:44
 msgctxt "Main window | menu | Tools | GoldSrc"
 msgid "Sky Manager"
 msgstr "天空贴图管理"
 
-#: MainForm.cs:45
+#: MainForm.cs:46
 msgctxt "Main window | menu | Tools"
 msgid "Developer"
 msgstr "开发者选项"
 
-#: MainForm.cs:46
+#: MainForm.cs:47
 msgctxt "Main window | menu | Tools | Developer"
 msgid "Custom Loader"
 msgstr "自定义载入"
 
-#: MainForm.cs:47
+#: MainForm.cs:48
 msgctxt "Main window | menu | Tools | Developer"
 msgid "Own GUID to ClipBoard"
 msgstr "将自己的GUID复制到剪切板"
 
-#: MainForm.cs:48
+#: MainForm.cs:49
 msgctxt "Main window | menu | Tools | Developer"
 msgid "New GUID to ClipBoard"
 msgstr "新建GUID至剪切板"
 
-#: MainForm.cs:50
+#: MainForm.cs:51
 msgctxt "Main window | menu"
 msgid "Help"
 msgstr "帮助"
 
-#: MainForm.cs:51
+#: MainForm.cs:52
 msgctxt "Main window | menu | Help"
 msgid "Check for Updates"
 msgstr "检查更新"
 
-#: MainForm.cs:52
+#: MainForm.cs:53
 msgctxt "Main window | menu | Help | Check for Updates"
 msgid "Auto Check"
 msgstr "自动检查"
 
-#: MainForm.cs:53
+#: MainForm.cs:54
 msgctxt "Main window | menu | Help | Check for Updates"
 msgid "Check Now"
 msgstr "现在检查"
 
-#: MainForm.cs:54
+#: MainForm.cs:55
 msgctxt "Main window | menu | Help"
 msgid "Official Website"
 msgstr "官方网站"
 
-#: MainForm.cs:56
+#: MainForm.cs:57
 msgctxt "Main window | menu"
 msgid "Donate"
 msgstr "捐赠"
 
-#: MainForm.cs:58
+#: MainForm.cs:59
 msgctxt "Main window | check updates strip"
 msgid "Check for updates automatically?"
 msgstr "是否自动检查更新？"
 
-#: MainForm.cs:59
+#: MainForm.cs:60
 msgctxt "Main window | check updates strip"
 msgid "Yes"
 msgstr "好的"
 
-#: MainForm.cs:60
+#: MainForm.cs:61
 msgctxt "Main window | check updates strip"
 msgid "No"
 msgstr "不行"
 
-#: MainForm.cs:63
+#: MainForm.cs:64
 msgctxt "Main window | update status strip"
 msgid "Ignore"
 msgstr "忽略"
 
-#: MainForm.cs:64
+#: MainForm.cs:65
 msgctxt "Main window | update status strip"
 msgid "OK"
 msgstr "好的"
 
-#: MainForm.cs:65
+#: MainForm.cs:66
 msgctxt "Main window | update status strip | label"
 msgid "Update status unknown"
 msgstr "更新状况未知"
 
-#: MainForm.cs:67
+#: MainForm.cs:68
 msgid "Contact / Privacy Policy / Imprint (advancedfx.org)"
 msgstr "联系/隐私政策/版本说明(advancedfx.org)"
 
-#: MainForm.cs:69
+#: MainForm.cs:70
 msgid "Help"
 msgstr "帮助"
 
-#: MainForm.cs:70
+#: MainForm.cs:71
 msgid "Language:"
 msgstr "语言："
 
-#: MainForm.cs:71
+#: MainForm.cs:72
 msgid "Selection:"
 msgstr "解决方法："
 
-#: MainForm.cs:73
+#: MainForm.cs:74
 msgid "Official support page (English)"
 msgstr "官方支持页面（英文）"
 
-#: MainForm.cs:74
+#: MainForm.cs:75
 msgid "HLAE Chinese Station"
 msgstr "HLAE中文站"
 
-#: MainForm.cs:77
+#: MainForm.cs:78
 msgctxt "Language"
 msgid "English (en)"
 msgstr "英语"
 
-#: MainForm.cs:80
+#: MainForm.cs:81
 msgctxt "Language"
 msgid "Chinese (zh-CN)"
 msgstr "中文（简体）"
 
-#: MainForm.cs:189
+#: MainForm.cs:128
+#, fuzzy
+msgid "HLAE path error"
+msgstr "HLAE出错了"
+
+#: MainForm.cs:129
+msgid "HLAE path:"
+msgstr ""
+
+#: MainForm.cs:131
+msgid "Warning: Your HLAE path shown above contains non-basic latin characters (meaning characters outside the 7-bit ASCII range), which will lead to multiple problems in-game if not fixed!"
+msgstr ""
+
+#: MainForm.cs:198
 msgctxt "Main window | update status strip | label"
 msgid "Update available!"
 msgstr "更新可用！"
 
-#: MainForm.cs:198
+#: MainForm.cs:207
 msgctxt "Main window | update status strip | label"
 msgid "Your version is up to date :)"
 msgstr "当前是最新版本 :)"
 
-#: MainForm.cs:210
+#: MainForm.cs:219
 msgctxt "Main window | update status strip | label"
 msgid "Update check failed :("
 msgstr "检查更新失败 :("
 
-#: MainForm.cs:219
+#: MainForm.cs:228
 msgctxt "Main window | update status strip | label"
 msgid "Checking for updates ..."
 msgstr "正在检查更新..."

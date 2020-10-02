@@ -3,12 +3,12 @@
 # Copyright (C) 2020 advancedfx.org
 # This file is distributed under the same license as the hlae package.
 # <EMAIL@ADDRESS>, 2020.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: hlae\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-08-04 21:33+0200\n"
+"POT-Creation-Date: 2020-10-02 14:27+0200\n"
 "PO-Revision-Date: 2020-08-04 20:08+0000\n"
 "Last-Translator: Dominik <dominik@matrixstorm.com>\n"
 "Language-Team: Italian\n"
@@ -665,212 +665,225 @@ msgstr ""
 msgid "IsWow64Process failed, error code: {0}"
 msgstr "IsWow64Process non avviato, codice di errore: {0}"
 
-#: MainForm.cs:26
+#: MainForm.cs:27
 #, csharp-format
 msgctxt "Window title, args: {0} - version"
 msgid "Half-Life Advanced Effects {0}"
 msgstr "Half-Life Advanced Effects {0}"
 
-#: MainForm.cs:28
+#: MainForm.cs:29
 msgctxt "Main window | menu"
 msgid "File"
 msgstr "File"
 
-#: MainForm.cs:29
+#: MainForm.cs:30
 msgctxt "Main window | menu | File"
 msgid "Launch CS:GO"
 msgstr "Avvia CS:GO"
 
-#: MainForm.cs:30
+#: MainForm.cs:31
 msgctxt "Main window | menu | File"
 msgid "Launch GoldSrc"
 msgstr "Avvia GoldSrc"
 
-#: MainForm.cs:31
+#: MainForm.cs:32
 msgctxt "Main window | menu | File"
 msgid "Exit"
 msgstr "Esci"
 
-#: MainForm.cs:33
+#: MainForm.cs:34
 msgctxt "Main Window | menu"
 msgid "View"
 msgstr "Visualizza"
 
-#: MainForm.cs:34
+#: MainForm.cs:35
 msgctxt "Main window | menu | View"
 msgid "Status Bar"
 msgstr "Barra dello Stato"
 
-#: MainForm.cs:36
+#: MainForm.cs:37
 msgctxt "Main window | menu"
 msgid "Tools"
 msgstr "Strumenti"
 
-#: MainForm.cs:37
+#: MainForm.cs:38
 msgctxt "Main window | menu | Tools"
 msgid "Calculators"
 msgstr "Calcolatori"
 
-#: MainForm.cs:38
+#: MainForm.cs:39
 msgctxt "Main window | menu | Tools | Calculators"
 msgid "File Size"
 msgstr "Grandezza File"
 
-#: MainForm.cs:39
+#: MainForm.cs:40
 msgctxt "Main window | menu | Tools"
 msgid "Color Lookup Tables"
 msgstr "Lookup Table dei colori"
 
-#: MainForm.cs:40
+#: MainForm.cs:41
 msgctxt "Main window | menu | Tools | Color Lookup Tables"
 msgid "Voronoi"
 msgstr "Voronoi"
 
-#: MainForm.cs:41
+#: MainForm.cs:42
 msgctxt "Main window | menu | Tools"
 msgid "GoldSrc"
 msgstr "GoldSrc"
 
-#: MainForm.cs:42
+#: MainForm.cs:43
 msgctxt "Main window | menu | Tools | GoldSrc"
 msgid "Demo Tools"
 msgstr "Strumento per le Demo"
 
-#: MainForm.cs:43
+#: MainForm.cs:44
 msgctxt "Main window | menu | Tools | GoldSrc"
 msgid "Sky Manager"
 msgstr "Gestione del cielo"
 
-#: MainForm.cs:45
+#: MainForm.cs:46
 msgctxt "Main window | menu | Tools"
 msgid "Developer"
 msgstr "Sviluppatore"
 
-#: MainForm.cs:46
+#: MainForm.cs:47
 msgctxt "Main window | menu | Tools | Developer"
 msgid "Custom Loader"
 msgstr ""
 
-#: MainForm.cs:47
+#: MainForm.cs:48
 msgctxt "Main window | menu | Tools | Developer"
 msgid "Own GUID to ClipBoard"
 msgstr ""
 
-#: MainForm.cs:48
+#: MainForm.cs:49
 msgctxt "Main window | menu | Tools | Developer"
 msgid "New GUID to ClipBoard"
 msgstr ""
 
-#: MainForm.cs:50
+#: MainForm.cs:51
 msgctxt "Main window | menu"
 msgid "Help"
 msgstr "Aiuto"
 
-#: MainForm.cs:51
+#: MainForm.cs:52
 msgctxt "Main window | menu | Help"
 msgid "Check for Updates"
 msgstr "Cerca Aggiornamenti"
 
-#: MainForm.cs:52
+#: MainForm.cs:53
 msgctxt "Main window | menu | Help | Check for Updates"
 msgid "Auto Check"
 msgstr "Controllo Automatico"
 
-#: MainForm.cs:53
+#: MainForm.cs:54
 msgctxt "Main window | menu | Help | Check for Updates"
 msgid "Check Now"
 msgstr "Cerca Ora"
 
-#: MainForm.cs:54
+#: MainForm.cs:55
 msgctxt "Main window | menu | Help"
 msgid "Official Website"
 msgstr "Sito Ufficiale"
 
-#: MainForm.cs:56
+#: MainForm.cs:57
 msgctxt "Main window | menu"
 msgid "Donate"
 msgstr "Dona"
 
-#: MainForm.cs:58
+#: MainForm.cs:59
 msgctxt "Main window | check updates strip"
 msgid "Check for updates automatically?"
 msgstr "Cercare automaticamente la disponibilità di aggiornamenti?"
 
-#: MainForm.cs:59
+#: MainForm.cs:60
 msgctxt "Main window | check updates strip"
 msgid "Yes"
 msgstr "Sì"
 
-#: MainForm.cs:60
+#: MainForm.cs:61
 msgctxt "Main window | check updates strip"
 msgid "No"
 msgstr "No"
 
-#: MainForm.cs:63
+#: MainForm.cs:64
 msgctxt "Main window | update status strip"
 msgid "Ignore"
 msgstr "Ignora"
 
-#: MainForm.cs:64
+#: MainForm.cs:65
 msgctxt "Main window | update status strip"
 msgid "OK"
 msgstr "OK"
 
-#: MainForm.cs:65
+#: MainForm.cs:66
 msgctxt "Main window | update status strip | label"
 msgid "Update status unknown"
 msgstr "Stato degli aggiornamenti sconosciuto"
 
-#: MainForm.cs:67
+#: MainForm.cs:68
 msgid "Contact / Privacy Policy / Imprint (advancedfx.org)"
 msgstr "Contatti / Politiche di Privacy (advancedfx.org)"
 
-#: MainForm.cs:69
+#: MainForm.cs:70
 msgid "Help"
 msgstr "Aiuto"
 
-#: MainForm.cs:70
+#: MainForm.cs:71
 msgid "Language:"
 msgstr "Lingua:"
 
-#: MainForm.cs:71
+#: MainForm.cs:72
 msgid "Selection:"
 msgstr "Selezionare:"
 
-#: MainForm.cs:73
+#: MainForm.cs:74
 msgid "Official support page (English)"
 msgstr "Pagina ufficiale del supporto (Inglese)"
 
-#: MainForm.cs:74
+#: MainForm.cs:75
 msgid "HLAE Chinese Station"
 msgstr "HLAE Stazione Cinese"
 
-#: MainForm.cs:77
+#: MainForm.cs:78
 msgctxt "Language"
 msgid "English (en)"
 msgstr "Inglese (en)"
 
-#: MainForm.cs:80
+#: MainForm.cs:81
 msgctxt "Language"
 msgid "Chinese (zh-CN)"
 msgstr "Cinese (zh-CN)"
 
-#: MainForm.cs:189
+#: MainForm.cs:128
+#, fuzzy
+msgid "HLAE path error"
+msgstr "Errore di HLAE"
+
+#: MainForm.cs:129
+msgid "HLAE path:"
+msgstr ""
+
+#: MainForm.cs:131
+msgid "Warning: Your HLAE path shown above contains non-basic latin characters (meaning characters outside the 7-bit ASCII range), which will lead to multiple problems in-game if not fixed!"
+msgstr ""
+
+#: MainForm.cs:198
 msgctxt "Main window | update status strip | label"
 msgid "Update available!"
 msgstr "Aggiornamento disponibile!"
 
-#: MainForm.cs:198
+#: MainForm.cs:207
 msgctxt "Main window | update status strip | label"
 msgid "Your version is up to date :)"
 msgstr "L'applicazione è aggiornata all'ultima versione disponibile :D"
 
-#: MainForm.cs:210
+#: MainForm.cs:219
 msgctxt "Main window | update status strip | label"
 msgid "Update check failed :("
 msgstr "Ricerca aggiornamenti fallita :("
 
-#: MainForm.cs:219
+#: MainForm.cs:228
 msgctxt "Main window | update status strip | label"
 msgid "Checking for updates ..."
 msgstr "Ricerca aggiornamenti in corso ..."

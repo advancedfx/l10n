@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hlae\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-08-04 21:33+0200\n"
+"POT-Creation-Date: 2020-10-02 14:27+0200\n"
 "PO-Revision-Date: 2020-01-20 12:21+0100\n"
 "Last-Translator: <EMAIL@ADDRESS>\n"
 "Language-Team: Finnish\n"
@@ -664,212 +664,224 @@ msgstr ""
 msgid "IsWow64Process failed, error code: {0}"
 msgstr ""
 
-#: MainForm.cs:26
+#: MainForm.cs:27
 #, csharp-format
 msgctxt "Window title, args: {0} - version"
 msgid "Half-Life Advanced Effects {0}"
 msgstr ""
 
-#: MainForm.cs:28
+#: MainForm.cs:29
 msgctxt "Main window | menu"
 msgid "File"
 msgstr ""
 
-#: MainForm.cs:29
+#: MainForm.cs:30
 msgctxt "Main window | menu | File"
 msgid "Launch CS:GO"
 msgstr ""
 
-#: MainForm.cs:30
+#: MainForm.cs:31
 msgctxt "Main window | menu | File"
 msgid "Launch GoldSrc"
 msgstr ""
 
-#: MainForm.cs:31
+#: MainForm.cs:32
 msgctxt "Main window | menu | File"
 msgid "Exit"
 msgstr ""
 
-#: MainForm.cs:33
+#: MainForm.cs:34
 msgctxt "Main Window | menu"
 msgid "View"
 msgstr ""
 
-#: MainForm.cs:34
+#: MainForm.cs:35
 msgctxt "Main window | menu | View"
 msgid "Status Bar"
 msgstr ""
 
-#: MainForm.cs:36
+#: MainForm.cs:37
 msgctxt "Main window | menu"
 msgid "Tools"
 msgstr ""
 
-#: MainForm.cs:37
+#: MainForm.cs:38
 msgctxt "Main window | menu | Tools"
 msgid "Calculators"
 msgstr ""
 
-#: MainForm.cs:38
+#: MainForm.cs:39
 msgctxt "Main window | menu | Tools | Calculators"
 msgid "File Size"
 msgstr ""
 
-#: MainForm.cs:39
+#: MainForm.cs:40
 msgctxt "Main window | menu | Tools"
 msgid "Color Lookup Tables"
 msgstr ""
 
-#: MainForm.cs:40
+#: MainForm.cs:41
 msgctxt "Main window | menu | Tools | Color Lookup Tables"
 msgid "Voronoi"
 msgstr ""
 
-#: MainForm.cs:41
+#: MainForm.cs:42
 msgctxt "Main window | menu | Tools"
 msgid "GoldSrc"
 msgstr ""
 
-#: MainForm.cs:42
+#: MainForm.cs:43
 msgctxt "Main window | menu | Tools | GoldSrc"
 msgid "Demo Tools"
 msgstr ""
 
-#: MainForm.cs:43
+#: MainForm.cs:44
 msgctxt "Main window | menu | Tools | GoldSrc"
 msgid "Sky Manager"
 msgstr ""
 
-#: MainForm.cs:45
+#: MainForm.cs:46
 msgctxt "Main window | menu | Tools"
 msgid "Developer"
 msgstr ""
 
-#: MainForm.cs:46
+#: MainForm.cs:47
 msgctxt "Main window | menu | Tools | Developer"
 msgid "Custom Loader"
 msgstr ""
 
-#: MainForm.cs:47
+#: MainForm.cs:48
 msgctxt "Main window | menu | Tools | Developer"
 msgid "Own GUID to ClipBoard"
 msgstr ""
 
-#: MainForm.cs:48
+#: MainForm.cs:49
 msgctxt "Main window | menu | Tools | Developer"
 msgid "New GUID to ClipBoard"
 msgstr ""
 
-#: MainForm.cs:50
+#: MainForm.cs:51
 msgctxt "Main window | menu"
 msgid "Help"
 msgstr ""
 
-#: MainForm.cs:51
+#: MainForm.cs:52
 msgctxt "Main window | menu | Help"
 msgid "Check for Updates"
 msgstr ""
 
-#: MainForm.cs:52
+#: MainForm.cs:53
 msgctxt "Main window | menu | Help | Check for Updates"
 msgid "Auto Check"
 msgstr ""
 
-#: MainForm.cs:53
+#: MainForm.cs:54
 msgctxt "Main window | menu | Help | Check for Updates"
 msgid "Check Now"
 msgstr ""
 
-#: MainForm.cs:54
+#: MainForm.cs:55
 msgctxt "Main window | menu | Help"
 msgid "Official Website"
 msgstr ""
 
-#: MainForm.cs:56
+#: MainForm.cs:57
 msgctxt "Main window | menu"
 msgid "Donate"
 msgstr ""
 
-#: MainForm.cs:58
+#: MainForm.cs:59
 msgctxt "Main window | check updates strip"
 msgid "Check for updates automatically?"
 msgstr ""
 
-#: MainForm.cs:59
+#: MainForm.cs:60
 msgctxt "Main window | check updates strip"
 msgid "Yes"
 msgstr ""
 
-#: MainForm.cs:60
+#: MainForm.cs:61
 msgctxt "Main window | check updates strip"
 msgid "No"
 msgstr ""
 
-#: MainForm.cs:63
+#: MainForm.cs:64
 msgctxt "Main window | update status strip"
 msgid "Ignore"
 msgstr ""
 
-#: MainForm.cs:64
+#: MainForm.cs:65
 msgctxt "Main window | update status strip"
 msgid "OK"
 msgstr ""
 
-#: MainForm.cs:65
+#: MainForm.cs:66
 msgctxt "Main window | update status strip | label"
 msgid "Update status unknown"
 msgstr ""
 
-#: MainForm.cs:67
+#: MainForm.cs:68
 msgid "Contact / Privacy Policy / Imprint (advancedfx.org)"
 msgstr ""
 
-#: MainForm.cs:69
+#: MainForm.cs:70
 msgid "Help"
 msgstr ""
 
-#: MainForm.cs:70
+#: MainForm.cs:71
 msgid "Language:"
 msgstr ""
 
-#: MainForm.cs:71
+#: MainForm.cs:72
 msgid "Selection:"
 msgstr ""
 
-#: MainForm.cs:73
+#: MainForm.cs:74
 msgid "Official support page (English)"
 msgstr ""
 
-#: MainForm.cs:74
+#: MainForm.cs:75
 msgid "HLAE Chinese Station"
 msgstr ""
 
-#: MainForm.cs:77
+#: MainForm.cs:78
 msgctxt "Language"
 msgid "English (en)"
 msgstr ""
 
-#: MainForm.cs:80
+#: MainForm.cs:81
 msgctxt "Language"
 msgid "Chinese (zh-CN)"
 msgstr ""
 
-#: MainForm.cs:189
-msgctxt "Main window | update status strip | label"
-msgid "Update available!"
+#: MainForm.cs:128
+msgid "HLAE path error"
+msgstr ""
+
+#: MainForm.cs:129
+msgid "HLAE path:"
+msgstr ""
+
+#: MainForm.cs:131
+msgid "Warning: Your HLAE path shown above contains non-basic latin characters (meaning characters outside the 7-bit ASCII range), which will lead to multiple problems in-game if not fixed!"
 msgstr ""
 
 #: MainForm.cs:198
 msgctxt "Main window | update status strip | label"
+msgid "Update available!"
+msgstr ""
+
+#: MainForm.cs:207
+msgctxt "Main window | update status strip | label"
 msgid "Your version is up to date :)"
 msgstr ""
 
-#: MainForm.cs:210
+#: MainForm.cs:219
 msgctxt "Main window | update status strip | label"
 msgid "Update check failed :("
 msgstr ""
 
-#: MainForm.cs:219
+#: MainForm.cs:228
 msgctxt "Main window | update status strip | label"
 msgid "Checking for updates ..."
 msgstr ""
