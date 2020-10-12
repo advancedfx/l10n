@@ -3,14 +3,14 @@
 # Copyright (C) 2020 advancedfx.org
 # This file is distributed under the same license as the hlae package.
 # <EMAIL@ADDRESS>, 2020.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: hlae\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-10-02 14:27+0200\n"
-"PO-Revision-Date: 2020-08-04 20:09+0000\n"
-"Last-Translator: Dominik <dominik@matrixstorm.com>\n"
+"PO-Revision-Date: 2020-10-12 07:35+0000\n"
+"Last-Translator: yovaN <akkardeon@gmail.com>\n"
 "Language-Team: Russian\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
@@ -861,17 +861,17 @@ msgid "Chinese (zh-CN)"
 msgstr "Китайский (zh-CN)"
 
 #: MainForm.cs:128
-#, fuzzy
 msgid "HLAE path error"
-msgstr "Ошибка HLAE"
+msgstr "Ошибка пути HLAE"
 
 #: MainForm.cs:129
 msgid "HLAE path:"
-msgstr ""
+msgstr "Путь к HLAE:"
 
 #: MainForm.cs:131
 msgid "Warning: Your HLAE path shown above contains non-basic latin characters (meaning characters outside the 7-bit ASCII range), which will lead to multiple problems in-game if not fixed!"
 msgstr ""
+"Предупреждение: указанный выше путь к HLAE содержит неосновные латинские символы (т.е. символы вне 7-битного диапазона ASCII), что приведет к множеству проблем в игре, если не будет исправлен!"
 
 #: MainForm.cs:198
 msgctxt "Main window | update status strip | label"

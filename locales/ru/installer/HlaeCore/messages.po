@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"PO-Revision-Date: 2020-07-11 20:41+0000\n"
+"PO-Revision-Date: 2020-10-12 07:34+0000\n"
 "Last-Translator: yovaN <akkardeon@gmail.com>\n"
 "Language-Team: Russian\n"
 "Language: ru\n"
@@ -48,10 +48,9 @@ msgctxt "FfmpegDlgReinstall"
 msgid "Reinstall FFMPEG"
 msgstr "Установка FFMPEG"
 
-#, fuzzy
 msgctxt "FfmpegDlgDownloaded"
 msgid "FFMPEG will be downloaded from GitHub.com and installed using your current internet connection and proxy settings."
-msgstr "FFMPEG можно скачать с https://ffmpeg.zeranoe.com/builds/ и установить, используя ваши настройки интернет соединения и прокси."
+msgstr "FFMPEG будет скачан с GitHub.com и установлен, используя ваши настройки интернет соединения и прокси."
 
 msgctxt "FfmpegDlgVersion"
 msgid "Select version:"
@@ -123,9 +122,8 @@ msgstr "[1] из [2] Байт"
 
 msgctxt "InstallFfmpegChecksum"
 msgid "Verifying checksum"
-msgstr ""
+msgstr "Проверка контрольной суммы"
 
-#, fuzzy
 msgctxt "InstallFfmpegChecksum_Template"
 msgid "[1] of [2] Bytes"
 msgstr "[1] из [2] Байт"
