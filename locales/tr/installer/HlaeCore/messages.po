@@ -1,8 +1,8 @@
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"PO-Revision-Date: 2020-08-13 09:23+0000\n"
+"PO-Revision-Date: 2020-12-12 11:54+0000\n"
 "Last-Translator: Twissen <selimcan.krgzl@gmail.com>\n"
 "Language-Team: Turkish\n"
 "Language: tr\n"
@@ -48,10 +48,9 @@ msgctxt "FfmpegDlgReinstall"
 msgid "Reinstall FFMPEG"
 msgstr "FFMPEG'i yeniden yükle"
 
-#, fuzzy
 msgctxt "FfmpegDlgDownloaded"
 msgid "FFMPEG will be downloaded from GitHub.com and installed using your current internet connection and proxy settings."
-msgstr "FFMPEG https://ffmpeg.zeranoe.com/builds/ adresinden internet bağlantınız ve proxy ayarlarınız kullanarak indirilecektir."
+msgstr "FFMPEG GitHub.com adresinden, internet bağlantınız ve proxy ayarlarınız kullanarak indirilecektir."
 
 msgctxt "FfmpegDlgVersion"
 msgid "Select version:"
@@ -123,9 +122,8 @@ msgstr "[1] / [2] Bayt"
 
 msgctxt "InstallFfmpegChecksum"
 msgid "Verifying checksum"
-msgstr ""
+msgstr "Dosya bütünlüğü doğrulanıyor"
 
-#, fuzzy
 msgctxt "InstallFfmpegChecksum_Template"
 msgid "[1] of [2] Bytes"
 msgstr "[1] / [2] Bayt"
