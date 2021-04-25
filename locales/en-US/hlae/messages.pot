@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hlae\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-10-02 14:27+0200\n"
+"POT-Creation-Date: 2021-04-25 23:16+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -265,13 +265,13 @@ msgstr ""
 msgctxt "HLAE errors"
 msgid ""
 "Make sure you run the injector and the program to inject with same access "
-"rights and that no anti virus / anti cheat is blocking its calls."
+"rights and that no antivirus / anticheat is blocking its calls."
 msgstr ""
 
 #: HlaeErrors.cs:50
 msgctxt "HLAE errors"
 msgid ""
-"Make sure to exit anitcheats like ESEA client / Faceit client, Challengeme."
+"Make sure to exit anticheats like ESEA client / Faceit client, Challengeme."
 "gg before using HLAE."
 msgstr ""
 
@@ -307,7 +307,7 @@ msgstr ""
 
 #: HlaeErrors.cs:72
 msgctxt "HLAE errors"
-msgid "Try reextracting / repairing HLAE."
+msgid "Try re-extracting / repairing HLAE."
 msgstr ""
 
 #: HlaeErrors.cs:73
@@ -349,7 +349,7 @@ msgstr ""
 #: HlaeErrors.cs:110
 msgctxt "HLAE errors"
 msgid ""
-"injector.exe blocked. Probably caused by antivirus. Check it and reextract "
+"injector.exe blocked. Probably caused by antivirus. Check it and re-extract "
 "HLAE (HLAE NEEDS to be extracted, don't run it from a .zip file)."
 msgstr ""
 
@@ -360,7 +360,7 @@ msgstr ""
 
 #: HlaeErrors.cs:131
 msgctxt "HLAE errors"
-msgid "Try using CSGO Launcher instead of Custom Launcher."
+msgid "Try using CS:GO Launcher instead of Custom Loader."
 msgstr ""
 
 #: HlaeErrors.cs:134

@@ -3,12 +3,12 @@
 # Copyright (C) 2020 advancedfx.org
 # This file is distributed under the same license as the hlae package.
 # <EMAIL@ADDRESS>, 2020.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: hlae\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-10-02 14:27+0200\n"
+"POT-Creation-Date: 2021-04-25 23:16+0200\n"
 "PO-Revision-Date: 2020-11-02 17:48+0000\n"
 "Last-Translator: Dominik <dominik@matrixstorm.com>\n"
 "Language-Team: German\n"
@@ -262,13 +262,15 @@ msgid "AfxHook error"
 msgstr "AfxHook Fehler"
 
 #: HlaeErrors.cs:49
+#, fuzzy
 msgctxt "HLAE errors"
-msgid "Make sure you run the injector and the program to inject with same access rights and that no anti virus / anti cheat is blocking its calls."
+msgid "Make sure you run the injector and the program to inject with same access rights and that no antivirus / anticheat is blocking its calls."
 msgstr "Stellen Sie sicher, dass Sie den Inkektor und das Programm dass Sie injeziern mit den selben Zugriffsrechten ausführen und das kein Antivirus / Anticheat dessen Aufrufe blockiert."
 
 #: HlaeErrors.cs:50
+#, fuzzy
 msgctxt "HLAE errors"
-msgid "Make sure to exit anitcheats like ESEA client / Faceit client, Challengeme.gg before using HLAE."
+msgid "Make sure to exit anticheats like ESEA client / Faceit client, Challengeme.gg before using HLAE."
 msgstr "Stellen Sie sicher, dass Sie Anticheats wie ESEA Client / Faceit Client, Challengeme.gg schließen, bevor sie HLAE benutzen."
 
 #: HlaeErrors.cs:65
@@ -302,8 +304,9 @@ msgid "AfxHook.dat missing / broken / not accessible"
 msgstr "AfxHook.dat fehlt / beschädigt / nicht zugreifbar"
 
 #: HlaeErrors.cs:72
+#, fuzzy
 msgctxt "HLAE errors"
-msgid "Try reextracting / repairing HLAE."
+msgid "Try re-extracting / repairing HLAE."
 msgstr "Versuchen Sie HLAE neu zu extrahieren / reparieren."
 
 #: HlaeErrors.cs:73
@@ -343,10 +346,10 @@ msgid "Failed to start injector: {0}"
 msgstr "Starten des Inkektors fehlgeschlagen: {0}"
 
 #: HlaeErrors.cs:110
+#, fuzzy
 msgctxt "HLAE errors"
-msgid "injector.exe blocked. Probably caused by antivirus. Check it and reextract HLAE (HLAE NEEDS to be extracted, don't run it from a .zip file)."
-msgstr ""
-"injector.exe blockiert. Wahrscheinlich durch Antivirus verursacht. Überprüfen Sie das und entpacken Sie HLAE nochmals (HLAE MUSS extrahiert werden, führen Sie es nicht von einer .zip Datei aus)."
+msgid "injector.exe blocked. Probably caused by antivirus. Check it and re-extract HLAE (HLAE NEEDS to be extracted, don't run it from a .zip file)."
+msgstr "injector.exe blockiert. Wahrscheinlich durch Antivirus verursacht. Überprüfen Sie das und entpacken Sie HLAE nochmals (HLAE MUSS extrahiert werden, führen Sie es nicht von einer .zip Datei aus)."
 
 #: HlaeErrors.cs:117
 msgctxt "HLAE errors"
@@ -354,8 +357,9 @@ msgid "Loader failed."
 msgstr "Lader fehlgeschlagen."
 
 #: HlaeErrors.cs:131
+#, fuzzy
 msgctxt "HLAE errors"
-msgid "Try using CSGO Launcher instead of Custom Launcher."
+msgid "Try using CS:GO Launcher instead of Custom Loader."
 msgstr "Versuchen Sie den CS:GO Starter zu benutzen, anstelle des benutzerdefinierten Starters."
 
 #: HlaeErrors.cs:134
@@ -873,9 +877,7 @@ msgstr "HLAE-Pfad:"
 
 #: MainForm.cs:131
 msgid "Warning: Your HLAE path shown above contains non-basic latin characters (meaning characters outside the 7-bit ASCII range), which will lead to multiple problems in-game if not fixed!"
-msgstr ""
-"Warnung: Ihr obenstehender HLAE Pfad enthält Zeichen außer halb des lateinischen Basissatzes (d.h. Zeichen außerhalb des 7 Bit ASCII Breichs), was bei Nichtbehebung zu mehreren Problem im Spiel "
-"führen wird!"
+msgstr "Warnung: Ihr obenstehender HLAE Pfad enthält Zeichen außer halb des lateinischen Basissatzes (d.h. Zeichen außerhalb des 7 Bit ASCII Breichs), was bei Nichtbehebung zu mehreren Problem im Spiel führen wird!"
 
 #: MainForm.cs:198
 msgctxt "Main window | update status strip | label"

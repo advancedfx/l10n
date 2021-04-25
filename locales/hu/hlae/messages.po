@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hlae\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-10-02 14:27+0200\n"
+"POT-Creation-Date: 2021-04-25 23:16+0200\n"
 "PO-Revision-Date: 2020-01-26 19:25+0000\n"
 "Last-Translator: fiskal.rafael <fiskal.rafael@gmail.com>\n"
 "Language-Team: Hungarian\n"
@@ -269,12 +269,13 @@ msgstr "AfxHook hiba"
 
 #: HlaeErrors.cs:49
 msgctxt "HLAE errors"
-msgid "Make sure you run the injector and the program to inject with same access rights and that no anti virus / anti cheat is blocking its calls."
+msgid "Make sure you run the injector and the program to inject with same access rights and that no antivirus / anticheat is blocking its calls."
 msgstr ""
 
 #: HlaeErrors.cs:50
+#, fuzzy
 msgctxt "HLAE errors"
-msgid "Make sure to exit anitcheats like ESEA client / Faceit client, Challengeme.gg before using HLAE."
+msgid "Make sure to exit anticheats like ESEA client / Faceit client, Challengeme.gg before using HLAE."
 msgstr "A HLAE indítása előtt lépj ki az olyan anti-cheat programokból, mint az ESEA kliens / Faceit kliens, Challangeme.gg stb."
 
 #: HlaeErrors.cs:65
@@ -308,8 +309,9 @@ msgid "AfxHook.dat missing / broken / not accessible"
 msgstr "AfxHook.dat hiányzik / hibás / nem elérhető"
 
 #: HlaeErrors.cs:72
+#, fuzzy
 msgctxt "HLAE errors"
-msgid "Try reextracting / repairing HLAE."
+msgid "Try re-extracting / repairing HLAE."
 msgstr "Próbáld újra kicsomagolni vagy javítani a HLAE-t."
 
 #: HlaeErrors.cs:73
@@ -350,7 +352,7 @@ msgstr ""
 
 #: HlaeErrors.cs:110
 msgctxt "HLAE errors"
-msgid "injector.exe blocked. Probably caused by antivirus. Check it and reextract HLAE (HLAE NEEDS to be extracted, don't run it from a .zip file)."
+msgid "injector.exe blocked. Probably caused by antivirus. Check it and re-extract HLAE (HLAE NEEDS to be extracted, don't run it from a .zip file)."
 msgstr ""
 
 #: HlaeErrors.cs:117
@@ -359,8 +361,9 @@ msgid "Loader failed."
 msgstr "Betöltő hiba."
 
 #: HlaeErrors.cs:131
+#, fuzzy
 msgctxt "HLAE errors"
-msgid "Try using CSGO Launcher instead of Custom Launcher."
+msgid "Try using CS:GO Launcher instead of Custom Loader."
 msgstr "Próbáld a CSGO Indítót használni az Egyedi Indító helyett."
 
 #: HlaeErrors.cs:134

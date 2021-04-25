@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hlae\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-10-02 14:27+0200\n"
+"POT-Creation-Date: 2021-04-25 23:16+0200\n"
 "PO-Revision-Date: 2020-08-04 20:07+0000\n"
 "Last-Translator: Dominik <dominik@matrixstorm.com>\n"
 "Language-Team: Language zh-CN\n"
@@ -262,13 +262,15 @@ msgid "AfxHook error"
 msgstr "AfxHook错误"
 
 #: HlaeErrors.cs:49
+#, fuzzy
 msgctxt "HLAE errors"
-msgid "Make sure you run the injector and the program to inject with same access rights and that no anti virus / anti cheat is blocking its calls."
+msgid "Make sure you run the injector and the program to inject with same access rights and that no antivirus / anticheat is blocking its calls."
 msgstr "请确保注入器和被注入程序拥有一致的访问权限，并且没有反病毒软件或是反作弊系统阻拦。"
 
 #: HlaeErrors.cs:50
+#, fuzzy
 msgctxt "HLAE errors"
-msgid "Make sure to exit anitcheats like ESEA client / Faceit client, Challengeme.gg before using HLAE."
+msgid "Make sure to exit anticheats like ESEA client / Faceit client, Challengeme.gg before using HLAE."
 msgstr "使用HLAE前请确保 ESEA客户端，Faceit客户端，Challengame.gg，5E，B5等程序已经退出。"
 
 #: HlaeErrors.cs:65
@@ -302,8 +304,9 @@ msgid "AfxHook.dat missing / broken / not accessible"
 msgstr "AfxHook.dat 丢失|损坏|不可达"
 
 #: HlaeErrors.cs:72
+#, fuzzy
 msgctxt "HLAE errors"
-msgid "Try reextracting / repairing HLAE."
+msgid "Try re-extracting / repairing HLAE."
 msgstr "尝试重新提取 / 修复 HLAE。"
 
 #: HlaeErrors.cs:73
@@ -343,8 +346,9 @@ msgid "Failed to start injector: {0}"
 msgstr "启动injecto失败：{0}"
 
 #: HlaeErrors.cs:110
+#, fuzzy
 msgctxt "HLAE errors"
-msgid "injector.exe blocked. Probably caused by antivirus. Check it and reextract HLAE (HLAE NEEDS to be extracted, don't run it from a .zip file)."
+msgid "injector.exe blocked. Probably caused by antivirus. Check it and re-extract HLAE (HLAE NEEDS to be extracted, don't run it from a .zip file)."
 msgstr "injector.exe受阻。可能由杀毒软件导致。请检查并重新解压HLAE（不要在压缩包中打开HLAE）。"
 
 #: HlaeErrors.cs:117
@@ -353,8 +357,9 @@ msgid "Loader failed."
 msgstr "加载失败。"
 
 #: HlaeErrors.cs:131
+#, fuzzy
 msgctxt "HLAE errors"
-msgid "Try using CSGO Launcher instead of Custom Launcher."
+msgid "Try using CS:GO Launcher instead of Custom Loader."
 msgstr "请尝试使用CSGO启动器启动 而不是自定义启动。"
 
 #: HlaeErrors.cs:134

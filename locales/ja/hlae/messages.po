@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hlae\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-10-02 14:27+0200\n"
+"POT-Creation-Date: 2021-04-25 23:16+0200\n"
 "PO-Revision-Date: 2020-08-04 20:08+0000\n"
 "Last-Translator: Dominik <dominik@matrixstorm.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -266,13 +266,15 @@ msgid "AfxHook error"
 msgstr "AfxHook エラー"
 
 #: HlaeErrors.cs:49
+#, fuzzy
 msgctxt "HLAE errors"
-msgid "Make sure you run the injector and the program to inject with same access rights and that no anti virus / anti cheat is blocking its calls."
+msgid "Make sure you run the injector and the program to inject with same access rights and that no antivirus / anticheat is blocking its calls."
 msgstr "プログラムとインジェクターに同じ権限が付与されており、アンチウイルス/アンチチートソフトが阻止していないことを確認してください。"
 
 #: HlaeErrors.cs:50
+#, fuzzy
 msgctxt "HLAE errors"
-msgid "Make sure to exit anitcheats like ESEA client / Faceit client, Challengeme.gg before using HLAE."
+msgid "Make sure to exit anticheats like ESEA client / Faceit client, Challengeme.gg before using HLAE."
 msgstr "HLAEの使用前にESEAクライアント/Faceitクライアント、Challengeme.ggのようなアンチチートが起動していないことを確認してください。"
 
 #: HlaeErrors.cs:65
@@ -306,8 +308,9 @@ msgid "AfxHook.dat missing / broken / not accessible"
 msgstr "AfxHook.datが見つかりません / 壊れています / アクセスできません"
 
 #: HlaeErrors.cs:72
+#, fuzzy
 msgctxt "HLAE errors"
-msgid "Try reextracting / repairing HLAE."
+msgid "Try re-extracting / repairing HLAE."
 msgstr "HLAEの再展開 / 修復を試してください。"
 
 #: HlaeErrors.cs:73
@@ -347,8 +350,9 @@ msgid "Failed to start injector: {0}"
 msgstr "インジェクターの開始に失敗しました: {0}"
 
 #: HlaeErrors.cs:110
+#, fuzzy
 msgctxt "HLAE errors"
-msgid "injector.exe blocked. Probably caused by antivirus. Check it and reextract HLAE (HLAE NEEDS to be extracted, don't run it from a .zip file)."
+msgid "injector.exe blocked. Probably caused by antivirus. Check it and re-extract HLAE (HLAE NEEDS to be extracted, don't run it from a .zip file)."
 msgstr "injector.exeがブロックされました。 アンチウイルスソフトの可能性があります。 設定を確認し、HLAEを再展開してください (HLAEは展開されている必要があります。 .zipファイルから実行しないでください)。"
 
 #: HlaeErrors.cs:117
@@ -357,8 +361,9 @@ msgid "Loader failed."
 msgstr "ローダー失敗。"
 
 #: HlaeErrors.cs:131
+#, fuzzy
 msgctxt "HLAE errors"
-msgid "Try using CSGO Launcher instead of Custom Launcher."
+msgid "Try using CS:GO Launcher instead of Custom Loader."
 msgstr "カスタムランチャーの代わりにCSGOランチャーをお試しください。"
 
 #: HlaeErrors.cs:134
