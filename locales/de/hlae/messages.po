@@ -3,13 +3,13 @@
 # Copyright (C) 2020 advancedfx.org
 # This file is distributed under the same license as the hlae package.
 # <EMAIL@ADDRESS>, 2020.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: hlae\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-05-08 19:17+0200\n"
-"PO-Revision-Date: 2021-04-25 21:29+0000\n"
+"PO-Revision-Date: 2021-05-08 17:25+0000\n"
 "Last-Translator: Dominik <dominik@matrixstorm.com>\n"
 "Language-Team: German\n"
 "Language: de\n"
@@ -345,7 +345,8 @@ msgstr "Starten des Inkektors fehlgeschlagen: {0}"
 #: HlaeErrors.cs:110
 msgctxt "HLAE errors"
 msgid "injector.exe blocked. Probably caused by antivirus. Check it and re-extract HLAE (HLAE NEEDS to be extracted, don't run it from a .zip file)."
-msgstr "injector.exe blockiert. Wahrscheinlich durch Antivirus verursacht. Überprüfen Sie das und entpacken Sie HLAE nochmals (HLAE MUSS extrahiert werden, führen Sie es nicht von einer .zip Datei aus)."
+msgstr ""
+"injector.exe blockiert. Wahrscheinlich durch Antivirus verursacht. Überprüfen Sie das und entpacken Sie HLAE nochmals (HLAE MUSS extrahiert werden, führen Sie es nicht von einer .zip Datei aus)."
 
 #: HlaeErrors.cs:117
 msgctxt "HLAE errors"
@@ -872,24 +873,27 @@ msgstr "HLAE-Pfad:"
 
 #: MainForm.cs:132
 msgid "Warning: Your HLAE path shown above contains non-basic latin characters (meaning characters outside the 7-bit ASCII range), which will lead to multiple problems in-game if not fixed!"
-msgstr "Warnung: Ihr obenstehender HLAE Pfad enthält Zeichen außer halb des lateinischen Basissatzes (d.h. Zeichen außerhalb des 7 Bit ASCII Breichs), was bei Nichtbehebung zu mehreren Problem im Spiel führen wird!"
+msgstr ""
+"Warnung: Ihr obenstehender HLAE Pfad enthält Zeichen außer halb des lateinischen Basissatzes (d.h. Zeichen außerhalb des 7 Bit ASCII Breichs), was bei Nichtbehebung zu mehreren Problem im Spiel "
+"führen wird!"
 
 #: MainForm.cs:134
-#, fuzzy
 msgid "Config error"
-msgstr "Unbekannter Fehler."
+msgstr "Konfigurationsfehler"
 
 #: MainForm.cs:135
 msgid "The HLAE config is not writeable (e.g. in use by other HLAE or write-protected), thus opened it in read-only mode. Overwriting it can cause loss of changes made from other instances."
 msgstr ""
+"Die HLAE-Konfiguration ist nicht schreibar (z.B. in Benutzung von einem anderen HLAE oder schreibgeschützt), daher im Nur-Lesen-Modus geöffnet. Überschreiben kann zum Verlust von in anderen "
+"Instanzen gemachten Änderungen führen."
 
 #: MainForm.cs:136
 msgid "Reload"
-msgstr ""
+msgstr "Neu laden"
 
 #: MainForm.cs:137
 msgid "Overwrite"
-msgstr ""
+msgstr "Überschreiben"
 
 #: MainForm.cs:206
 msgctxt "Main window | update status strip | label"
