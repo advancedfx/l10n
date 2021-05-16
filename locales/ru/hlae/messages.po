@@ -3,13 +3,13 @@
 # Copyright (C) 2020 advancedfx.org
 # This file is distributed under the same license as the hlae package.
 # <EMAIL@ADDRESS>, 2020.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: hlae\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-05-08 19:17+0200\n"
-"PO-Revision-Date: 2021-04-28 17:43+0000\n"
+"PO-Revision-Date: 2021-05-16 09:55+0000\n"
 "Last-Translator: yovaN <akkardeon@gmail.com>\n"
 "Language-Team: Russian\n"
 "Language: ru\n"
@@ -870,24 +870,26 @@ msgstr "Путь к HLAE:"
 
 #: MainForm.cs:132
 msgid "Warning: Your HLAE path shown above contains non-basic latin characters (meaning characters outside the 7-bit ASCII range), which will lead to multiple problems in-game if not fixed!"
-msgstr "Предупреждение: указанный выше путь к HLAE содержит неосновные латинские символы (т.е. символы вне 7-битного диапазона ASCII), что приведет к множеству проблем в игре, если не будет исправлен!"
+msgstr ""
+"Предупреждение: указанный выше путь к HLAE содержит неосновные латинские символы (т.е. символы вне 7-битного диапазона ASCII), что приведет к множеству проблем в игре, если не будет исправлен!"
 
 #: MainForm.cs:134
-#, fuzzy
 msgid "Config error"
-msgstr "Неизвестная ошибка."
+msgstr "Ошибка конфигурации."
 
 #: MainForm.cs:135
 msgid "The HLAE config is not writeable (e.g. in use by other HLAE or write-protected), thus opened it in read-only mode. Overwriting it can cause loss of changes made from other instances."
 msgstr ""
+"Конфигурация HLAE недоступна для записи (например, используется другими HLAE или защищена от записи), поэтому открыта только для чтения. Ее перезапись может привести к потере изменений, сделанных в "
+"других экземплярах."
 
 #: MainForm.cs:136
 msgid "Reload"
-msgstr ""
+msgstr "Обновить"
 
 #: MainForm.cs:137
 msgid "Overwrite"
-msgstr ""
+msgstr "Перезаписать"
 
 #: MainForm.cs:206
 msgctxt "Main window | update status strip | label"
