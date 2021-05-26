@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hlae\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-05-08 19:17+0200\n"
+"POT-Creation-Date: 2021-05-26 17:51+0200\n"
 "PO-Revision-Date: 2020-12-12 11:58+0000\n"
 "Last-Translator: Twissen <selimcan.krgzl@gmail.com>\n"
 "Language-Team: Turkish\n"
@@ -264,13 +264,13 @@ msgstr "AfxHook Hatası"
 #: HlaeErrors.cs:49
 #, fuzzy
 msgctxt "HLAE errors"
-msgid "Make sure you run the injector and the program to inject with same access rights and that no antivirus / anticheat is blocking its calls."
+msgid "Make sure you run the injector and the program to inject with same access rights and that no antivirus or anti-cheat is blocking its calls."
 msgstr "Aynı erişim izinleri ile enjekte edebilmek için, programı ve enjektörü çalıştırdığınızdan, bunların herhangi bir antivirüs / anti hile programı tarafından engellenmediğinden emin olunuz."
 
 #: HlaeErrors.cs:50
 #, fuzzy
 msgctxt "HLAE errors"
-msgid "Make sure to exit anticheats like ESEA client / Faceit client, Challengeme.gg before using HLAE."
+msgid "Make sure to exit anti-cheat software such as the ESEA client, Faceit client or Challengeme.gg before using HLAE."
 msgstr "HLAE'yi kullanmadan önce ESEA / Faceit ve Challengeme.gg vb. anti hile yazılımlarının kapalı olduğundan emin olunuz."
 
 #: HlaeErrors.cs:65
@@ -299,14 +299,15 @@ msgid "GetImage failed."
 msgstr "GetImage başarısız oldu."
 
 #: HlaeErrors.cs:72
+#, fuzzy
 msgctxt "HLAE errors"
-msgid "AfxHook.dat missing / broken / not accessible"
+msgid "AfxHook.dat missing, broken or not accessible"
 msgstr "AfxHook.dat bulunamıyor / bozuk / erişilemez durumda"
 
 #: HlaeErrors.cs:72
 #, fuzzy
 msgctxt "HLAE errors"
-msgid "Try re-extracting / repairing HLAE."
+msgid "Try re-extracting or repair HLAE."
 msgstr "HLAE'yi tekrar çıkartmayı / onarmayı deneyiniz."
 
 #: HlaeErrors.cs:73
@@ -356,23 +357,28 @@ msgctxt "HLAE errors"
 msgid "Loader failed."
 msgstr "Yükleyici başlatılamadı."
 
-#: HlaeErrors.cs:131
+#: HlaeErrors.cs:127
+msgctxt "HLAE errors"
+msgid "Make sure the path ends with the game .exe!"
+msgstr ""
+
+#: HlaeErrors.cs:133
 #, fuzzy
 msgctxt "HLAE errors"
 msgid "Try using CS:GO Launcher instead of Custom Loader."
 msgstr "Özel Başlatıcı yerine CSGO Başlatıcısı'nı kullanmayı deneyiniz."
 
-#: HlaeErrors.cs:134
+#: HlaeErrors.cs:136
 msgctxt "HLAE errors"
 msgid "Make sure neither HLAE.exe nor Steam.exe nor csgo.exe are set to run as admin."
 msgstr "Ne HLAE.exe ne de Steam.exe'nin yönetici olarak çalıştırılmaya ayarlanmadığından emin olunuz."
 
-#: HlaeErrors.cs:138
+#: HlaeErrors.cs:140
 msgctxt "HLAE errors"
 msgid "Loader could not create requested process."
 msgstr "Yükleyici istenen işlemi gerçekleştiremedi."
 
-#: HlaeErrors.cs:138
+#: HlaeErrors.cs:140
 #, csharp-format
 msgctxt "HLAE errors"
 msgid "GetLastWin32Error = {0}: {1}"

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hlae\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-05-08 19:17+0200\n"
+"POT-Creation-Date: 2021-05-26 17:51+0200\n"
 "PO-Revision-Date: 2020-01-26 19:25+0000\n"
 "Last-Translator: fiskal.rafael <fiskal.rafael@gmail.com>\n"
 "Language-Team: Hungarian\n"
@@ -269,13 +269,13 @@ msgstr "AfxHook hiba"
 
 #: HlaeErrors.cs:49
 msgctxt "HLAE errors"
-msgid "Make sure you run the injector and the program to inject with same access rights and that no antivirus / anticheat is blocking its calls."
+msgid "Make sure you run the injector and the program to inject with same access rights and that no antivirus or anti-cheat is blocking its calls."
 msgstr ""
 
 #: HlaeErrors.cs:50
 #, fuzzy
 msgctxt "HLAE errors"
-msgid "Make sure to exit anticheats like ESEA client / Faceit client, Challengeme.gg before using HLAE."
+msgid "Make sure to exit anti-cheat software such as the ESEA client, Faceit client or Challengeme.gg before using HLAE."
 msgstr "A HLAE indítása előtt lépj ki az olyan anti-cheat programokból, mint az ESEA kliens / Faceit kliens, Challangeme.gg stb."
 
 #: HlaeErrors.cs:65
@@ -304,14 +304,15 @@ msgid "GetImage failed."
 msgstr "GetImage sikertelen."
 
 #: HlaeErrors.cs:72
+#, fuzzy
 msgctxt "HLAE errors"
-msgid "AfxHook.dat missing / broken / not accessible"
+msgid "AfxHook.dat missing, broken or not accessible"
 msgstr "AfxHook.dat hiányzik / hibás / nem elérhető"
 
 #: HlaeErrors.cs:72
 #, fuzzy
 msgctxt "HLAE errors"
-msgid "Try re-extracting / repairing HLAE."
+msgid "Try re-extracting or repair HLAE."
 msgstr "Próbáld újra kicsomagolni vagy javítani a HLAE-t."
 
 #: HlaeErrors.cs:73
@@ -360,23 +361,28 @@ msgctxt "HLAE errors"
 msgid "Loader failed."
 msgstr "Betöltő hiba."
 
-#: HlaeErrors.cs:131
+#: HlaeErrors.cs:127
+msgctxt "HLAE errors"
+msgid "Make sure the path ends with the game .exe!"
+msgstr ""
+
+#: HlaeErrors.cs:133
 #, fuzzy
 msgctxt "HLAE errors"
 msgid "Try using CS:GO Launcher instead of Custom Loader."
 msgstr "Próbáld a CSGO Indítót használni az Egyedi Indító helyett."
 
-#: HlaeErrors.cs:134
+#: HlaeErrors.cs:136
 msgctxt "HLAE errors"
 msgid "Make sure neither HLAE.exe nor Steam.exe nor csgo.exe are set to run as admin."
 msgstr "Ellenőrizd, hogy a HLAE.exe, a Steam.exe és a csgo.exe se legyen rendszergazdaként futtatva."
 
-#: HlaeErrors.cs:138
+#: HlaeErrors.cs:140
 msgctxt "HLAE errors"
 msgid "Loader could not create requested process."
 msgstr "A betöltő nem tudta létrehozni a kért folyamatot."
 
-#: HlaeErrors.cs:138
+#: HlaeErrors.cs:140
 #, csharp-format
 msgctxt "HLAE errors"
 msgid "GetLastWin32Error = {0}: {1}"

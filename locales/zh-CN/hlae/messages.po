@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hlae\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-05-08 19:17+0200\n"
+"POT-Creation-Date: 2021-05-26 17:51+0200\n"
 "PO-Revision-Date: 2020-08-04 20:07+0000\n"
 "Last-Translator: Dominik <dominik@matrixstorm.com>\n"
 "Language-Team: Language zh-CN\n"
@@ -264,13 +264,13 @@ msgstr "AfxHook错误"
 #: HlaeErrors.cs:49
 #, fuzzy
 msgctxt "HLAE errors"
-msgid "Make sure you run the injector and the program to inject with same access rights and that no antivirus / anticheat is blocking its calls."
+msgid "Make sure you run the injector and the program to inject with same access rights and that no antivirus or anti-cheat is blocking its calls."
 msgstr "请确保注入器和被注入程序拥有一致的访问权限，并且没有反病毒软件或是反作弊系统阻拦。"
 
 #: HlaeErrors.cs:50
 #, fuzzy
 msgctxt "HLAE errors"
-msgid "Make sure to exit anticheats like ESEA client / Faceit client, Challengeme.gg before using HLAE."
+msgid "Make sure to exit anti-cheat software such as the ESEA client, Faceit client or Challengeme.gg before using HLAE."
 msgstr "使用HLAE前请确保 ESEA客户端，Faceit客户端，Challengame.gg，5E，B5等程序已经退出。"
 
 #: HlaeErrors.cs:65
@@ -299,14 +299,15 @@ msgid "GetImage failed."
 msgstr "获取图片失败。"
 
 #: HlaeErrors.cs:72
+#, fuzzy
 msgctxt "HLAE errors"
-msgid "AfxHook.dat missing / broken / not accessible"
+msgid "AfxHook.dat missing, broken or not accessible"
 msgstr "AfxHook.dat 丢失|损坏|不可达"
 
 #: HlaeErrors.cs:72
 #, fuzzy
 msgctxt "HLAE errors"
-msgid "Try re-extracting / repairing HLAE."
+msgid "Try re-extracting or repair HLAE."
 msgstr "尝试重新提取 / 修复 HLAE。"
 
 #: HlaeErrors.cs:73
@@ -356,23 +357,28 @@ msgctxt "HLAE errors"
 msgid "Loader failed."
 msgstr "加载失败。"
 
-#: HlaeErrors.cs:131
+#: HlaeErrors.cs:127
+msgctxt "HLAE errors"
+msgid "Make sure the path ends with the game .exe!"
+msgstr ""
+
+#: HlaeErrors.cs:133
 #, fuzzy
 msgctxt "HLAE errors"
 msgid "Try using CS:GO Launcher instead of Custom Loader."
 msgstr "请尝试使用CSGO启动器启动 而不是自定义启动。"
 
-#: HlaeErrors.cs:134
+#: HlaeErrors.cs:136
 msgctxt "HLAE errors"
 msgid "Make sure neither HLAE.exe nor Steam.exe nor csgo.exe are set to run as admin."
 msgstr "请确保HLAE.EXE，STEAM.EXE，CSGO.EXE都不是在管理员模式下运行。"
 
-#: HlaeErrors.cs:138
+#: HlaeErrors.cs:140
 msgctxt "HLAE errors"
 msgid "Loader could not create requested process."
 msgstr "Loader无法创建所请求的进程。"
 
-#: HlaeErrors.cs:138
+#: HlaeErrors.cs:140
 #, csharp-format
 msgctxt "HLAE errors"
 msgid "GetLastWin32Error = {0}: {1}"
