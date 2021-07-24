@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hlae\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-05-26 17:51+0200\n"
+"POT-Creation-Date: 2021-07-24 15:08+0200\n"
 "PO-Revision-Date: 2020-08-04 20:07+0000\n"
 "Last-Translator: Dominik <dominik@matrixstorm.com>\n"
 "Language-Team: Dutch\n"
@@ -686,245 +686,228 @@ msgstr "Kan de handle van Kernel32.dll niet ophalen."
 msgid "IsWow64Process failed, error code: {0}"
 msgstr "IsWow64Process is mislukt, foutcode: {0}"
 
-#: MainForm.cs:28
+#: MainForm.cs:27
 #, csharp-format
 msgctxt "Window title, args: {0} - version"
 msgid "Half-Life Advanced Effects {0}"
 msgstr "Half-Life met geAvanceerde Effecten {0}"
 
-#: MainForm.cs:30
+#: MainForm.cs:29
 msgctxt "Main window | menu"
 msgid "File"
 msgstr "Bestand"
 
-#: MainForm.cs:31
+#: MainForm.cs:30
 msgctxt "Main window | menu | File"
 msgid "Launch CS:GO"
 msgstr "Start CS:GO op ..."
 
-#: MainForm.cs:32
+#: MainForm.cs:31
 msgctxt "Main window | menu | File"
 msgid "Launch GoldSrc"
 msgstr "Start GoldSrc op ..."
 
-#: MainForm.cs:33
+#: MainForm.cs:32
 msgctxt "Main window | menu | File"
 msgid "Exit"
 msgstr "Afsluiten"
 
-#: MainForm.cs:35
+#: MainForm.cs:34
 msgctxt "Main Window | menu"
 msgid "View"
 msgstr "Beeld"
 
-#: MainForm.cs:36
+#: MainForm.cs:35
 msgctxt "Main window | menu | View"
 msgid "Status Bar"
 msgstr "Statusbalk"
 
-#: MainForm.cs:38
+#: MainForm.cs:37
 msgctxt "Main window | menu"
 msgid "Tools"
 msgstr "Gereedschappen"
 
-#: MainForm.cs:39
+#: MainForm.cs:38
 msgctxt "Main window | menu | Tools"
 msgid "Calculators"
 msgstr "Rekenmachines"
 
-#: MainForm.cs:40
+#: MainForm.cs:39
 msgctxt "Main window | menu | Tools | Calculators"
 msgid "File Size"
 msgstr "Bestandsgrootte"
 
-#: MainForm.cs:41
+#: MainForm.cs:40
 msgctxt "Main window | menu | Tools"
 msgid "Color Lookup Tables"
 msgstr ""
 
-#: MainForm.cs:42
+#: MainForm.cs:41
 msgctxt "Main window | menu | Tools | Color Lookup Tables"
 msgid "Voronoi"
 msgstr ""
 
-#: MainForm.cs:43
+#: MainForm.cs:42
 msgctxt "Main window | menu | Tools"
 msgid "GoldSrc"
 msgstr "GoldSrc"
 
-#: MainForm.cs:44
+#: MainForm.cs:43
 msgctxt "Main window | menu | Tools | GoldSrc"
 msgid "Demo Tools"
 msgstr "Demogereedschappen"
 
-#: MainForm.cs:45
+#: MainForm.cs:44
 msgctxt "Main window | menu | Tools | GoldSrc"
 msgid "Sky Manager"
 msgstr "Hemelmanager"
 
-#: MainForm.cs:47
+#: MainForm.cs:46
 msgctxt "Main window | menu | Tools"
 msgid "Developer"
 msgstr "Ontwikkelaar"
 
-#: MainForm.cs:48
+#: MainForm.cs:47
 msgctxt "Main window | menu | Tools | Developer"
 msgid "Custom Loader"
 msgstr "Aangepaste Loader"
 
-#: MainForm.cs:49
+#: MainForm.cs:48
 msgctxt "Main window | menu | Tools | Developer"
 msgid "Own GUID to ClipBoard"
 msgstr "Eigen GUID naar klembord kopiëren"
 
-#: MainForm.cs:50
+#: MainForm.cs:49
 msgctxt "Main window | menu | Tools | Developer"
 msgid "New GUID to ClipBoard"
 msgstr "Nieuw GUID naar klembord kopiëren"
 
-#: MainForm.cs:52
+#: MainForm.cs:51
 msgctxt "Main window | menu"
 msgid "Help"
 msgstr "Hulp"
 
-#: MainForm.cs:53
+#: MainForm.cs:52
 msgctxt "Main window | menu | Help"
 msgid "Check for Updates"
 msgstr "Zoeken naar updates"
 
-#: MainForm.cs:54
+#: MainForm.cs:53
 msgctxt "Main window | menu | Help | Check for Updates"
 msgid "Auto Check"
 msgstr "Automatisch zoeken"
 
-#: MainForm.cs:55
+#: MainForm.cs:54
 msgctxt "Main window | menu | Help | Check for Updates"
 msgid "Check Now"
 msgstr "Zoek nu"
 
-#: MainForm.cs:56
+#: MainForm.cs:55
 msgctxt "Main window | menu | Help"
 msgid "Official Website"
 msgstr "Officiële website"
 
-#: MainForm.cs:58
+#: MainForm.cs:57
 msgctxt "Main window | menu"
 msgid "Donate"
 msgstr "Doneer"
 
-#: MainForm.cs:60
+#: MainForm.cs:59
 msgctxt "Main window | check updates strip"
 msgid "Check for updates automatically?"
 msgstr "Automatisch naar updates zoeken?"
 
-#: MainForm.cs:61
+#: MainForm.cs:60
 msgctxt "Main window | check updates strip"
 msgid "Yes"
 msgstr "Ja"
 
-#: MainForm.cs:62
+#: MainForm.cs:61
 msgctxt "Main window | check updates strip"
 msgid "No"
 msgstr "Nee"
 
-#: MainForm.cs:65
+#: MainForm.cs:64
 msgctxt "Main window | update status strip"
 msgid "Ignore"
 msgstr "Negeer"
 
-#: MainForm.cs:66
+#: MainForm.cs:65
 msgctxt "Main window | update status strip"
 msgid "OK"
 msgstr "Oke"
 
-#: MainForm.cs:67
+#: MainForm.cs:66
 msgctxt "Main window | update status strip | label"
 msgid "Update status unknown"
 msgstr "Status van update onbekend"
 
-#: MainForm.cs:69
+#: MainForm.cs:68
 msgid "Contact / Privacy Policy / Imprint (advancedfx.org)"
 msgstr ""
 
-#: MainForm.cs:71
+#: MainForm.cs:70
 #, fuzzy
 msgid "Help"
 msgstr "Hulp"
 
-#: MainForm.cs:72
+#: MainForm.cs:71
 msgid "Language:"
 msgstr ""
 
-#: MainForm.cs:73
+#: MainForm.cs:72
 #, fuzzy
 msgid "Selection:"
 msgstr "Oplossing:"
 
-#: MainForm.cs:75
+#: MainForm.cs:74
 msgid "Official support page (English)"
 msgstr ""
 
-#: MainForm.cs:76
+#: MainForm.cs:75
 msgid "HLAE Chinese Station"
 msgstr ""
 
-#: MainForm.cs:79
+#: MainForm.cs:78
 #, fuzzy
 msgctxt "Language"
 msgid "English (en)"
 msgstr "Engels"
 
-#: MainForm.cs:82
+#: MainForm.cs:81
 msgctxt "Language"
 msgid "Chinese (zh-CN)"
 msgstr ""
 
-#: MainForm.cs:129
+#: MainForm.cs:128
 #, fuzzy
 msgid "HLAE path error"
 msgstr "HLAE Fout"
 
-#: MainForm.cs:130
+#: MainForm.cs:129
 msgid "HLAE path:"
 msgstr ""
 
-#: MainForm.cs:132
+#: MainForm.cs:131
 msgid "Warning: Your HLAE path shown above contains non-basic latin characters (meaning characters outside the 7-bit ASCII range), which will lead to multiple problems in-game if not fixed!"
 msgstr ""
 
-#: MainForm.cs:134
-#, fuzzy
-msgid "Config error"
-msgstr "Onbekende fout."
-
-#: MainForm.cs:135
-msgid "The HLAE config is not writeable (e.g. in use by other HLAE or write-protected), thus opened it in read-only mode. Overwriting it can cause loss of changes made from other instances."
-msgstr ""
-
-#: MainForm.cs:136
-msgid "Reload"
-msgstr ""
-
-#: MainForm.cs:137
-msgid "Overwrite"
-msgstr ""
-
-#: MainForm.cs:206
+#: MainForm.cs:198
 msgctxt "Main window | update status strip | label"
 msgid "Update available!"
 msgstr "Update beschikbaar!"
 
-#: MainForm.cs:215
+#: MainForm.cs:207
 msgctxt "Main window | update status strip | label"
 msgid "Your version is up to date :)"
 msgstr "Jouw versie is up-to-date :)"
 
-#: MainForm.cs:227
+#: MainForm.cs:219
 msgctxt "Main window | update status strip | label"
 msgid "Update check failed :("
 msgstr "Zoeken naar updates is mislukt :("
 
-#: MainForm.cs:236
+#: MainForm.cs:228
 msgctxt "Main window | update status strip | label"
 msgid "Checking for updates ..."
 msgstr "Aan het zoeken naar updates..."
@@ -1052,6 +1035,10 @@ msgstr "Programma om op te starten en te injecteren (.exe)|*.exe"
 msgctxt "Custom Loader dialog | DLL filter"
 msgid "Hook DLL (.dll)|*.dll"
 msgstr "Hook DLL (.dll)|*.dll"
+
+#, fuzzy
+#~ msgid "Config error"
+#~ msgstr "Onbekende fout."
 
 #~ msgctxt "Manual URL (localized)"
 #~ msgid "https://github.com/advancedfx/advancedfx/wiki"

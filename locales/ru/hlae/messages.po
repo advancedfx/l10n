@@ -3,12 +3,12 @@
 # Copyright (C) 2020 advancedfx.org
 # This file is distributed under the same license as the hlae package.
 # <EMAIL@ADDRESS>, 2020.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: hlae\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-05-26 17:51+0200\n"
+"POT-Creation-Date: 2021-07-24 15:08+0200\n"
 "PO-Revision-Date: 2021-05-28 17:55+0000\n"
 "Last-Translator: yovaN <akkardeon@gmail.com>\n"
 "Language-Team: Russian\n"
@@ -675,243 +675,224 @@ msgstr "Невозможно получить дескриптор Kernel32.dll.
 msgid "IsWow64Process failed, error code: {0}"
 msgstr "Сбой IsWow64Process, код ошибки: {0}"
 
-#: MainForm.cs:28
+#: MainForm.cs:27
 #, csharp-format
 msgctxt "Window title, args: {0} - version"
 msgid "Half-Life Advanced Effects {0}"
 msgstr "Half-Life Advanced Effects {0}"
 
-#: MainForm.cs:30
+#: MainForm.cs:29
 msgctxt "Main window | menu"
 msgid "File"
 msgstr "Файл"
 
-#: MainForm.cs:31
+#: MainForm.cs:30
 msgctxt "Main window | menu | File"
 msgid "Launch CS:GO"
 msgstr "Запустить CS:GO"
 
-#: MainForm.cs:32
+#: MainForm.cs:31
 msgctxt "Main window | menu | File"
 msgid "Launch GoldSrc"
 msgstr "Запустить GoldSrc"
 
-#: MainForm.cs:33
+#: MainForm.cs:32
 msgctxt "Main window | menu | File"
 msgid "Exit"
 msgstr "Выход"
 
-#: MainForm.cs:35
+#: MainForm.cs:34
 msgctxt "Main Window | menu"
 msgid "View"
 msgstr "Вид"
 
-#: MainForm.cs:36
+#: MainForm.cs:35
 msgctxt "Main window | menu | View"
 msgid "Status Bar"
 msgstr "Строка состояния"
 
-#: MainForm.cs:38
+#: MainForm.cs:37
 msgctxt "Main window | menu"
 msgid "Tools"
 msgstr "Инструменты"
 
-#: MainForm.cs:39
+#: MainForm.cs:38
 msgctxt "Main window | menu | Tools"
 msgid "Calculators"
 msgstr "Калькуляторы"
 
-#: MainForm.cs:40
+#: MainForm.cs:39
 msgctxt "Main window | menu | Tools | Calculators"
 msgid "File Size"
 msgstr "Размер файла"
 
-#: MainForm.cs:41
+#: MainForm.cs:40
 msgctxt "Main window | menu | Tools"
 msgid "Color Lookup Tables"
 msgstr "Таблицы цветов"
 
-#: MainForm.cs:42
+#: MainForm.cs:41
 msgctxt "Main window | menu | Tools | Color Lookup Tables"
 msgid "Voronoi"
 msgstr "Вороной"
 
-#: MainForm.cs:43
+#: MainForm.cs:42
 msgctxt "Main window | menu | Tools"
 msgid "GoldSrc"
 msgstr "GoldSrc"
 
-#: MainForm.cs:44
+#: MainForm.cs:43
 msgctxt "Main window | menu | Tools | GoldSrc"
 msgid "Demo Tools"
 msgstr "Утилиты для демо"
 
-#: MainForm.cs:45
+#: MainForm.cs:44
 msgctxt "Main window | menu | Tools | GoldSrc"
 msgid "Sky Manager"
 msgstr "Менеджер скайбокса"
 
-#: MainForm.cs:47
+#: MainForm.cs:46
 msgctxt "Main window | menu | Tools"
 msgid "Developer"
 msgstr "Разработчик"
 
-#: MainForm.cs:48
+#: MainForm.cs:47
 msgctxt "Main window | menu | Tools | Developer"
 msgid "Custom Loader"
 msgstr "Пользовательский загрузчик"
 
-#: MainForm.cs:49
+#: MainForm.cs:48
 msgctxt "Main window | menu | Tools | Developer"
 msgid "Own GUID to ClipBoard"
 msgstr "Свой GUID в буфер обмена"
 
-#: MainForm.cs:50
+#: MainForm.cs:49
 msgctxt "Main window | menu | Tools | Developer"
 msgid "New GUID to ClipBoard"
 msgstr "Новый GUID в буфер обмена"
 
-#: MainForm.cs:52
+#: MainForm.cs:51
 msgctxt "Main window | menu"
 msgid "Help"
 msgstr "Помощь"
 
-#: MainForm.cs:53
+#: MainForm.cs:52
 msgctxt "Main window | menu | Help"
 msgid "Check for Updates"
 msgstr "Проверять обновления"
 
-#: MainForm.cs:54
+#: MainForm.cs:53
 msgctxt "Main window | menu | Help | Check for Updates"
 msgid "Auto Check"
 msgstr "Автоматически"
 
-#: MainForm.cs:55
+#: MainForm.cs:54
 msgctxt "Main window | menu | Help | Check for Updates"
 msgid "Check Now"
 msgstr "Проверить сейчас"
 
-#: MainForm.cs:56
+#: MainForm.cs:55
 msgctxt "Main window | menu | Help"
 msgid "Official Website"
 msgstr "Официальный сайт"
 
-#: MainForm.cs:58
+#: MainForm.cs:57
 msgctxt "Main window | menu"
 msgid "Donate"
 msgstr "Донат"
 
-#: MainForm.cs:60
+#: MainForm.cs:59
 msgctxt "Main window | check updates strip"
 msgid "Check for updates automatically?"
 msgstr "Проверять обновления автоматически?"
 
-#: MainForm.cs:61
+#: MainForm.cs:60
 msgctxt "Main window | check updates strip"
 msgid "Yes"
 msgstr "Да"
 
-#: MainForm.cs:62
+#: MainForm.cs:61
 msgctxt "Main window | check updates strip"
 msgid "No"
 msgstr "Нет"
 
-#: MainForm.cs:65
+#: MainForm.cs:64
 msgctxt "Main window | update status strip"
 msgid "Ignore"
 msgstr "Пропустить"
 
-#: MainForm.cs:66
+#: MainForm.cs:65
 msgctxt "Main window | update status strip"
 msgid "OK"
 msgstr "ОК"
 
-#: MainForm.cs:67
+#: MainForm.cs:66
 msgctxt "Main window | update status strip | label"
 msgid "Update status unknown"
 msgstr "Состояние обновлений неизвестно"
 
-#: MainForm.cs:69
+#: MainForm.cs:68
 msgid "Contact / Privacy Policy / Imprint (advancedfx.org)"
 msgstr "Контакты / Политика конфиденциальности / Выходные сведения (advancedfx.org)"
 
-#: MainForm.cs:71
+#: MainForm.cs:70
 msgid "Help"
 msgstr "Справка"
 
-#: MainForm.cs:72
+#: MainForm.cs:71
 msgid "Language:"
 msgstr "Язык:"
 
-#: MainForm.cs:73
+#: MainForm.cs:72
 msgid "Selection:"
 msgstr "Выбор:"
 
-#: MainForm.cs:75
+#: MainForm.cs:74
 msgid "Official support page (English)"
 msgstr "Официальная страница поддержки (Английский)"
 
-#: MainForm.cs:76
+#: MainForm.cs:75
 msgid "HLAE Chinese Station"
 msgstr "Китайский ресурс HLAE"
 
-#: MainForm.cs:79
+#: MainForm.cs:78
 msgctxt "Language"
 msgid "English (en)"
 msgstr "Английский (en)"
 
-#: MainForm.cs:82
+#: MainForm.cs:81
 msgctxt "Language"
 msgid "Chinese (zh-CN)"
 msgstr "Китайский (zh-CN)"
 
-#: MainForm.cs:129
+#: MainForm.cs:128
 msgid "HLAE path error"
 msgstr "Ошибка пути HLAE"
 
-#: MainForm.cs:130
+#: MainForm.cs:129
 msgid "HLAE path:"
 msgstr "Путь к HLAE:"
 
-#: MainForm.cs:132
+#: MainForm.cs:131
 msgid "Warning: Your HLAE path shown above contains non-basic latin characters (meaning characters outside the 7-bit ASCII range), which will lead to multiple problems in-game if not fixed!"
-msgstr ""
-"Предупреждение: указанный выше путь к HLAE содержит неосновные латинские символы (т.е. символы вне 7-битного диапазона ASCII), что приведет к множеству проблем в игре, если не будет исправлен!"
+msgstr "Предупреждение: указанный выше путь к HLAE содержит неосновные латинские символы (т.е. символы вне 7-битного диапазона ASCII), что приведет к множеству проблем в игре, если не будет исправлен!"
 
-#: MainForm.cs:134
-msgid "Config error"
-msgstr "Ошибка конфигурации."
-
-#: MainForm.cs:135
-msgid "The HLAE config is not writeable (e.g. in use by other HLAE or write-protected), thus opened it in read-only mode. Overwriting it can cause loss of changes made from other instances."
-msgstr ""
-"Конфигурация HLAE недоступна для записи (например, используется другими HLAE или защищена от записи), поэтому открыта только для чтения. Ее перезапись может привести к потере изменений, сделанных в "
-"других экземплярах."
-
-#: MainForm.cs:136
-msgid "Reload"
-msgstr "Обновить"
-
-#: MainForm.cs:137
-msgid "Overwrite"
-msgstr "Перезаписать"
-
-#: MainForm.cs:206
+#: MainForm.cs:198
 msgctxt "Main window | update status strip | label"
 msgid "Update available!"
 msgstr "Обновление доступно!"
 
-#: MainForm.cs:215
+#: MainForm.cs:207
 msgctxt "Main window | update status strip | label"
 msgid "Your version is up to date :)"
 msgstr "Ваша версия актуальна :)"
 
-#: MainForm.cs:227
+#: MainForm.cs:219
 msgctxt "Main window | update status strip | label"
 msgid "Update check failed :("
 msgstr "Проверка обновлений не удалась :("
 
-#: MainForm.cs:236
+#: MainForm.cs:228
 msgctxt "Main window | update status strip | label"
 msgid "Checking for updates ..."
 msgstr "Проверка обновлений ..."
@@ -1039,6 +1020,18 @@ msgstr "Программа для запуска и подключения (.exe
 msgctxt "Custom Loader dialog | DLL filter"
 msgid "Hook DLL (.dll)|*.dll"
 msgstr "Подключаемая DLL (.dll)|*.dll"
+
+#~ msgid "Config error"
+#~ msgstr "Ошибка конфигурации."
+
+#~ msgid "The HLAE config is not writeable (e.g. in use by other HLAE or write-protected), thus opened it in read-only mode. Overwriting it can cause loss of changes made from other instances."
+#~ msgstr "Конфигурация HLAE недоступна для записи (например, используется другими HLAE или защищена от записи), поэтому открыта только для чтения. Ее перезапись может привести к потере изменений, сделанных в других экземплярах."
+
+#~ msgid "Reload"
+#~ msgstr "Обновить"
+
+#~ msgid "Overwrite"
+#~ msgstr "Перезаписать"
 
 #~ msgid "image"
 #~ msgstr "изображение"
