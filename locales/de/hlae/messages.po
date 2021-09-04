@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hlae\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-07-24 15:08+0200\n"
+"POT-Creation-Date: 2021-09-04 09:45+0200\n"
 "PO-Revision-Date: 2021-05-29 20:50+0000\n"
 "Last-Translator: Dominik <dominik@matrixstorm.com>\n"
 "Language-Team: German\n"
@@ -354,8 +354,8 @@ msgstr "Lader fehlgeschlagen."
 
 #: HlaeErrors.cs:127
 msgctxt "HLAE errors"
-msgid "Make sure the path ends with the game .exe!"
-msgstr "Stellen Sie sicher, dass der Pfad mit der .exe des Spiels endet!"
+msgid "Make sure to close any anti-cheat software and that the path to the game .exe is correct."
+msgstr ""
 
 #: HlaeErrors.cs:133
 msgctxt "HLAE errors"
@@ -1022,6 +1022,10 @@ msgstr "Zu startendes und hookendes programm (.exe)|*.exe"
 msgctxt "Custom Loader dialog | DLL filter"
 msgid "Hook DLL (.dll)|*.dll"
 msgstr "Hook DLL (.dll)|*.dll"
+
+#~ msgctxt "HLAE errors"
+#~ msgid "Make sure the path ends with the game .exe!"
+#~ msgstr "Stellen Sie sicher, dass der Pfad mit der .exe des Spiels endet!"
 
 #~ msgid "Config error"
 #~ msgstr "Konfigurationsfehler"
