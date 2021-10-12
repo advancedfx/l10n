@@ -3,13 +3,13 @@
 # Copyright (C) 2020 advancedfx.org
 # This file is distributed under the same license as the hlae package.
 # <EMAIL@ADDRESS>, 2020.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: hlae\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-09-04 09:45+0200\n"
-"PO-Revision-Date: 2020-12-12 11:58+0000\n"
+"PO-Revision-Date: 2021-10-12 12:20+0000\n"
 "Last-Translator: Twissen <selimcan.krgzl@gmail.com>\n"
 "Language-Team: Turkish\n"
 "Language: tr\n"
@@ -262,16 +262,15 @@ msgid "AfxHook error"
 msgstr "AfxHook Hatası"
 
 #: HlaeErrors.cs:49
-#, fuzzy
 msgctxt "HLAE errors"
 msgid "Make sure you run the injector and the program to inject with same access rights and that no antivirus or anti-cheat is blocking its calls."
-msgstr "Aynı erişim izinleri ile enjekte edebilmek için, programı ve enjektörü çalıştırdığınızdan, bunların herhangi bir antivirüs / anti hile programı tarafından engellenmediğinden emin olunuz."
+msgstr ""
+"Aynı erişim izinleri ile enjekte edebilmek için, programı ve enjektörü çalıştırdığınızdan ve bunların herhangi bir antivirüs ya da anti hile programı tarafından engellenmediğinden emin olunuz."
 
 #: HlaeErrors.cs:50
-#, fuzzy
 msgctxt "HLAE errors"
 msgid "Make sure to exit anti-cheat software such as the ESEA client, Faceit client or Challengeme.gg before using HLAE."
-msgstr "HLAE'yi kullanmadan önce ESEA / Faceit ve Challengeme.gg vb. anti hile yazılımlarının kapalı olduğundan emin olunuz."
+msgstr "HLAE'yi kullanmadan önce ESEA, Faceit veya Challengeme.gg gibi anti hile yazılımlarının kapalı olduğundan emin olunuz."
 
 #: HlaeErrors.cs:65
 msgctxt "HLAE errors"
@@ -299,16 +298,14 @@ msgid "GetImage failed."
 msgstr "GetImage başarısız oldu."
 
 #: HlaeErrors.cs:72
-#, fuzzy
 msgctxt "HLAE errors"
 msgid "AfxHook.dat missing, broken or not accessible"
-msgstr "AfxHook.dat bulunamıyor / bozuk / erişilemez durumda"
+msgstr "AfxHook.dat bulunamıyor, bozuk veya erişilemez durumda."
 
 #: HlaeErrors.cs:72
-#, fuzzy
 msgctxt "HLAE errors"
 msgid "Try re-extracting or repair HLAE."
-msgstr "HLAE'yi tekrar çıkartmayı / onarmayı deneyiniz."
+msgstr "HLAE'yi tekrar çıkartmayı ya da onarmayı deneyiniz."
 
 #: HlaeErrors.cs:73
 msgctxt "HLAE errors"
@@ -347,10 +344,11 @@ msgid "Failed to start injector: {0}"
 msgstr "Enjektörü başlatmada başarısız olundu: {0}"
 
 #: HlaeErrors.cs:110
-#, fuzzy
 msgctxt "HLAE errors"
 msgid "injector.exe blocked. Probably caused by antivirus. Check it and re-extract HLAE (HLAE NEEDS to be extracted, don't run it from a .zip file)."
-msgstr "injector.exe engellendi. Sebebi antivirüs programınız olabilir. Lütfen gerekli kontrolleri yapınız ve HLAE'yi tekrardan çıkartmayı deneyiniz. (HLAE çalıştırılmadan önce .zip dosyasından çıkartılmalıdır. Zip dosyası üzerinden çalıştırmayınız.)"
+msgstr ""
+"injector.exe engellendi. Sebebi antivirüs programınız olabilir. Lütfen gerekli kontrolleri yapınız ve HLAE'yi tekrardan çıkartmayı deneyiniz. (HLAE çalıştırılmadan önce .zip dosyasından "
+"çıkartılmalıdır. Zip dosyası üzerinden çalıştırmayınız.)"
 
 #: HlaeErrors.cs:117
 msgctxt "HLAE errors"
@@ -360,10 +358,9 @@ msgstr "Yükleyici başlatılamadı."
 #: HlaeErrors.cs:127
 msgctxt "HLAE errors"
 msgid "Make sure to close any anti-cheat software and that the path to the game .exe is correct."
-msgstr ""
+msgstr "Programın doğru çalışabilmesi için her türlü anti hile programının kapalı olduğundan ve oyunun .exe dizininin doğru seçildiğinden emin olunuz."
 
 #: HlaeErrors.cs:133
-#, fuzzy
 msgctxt "HLAE errors"
 msgid "Try using CS:GO Launcher instead of Custom Loader."
 msgstr "Özel Başlatıcı yerine CSGO Başlatıcısı'nı kullanmayı deneyiniz."
@@ -1029,7 +1026,6 @@ msgctxt "Custom Loader dialog | DLL filter"
 msgid "Hook DLL (.dll)|*.dll"
 msgstr "Hook DLL (.dll)|*.dll"
 
-#, fuzzy
 #~ msgid "Config error"
 #~ msgstr "Bilinmeyen hata."
 
