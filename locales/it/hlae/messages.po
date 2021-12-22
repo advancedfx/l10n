@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hlae\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-09-04 09:45+0200\n"
+"POT-Creation-Date: 2021-12-22 16:29+0100\n"
 "PO-Revision-Date: 2020-08-04 20:08+0000\n"
 "Last-Translator: Dominik <dominik@matrixstorm.com>\n"
 "Language-Team: Italian\n"
@@ -358,26 +358,31 @@ msgstr "Caricamento non riuscito."
 
 #: HlaeErrors.cs:127
 msgctxt "HLAE errors"
+msgid "Make sure you entered the correct path to the game .exe and included the .exe file. Copy the path from the game properties in Steam to make sure you are using the correct path."
+msgstr ""
+
+#: HlaeErrors.cs:130
+msgctxt "HLAE errors"
 msgid "Make sure to close any anti-cheat software and that the path to the game .exe is correct."
 msgstr ""
 
-#: HlaeErrors.cs:133
+#: HlaeErrors.cs:136
 #, fuzzy
 msgctxt "HLAE errors"
 msgid "Try using CS:GO Launcher instead of Custom Loader."
 msgstr "Prova ad usare la Piattaforma di Avvio di CSGO invece di una Piattaforma di Avvio Personalizzata."
 
-#: HlaeErrors.cs:136
+#: HlaeErrors.cs:139
 msgctxt "HLAE errors"
-msgid "Make sure neither HLAE.exe nor Steam.exe nor csgo.exe are set to run as admin."
+msgid "Make sure neither HLAE.exe, Steam.exe nor csgo.exe are set to run as admin."
 msgstr ""
 
-#: HlaeErrors.cs:140
+#: HlaeErrors.cs:143
 msgctxt "HLAE errors"
 msgid "Loader could not create requested process."
 msgstr ""
 
-#: HlaeErrors.cs:140
+#: HlaeErrors.cs:143
 #, csharp-format
 msgctxt "HLAE errors"
 msgid "GetLastWin32Error = {0}: {1}"
