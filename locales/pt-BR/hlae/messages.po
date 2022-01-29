@@ -2,82 +2,84 @@
 # Copyright (C) 2022 advancedfx.org
 # This file is distributed under the same license as the hlae package.
 # <EMAIL@ADDRESS>, 2022.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: hlae\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-22 16:29+0100\n"
-"PO-Revision-Date: 2022-01-29 10:14+0100\n"
-"Last-Translator: <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2022-01-29 15:14+0000\n"
+"Last-Translator: Rillet <rilletcs@gmail.com>\n"
 "Language-Team: Language pt-BR\n"
-"Language: pt-BR\n"
+"Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pontoon\n"
 
 #: AfxError.cs:11
 msgid "AfxError"
-msgstr ""
+msgstr "AfxError"
 
 #: AfxError.cs:40
 #, csharp-format
 msgctxt "AfxError (number code)"
 msgid "AfxError #{0}: "
-msgstr ""
+msgstr "AfxError #{0}: "
 
 #: AfxError.cs:41
 #, csharp-format
 msgctxt "AfxError"
 msgid "Title: {0}"
-msgstr ""
+msgstr "Título: {0}"
 
 #: AfxError.cs:42
 #, csharp-format
 msgctxt "AfxError"
 msgid "Description: {0}"
-msgstr ""
+msgstr "Descrição: {0}"
 
 #: AfxError.cs:43
 #, csharp-format
 msgctxt "AfxError"
 msgid "Solution: {0}"
-msgstr ""
+msgstr "Solução: {0}"
 
 #: AfxError.cs:44
 #, csharp-format
 msgctxt "AfxError"
 msgid "Inner exception: {0}"
-msgstr ""
+msgstr "Exceção interna: {0}"
 
 #: AfxRgbaLutVoronoiGenerator.cs:19
 msgid "Voronoi Color Lookup Table"
-msgstr ""
+msgstr "Tabela de Pesquisa de Cores Voronoi"
 
 #: AfxRgbaLutVoronoiGenerator.cs:20
 msgid "Color map"
-msgstr ""
+msgstr "Mapa de cores"
 
 #: AfxRgbaLutVoronoiGenerator.cs:21 AfxRgbaLutVoronoiGenerator.cs:33
 msgid "Generate"
-msgstr ""
+msgstr "Gerar"
 
 #: AfxRgbaLutVoronoiGenerator.cs:22
 msgid "Check"
-msgstr ""
+msgstr "Verificar"
 
 #: AfxRgbaLutVoronoiGenerator.cs:23
 msgid "Copy all to clipboard"
-msgstr ""
+msgstr "Copiar tudo para a área de transferência"
 
 #: AfxRgbaLutVoronoiGenerator.cs:24
 msgid "Paste all from clipboard"
-msgstr ""
+msgstr "Colar tudo da área de transferência"
 
 #: AfxRgbaLutVoronoiGenerator.cs:25
 msgctxt "Number/Key"
 msgid "Index"
-msgstr ""
+msgstr "Índice"
 
 #: AfxRgbaLutVoronoiGenerator.cs:26
 msgid "Comment"
@@ -90,28 +92,28 @@ msgstr ""
 #: AfxRgbaLutVoronoiGenerator.cs:28
 msgctxt "image"
 msgid "Resolution"
-msgstr ""
+msgstr "Resolução"
 
 #: AfxRgbaLutVoronoiGenerator.cs:29
 msgctxt "image"
 msgid "Memory estimate (Bytes):"
-msgstr ""
+msgstr "Estimativa de memória (Bytes):"
 
 #: AfxRgbaLutVoronoiGenerator.cs:30
 msgid "Preview"
-msgstr ""
+msgstr "Pré-visualização"
 
 #: AfxRgbaLutVoronoiGenerator.cs:31
 msgid "Horizontal:"
-msgstr ""
+msgstr "Horizontal:"
 
 #: AfxRgbaLutVoronoiGenerator.cs:32
 msgid "Vertical:"
-msgstr ""
+msgstr "Vertical:"
 
 #: AfxRgbaLutVoronoiGenerator.cs:34
 msgid "Save"
-msgstr ""
+msgstr "Salvar"
 
 #: AfxRgbaLutVoronoiGenerator.cs:38 AfxRgbaLutVoronoiGenerator.cs:39
 msgctxt "terrorist"
@@ -146,29 +148,27 @@ msgstr ""
 #: AfxRgbaLutVoronoiGenerator.cs:91
 msgctxt "Image"
 msgid "Target"
-msgstr ""
+msgstr "Alvo"
 
 #: AfxRgbaLutVoronoiGenerator.cs:92
 msgctxt "Image"
 msgid "Source"
-msgstr ""
+msgstr "Fonte"
 
 #: AfxRgbaLutVoronoiGenerator.cs:93
 msgctxt "Image"
 msgid "RGB difference"
-msgstr ""
+msgstr "Diferença RGB"
 
 #: AfxRgbaLutVoronoiGenerator.cs:386
 #, csharp-format
 msgid "Invalid / missing value in row {0}, column {1}."
-msgstr ""
+msgstr "Valor inválido / ausente na linha {0}, coluna {1}."
 
-#: AfxRgbaLutVoronoiGenerator.cs:387 AfxRgbaLutVoronoiGenerator.cs:440
-#: AfxRgbaLutVoronoiGenerator.cs:457 AfxRgbaLutVoronoiGenerator.cs:639
-#: AfxRgbaLutVoronoiGenerator.cs:651 AfxRgbaLutVoronoiGenerator.cs:842
-#: Launcher.cs:36 Tools/CustomLoader.cs:76
+#: AfxRgbaLutVoronoiGenerator.cs:387 AfxRgbaLutVoronoiGenerator.cs:440 AfxRgbaLutVoronoiGenerator.cs:457 AfxRgbaLutVoronoiGenerator.cs:639 AfxRgbaLutVoronoiGenerator.cs:651
+#: AfxRgbaLutVoronoiGenerator.cs:842 Launcher.cs:36 Tools/CustomLoader.cs:76
 msgid "Error"
-msgstr ""
+msgstr "Erro"
 
 #: AfxRgbaLutVoronoiGenerator.cs:439
 #, csharp-format
@@ -177,7 +177,7 @@ msgstr ""
 
 #: AfxRgbaLutVoronoiGenerator.cs:456
 msgid "Color map must not be empty."
-msgstr ""
+msgstr "O mapa de cores não deve estar vazio."
 
 #: AfxRgbaLutVoronoiGenerator.cs:472
 msgid "No Errors"
@@ -189,120 +189,116 @@ msgstr ""
 
 #: AfxRgbaLutVoronoiGenerator.cs:638
 msgid "Error when creating / re-sizing color map."
-msgstr ""
+msgstr "Erro ao criar / redimensionar mapa de cores."
 
 #: AfxRgbaLutVoronoiGenerator.cs:650
 msgid "Iteration aborted."
-msgstr ""
+msgstr "Iteração abortada."
 
 #: AfxRgbaLutVoronoiGenerator.cs:841
 #, csharp-format
 msgid "Saving to \"{0}\" failed."
-msgstr ""
+msgstr "Falha ao salvar em \"{0}\"."
 
 #: Config.cs:56 Config.cs:200
 msgctxt "Config (game path)"
 msgid "please select"
-msgstr ""
+msgstr "por favor selecione"
 
 #: ErrorDialogue.cs:21
 msgctxt "Error dialog"
 msgid "HLAE Error"
-msgstr ""
+msgstr "Erro do HLAE"
 
 #: ErrorDialogue.cs:22
 msgctxt "Error dialog"
 msgid "Code:"
-msgstr ""
+msgstr "Código:"
 
 #: ErrorDialogue.cs:23
 msgctxt "Error dialog"
 msgid "n/a"
-msgstr ""
+msgstr "n/d"
 
 #: ErrorDialogue.cs:24
 msgctxt "Error dialog"
 msgid "Description:"
-msgstr ""
+msgstr "Descrição:"
 
 #: ErrorDialogue.cs:25
 msgctxt "Error dialog"
 msgid "Solution:"
-msgstr ""
+msgstr "Solução:"
 
 #: ErrorDialogue.cs:26
 msgctxt "Error dialog"
 msgid "&Copy to clipboard for support"
-msgstr ""
+msgstr "&Copiar para a área de transferência para obter suporte"
 
 #: ErrorDialogue.cs:27
 msgctxt "Error dialog"
 msgid "Okay"
-msgstr ""
+msgstr "OK"
 
 #: ErrorDialogue.cs:29
 msgctxt "Error dialog"
 msgid "Unknown error."
-msgstr ""
+msgstr "Erro desconhecido."
 
 #: ErrorDialogue.cs:30
 msgctxt "Error dialog"
 msgid "No description available."
-msgstr ""
+msgstr "Nenhuma descrição disponível."
 
 #: ErrorDialogue.cs:31
 msgctxt "Error dialog"
 msgid "No solution available."
-msgstr ""
+msgstr "Nenhuma solução disponível."
 
 #: HlaeErrors.cs:48
 msgctxt "HLAE errors"
 msgid "AfxHook error"
-msgstr ""
+msgstr "Erro AfxHook"
 
 #: HlaeErrors.cs:49
 msgctxt "HLAE errors"
-msgid ""
-"Make sure you run the injector and the program to inject with same access "
-"rights and that no antivirus or anti-cheat is blocking its calls."
-msgstr ""
+msgid "Make sure you run the injector and the program to inject with same access rights and that no antivirus or anti-cheat is blocking its calls."
+msgstr "Certifique-se de executar o injetor e o programa para injetar com os mesmos direitos de acesso e que nenhum antivírus ou anti-cheat esteja bloqueando suas chamadas."
 
 #: HlaeErrors.cs:50
 msgctxt "HLAE errors"
-msgid ""
-"Make sure to exit anti-cheat software such as the ESEA client, Faceit client "
-"or Challengeme.gg before using HLAE."
-msgstr ""
+msgid "Make sure to exit anti-cheat software such as the ESEA client, Faceit client or Challengeme.gg before using HLAE."
+msgstr "Certifique-se de sair do software anti-cheat, como o cliente ESEA, Faceit ou Challengeme.gg antes de usar o HLAE."
 
 #: HlaeErrors.cs:65
 msgctxt "HLAE errors"
 msgid "Could not access / enter directory of DLL to inject"
-msgstr ""
+msgstr "Não foi possível acessar / entrar no diretório da DLL para injetar"
 
 #: HlaeErrors.cs:66
 msgctxt "HLAE errors"
 msgid "DLL can't be found."
-msgstr ""
+msgstr "DLL não pode ser encontrada."
 
 #: HlaeErrors.cs:70
 msgctxt "HLAE errors"
 msgid "OpenProcess failed"
-msgstr ""
+msgstr "Falha no OpenProcess"
 
 #: HlaeErrors.cs:71
 msgctxt "HLAE errors"
 msgid "VirtualAllocEx read|write allocation failed."
-msgstr ""
+msgstr "Falha no VirtualAllocEx com read|write."
 
 #: HlaeErrors.cs:72
 msgctxt "HLAE errors"
 msgid "GetImage failed."
-msgstr ""
+msgstr "Falha no GetImage."
 
 #: HlaeErrors.cs:72
 msgctxt "HLAE errors"
 msgid "AfxHook.dat missing, broken or not accessible"
-msgstr ""
+msgstr "AfxHook.dat ausente, quebrado ou não acessível"
 
 #: HlaeErrors.cs:72
 msgctxt "HLAE errors"
@@ -347,9 +343,7 @@ msgstr ""
 
 #: HlaeErrors.cs:110
 msgctxt "HLAE errors"
-msgid ""
-"injector.exe blocked. Probably caused by antivirus. Check it and re-extract "
-"HLAE (HLAE NEEDS to be extracted, don't run it from a .zip file)."
+msgid "injector.exe blocked. Probably caused by antivirus. Check it and re-extract HLAE (HLAE NEEDS to be extracted, don't run it from a .zip file)."
 msgstr ""
 
 #: HlaeErrors.cs:117
@@ -359,17 +353,12 @@ msgstr ""
 
 #: HlaeErrors.cs:127
 msgctxt "HLAE errors"
-msgid ""
-"Make sure you entered the correct path to the game .exe and included the ."
-"exe file. Copy the path from the game properties in Steam to make sure you "
-"are using the correct path."
+msgid "Make sure you entered the correct path to the game .exe and included the .exe file. Copy the path from the game properties in Steam to make sure you are using the correct path."
 msgstr ""
 
 #: HlaeErrors.cs:130
 msgctxt "HLAE errors"
-msgid ""
-"Make sure to close any anti-cheat software and that the path to the game ."
-"exe is correct."
+msgid "Make sure to close any anti-cheat software and that the path to the game .exe is correct."
 msgstr ""
 
 #: HlaeErrors.cs:136
@@ -379,8 +368,7 @@ msgstr ""
 
 #: HlaeErrors.cs:139
 msgctxt "HLAE errors"
-msgid ""
-"Make sure neither HLAE.exe, Steam.exe nor csgo.exe are set to run as admin."
+msgid "Make sure neither HLAE.exe, Steam.exe nor csgo.exe are set to run as admin."
 msgstr ""
 
 #: HlaeErrors.cs:143
@@ -487,13 +475,11 @@ msgstr ""
 #: LaunchCsgoForm.cs:133
 msgctxt "Launch CS:GO dialog | MmcfgFolder Description"
 msgid ""
-"When enabled you can set a parent folder for your movie making config for "
-"the game.\n"
+"When enabled you can set a parent folder for your movie making config for the game.\n"
 "The game will create a sub-folder called cfg there and store config.cfg\n"
 "and video settings in that folder.\n"
 "Also you can put your movie making config into that cfg sub-folder,\n"
-"however the game will load those only if they are not present in the csgo/"
-"cfg folder already."
+"however the game will load those only if they are not present in the csgo/cfg folder already."
 msgstr ""
 
 #: LaunchCsgoForm.cs:134
@@ -887,10 +873,7 @@ msgid "HLAE path:"
 msgstr ""
 
 #: MainForm.cs:131
-msgid ""
-"Warning: Your HLAE path shown above contains non-basic latin characters "
-"(meaning characters outside the 7-bit ASCII range), which will lead to "
-"multiple problems in-game if not fixed!"
+msgid "Warning: Your HLAE path shown above contains non-basic latin characters (meaning characters outside the 7-bit ASCII range), which will lead to multiple problems in-game if not fixed!"
 msgstr ""
 
 #: MainForm.cs:198
