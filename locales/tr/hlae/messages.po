@@ -3,13 +3,13 @@
 # Copyright (C) 2020 advancedfx.org
 # This file is distributed under the same license as the hlae package.
 # <EMAIL@ADDRESS>, 2020.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: hlae\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-22 16:29+0100\n"
-"PO-Revision-Date: 2021-10-12 12:20+0000\n"
+"PO-Revision-Date: 2022-01-29 10:02+0000\n"
 "Last-Translator: Twissen <selimcan.krgzl@gmail.com>\n"
 "Language-Team: Turkish\n"
 "Language: tr\n"
@@ -264,7 +264,8 @@ msgstr "AfxHook Hatası"
 #: HlaeErrors.cs:49
 msgctxt "HLAE errors"
 msgid "Make sure you run the injector and the program to inject with same access rights and that no antivirus or anti-cheat is blocking its calls."
-msgstr "Aynı erişim izinleri ile enjekte edebilmek için, programı ve enjektörü çalıştırdığınızdan ve bunların herhangi bir antivirüs ya da anti hile programı tarafından engellenmediğinden emin olunuz."
+msgstr ""
+"Aynı erişim izinleri ile enjekte edebilmek için, programı ve enjektörü çalıştırdığınızdan ve bunların herhangi bir antivirüs ya da anti hile programı tarafından engellenmediğinden emin olunuz."
 
 #: HlaeErrors.cs:50
 msgctxt "HLAE errors"
@@ -345,7 +346,9 @@ msgstr "Enjektörü başlatmada başarısız olundu: {0}"
 #: HlaeErrors.cs:110
 msgctxt "HLAE errors"
 msgid "injector.exe blocked. Probably caused by antivirus. Check it and re-extract HLAE (HLAE NEEDS to be extracted, don't run it from a .zip file)."
-msgstr "injector.exe engellendi. Sebebi antivirüs programınız olabilir. Lütfen gerekli kontrolleri yapınız ve HLAE'yi tekrardan çıkartmayı deneyiniz. (HLAE çalıştırılmadan önce .zip dosyasından çıkartılmalıdır. Zip dosyası üzerinden çalıştırmayınız.)"
+msgstr ""
+"injector.exe engellendi. Sebebi antivirüs programınız olabilir. Lütfen gerekli kontrolleri yapınız ve HLAE'yi tekrardan çıkartmayı deneyiniz. (HLAE çalıştırılmadan önce .zip dosyasından "
+"çıkartılmalıdır. Zip dosyası üzerinden çalıştırmayınız.)"
 
 #: HlaeErrors.cs:117
 msgctxt "HLAE errors"
@@ -356,6 +359,8 @@ msgstr "Yükleyici başlatılamadı."
 msgctxt "HLAE errors"
 msgid "Make sure you entered the correct path to the game .exe and included the .exe file. Copy the path from the game properties in Steam to make sure you are using the correct path."
 msgstr ""
+"Oyunun dizinini doğru girdiğinizden ve dizinin oyun.exe dosyasını içerdiğinden emin olunuz. Doğru dizini kullandığınızdan emin olmak için Steam, oyun özellikleri kısmından oyunun dizini "
+"kopyalayınız."
 
 #: HlaeErrors.cs:130
 msgctxt "HLAE errors"
@@ -368,7 +373,6 @@ msgid "Try using CS:GO Launcher instead of Custom Loader."
 msgstr "Özel Başlatıcı yerine CSGO Başlatıcısı'nı kullanmayı deneyiniz."
 
 #: HlaeErrors.cs:139
-#, fuzzy
 msgctxt "HLAE errors"
 msgid "Make sure neither HLAE.exe, Steam.exe nor csgo.exe are set to run as admin."
 msgstr "Ne HLAE.exe ne de Steam.exe'nin yönetici olarak çalıştırılmaya ayarlanmadığından emin olunuz."
@@ -963,7 +967,7 @@ msgstr "Özel Yükleyici"
 #: Tools/CustomLoaderForm.cs:25
 msgctxt "Custom Loader dialog | Program"
 msgid "ProgramPath:"
-msgstr "ProgramYolu:"
+msgstr "ProgramDizini:"
 
 #: Tools/CustomLoaderForm.cs:26
 msgctxt "Custom Loader dialog | Program"
