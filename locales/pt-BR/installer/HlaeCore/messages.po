@@ -1,0 +1,149 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: PACKAGE VERSION\n"
+"PO-Revision-Date: 2022-01-29 10:14+0100\n"
+"Last-Translator: <EMAIL@ADDRESS>\n"
+"Language-Team: Language pt-BR\n"
+"Language: pt-BR\n"
+
+msgctxt "ApplicationName"
+msgid "HLAE"
+msgstr ""
+
+msgctxt "HlaeLocalesTitle"
+msgid "Translations"
+msgstr ""
+
+msgctxt "Manufacturer"
+msgid "advancedfx.org"
+msgstr ""
+
+msgctxt "DowngradeErrorMessage"
+msgid "A newer version of [ProductName] is already installed."
+msgstr ""
+
+msgctxt "FfmpegTitle"
+msgid "FFMPEG"
+msgstr ""
+
+msgctxt "FfmpegDescription"
+msgid "FFMPEG can be used for encoding mirv_streams to videos."
+msgstr ""
+
+msgctxt "FfmpegDlgTitle"
+msgid "{\\WixUI_Font_Title}FFMPEG"
+msgstr ""
+
+msgctxt "FfmpegDlgDescription"
+msgid "Install FFMPEG or use exsiting one."
+msgstr ""
+
+msgctxt "FfmpegDlgReinstall"
+msgid "Reinstall FFMPEG"
+msgstr ""
+
+msgctxt "FfmpegDlgDownloaded"
+msgid ""
+"FFMPEG will be downloaded from GitHub.com and installed using your current "
+"internet connection and proxy settings."
+msgstr ""
+
+msgctxt "FfmpegDlgVersion"
+msgid "Select version:"
+msgstr ""
+
+msgctxt "FfmpegDlgLatest"
+msgid "latest (recommended)"
+msgstr ""
+
+msgctxt "FfmpegDlgCustom"
+msgid "Select existing on disk"
+msgstr ""
+
+msgctxt "FfmpegDlgLinking"
+msgid "Select linking:"
+msgstr ""
+
+msgctxt "FfmpegDlgStatic"
+msgid "static (faster, 100 MB download, recommended)"
+msgstr ""
+
+msgctxt "FfmpegDlgShared"
+msgid "shared (smaller, 50 MB download)"
+msgstr ""
+
+msgctxt "FfmpegDlgLicense"
+msgid "Select license:"
+msgstr ""
+
+msgctxt "FfmpegDlgGpl3"
+msgid "GPL3 (complete, recommended)"
+msgstr ""
+
+msgctxt "FfmpegDlgLgpl3"
+msgid "LGPL3 (less features, more permissive)"
+msgstr ""
+
+msgctxt "FfmpegDlgPath"
+msgid "Please enter the full path to your custom ffmpeg.exe here:"
+msgstr ""
+
+msgctxt "FfmpegDlgPathBrowse"
+msgid "Browse"
+msgstr ""
+
+msgctxt "FfmpegDlgPathError"
+msgid ""
+"{\\WixUI_Font_Bold}File does not exist or is not accessible. Please fix and "
+"click Next button to try again."
+msgstr ""
+
+msgctxt "InstallFfmpeg"
+msgid "Installing FFMPEG ..."
+msgstr ""
+
+msgctxt "InstallFfmpegConnect"
+msgid "Connecting to [AFX_FFMPEGURL]"
+msgstr ""
+
+msgctxt "InstallFfmpegConnect_Template"
+msgid "..."
+msgstr ""
+
+msgctxt "InstallFfmpegDownload"
+msgid "Downloading [AFX_FFMPEGURL]"
+msgstr ""
+
+msgctxt "InstallFfmpegDownload_Template"
+msgid "[1] of [2] Bytes"
+msgstr ""
+
+msgctxt "InstallFfmpegChecksum"
+msgid "Verifying checksum"
+msgstr ""
+
+msgctxt "InstallFfmpegChecksum_Template"
+msgid "[1] of [2] Bytes"
+msgstr ""
+
+msgctxt "InstallFfmpegExtract"
+msgid "Extracting FFMPEG"
+msgstr ""
+
+msgctxt "InstallFfmpegExtract_Template"
+msgid "Item [1] of [2] ..."
+msgstr ""
+
+msgctxt "AppFolderMustBeLatin"
+msgid ""
+"The HLAE application folder path contains invalid characters: Only basic "
+"latin character set is allowed (7bit ASCII)."
+msgstr ""
+
+msgctxt "RemoveHlaeAppDataFolder"
+msgid "Remove HLAE application data folder (not recommended)."
+msgstr ""
