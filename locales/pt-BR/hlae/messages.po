@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: hlae\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-22 16:29+0100\n"
-"PO-Revision-Date: 2022-01-29 15:29+0000\n"
+"PO-Revision-Date: 2022-01-29 12:32+0000\n"
 "Last-Translator: Rillet <rilletcs@gmail.com>\n"
 "Language-Team: Language pt-BR\n"
 "Language: pt_BR\n"
@@ -133,17 +133,17 @@ msgstr "T/CT neutro"
 #: AfxRgbaLutVoronoiGenerator.cs:45 AfxRgbaLutVoronoiGenerator.cs:46
 msgctxt "terrorist"
 msgid "T aim"
-msgstr ""
+msgstr "T aim"
 
 #: AfxRgbaLutVoronoiGenerator.cs:47 AfxRgbaLutVoronoiGenerator.cs:48
 msgctxt "counter-terrorist"
 msgid "CT aim"
-msgstr ""
+msgstr "CT aim"
 
 #: AfxRgbaLutVoronoiGenerator.cs:49 AfxRgbaLutVoronoiGenerator.cs:50
 msgctxt "terrorist / counter-terrorist"
 msgid "T/CT aim neutral"
-msgstr ""
+msgstr "T/CT aim neutral"
 
 #: AfxRgbaLutVoronoiGenerator.cs:91
 msgctxt "Image"
