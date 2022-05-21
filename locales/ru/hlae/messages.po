@@ -3,12 +3,12 @@
 # Copyright (C) 2020 advancedfx.org
 # This file is distributed under the same license as the hlae package.
 # <EMAIL@ADDRESS>, 2020.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: hlae\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-12-22 16:29+0100\n"
+"POT-Creation-Date: 2022-05-21 12:58+0200\n"
 "PO-Revision-Date: 2022-01-30 00:31+0000\n"
 "Last-Translator: yovaN <akkardeon@gmail.com>\n"
 "Language-Team: Russian\n"
@@ -167,7 +167,7 @@ msgid "Invalid / missing value in row {0}, column {1}."
 msgstr "Неверное / отсутствующее значение в строке {0}, столбце {1}."
 
 #: AfxRgbaLutVoronoiGenerator.cs:387 AfxRgbaLutVoronoiGenerator.cs:440 AfxRgbaLutVoronoiGenerator.cs:457 AfxRgbaLutVoronoiGenerator.cs:639 AfxRgbaLutVoronoiGenerator.cs:651
-#: AfxRgbaLutVoronoiGenerator.cs:842 Launcher.cs:36 Tools/CustomLoader.cs:76
+#: AfxRgbaLutVoronoiGenerator.cs:842 Launcher.cs:35 Tools/CustomLoader.cs:74
 msgid "Error"
 msgstr "Ошибка"
 
@@ -331,59 +331,54 @@ msgctxt "HLAE errors"
 msgid "AfxHook error: Unknown error code."
 msgstr "Ошибка AfxHook: Неизвестный номер ошибки."
 
-#: HlaeErrors.cs:110
+#: HlaeErrors.cs:106
+msgctxt "HLAE errors"
+msgid "Make sure you entered the correct path to the game .exe and included the .exe file. Copy the path from the game properties in Steam to make sure you are using the correct path."
+msgstr "Убедитесь, что вы ввели корректный путь до .exe игры. Скопируйте путь из свойств игры в Steam для проверки его точности."
+
+#: HlaeErrors.cs:111
 msgctxt "HLAE errors"
 msgid "Failed to start injector."
 msgstr "Не удалось запустить инжектор."
 
-#: HlaeErrors.cs:110
+#: HlaeErrors.cs:111
 #, csharp-format
 msgctxt "HLAE errors"
 msgid "Failed to start injector: {0}"
 msgstr "Не удалось запустить инжектор: {0}"
 
-#: HlaeErrors.cs:110
+#: HlaeErrors.cs:111
 msgctxt "HLAE errors"
 msgid "injector.exe blocked. Probably caused by antivirus. Check it and re-extract HLAE (HLAE NEEDS to be extracted, don't run it from a .zip file)."
 msgstr "injector.exe заблокирован. Вероятно из-за антивируса. Проверьте антивирус и заново распакуйте HLAE (HLAE ДОЛЖЕН быть распакован, не запускайте его из .zip архива)."
 
-#: HlaeErrors.cs:117
+#: HlaeErrors.cs:118
 msgctxt "HLAE errors"
 msgid "Loader failed."
 msgstr "Сбой загрузчика."
 
-#: HlaeErrors.cs:127
-msgctxt "HLAE errors"
-msgid "Make sure you entered the correct path to the game .exe and included the .exe file. Copy the path from the game properties in Steam to make sure you are using the correct path."
-msgstr "Убедитесь, что вы ввели корректный путь до .exe игры. Скопируйте путь из свойств игры в Steam для проверки его точности."
-
-#: HlaeErrors.cs:130
+#: HlaeErrors.cs:131
 msgctxt "HLAE errors"
 msgid "Make sure to close any anti-cheat software and that the path to the game .exe is correct."
 msgstr "Убедитесь в том, что все античиты выключены и путь до .exe файла игры правильный."
 
-#: HlaeErrors.cs:136
-msgctxt "HLAE errors"
-msgid "Try using CS:GO Launcher instead of Custom Loader."
-msgstr "Попробуйте использовать лаунчер CS:GO вместо пользовательского лаунчера."
-
-#: HlaeErrors.cs:139
+#: HlaeErrors.cs:140
 msgctxt "HLAE errors"
 msgid "Make sure neither HLAE.exe, Steam.exe nor csgo.exe are set to run as admin."
 msgstr "Убедитесь, что HLAE.exe, Steam.exe и csgo.exe не запущены от имени администратора."
 
-#: HlaeErrors.cs:143
+#: HlaeErrors.cs:144
 msgctxt "HLAE errors"
 msgid "Loader could not create requested process."
 msgstr "Загрузчик не может создать запрошенный процесс."
 
-#: HlaeErrors.cs:143
+#: HlaeErrors.cs:144
 #, csharp-format
 msgctxt "HLAE errors"
 msgid "GetLastWin32Error = {0}: {1}"
 msgstr "GetLastWin32Error = {0}: {1}"
 
-#: LaunchCsgo.cs:42
+#: LaunchCsgo.cs:41
 msgid "64 Bit CS:GO is not supported."
 msgstr "64-битный CS:GO не поддерживается."
 
@@ -491,12 +486,12 @@ msgctxt "Launch CS:GO dialog | MmcfgFolder Title"
 msgid "About movie making config parent folder"
 msgstr "О родительской папке мувимейкинг конфига"
 
-#: Launcher.cs:36
+#: Launcher.cs:35
 msgctxt "Launcher dialog"
 msgid "Launching failed."
 msgstr "Сбой запуска."
 
-#: Launcher.cs:50
+#: Launcher.cs:49
 msgid "64 Bit GoldSrc is not supported."
 msgstr "64-битный GoldSrc не поддерживается."
 
@@ -880,8 +875,7 @@ msgstr "Путь к HLAE:"
 
 #: MainForm.cs:131
 msgid "Warning: Your HLAE path shown above contains non-basic latin characters (meaning characters outside the 7-bit ASCII range), which will lead to multiple problems in-game if not fixed!"
-msgstr ""
-"Предупреждение: указанный выше путь к HLAE содержит неосновные латинские символы (т.е. символы вне 7-битного диапазона ASCII), что приведет к множеству проблем в игре, если не будет исправлен!"
+msgstr "Предупреждение: указанный выше путь к HLAE содержит неосновные латинские символы (т.е. символы вне 7-битного диапазона ASCII), что приведет к множеству проблем в игре, если не будет исправлен!"
 
 #: MainForm.cs:198
 msgctxt "Main window | update status strip | label"
@@ -948,7 +942,7 @@ msgctxt "File Size Calculator | Estimate"
 msgid "HuffYuv encoded output"
 msgstr "HuffYuv кодировка"
 
-#: Tools/CustomLoader.cs:76
+#: Tools/CustomLoader.cs:74
 msgctxt "Custom Loader dialog"
 msgid "CustomLoader failed"
 msgstr "Сбой пользовательского загрузчика"
@@ -1028,6 +1022,10 @@ msgid "Hook DLL (.dll)|*.dll"
 msgstr "Подключаемая DLL (.dll)|*.dll"
 
 #~ msgctxt "HLAE errors"
+#~ msgid "Try using CS:GO Launcher instead of Custom Loader."
+#~ msgstr "Попробуйте использовать лаунчер CS:GO вместо пользовательского лаунчера."
+
+#~ msgctxt "HLAE errors"
 #~ msgid "Make sure the path ends with the game .exe!"
 #~ msgstr "Убедитесь, что путь к игре заканчивается на .exe!"
 
@@ -1035,9 +1033,7 @@ msgstr "Подключаемая DLL (.dll)|*.dll"
 #~ msgstr "Ошибка конфигурации."
 
 #~ msgid "The HLAE config is not writeable (e.g. in use by other HLAE or write-protected), thus opened it in read-only mode. Overwriting it can cause loss of changes made from other instances."
-#~ msgstr ""
-#~ "Конфигурация HLAE недоступна для записи (например, используется другими HLAE или защищена от записи), поэтому открыта только для чтения. Ее перезапись может привести к потере изменений, сделанных в "
-#~ "других экземплярах."
+#~ msgstr "Конфигурация HLAE недоступна для записи (например, используется другими HLAE или защищена от записи), поэтому открыта только для чтения. Ее перезапись может привести к потере изменений, сделанных в других экземплярах."
 
 #~ msgid "Reload"
 #~ msgstr "Обновить"

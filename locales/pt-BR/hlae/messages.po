@@ -2,12 +2,12 @@
 # Copyright (C) 2022 advancedfx.org
 # This file is distributed under the same license as the hlae package.
 # <EMAIL@ADDRESS>, 2022.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: hlae\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-12-22 16:29+0100\n"
+"POT-Creation-Date: 2022-05-21 12:58+0200\n"
 "PO-Revision-Date: 2022-01-29 12:32+0000\n"
 "Last-Translator: Rillet <rilletcs@gmail.com>\n"
 "Language-Team: Language pt-BR\n"
@@ -166,7 +166,7 @@ msgid "Invalid / missing value in row {0}, column {1}."
 msgstr "Valor inválido / ausente na linha {0}, coluna {1}."
 
 #: AfxRgbaLutVoronoiGenerator.cs:387 AfxRgbaLutVoronoiGenerator.cs:440 AfxRgbaLutVoronoiGenerator.cs:457 AfxRgbaLutVoronoiGenerator.cs:639 AfxRgbaLutVoronoiGenerator.cs:651
-#: AfxRgbaLutVoronoiGenerator.cs:842 Launcher.cs:36 Tools/CustomLoader.cs:76
+#: AfxRgbaLutVoronoiGenerator.cs:842 Launcher.cs:35 Tools/CustomLoader.cs:74
 msgid "Error"
 msgstr "Erro"
 
@@ -330,60 +330,54 @@ msgctxt "HLAE errors"
 msgid "AfxHook error: Unknown error code."
 msgstr "Erro do AfxHook: Código de erro desconhecido."
 
-#: HlaeErrors.cs:110
+#: HlaeErrors.cs:106
+msgctxt "HLAE errors"
+msgid "Make sure you entered the correct path to the game .exe and included the .exe file. Copy the path from the game properties in Steam to make sure you are using the correct path."
+msgstr "Verifique se você digitou o caminho correto para o .exe do jogo e incluiu o arquivo .exe. Copie o caminho das propriedades do jogo no Steam para ter certeza de que está usando o caminho correto."
+
+#: HlaeErrors.cs:111
 msgctxt "HLAE errors"
 msgid "Failed to start injector."
 msgstr "Falha ao iniciar o injetor."
 
-#: HlaeErrors.cs:110
+#: HlaeErrors.cs:111
 #, csharp-format
 msgctxt "HLAE errors"
 msgid "Failed to start injector: {0}"
 msgstr "Falha ao iniciar o injetor: {0}"
 
-#: HlaeErrors.cs:110
+#: HlaeErrors.cs:111
 msgctxt "HLAE errors"
 msgid "injector.exe blocked. Probably caused by antivirus. Check it and re-extract HLAE (HLAE NEEDS to be extracted, don't run it from a .zip file)."
 msgstr "injector.exe bloqueado. Provavelmente causado por antivírus. Verifique se foi isso e extraia novamente o HLAE (o HLAE PRECISA ser extraído, não o execute a partir de um arquivo .zip)."
 
-#: HlaeErrors.cs:117
+#: HlaeErrors.cs:118
 msgctxt "HLAE errors"
 msgid "Loader failed."
 msgstr "Falha no carregador."
 
-#: HlaeErrors.cs:127
-msgctxt "HLAE errors"
-msgid "Make sure you entered the correct path to the game .exe and included the .exe file. Copy the path from the game properties in Steam to make sure you are using the correct path."
-msgstr ""
-"Verifique se você digitou o caminho correto para o .exe do jogo e incluiu o arquivo .exe. Copie o caminho das propriedades do jogo no Steam para ter certeza de que está usando o caminho correto."
-
-#: HlaeErrors.cs:130
+#: HlaeErrors.cs:131
 msgctxt "HLAE errors"
 msgid "Make sure to close any anti-cheat software and that the path to the game .exe is correct."
 msgstr "Certifique-se de fechar qualquer software anti-cheat e que o caminho para o jogo .exe está correto."
 
-#: HlaeErrors.cs:136
-msgctxt "HLAE errors"
-msgid "Try using CS:GO Launcher instead of Custom Loader."
-msgstr "Tente usar o CS:GO Launcher em vez do Carregador Personalizado."
-
-#: HlaeErrors.cs:139
+#: HlaeErrors.cs:140
 msgctxt "HLAE errors"
 msgid "Make sure neither HLAE.exe, Steam.exe nor csgo.exe are set to run as admin."
 msgstr "Certifique-se de que nem HLAE.exe, Steam.exe ou csgo.exe estejam configurados para serem executados como admin."
 
-#: HlaeErrors.cs:143
+#: HlaeErrors.cs:144
 msgctxt "HLAE errors"
 msgid "Loader could not create requested process."
 msgstr "O carregador não pôde criar o processo solicitado."
 
-#: HlaeErrors.cs:143
+#: HlaeErrors.cs:144
 #, csharp-format
 msgctxt "HLAE errors"
 msgid "GetLastWin32Error = {0}: {1}"
 msgstr "GetLastWin32Error = {0}: {1}"
 
-#: LaunchCsgo.cs:42
+#: LaunchCsgo.cs:41
 msgid "64 Bit CS:GO is not supported."
 msgstr "CS:GO de 64 bits não é suportado."
 
@@ -493,12 +487,12 @@ msgctxt "Launch CS:GO dialog | MmcfgFolder Title"
 msgid "About movie making config parent folder"
 msgstr "Sobre a pasta pai de configuração de movie making"
 
-#: Launcher.cs:36
+#: Launcher.cs:35
 msgctxt "Launcher dialog"
 msgid "Launching failed."
 msgstr "Falha ao iniciar."
 
-#: Launcher.cs:50
+#: Launcher.cs:49
 msgid "64 Bit GoldSrc is not supported."
 msgstr "GoldSrc de 64 bits não é suportado."
 
@@ -882,8 +876,7 @@ msgstr "Caminho do HLAE:"
 
 #: MainForm.cs:131
 msgid "Warning: Your HLAE path shown above contains non-basic latin characters (meaning characters outside the 7-bit ASCII range), which will lead to multiple problems in-game if not fixed!"
-msgstr ""
-"Aviso: Seu caminho HLAE mostrado acima contém caracteres latinos não básicos (ou seja, caracteres fora do intervalo ASCII de 7 bits), o que levará a vários problemas no jogo se não for corrigido!"
+msgstr "Aviso: Seu caminho HLAE mostrado acima contém caracteres latinos não básicos (ou seja, caracteres fora do intervalo ASCII de 7 bits), o que levará a vários problemas no jogo se não for corrigido!"
 
 #: MainForm.cs:198
 msgctxt "Main window | update status strip | label"
@@ -950,7 +943,7 @@ msgctxt "File Size Calculator | Estimate"
 msgid "HuffYuv encoded output"
 msgstr "Saída codificada HuffYuv"
 
-#: Tools/CustomLoader.cs:76
+#: Tools/CustomLoader.cs:74
 msgctxt "Custom Loader dialog"
 msgid "CustomLoader failed"
 msgstr "Falha no CustomLoader"
@@ -1028,3 +1021,7 @@ msgstr "Programa para iniciar/hook (.exe)|*.exe"
 msgctxt "Custom Loader dialog | DLL filter"
 msgid "Hook DLL (.dll)|*.dll"
 msgstr "Hook DLL (.dll)|*.dll"
+
+#~ msgctxt "HLAE errors"
+#~ msgid "Try using CS:GO Launcher instead of Custom Loader."
+#~ msgstr "Tente usar o CS:GO Launcher em vez do Carregador Personalizado."
