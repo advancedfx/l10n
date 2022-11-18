@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hlae\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-05-21 12:58+0200\n"
+"POT-Creation-Date: 2022-11-18 09:24+0100\n"
 "PO-Revision-Date: 2020-08-04 20:08+0000\n"
 "Last-Translator: Dominik <dominik@matrixstorm.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -617,8 +617,9 @@ msgid "Advanced Settings"
 msgstr "高度な設定"
 
 #: LauncherForm.cs:51
+#, fuzzy
 msgctxt "Launch GoldSrc dialog"
-msgid "Force 8 bit alpha channel"
+msgid "Force 8-bit alpha channel"
 msgstr "8bitアルファチャンネルを強制する"
 
 #: LauncherForm.cs:52

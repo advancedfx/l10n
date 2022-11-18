@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hlae\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-05-21 12:58+0200\n"
+"POT-Creation-Date: 2022-11-18 09:24+0100\n"
 "PO-Revision-Date: 2020-01-20 12:21+0100\n"
 "Last-Translator: <EMAIL@ADDRESS>\n"
 "Language-Team: Finnish\n"
@@ -602,7 +602,7 @@ msgstr ""
 
 #: LauncherForm.cs:51
 msgctxt "Launch GoldSrc dialog"
-msgid "Force 8 bit alpha channel"
+msgid "Force 8-bit alpha channel"
 msgstr ""
 
 #: LauncherForm.cs:52
