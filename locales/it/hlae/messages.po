@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hlae\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-11-18 09:24+0100\n"
+"POT-Creation-Date: 2023-02-18 19:24+0100\n"
 "PO-Revision-Date: 2020-08-04 20:08+0000\n"
 "Last-Translator: Dominik <dominik@matrixstorm.com>\n"
 "Language-Team: Italian\n"
@@ -279,8 +279,9 @@ msgid "Could not access / enter directory of DLL to inject"
 msgstr "Non ho potuto accedere / entrare nella cartella del DLL da iniettare"
 
 #: HlaeErrors.cs:66
+#, fuzzy
 msgctxt "HLAE errors"
-msgid "DLL can't be found."
+msgid "DLL can't be loaded."
 msgstr "DLL non trovato"
 
 #: HlaeErrors.cs:70

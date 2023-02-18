@@ -3,12 +3,12 @@
 # Copyright (C) 2020 advancedfx.org
 # This file is distributed under the same license as the hlae package.
 # <EMAIL@ADDRESS>, 2020.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: hlae\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-11-18 09:24+0100\n"
+"POT-Creation-Date: 2023-02-18 19:24+0100\n"
 "PO-Revision-Date: 2022-11-18 08:27+0000\n"
 "Last-Translator: Dominik <dominik@matrixstorm.com>\n"
 "Language-Team: German\n"
@@ -277,8 +277,9 @@ msgid "Could not access / enter directory of DLL to inject"
 msgstr "Kann nicht auf den Ordner der zu injezierenden DLL zugreifen / wechseln"
 
 #: HlaeErrors.cs:66
+#, fuzzy
 msgctxt "HLAE errors"
-msgid "DLL can't be found."
+msgid "DLL can't be loaded."
 msgstr "DLL konnte nicht gefunden werden."
 
 #: HlaeErrors.cs:70
@@ -334,9 +335,7 @@ msgstr "AfxHook fehler: Unbekannter Fehlerkode."
 #: HlaeErrors.cs:106
 msgctxt "HLAE errors"
 msgid "Make sure you entered the correct path to the game .exe and included the .exe file. Copy the path from the game properties in Steam to make sure you are using the correct path."
-msgstr ""
-"Stellen Sie sicher, dass sie den korrekten Pfad zur Spiel .exe eingeben haben und die .exe Datei einbezogen haben. Kopieren Sie den Pfad von den Spiel Eigenschaften in Steam um sicherzustellen, dass"
-" Sie den korrekten Pfad nutzen."
+msgstr "Stellen Sie sicher, dass sie den korrekten Pfad zur Spiel .exe eingeben haben und die .exe Datei einbezogen haben. Kopieren Sie den Pfad von den Spiel Eigenschaften in Steam um sicherzustellen, dass Sie den korrekten Pfad nutzen."
 
 #: HlaeErrors.cs:111
 msgctxt "HLAE errors"
@@ -352,8 +351,7 @@ msgstr "Starten des Inkektors fehlgeschlagen: {0}"
 #: HlaeErrors.cs:111
 msgctxt "HLAE errors"
 msgid "injector.exe blocked. Probably caused by antivirus. Check it and re-extract HLAE (HLAE NEEDS to be extracted, don't run it from a .zip file)."
-msgstr ""
-"injector.exe blockiert. Wahrscheinlich durch Antivirus verursacht. Überprüfen Sie das und entpacken Sie HLAE nochmals (HLAE MUSS extrahiert werden, führen Sie es nicht von einer .zip Datei aus)."
+msgstr "injector.exe blockiert. Wahrscheinlich durch Antivirus verursacht. Überprüfen Sie das und entpacken Sie HLAE nochmals (HLAE MUSS extrahiert werden, führen Sie es nicht von einer .zip Datei aus)."
 
 #: HlaeErrors.cs:118
 msgctxt "HLAE errors"
@@ -880,9 +878,7 @@ msgstr "HLAE-Pfad:"
 
 #: MainForm.cs:131
 msgid "Warning: Your HLAE path shown above contains non-basic latin characters (meaning characters outside the 7-bit ASCII range), which will lead to multiple problems in-game if not fixed!"
-msgstr ""
-"Warnung: Ihr obenstehender HLAE Pfad enthält Zeichen außer halb des lateinischen Basissatzes (d.h. Zeichen außerhalb des 7 Bit ASCII Breichs), was bei Nichtbehebung zu mehreren Problem im Spiel "
-"führen wird!"
+msgstr "Warnung: Ihr obenstehender HLAE Pfad enthält Zeichen außer halb des lateinischen Basissatzes (d.h. Zeichen außerhalb des 7 Bit ASCII Breichs), was bei Nichtbehebung zu mehreren Problem im Spiel führen wird!"
 
 #: MainForm.cs:198
 msgctxt "Main window | update status strip | label"
@@ -1040,9 +1036,7 @@ msgstr "Hook DLL (.dll)|*.dll"
 #~ msgstr "Konfigurationsfehler"
 
 #~ msgid "The HLAE config is not writeable (e.g. in use by other HLAE or write-protected), thus opened it in read-only mode. Overwriting it can cause loss of changes made from other instances."
-#~ msgstr ""
-#~ "Die HLAE-Konfiguration ist nicht schreibar (z.B. in Benutzung von einem anderen HLAE oder schreibgeschützt), daher im Nur-Lesen-Modus geöffnet. Überschreiben kann zum Verlust von in anderen "
-#~ "Instanzen gemachten Änderungen führen."
+#~ msgstr "Die HLAE-Konfiguration ist nicht schreibar (z.B. in Benutzung von einem anderen HLAE oder schreibgeschützt), daher im Nur-Lesen-Modus geöffnet. Überschreiben kann zum Verlust von in anderen Instanzen gemachten Änderungen führen."
 
 #~ msgid "Reload"
 #~ msgstr "Neu laden"
