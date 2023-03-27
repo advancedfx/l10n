@@ -3,13 +3,13 @@
 # Copyright (C) 2020 advancedfx.org
 # This file is distributed under the same license as the hlae package.
 # <EMAIL@ADDRESS>, 2020.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: hlae\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-02-18 19:24+0100\n"
-"PO-Revision-Date: 2022-01-29 10:02+0000\n"
+"PO-Revision-Date: 2023-03-27 17:41+0000\n"
 "Last-Translator: Twissen <selimcan.krgzl@gmail.com>\n"
 "Language-Team: Turkish\n"
 "Language: tr\n"
@@ -264,7 +264,8 @@ msgstr "AfxHook Hatası"
 #: HlaeErrors.cs:49
 msgctxt "HLAE errors"
 msgid "Make sure you run the injector and the program to inject with same access rights and that no antivirus or anti-cheat is blocking its calls."
-msgstr "Aynı erişim izinleri ile enjekte edebilmek için, programı ve enjektörü çalıştırdığınızdan ve bunların herhangi bir antivirüs ya da anti hile programı tarafından engellenmediğinden emin olunuz."
+msgstr ""
+"Aynı erişim izinleri ile enjekte edebilmek için, programı ve enjektörü çalıştırdığınızdan ve bunların herhangi bir antivirüs ya da anti hile programı tarafından engellenmediğinden emin olunuz."
 
 #: HlaeErrors.cs:50
 msgctxt "HLAE errors"
@@ -277,10 +278,9 @@ msgid "Could not access / enter directory of DLL to inject"
 msgstr "Enjekte edilecek DLL dizini girilemedi / DLL dizinine ulaşılamadı"
 
 #: HlaeErrors.cs:66
-#, fuzzy
 msgctxt "HLAE errors"
 msgid "DLL can't be loaded."
-msgstr "DLL bulunamadı."
+msgstr "DLL yüklenemedi."
 
 #: HlaeErrors.cs:70
 msgctxt "HLAE errors"
@@ -335,7 +335,9 @@ msgstr "AfxHook Hatası: Bilinmeyen hata kodu."
 #: HlaeErrors.cs:106
 msgctxt "HLAE errors"
 msgid "Make sure you entered the correct path to the game .exe and included the .exe file. Copy the path from the game properties in Steam to make sure you are using the correct path."
-msgstr "Oyunun dizinini doğru girdiğinizden ve dizinin oyun.exe dosyasını içerdiğinden emin olunuz. Doğru dizini kullandığınızdan emin olmak için Steam, oyun özellikleri kısmından oyunun dizini kopyalayınız."
+msgstr ""
+"Oyunun dizinini doğru girdiğinizden ve dizinin oyun.exe dosyasını içerdiğinden emin olunuz. Doğru dizini kullandığınızdan emin olmak için Steam, oyun özellikleri kısmından oyunun dizini "
+"kopyalayınız."
 
 #: HlaeErrors.cs:111
 msgctxt "HLAE errors"
@@ -351,7 +353,9 @@ msgstr "Enjektörü başlatmada başarısız olundu: {0}"
 #: HlaeErrors.cs:111
 msgctxt "HLAE errors"
 msgid "injector.exe blocked. Probably caused by antivirus. Check it and re-extract HLAE (HLAE NEEDS to be extracted, don't run it from a .zip file)."
-msgstr "injector.exe engellendi. Sebebi antivirüs programınız olabilir. Lütfen gerekli kontrolleri yapınız ve HLAE'yi tekrardan çıkartmayı deneyiniz. (HLAE çalıştırılmadan önce .zip dosyasından çıkartılmalıdır. Zip dosyası üzerinden çalıştırmayınız.)"
+msgstr ""
+"injector.exe engellendi. Sebebi antivirüs programınız olabilir. Lütfen gerekli kontrolleri yapınız ve HLAE'yi tekrardan çıkartmayı deneyiniz. (HLAE çalıştırılmadan önce .zip dosyasından "
+"çıkartılmalıdır. Zip dosyası üzerinden çalıştırmayınız.)"
 
 #: HlaeErrors.cs:118
 msgctxt "HLAE errors"
@@ -608,10 +612,9 @@ msgid "Advanced Settings"
 msgstr "Gelişmiş Ayarlar"
 
 #: LauncherForm.cs:51
-#, fuzzy
 msgctxt "Launch GoldSrc dialog"
 msgid "Force 8-bit alpha channel"
-msgstr "8 bit alfa kanalını kullanmaya zorla"
+msgstr "8-bit alfa kanalını kullanmaya zorla"
 
 #: LauncherForm.cs:52
 msgctxt "Launch GoldSrc dialog"
