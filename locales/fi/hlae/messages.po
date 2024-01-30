@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hlae\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-02-18 19:24+0100\n"
+"POT-Creation-Date: 2024-01-30 21:03+0100\n"
 "PO-Revision-Date: 2020-01-20 12:21+0100\n"
 "Last-Translator: <EMAIL@ADDRESS>\n"
 "Language-Team: Finnish\n"
@@ -418,7 +418,7 @@ msgstr ""
 
 #: LaunchCsgoForm.cs:28
 msgctxt "Launch CS:GO dialog"
-msgid "Graphic Resolution"
+msgid "Graphics Resolution"
 msgstr ""
 
 #: LaunchCsgoForm.cs:30
@@ -552,7 +552,7 @@ msgstr ""
 
 #: LauncherForm.cs:36
 msgctxt "Launch GoldSrc dialog"
-msgid "Graphic Resolution"
+msgid "Graphics Resolution"
 msgstr ""
 
 #: LauncherForm.cs:37
@@ -607,7 +607,7 @@ msgstr ""
 
 #: LauncherForm.cs:52
 msgctxt "Launch GoldSrc dialog"
-msgid "Optimize window visibilty on capture"
+msgid "Optimize window visibility on capture"
 msgstr ""
 
 #: LauncherForm.cs:53

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hlae\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-02-18 19:24+0100\n"
+"POT-Creation-Date: 2024-01-30 21:03+0100\n"
 "PO-Revision-Date: 2020-08-04 20:07+0000\n"
 "Last-Translator: Dominik <dominik@matrixstorm.com>\n"
 "Language-Team: Dutch\n"
@@ -432,8 +432,9 @@ msgid "enable"
 msgstr "inschakelen"
 
 #: LaunchCsgoForm.cs:28
+#, fuzzy
 msgctxt "Launch CS:GO dialog"
-msgid "Graphic Resolution"
+msgid "Graphics Resolution"
 msgstr "Grasficheresolutie"
 
 #: LaunchCsgoForm.cs:30
@@ -567,8 +568,9 @@ msgid "Custom command line options"
 msgstr "Aangepaste commando instellingen"
 
 #: LauncherForm.cs:36
+#, fuzzy
 msgctxt "Launch GoldSrc dialog"
-msgid "Graphic Resolution"
+msgid "Graphics Resolution"
 msgstr "Grasficheresolutie"
 
 #: LauncherForm.cs:37
@@ -623,8 +625,9 @@ msgid "Force 8-bit alpha channel"
 msgstr "Forceer 8-bit kleursterkte"
 
 #: LauncherForm.cs:52
+#, fuzzy
 msgctxt "Launch GoldSrc dialog"
-msgid "Optimize window visibilty on capture"
+msgid "Optimize window visibility on capture"
 msgstr "Optimaliseer de zichtbaarheid van het venster tijdens het vastleggen"
 
 #: LauncherForm.cs:53

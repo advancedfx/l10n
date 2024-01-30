@@ -3,12 +3,12 @@
 # Copyright (C) 2020 advancedfx.org
 # This file is distributed under the same license as the hlae package.
 # <EMAIL@ADDRESS>, 2020.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: hlae\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-02-18 19:24+0100\n"
+"POT-Creation-Date: 2024-01-30 21:03+0100\n"
 "PO-Revision-Date: 2023-03-02 06:54+0000\n"
 "Last-Translator: yovaN <akkardeon@gmail.com>\n"
 "Language-Team: Russian\n"
@@ -418,8 +418,9 @@ msgid "enable"
 msgstr "включить"
 
 #: LaunchCsgoForm.cs:28
+#, fuzzy
 msgctxt "Launch CS:GO dialog"
-msgid "Graphic Resolution"
+msgid "Graphics Resolution"
 msgstr "Разрешение"
 
 #: LaunchCsgoForm.cs:30
@@ -555,8 +556,9 @@ msgid "Custom command line options"
 msgstr "Пользовательские параметры запуска"
 
 #: LauncherForm.cs:36
+#, fuzzy
 msgctxt "Launch GoldSrc dialog"
-msgid "Graphic Resolution"
+msgid "Graphics Resolution"
 msgstr "Разрешение"
 
 #: LauncherForm.cs:37
@@ -610,8 +612,9 @@ msgid "Force 8-bit alpha channel"
 msgstr "Принудительное использование 8-битного альфа канала"
 
 #: LauncherForm.cs:52
+#, fuzzy
 msgctxt "Launch GoldSrc dialog"
-msgid "Optimize window visibilty on capture"
+msgid "Optimize window visibility on capture"
 msgstr "Оптимизировать видимость окна при захвате"
 
 #: LauncherForm.cs:53
@@ -875,8 +878,7 @@ msgstr "Путь к HLAE:"
 
 #: MainForm.cs:131
 msgid "Warning: Your HLAE path shown above contains non-basic latin characters (meaning characters outside the 7-bit ASCII range), which will lead to multiple problems in-game if not fixed!"
-msgstr ""
-"Предупреждение: указанный выше путь к HLAE содержит неосновные латинские символы (т.е. символы вне 7-битного диапазона ASCII), что приведет к множеству проблем в игре, если не будет исправлен!"
+msgstr "Предупреждение: указанный выше путь к HLAE содержит неосновные латинские символы (т.е. символы вне 7-битного диапазона ASCII), что приведет к множеству проблем в игре, если не будет исправлен!"
 
 #: MainForm.cs:198
 msgctxt "Main window | update status strip | label"
@@ -1034,9 +1036,7 @@ msgstr "Подключаемая DLL (.dll)|*.dll"
 #~ msgstr "Ошибка конфигурации."
 
 #~ msgid "The HLAE config is not writeable (e.g. in use by other HLAE or write-protected), thus opened it in read-only mode. Overwriting it can cause loss of changes made from other instances."
-#~ msgstr ""
-#~ "Конфигурация HLAE недоступна для записи (например, используется другими HLAE или защищена от записи), поэтому открыта только для чтения. Ее перезапись может привести к потере изменений, сделанных в "
-#~ "других экземплярах."
+#~ msgstr "Конфигурация HLAE недоступна для записи (например, используется другими HLAE или защищена от записи), поэтому открыта только для чтения. Ее перезапись может привести к потере изменений, сделанных в других экземплярах."
 
 #~ msgid "Reload"
 #~ msgstr "Обновить"

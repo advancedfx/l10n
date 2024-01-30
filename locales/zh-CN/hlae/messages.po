@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hlae\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-02-18 19:24+0100\n"
+"POT-Creation-Date: 2024-01-30 21:03+0100\n"
 "PO-Revision-Date: 2020-08-04 20:07+0000\n"
 "Last-Translator: Dominik <dominik@matrixstorm.com>\n"
 "Language-Team: Language zh-CN\n"
@@ -425,8 +425,9 @@ msgid "enable"
 msgstr "启用"
 
 #: LaunchCsgoForm.cs:28
+#, fuzzy
 msgctxt "Launch CS:GO dialog"
-msgid "Graphic Resolution"
+msgid "Graphics Resolution"
 msgstr "画面分辨率"
 
 #: LaunchCsgoForm.cs:30
@@ -564,8 +565,9 @@ msgid "Custom command line options"
 msgstr "自定义命令行选项"
 
 #: LauncherForm.cs:36
+#, fuzzy
 msgctxt "Launch GoldSrc dialog"
-msgid "Graphic Resolution"
+msgid "Graphics Resolution"
 msgstr "显示分辨率"
 
 #: LauncherForm.cs:37
@@ -620,8 +622,9 @@ msgid "Force 8-bit alpha channel"
 msgstr "强制使用8位通道"
 
 #: LauncherForm.cs:52
+#, fuzzy
 msgctxt "Launch GoldSrc dialog"
-msgid "Optimize window visibilty on capture"
+msgid "Optimize window visibility on capture"
 msgstr "优化采集时的窗口能见度"
 
 #: LauncherForm.cs:53
