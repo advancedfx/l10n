@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: hlae\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-02-11 17:29+0100\n"
-"PO-Revision-Date: 2023-02-25 09:18+0000\n"
+"PO-Revision-Date: 2025-02-11 18:09+0100\n"
 "Last-Translator: Dominik <dominik@matrixstorm.com>\n"
 "Language-Team: German\n"
 "Language: de\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Pontoon\n"
+"X-Generator: Poedit 3.5\n"
 
 #: AfxError.cs:11
 msgid "AfxError"
@@ -166,8 +166,10 @@ msgstr "RGB-Differenz"
 msgid "Invalid / missing value in row {0}, column {1}."
 msgstr "Ungültiger / fehlender Wert in Zeile {0}, Spalte {1}."
 
-#: AfxRgbaLutVoronoiGenerator.cs:387 AfxRgbaLutVoronoiGenerator.cs:440 AfxRgbaLutVoronoiGenerator.cs:457 AfxRgbaLutVoronoiGenerator.cs:639 AfxRgbaLutVoronoiGenerator.cs:651
-#: AfxRgbaLutVoronoiGenerator.cs:842 Launcher.cs:35 Tools/CustomLoader.cs:74
+#: AfxRgbaLutVoronoiGenerator.cs:387 AfxRgbaLutVoronoiGenerator.cs:440
+#: AfxRgbaLutVoronoiGenerator.cs:457 AfxRgbaLutVoronoiGenerator.cs:639
+#: AfxRgbaLutVoronoiGenerator.cs:651 AfxRgbaLutVoronoiGenerator.cs:842
+#: Launcher.cs:35 Tools/CustomLoader.cs:74
 msgid "Error"
 msgstr "Fehler"
 
@@ -418,7 +420,6 @@ msgid "enable"
 msgstr "aktivieren"
 
 #: LaunchCsgoForm.cs:28
-#, fuzzy
 msgctxt "Launch CS:GO dialog"
 msgid "Graphics Resolution"
 msgstr "Grafikauflösung"
@@ -558,7 +559,6 @@ msgid "Custom command line options"
 msgstr "Benutzerdefinierte Kommandozeilenoptionen"
 
 #: LauncherForm.cs:36
-#, fuzzy
 msgctxt "Launch GoldSrc dialog"
 msgid "Graphics Resolution"
 msgstr "Grafikauflösung"
@@ -614,7 +614,6 @@ msgid "Force 8-bit alpha channel"
 msgstr "Erwinge 8 Bit Alphakanal"
 
 #: LauncherForm.cs:52
-#, fuzzy
 msgctxt "Launch GoldSrc dialog"
 msgid "Optimize window visibility on capture"
 msgstr "Optimiere Sichtbarkeit des Fensters bei der Aufnahme"
@@ -884,24 +883,23 @@ msgstr "Warnung: Ihr obenstehender HLAE Pfad enthält Zeichen außer halb des la
 
 #: MainForm.cs:137
 msgid "VAC warning"
-msgstr ""
+msgstr "VAC-Warnung"
 
 #: MainForm.cs:138
 msgid "The HLAE tool is technically a hack, therefore you should only use it for making gaming videos or watching demos. Joining VAC protected servers with HLAE will probably get you VAC banned."
-msgstr ""
+msgstr "HLAE ist technisch gesehen ein Hack, daher sollten Sie es nur zum Erstellen von Spielevideos und dem Anschauen von Demos verwenden. Das Betreten VAC gesicherter Serven mit HLAE wird Sie wahrscheinlich VAC-bannen."
 
 #: MainForm.cs:139 MainForm.cs:146
-#, fuzzy
 msgid "OK"
 msgstr "OK"
 
 #: MainForm.cs:144
 msgid "Epilepsy warning"
-msgstr ""
+msgstr "Epilepsie-Warnung"
 
 #: MainForm.cs:145
 msgid "This software will cause fast-changing images and colors on your screen."
-msgstr ""
+msgstr "Diese Software wird sich schnell veränderende Bilder und Farben auf Ihrem Bildschrim verursachen."
 
 #: MainForm.cs:213
 msgctxt "Main window | update status strip | label"
