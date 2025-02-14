@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: hlae\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-02-14 11:09+0100\n"
-"PO-Revision-Date: 2023-03-02 06:54+0000\n"
+"PO-Revision-Date: 2025-02-14 11:20+0100\n"
 "Last-Translator: yovaN <akkardeon@gmail.com>\n"
 "Language-Team: Russian\n"
 "Language: ru\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Pontoon\n"
+"X-Generator: Poedit 3.5\n"
 
 #: AfxError.cs:11
 msgid "AfxError"
@@ -166,8 +166,10 @@ msgstr "Разница RGB"
 msgid "Invalid / missing value in row {0}, column {1}."
 msgstr "Неверное / отсутствующее значение в строке {0}, столбце {1}."
 
-#: AfxRgbaLutVoronoiGenerator.cs:387 AfxRgbaLutVoronoiGenerator.cs:440 AfxRgbaLutVoronoiGenerator.cs:457 AfxRgbaLutVoronoiGenerator.cs:639 AfxRgbaLutVoronoiGenerator.cs:651
-#: AfxRgbaLutVoronoiGenerator.cs:842 Launcher.cs:35 Tools/CustomLoader.cs:74
+#: AfxRgbaLutVoronoiGenerator.cs:387 AfxRgbaLutVoronoiGenerator.cs:440
+#: AfxRgbaLutVoronoiGenerator.cs:457 AfxRgbaLutVoronoiGenerator.cs:639
+#: AfxRgbaLutVoronoiGenerator.cs:651 AfxRgbaLutVoronoiGenerator.cs:842
+#: Launcher.cs:35 Tools/CustomLoader.cs:74
 msgid "Error"
 msgstr "Ошибка"
 
@@ -882,11 +884,11 @@ msgstr "Предупреждение: указанный выше путь к HL
 
 #: MainForm.cs:137
 msgid "VAC warning"
-msgstr ""
+msgstr "Предупреждение о VAC-блокировке"
 
 #: MainForm.cs:138
 msgid "The HLAE tool is technically a hack, therefore you should only use it for making gaming videos or watching demos. Joining VAC protected servers with HLAE will probably get you VAC banned."
-msgstr ""
+msgstr "Технически HLAE является читом. Если вы зайдете через HLAE на сервер, защищенный VAC'ом, есть шанс, что вы получите VAC-блокировку."
 
 #: MainForm.cs:139 MainForm.cs:146
 #, fuzzy
@@ -895,11 +897,11 @@ msgstr "ОК"
 
 #: MainForm.cs:144
 msgid "Epilepsy warning"
-msgstr ""
+msgstr "Предупреждение об эпилепсии"
 
 #: MainForm.cs:145
 msgid "This software may cause fast-changing images and colors on your screen."
-msgstr ""
+msgstr "Во время записи слоев экран может очень быстро и ярко мерцать."
 
 #: MainForm.cs:213
 msgctxt "Main window | update status strip | label"
