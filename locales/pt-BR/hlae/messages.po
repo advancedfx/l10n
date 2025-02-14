@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hlae\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-02-14 11:09+0100\n"
+"POT-Creation-Date: 2025-02-14 11:32+0100\n"
 "PO-Revision-Date: 2022-01-29 12:32+0000\n"
 "Last-Translator: Rillet <rilletcs@gmail.com>\n"
 "Language-Team: Language pt-BR\n"
@@ -904,22 +904,26 @@ msgstr ""
 msgid "This software may cause fast-changing images and colors on your screen."
 msgstr ""
 
-#: MainForm.cs:213
+#: MainForm.cs:148
+msgid "Frequently Asked Questions (FAQ)"
+msgstr ""
+
+#: MainForm.cs:215
 msgctxt "Main window | update status strip | label"
 msgid "Update available!"
 msgstr "Atualização disponível!"
 
-#: MainForm.cs:222
+#: MainForm.cs:224
 msgctxt "Main window | update status strip | label"
 msgid "Your version is up to date :)"
 msgstr "Sua versão está atualizada :)"
 
-#: MainForm.cs:234
+#: MainForm.cs:236
 msgctxt "Main window | update status strip | label"
 msgid "Update check failed :("
 msgstr "Falha na verificação de atualização :("
 
-#: MainForm.cs:243
+#: MainForm.cs:245
 msgctxt "Main window | update status strip | label"
 msgid "Checking for updates ..."
 msgstr "Procurando por atualizações ..."

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hlae\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-02-14 11:09+0100\n"
+"POT-Creation-Date: 2025-02-14 11:32+0100\n"
 "PO-Revision-Date: 2025-02-14 11:20+0100\n"
 "Last-Translator: yovaN <akkardeon@gmail.com>\n"
 "Language-Team: Russian\n"
@@ -166,10 +166,8 @@ msgstr "Разница RGB"
 msgid "Invalid / missing value in row {0}, column {1}."
 msgstr "Неверное / отсутствующее значение в строке {0}, столбце {1}."
 
-#: AfxRgbaLutVoronoiGenerator.cs:387 AfxRgbaLutVoronoiGenerator.cs:440
-#: AfxRgbaLutVoronoiGenerator.cs:457 AfxRgbaLutVoronoiGenerator.cs:639
-#: AfxRgbaLutVoronoiGenerator.cs:651 AfxRgbaLutVoronoiGenerator.cs:842
-#: Launcher.cs:35 Tools/CustomLoader.cs:74
+#: AfxRgbaLutVoronoiGenerator.cs:387 AfxRgbaLutVoronoiGenerator.cs:440 AfxRgbaLutVoronoiGenerator.cs:457 AfxRgbaLutVoronoiGenerator.cs:639 AfxRgbaLutVoronoiGenerator.cs:651
+#: AfxRgbaLutVoronoiGenerator.cs:842 Launcher.cs:35 Tools/CustomLoader.cs:74
 msgid "Error"
 msgstr "Ошибка"
 
@@ -903,22 +901,26 @@ msgstr "Предупреждение об эпилепсии"
 msgid "This software may cause fast-changing images and colors on your screen."
 msgstr "Во время записи слоев экран может очень быстро и ярко мерцать."
 
-#: MainForm.cs:213
+#: MainForm.cs:148
+msgid "Frequently Asked Questions (FAQ)"
+msgstr ""
+
+#: MainForm.cs:215
 msgctxt "Main window | update status strip | label"
 msgid "Update available!"
 msgstr "Обновление доступно!"
 
-#: MainForm.cs:222
+#: MainForm.cs:224
 msgctxt "Main window | update status strip | label"
 msgid "Your version is up to date :)"
 msgstr "Ваша версия актуальна :)"
 
-#: MainForm.cs:234
+#: MainForm.cs:236
 msgctxt "Main window | update status strip | label"
 msgid "Update check failed :("
 msgstr "Проверка обновлений не удалась :("
 
-#: MainForm.cs:243
+#: MainForm.cs:245
 msgctxt "Main window | update status strip | label"
 msgid "Checking for updates ..."
 msgstr "Проверка обновлений ..."

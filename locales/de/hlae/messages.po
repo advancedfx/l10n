@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hlae\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-02-14 11:09+0100\n"
+"POT-Creation-Date: 2025-02-14 11:32+0100\n"
 "PO-Revision-Date: 2025-02-14 11:16+0100\n"
 "Last-Translator: Dominik <dominik@matrixstorm.com>\n"
 "Language-Team: German\n"
@@ -166,10 +166,8 @@ msgstr "RGB-Differenz"
 msgid "Invalid / missing value in row {0}, column {1}."
 msgstr "Ungültiger / fehlender Wert in Zeile {0}, Spalte {1}."
 
-#: AfxRgbaLutVoronoiGenerator.cs:387 AfxRgbaLutVoronoiGenerator.cs:440
-#: AfxRgbaLutVoronoiGenerator.cs:457 AfxRgbaLutVoronoiGenerator.cs:639
-#: AfxRgbaLutVoronoiGenerator.cs:651 AfxRgbaLutVoronoiGenerator.cs:842
-#: Launcher.cs:35 Tools/CustomLoader.cs:74
+#: AfxRgbaLutVoronoiGenerator.cs:387 AfxRgbaLutVoronoiGenerator.cs:440 AfxRgbaLutVoronoiGenerator.cs:457 AfxRgbaLutVoronoiGenerator.cs:639 AfxRgbaLutVoronoiGenerator.cs:651
+#: AfxRgbaLutVoronoiGenerator.cs:842 Launcher.cs:35 Tools/CustomLoader.cs:74
 msgid "Error"
 msgstr "Fehler"
 
@@ -901,22 +899,26 @@ msgstr "Epilepsie-Warnung"
 msgid "This software may cause fast-changing images and colors on your screen."
 msgstr "Diese Software kann schnell wechselnde Bilder und Farben auf Ihrem Bildschrim verursachen."
 
-#: MainForm.cs:213
+#: MainForm.cs:148
+msgid "Frequently Asked Questions (FAQ)"
+msgstr ""
+
+#: MainForm.cs:215
 msgctxt "Main window | update status strip | label"
 msgid "Update available!"
 msgstr "Aktualisierung verfügbar!"
 
-#: MainForm.cs:222
+#: MainForm.cs:224
 msgctxt "Main window | update status strip | label"
 msgid "Your version is up to date :)"
 msgstr "Ihre Version ist aktuell :)"
 
-#: MainForm.cs:234
+#: MainForm.cs:236
 msgctxt "Main window | update status strip | label"
 msgid "Update check failed :("
 msgstr "Aktualisierungsprüfung fehlgeschlagen :("
 
-#: MainForm.cs:243
+#: MainForm.cs:245
 msgctxt "Main window | update status strip | label"
 msgid "Checking for updates ..."
 msgstr "Prüfe auf Aktualisierungen ..."
