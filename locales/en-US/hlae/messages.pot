@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hlae\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-02-11 17:29+0100\n"
+"POT-Creation-Date: 2025-02-14 11:09+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -909,8 +909,7 @@ msgid "Epilepsy warning"
 msgstr ""
 
 #: MainForm.cs:145
-msgid ""
-"This software will cause fast-changing images and colors on your screen."
+msgid "This software may cause fast-changing images and colors on your screen."
 msgstr ""
 
 #: MainForm.cs:213
