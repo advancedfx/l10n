@@ -1,4 +1,4 @@
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
@@ -20,12 +20,26 @@ msgctxt "Title"
 msgid "[WixBundleName]"
 msgstr "[WixBundleName]"
 
+msgctxt "CheckingForUpdatesLabel"
+msgid "Checking for updates"
+msgstr ""
+
+msgctxt "UpdateButton"
+msgid "&Update to version [WixStdBAUpdateAvailable]"
+msgstr ""
+
 msgctxt "InstallHeader"
 msgid "Welcome"
 msgstr "Hoş Geldiniz"
 
+#, fuzzy
 msgctxt "InstallMessage"
-msgid "Setup will install [WixBundleName] on your computer. Click install to continue"
+msgid "Setup will install [WixBundleName] on your computer. Click Install to continue or Cancel to exit."
+msgstr "Kurulum bilgisayarınıza [WixBundleName]'yi yükleyecektir. Devam etmek için lütfen yükle butonuna tıklayınız."
+
+#, fuzzy
+msgctxt "InstallMessageOptions"
+msgid "Setup will install [WixBundleName] on your computer. Click Install to continue, Options to set installation options, or Cancel to exit."
 msgstr "Kurulum bilgisayarınıza [WixBundleName]'yi yükleyecektir. Devam etmek için lütfen yükle butonuna tıklayınız."
 
 msgctxt "InstallVersion"
@@ -84,9 +98,10 @@ msgctxt "InstallInstallButton"
 msgid "&Install"
 msgstr "&Yükle"
 
-msgctxt "InstallCloseButton"
-msgid "&Close"
-msgstr "&Kapat"
+#, fuzzy
+msgctxt "InstallCancelButton"
+msgid "&Cancel"
+msgstr "&İptal"
 
 msgctxt "OptionsHeader"
 msgid "Setup Options"
@@ -136,9 +151,33 @@ msgctxt "ModifyUninstallButton"
 msgid "&Uninstall"
 msgstr "&Kaldır"
 
-msgctxt "ModifyCloseButton"
-msgid "&Close"
-msgstr "&Kapat"
+#, fuzzy
+msgctxt "ModifyCancelButton"
+msgid "&Cancel"
+msgstr "&İptal"
+
+msgctxt "SuccessHeader"
+msgid "Setup Successful"
+msgstr "Kurulum işlemi başarılı"
+
+#, fuzzy
+msgctxt "SuccessCacheHeader"
+msgid "Cache Successfully Completed"
+msgstr "Onarım işlemi başarı ile tamamlandı"
+
+msgctxt "SuccessInstallHeader"
+msgid "Installation Successfully Completed"
+msgstr "Kurulum işlemi başarı ile tamamlandı"
+
+#, fuzzy
+msgctxt "SuccessLayoutHeader"
+msgid "Layout Successfully Completed"
+msgstr "Onarım işlemi başarı ile tamamlandı"
+
+#, fuzzy
+msgctxt "SuccessModifyHeader"
+msgid "Modify Successfully Completed"
+msgstr "Onarım işlemi başarı ile tamamlandı"
 
 msgctxt "SuccessRepairHeader"
 msgid "Repair Successfully Completed"
@@ -148,13 +187,10 @@ msgctxt "SuccessUninstallHeader"
 msgid "Uninstall Successfully Completed"
 msgstr "Kaldırma işlemi başarı ile tamamlandı"
 
-msgctxt "SuccessInstallHeader"
-msgid "Installation Successfully Completed"
-msgstr "Kurulum işlemi başarı ile tamamlandı"
-
-msgctxt "SuccessHeader"
-msgid "Setup Successful"
-msgstr "Kurulum işlemi başarılı"
+#, fuzzy
+msgctxt "SuccessUnsafeUninstallHeader"
+msgid "Uninstall Successfully Completed"
+msgstr "Kaldırma işlemi başarı ile tamamlandı"
 
 msgctxt "SuccessLaunchButton"
 msgid "&Launch"
@@ -163,6 +199,11 @@ msgstr "&Başlat"
 msgctxt "SuccessRestartText"
 msgid "You must restart your computer before you can use the software."
 msgstr "Programı kullanmadan önce bilgisayarınızı yeniden başlatmalısınız."
+
+#, fuzzy
+msgctxt "SuccessUninstallRestartText"
+msgid "You must restart your computer to complete the removal of the software."
+msgstr "Yazılımın geri alınabilmesi için bilgisayarın yeniden başlatılması gerekir."
 
 msgctxt "SuccessRestartButton"
 msgid "&Restart"
@@ -176,17 +217,37 @@ msgctxt "FailureHeader"
 msgid "Setup Failed"
 msgstr "Kurulum işlemi başarısız oldu"
 
+#, fuzzy
+msgctxt "FailureCacheHeader"
+msgid "Cache Failed"
+msgstr "Kurulum işlemi başarısız oldu"
+
 msgctxt "FailureInstallHeader"
 msgid "Setup Failed"
 msgstr "Kurulum işlemi başarısız oldu"
+
+#, fuzzy
+msgctxt "FailureLayoutHeader"
+msgid "Layout Failed"
+msgstr "Kurulum işlemi başarısız oldu"
+
+#, fuzzy
+msgctxt "FailureModifyHeader"
+msgid "Modify Failed"
+msgstr "Kurulumu özelleştirin"
+
+msgctxt "FailureRepairHeader"
+msgid "Repair Failed"
+msgstr "Onarım işlemi başarısız oldu"
 
 msgctxt "FailureUninstallHeader"
 msgid "Uninstall Failed"
 msgstr "Kaldırma işlemi başarısız oldu"
 
-msgctxt "FailureRepairHeader"
-msgid "Repair Failed"
-msgstr "Onarım işlemi başarısız oldu"
+#, fuzzy
+msgctxt "FailureUnsafeUninstallHeader"
+msgid "Uninstall Failed"
+msgstr "Kaldırma işlemi başarısız oldu"
 
 msgctxt "FailureHyperlinkLogText"
 msgid "One or more issues caused the setup to fail. Please fix the issues and then retry setup. For more information see the <a href=\"#\">log file</a>."
@@ -204,13 +265,19 @@ msgctxt "FailureCloseButton"
 msgid "&Close"
 msgstr "&Kapat"
 
-msgctxt "FilesInUseHeader"
+#, fuzzy
+msgctxt "FilesInUseTitle"
 msgid "Files In Use"
 msgstr "Dosyalar Kullanımda"
 
 msgctxt "FilesInUseLabel"
 msgid "The following applications are using files that need to be updated:"
 msgstr "Aşağıdaki uygulamalar güncellenmesi gereken dosyaları kullanıyor:"
+
+#, fuzzy
+msgctxt "FilesInUseNetfxCloseRadioButton"
+msgid "Close the &applications."
+msgstr "&Uygulamaları kapatın ve onları yeniden başlatmayı deneyin."
 
 msgctxt "FilesInUseCloseRadioButton"
 msgid "Close the &applications and attempt to restart them."
@@ -220,13 +287,17 @@ msgctxt "FilesInUseDontCloseRadioButton"
 msgid "&Do not close applications. A reboot will be required."
 msgstr "&Uygulamaları kapatmayın. Bilgisayarınızı yeniden başlatmanız gerekecektir."
 
-msgctxt "FilesInUseOkButton"
-msgid "&OK"
-msgstr "&Tamam"
+msgctxt "FilesInUseRetryButton"
+msgid "&Retry"
+msgstr ""
 
-msgctxt "FilesInUseCancelButton"
-msgid "&Cancel"
-msgstr "&İptal"
+msgctxt "FilesInUseIgnoreButton"
+msgid "&Ignore"
+msgstr ""
+
+msgctxt "FilesInUseExitButton"
+msgid "E&xit"
+msgstr ""
 
 msgctxt "ErrorFailNoActionReboot"
 msgid "No action was taken as a system reboot is required."
@@ -240,6 +311,14 @@ msgctxt "HlaeDisclaimer"
 msgid "This software is for your enjoyment and you are using it at your own risk."
 msgstr "Bu yazılım keyfi amaçlar için geliştirilmiştir. Yazılımın kullanımından doğacak sorumluluklar tarafınıza aittir."
 
+msgctxt "HlaeFfmpegTitle"
+msgid "FFMPEG"
+msgstr "FFMPEG"
+
+msgctxt "HlaeFfmpeg"
+msgid "FFMPEG can be used for encoding mirv_streams to videos."
+msgstr "FFMPEG mirv_streams'leri videoya dönüştürmek için kullanılabilir."
+
 msgctxt "HlaeSetupModifyInfo"
 msgid "To modify the existing HLAE installation, please use the \"HLAE\" entry in the installed applications list instead."
 msgstr "Lütfen HLAE kurulumunda yapmak istediğiniz değişiklikler için yüklü uygulamalar listesindeki \"HLAE\" girdisini kullanmayı tercih ediniz."
@@ -247,6 +326,22 @@ msgstr "Lütfen HLAE kurulumunda yapmak istediğiniz değişiklikler için yükl
 msgctxt "HlaeRemoveAppData"
 msgid "Check to remove HLAE %APPDATA% folder upon uinstall (not recommended)."
 msgstr "Kaldırma sırasında HLAE'in %APPDATA% klasöründen de kaldırıldığından emin olun (tavsiye edilmez)."
+
+#~ msgctxt "InstallCloseButton"
+#~ msgid "&Close"
+#~ msgstr "&Kapat"
+
+#~ msgctxt "ModifyCloseButton"
+#~ msgid "&Close"
+#~ msgstr "&Kapat"
+
+#~ msgctxt "FilesInUseOkButton"
+#~ msgid "&OK"
+#~ msgstr "&Tamam"
+
+#~ msgctxt "FilesInUseCancelButton"
+#~ msgid "&Cancel"
+#~ msgstr "&İptal"
 
 #~ msgctxt "HlaeFeaturesHeader"
 #~ msgid "Features"

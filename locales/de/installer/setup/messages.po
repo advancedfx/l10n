@@ -1,4 +1,4 @@
-# 
+#
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2020-07-14 16:51+0000\n"
@@ -18,12 +18,26 @@ msgctxt "Title"
 msgid "[WixBundleName]"
 msgstr "[WixBundleName]"
 
+msgctxt "CheckingForUpdatesLabel"
+msgid "Checking for updates"
+msgstr ""
+
+msgctxt "UpdateButton"
+msgid "&Update to version [WixStdBAUpdateAvailable]"
+msgstr ""
+
 msgctxt "InstallHeader"
 msgid "Welcome"
 msgstr "Wilkommen"
 
+#, fuzzy
 msgctxt "InstallMessage"
-msgid "Setup will install [WixBundleName] on your computer. Click install to continue"
+msgid "Setup will install [WixBundleName] on your computer. Click Install to continue or Cancel to exit."
+msgstr "Das Setup wird [WixBundleName] auf Ihrem Computer installieren. Klicken sie Installieren um fortzufahren"
+
+#, fuzzy
+msgctxt "InstallMessageOptions"
+msgid "Setup will install [WixBundleName] on your computer. Click Install to continue, Options to set installation options, or Cancel to exit."
 msgstr "Das Setup wird [WixBundleName] auf Ihrem Computer installieren. Klicken sie Installieren um fortzufahren"
 
 msgctxt "InstallVersion"
@@ -84,9 +98,10 @@ msgctxt "InstallInstallButton"
 msgid "&Install"
 msgstr "&Installieren"
 
-msgctxt "InstallCloseButton"
-msgid "&Close"
-msgstr "&Schließen"
+#, fuzzy
+msgctxt "InstallCancelButton"
+msgid "&Cancel"
+msgstr "Ab&brechen"
 
 msgctxt "OptionsHeader"
 msgid "Setup Options"
@@ -136,9 +151,33 @@ msgctxt "ModifyUninstallButton"
 msgid "&Uninstall"
 msgstr "&Deinstallieren"
 
-msgctxt "ModifyCloseButton"
-msgid "&Close"
-msgstr "&Schließen"
+#, fuzzy
+msgctxt "ModifyCancelButton"
+msgid "&Cancel"
+msgstr "Ab&brechen"
+
+msgctxt "SuccessHeader"
+msgid "Setup Successful"
+msgstr "Setup erfolgreich"
+
+#, fuzzy
+msgctxt "SuccessCacheHeader"
+msgid "Cache Successfully Completed"
+msgstr "Reperaturn erfolgreich abgeschlossen"
+
+msgctxt "SuccessInstallHeader"
+msgid "Installation Successfully Completed"
+msgstr "Installation erfolgreich abgeschlossen"
+
+#, fuzzy
+msgctxt "SuccessLayoutHeader"
+msgid "Layout Successfully Completed"
+msgstr "Reperaturn erfolgreich abgeschlossen"
+
+#, fuzzy
+msgctxt "SuccessModifyHeader"
+msgid "Modify Successfully Completed"
+msgstr "Reperaturn erfolgreich abgeschlossen"
 
 msgctxt "SuccessRepairHeader"
 msgid "Repair Successfully Completed"
@@ -148,13 +187,10 @@ msgctxt "SuccessUninstallHeader"
 msgid "Uninstall Successfully Completed"
 msgstr "Deinstallation erfolgreich abgeschlossen"
 
-msgctxt "SuccessInstallHeader"
-msgid "Installation Successfully Completed"
-msgstr "Installation erfolgreich abgeschlossen"
-
-msgctxt "SuccessHeader"
-msgid "Setup Successful"
-msgstr "Setup erfolgreich"
+#, fuzzy
+msgctxt "SuccessUnsafeUninstallHeader"
+msgid "Uninstall Successfully Completed"
+msgstr "Deinstallation erfolgreich abgeschlossen"
 
 msgctxt "SuccessLaunchButton"
 msgid "&Launch"
@@ -163,6 +199,11 @@ msgstr "S&tarten"
 msgctxt "SuccessRestartText"
 msgid "You must restart your computer before you can use the software."
 msgstr "Sie müßen Ihren Computer neustarten, bevor Sie die Software benutzen können."
+
+#, fuzzy
+msgctxt "SuccessUninstallRestartText"
+msgid "You must restart your computer to complete the removal of the software."
+msgstr "Sie müssen den Computer neustarten, um die Rückabwicklung der Software abzuschließen."
 
 msgctxt "SuccessRestartButton"
 msgid "&Restart"
@@ -176,23 +217,41 @@ msgctxt "FailureHeader"
 msgid "Setup Failed"
 msgstr "Setup fehlgeschlagen"
 
+#, fuzzy
+msgctxt "FailureCacheHeader"
+msgid "Cache Failed"
+msgstr "Setup fehlgeschlagen"
+
 msgctxt "FailureInstallHeader"
 msgid "Setup Failed"
 msgstr "Setup fehlgeschlagen"
 
-msgctxt "FailureUninstallHeader"
-msgid "Uninstall Failed"
-msgstr "Deinstallation fehlgeschlagen"
+#, fuzzy
+msgctxt "FailureLayoutHeader"
+msgid "Layout Failed"
+msgstr "Setup fehlgeschlagen"
+
+#, fuzzy
+msgctxt "FailureModifyHeader"
+msgid "Modify Failed"
+msgstr "Setup verändern"
 
 msgctxt "FailureRepairHeader"
 msgid "Repair Failed"
 msgstr "Reperatur fehlgeschlagen"
 
+msgctxt "FailureUninstallHeader"
+msgid "Uninstall Failed"
+msgstr "Deinstallation fehlgeschlagen"
+
+#, fuzzy
+msgctxt "FailureUnsafeUninstallHeader"
+msgid "Uninstall Failed"
+msgstr "Deinstallation fehlgeschlagen"
+
 msgctxt "FailureHyperlinkLogText"
 msgid "One or more issues caused the setup to fail. Please fix the issues and then retry setup. For more information see the <a href=\"#\">log file</a>."
-msgstr ""
-"Eine oder mehre Probleme brachten das Setup zum fehlschlagen. Bitte beheben Sie die Probleme und wiederholen Sie danach das Setup. Für weitere Informationen schauen Sie in die <a "
-"href=\"#\">Logdatei</a>."
+msgstr "Eine oder mehre Probleme brachten das Setup zum fehlschlagen. Bitte beheben Sie die Probleme und wiederholen Sie danach das Setup. Für weitere Informationen schauen Sie in die <a href=\"#\">Logdatei</a>."
 
 msgctxt "FailureRestartText"
 msgid "You must restart your computer to complete the rollback of the software."
@@ -206,13 +265,19 @@ msgctxt "FailureCloseButton"
 msgid "&Close"
 msgstr "&Schließen"
 
-msgctxt "FilesInUseHeader"
+#, fuzzy
+msgctxt "FilesInUseTitle"
 msgid "Files In Use"
 msgstr "Dateien in Benutzung"
 
 msgctxt "FilesInUseLabel"
 msgid "The following applications are using files that need to be updated:"
 msgstr "Die folgenden Anwendungen verwenden Dateien, die aktualisiert werden müssen:"
+
+#, fuzzy
+msgctxt "FilesInUseNetfxCloseRadioButton"
+msgid "Close the &applications."
+msgstr "Schließe die &Applikationen und versuche sie neuzustarten."
 
 msgctxt "FilesInUseCloseRadioButton"
 msgid "Close the &applications and attempt to restart them."
@@ -222,13 +287,17 @@ msgctxt "FilesInUseDontCloseRadioButton"
 msgid "&Do not close applications. A reboot will be required."
 msgstr "&Schließe keine Applikationen. Ein Neustart wird erforderlich sein."
 
-msgctxt "FilesInUseOkButton"
-msgid "&OK"
-msgstr "&OK"
+msgctxt "FilesInUseRetryButton"
+msgid "&Retry"
+msgstr ""
 
-msgctxt "FilesInUseCancelButton"
-msgid "&Cancel"
-msgstr "Ab&brechen"
+msgctxt "FilesInUseIgnoreButton"
+msgid "&Ignore"
+msgstr ""
+
+msgctxt "FilesInUseExitButton"
+msgid "E&xit"
+msgstr ""
 
 msgctxt "ErrorFailNoActionReboot"
 msgid "No action was taken as a system reboot is required."
@@ -242,6 +311,14 @@ msgctxt "HlaeDisclaimer"
 msgid "This software is for your enjoyment and you are using it at your own risk."
 msgstr "Die Software ist zu Ihrem Vergnügen and Sie benutzen sie auf eigenes Risiko."
 
+msgctxt "HlaeFfmpegTitle"
+msgid "FFMPEG"
+msgstr "FFMPEG"
+
+msgctxt "HlaeFfmpeg"
+msgid "FFMPEG can be used for encoding mirv_streams to videos."
+msgstr "FFMPEG kann für die Kodierung von mirv_streams in Videos verwendet werden."
+
 msgctxt "HlaeSetupModifyInfo"
 msgid "To modify the existing HLAE installation, please use the \"HLAE\" entry in the installed applications list instead."
 msgstr "Um die existierende HLAE installation zu verändern, benutzen Sie bitten den \"HLAE\"-Eintrag in der Liste der installierten Anwendungen."
@@ -249,6 +326,22 @@ msgstr "Um die existierende HLAE installation zu verändern, benutzen Sie bitten
 msgctxt "HlaeRemoveAppData"
 msgid "Check to remove HLAE %APPDATA% folder upon uinstall (not recommended)."
 msgstr "Markieren um den HLAE %APPDATA% Ordner während der Deinstallation zu entfernen (nicht empfohlen)."
+
+#~ msgctxt "InstallCloseButton"
+#~ msgid "&Close"
+#~ msgstr "&Schließen"
+
+#~ msgctxt "ModifyCloseButton"
+#~ msgid "&Close"
+#~ msgstr "&Schließen"
+
+#~ msgctxt "FilesInUseOkButton"
+#~ msgid "&OK"
+#~ msgstr "&OK"
+
+#~ msgctxt "FilesInUseCancelButton"
+#~ msgid "&Cancel"
+#~ msgstr "Ab&brechen"
 
 #~ msgctxt "HlaeFeaturesHeader"
 #~ msgid "Features"

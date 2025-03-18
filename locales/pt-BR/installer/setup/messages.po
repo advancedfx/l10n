@@ -1,4 +1,4 @@
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
@@ -20,12 +20,26 @@ msgctxt "Title"
 msgid "[WixBundleName]"
 msgstr "[WixBundleName]"
 
+msgctxt "CheckingForUpdatesLabel"
+msgid "Checking for updates"
+msgstr ""
+
+msgctxt "UpdateButton"
+msgid "&Update to version [WixStdBAUpdateAvailable]"
+msgstr ""
+
 msgctxt "InstallHeader"
 msgid "Welcome"
 msgstr "Bem-vindo"
 
+#, fuzzy
 msgctxt "InstallMessage"
-msgid "Setup will install [WixBundleName] on your computer. Click install to continue"
+msgid "Setup will install [WixBundleName] on your computer. Click Install to continue or Cancel to exit."
+msgstr "O instalação irá instalar o [WixBundleName] em seu computador. Clique em instalar para continuar"
+
+#, fuzzy
+msgctxt "InstallMessageOptions"
+msgid "Setup will install [WixBundleName] on your computer. Click Install to continue, Options to set installation options, or Cancel to exit."
 msgstr "O instalação irá instalar o [WixBundleName] em seu computador. Clique em instalar para continuar"
 
 msgctxt "InstallVersion"
@@ -84,9 +98,10 @@ msgctxt "InstallInstallButton"
 msgid "&Install"
 msgstr "&Instalar"
 
-msgctxt "InstallCloseButton"
-msgid "&Close"
-msgstr "&Fechar"
+#, fuzzy
+msgctxt "InstallCancelButton"
+msgid "&Cancel"
+msgstr "&Cancelar"
 
 msgctxt "OptionsHeader"
 msgid "Setup Options"
@@ -136,9 +151,33 @@ msgctxt "ModifyUninstallButton"
 msgid "&Uninstall"
 msgstr "&Desinstalar"
 
-msgctxt "ModifyCloseButton"
-msgid "&Close"
-msgstr "&Fechar"
+#, fuzzy
+msgctxt "ModifyCancelButton"
+msgid "&Cancel"
+msgstr "&Cancelar"
+
+msgctxt "SuccessHeader"
+msgid "Setup Successful"
+msgstr "Instalação bem sucedida"
+
+#, fuzzy
+msgctxt "SuccessCacheHeader"
+msgid "Cache Successfully Completed"
+msgstr "Reparo concluído com sucesso"
+
+msgctxt "SuccessInstallHeader"
+msgid "Installation Successfully Completed"
+msgstr "Instalação concluída com sucesso"
+
+#, fuzzy
+msgctxt "SuccessLayoutHeader"
+msgid "Layout Successfully Completed"
+msgstr "Reparo concluído com sucesso"
+
+#, fuzzy
+msgctxt "SuccessModifyHeader"
+msgid "Modify Successfully Completed"
+msgstr "Reparo concluído com sucesso"
 
 msgctxt "SuccessRepairHeader"
 msgid "Repair Successfully Completed"
@@ -148,13 +187,10 @@ msgctxt "SuccessUninstallHeader"
 msgid "Uninstall Successfully Completed"
 msgstr "Desinstalação concluída com sucesso"
 
-msgctxt "SuccessInstallHeader"
-msgid "Installation Successfully Completed"
-msgstr "Instalação concluída com sucesso"
-
-msgctxt "SuccessHeader"
-msgid "Setup Successful"
-msgstr "Instalação bem sucedida"
+#, fuzzy
+msgctxt "SuccessUnsafeUninstallHeader"
+msgid "Uninstall Successfully Completed"
+msgstr "Desinstalação concluída com sucesso"
 
 msgctxt "SuccessLaunchButton"
 msgid "&Launch"
@@ -163,6 +199,11 @@ msgstr "&Iniciar"
 msgctxt "SuccessRestartText"
 msgid "You must restart your computer before you can use the software."
 msgstr "Você deve reiniciar o computador antes de poder usar o software."
+
+#, fuzzy
+msgctxt "SuccessUninstallRestartText"
+msgid "You must restart your computer to complete the removal of the software."
+msgstr "Você deve reiniciar o computador para concluir a reversão do software."
 
 msgctxt "SuccessRestartButton"
 msgid "&Restart"
@@ -176,17 +217,37 @@ msgctxt "FailureHeader"
 msgid "Setup Failed"
 msgstr "Falha na instalação"
 
+#, fuzzy
+msgctxt "FailureCacheHeader"
+msgid "Cache Failed"
+msgstr "Falha na instalação"
+
 msgctxt "FailureInstallHeader"
 msgid "Setup Failed"
 msgstr "Falha na instalação"
+
+#, fuzzy
+msgctxt "FailureLayoutHeader"
+msgid "Layout Failed"
+msgstr "Falha na instalação"
+
+#, fuzzy
+msgctxt "FailureModifyHeader"
+msgid "Modify Failed"
+msgstr "Modificar instalação"
+
+msgctxt "FailureRepairHeader"
+msgid "Repair Failed"
+msgstr "Falha na reparação"
 
 msgctxt "FailureUninstallHeader"
 msgid "Uninstall Failed"
 msgstr "Falha na desinstalação"
 
-msgctxt "FailureRepairHeader"
-msgid "Repair Failed"
-msgstr "Falha na reparação"
+#, fuzzy
+msgctxt "FailureUnsafeUninstallHeader"
+msgid "Uninstall Failed"
+msgstr "Falha na desinstalação"
 
 msgctxt "FailureHyperlinkLogText"
 msgid "One or more issues caused the setup to fail. Please fix the issues and then retry setup. For more information see the <a href=\"#\">log file</a>."
@@ -204,13 +265,19 @@ msgctxt "FailureCloseButton"
 msgid "&Close"
 msgstr "&Fechar"
 
-msgctxt "FilesInUseHeader"
+#, fuzzy
+msgctxt "FilesInUseTitle"
 msgid "Files In Use"
 msgstr "Arquivos em uso"
 
 msgctxt "FilesInUseLabel"
 msgid "The following applications are using files that need to be updated:"
 msgstr "Os seguintes aplicativos estão usando arquivos que precisam ser atualizados:"
+
+#, fuzzy
+msgctxt "FilesInUseNetfxCloseRadioButton"
+msgid "Close the &applications."
+msgstr "Feche os &aplicativos e tente reiniciá-los."
 
 msgctxt "FilesInUseCloseRadioButton"
 msgid "Close the &applications and attempt to restart them."
@@ -220,13 +287,17 @@ msgctxt "FilesInUseDontCloseRadioButton"
 msgid "&Do not close applications. A reboot will be required."
 msgstr "&Não feche as aplicações. Será necessária uma reinicialização."
 
-msgctxt "FilesInUseOkButton"
-msgid "&OK"
-msgstr "&OK"
+msgctxt "FilesInUseRetryButton"
+msgid "&Retry"
+msgstr ""
 
-msgctxt "FilesInUseCancelButton"
-msgid "&Cancel"
-msgstr "&Cancelar"
+msgctxt "FilesInUseIgnoreButton"
+msgid "&Ignore"
+msgstr ""
+
+msgctxt "FilesInUseExitButton"
+msgid "E&xit"
+msgstr ""
 
 msgctxt "ErrorFailNoActionReboot"
 msgid "No action was taken as a system reboot is required."
@@ -240,6 +311,14 @@ msgctxt "HlaeDisclaimer"
 msgid "This software is for your enjoyment and you are using it at your own risk."
 msgstr "Este software é para sua diversão e você o está usando por sua conta e risco."
 
+msgctxt "HlaeFfmpegTitle"
+msgid "FFMPEG"
+msgstr "FFMPEG"
+
+msgctxt "HlaeFfmpeg"
+msgid "FFMPEG can be used for encoding mirv_streams to videos."
+msgstr "FFMPEG pode ser usado para codificar mirv_streams para vídeos."
+
 msgctxt "HlaeSetupModifyInfo"
 msgid "To modify the existing HLAE installation, please use the \"HLAE\" entry in the installed applications list instead."
 msgstr "Para modificar a instalação existente do HLAE, use a entrada \"HLAE\" na lista de aplicativos instalados."
@@ -247,3 +326,19 @@ msgstr "Para modificar a instalação existente do HLAE, use a entrada \"HLAE\" 
 msgctxt "HlaeRemoveAppData"
 msgid "Check to remove HLAE %APPDATA% folder upon uinstall (not recommended)."
 msgstr "Marque para remover a pasta HLAE %APPDATA% na desinstalação (não recomendado)."
+
+#~ msgctxt "InstallCloseButton"
+#~ msgid "&Close"
+#~ msgstr "&Fechar"
+
+#~ msgctxt "ModifyCloseButton"
+#~ msgid "&Close"
+#~ msgstr "&Fechar"
+
+#~ msgctxt "FilesInUseOkButton"
+#~ msgid "&OK"
+#~ msgstr "&OK"
+
+#~ msgctxt "FilesInUseCancelButton"
+#~ msgid "&Cancel"
+#~ msgstr "&Cancelar"

@@ -1,0 +1,77 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"PO-Revision-Date: 2020-01-25 23:29+0000\n"
+"Last-Translator: fiskal.rafael <fiskal.rafael@gmail.com>\n"
+"Language-Team: Hungarian\n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pontoon\n"
+
+msgctxt "PackageName"
+msgid "HLAE FFMPEG"
+msgstr ""
+
+msgctxt "Manufacturer"
+msgid "advancedfx.org"
+msgstr "advancedfx.org"
+
+msgctxt "DowngradeErrorMessage"
+msgid "A newer version of [ProductName] is already installed."
+msgstr "A [ProductName] egy újabb verziója már telepítve van."
+
+#, fuzzy
+#~ msgctxt "ApplicationName"
+#~ msgid "HLAE"
+#~ msgstr "HLAE Core"
+
+#, fuzzy
+#~ msgctxt "FfmpegDlgReinstall"
+#~ msgid "Reinstall FFMPEG"
+#~ msgstr "FFMPEG telepítése ..."
+
+#~ msgctxt "InstallFfmpeg"
+#~ msgid "Installing FFMPEG ..."
+#~ msgstr "FFMPEG telepítése ..."
+
+#~ msgctxt "InstallFfmpegConnect_Template"
+#~ msgid "..."
+#~ msgstr "..."
+
+#~ msgctxt "InstallFfmpegDownload_Template"
+#~ msgid "[1] of [2] Bytes"
+#~ msgstr "[1] a [2] Byteból"
+
+#, fuzzy
+#~ msgctxt "InstallFfmpegChecksum_Template"
+#~ msgid "[1] of [2] Bytes"
+#~ msgstr "[1] a [2] Byteból"
+
+#~ msgctxt "InstallFfmpegExtract"
+#~ msgid "Extracting FFMPEG"
+#~ msgstr "FFMPEG kicsomagolása"
+
+#~ msgctxt "InstallFfmpegExtract_Template"
+#~ msgid "Item [1] of [2] ..."
+#~ msgstr "Elem [1] a [2] -ből ..."
+
+#, fuzzy
+#~ msgctxt "AppFolderMustBeLatin"
+#~ msgid "The HLAE application folder path contains invalid characters: Only basic latin character set is allowed (7bit ASCII)."
+#~ msgstr "A HLAE alkalmazás elérési útja érvénytelen karaktereket tartalmaz: Csak az alap latin karakterkészlet engedélyezett. Légyszíves ennek figyelembevételével a beállításoknál válassz másik könyvtárat a telepítéshez."
+
+#~ msgctxt "FfmpegFeature"
+#~ msgid "Install FFMPEG from https://ffmpeg.zeranoe.com/builds/"
+#~ msgstr "FFMPEG telepítése innen: https://ffmpeg.zeranoe.com/builds/"
+
+#~ msgctxt "InstallFfmpegConnect"
+#~ msgid "Connecting to https://ffmpeg.zeranoe.com/"
+#~ msgstr "Kapcsolódás: https://ffmpeg.zeranoe.com/"
+
+#~ msgctxt "InstallFfmpegDownload"
+#~ msgid "Downloading from https://ffmpeg.zeranoe.com/"
+#~ msgstr "Letöltés innen: https://ffmpeg.zeranoe.com/"

@@ -18,12 +18,26 @@ msgctxt "Title"
 msgid "[WixBundleName]"
 msgstr "[WixBundleName]"
 
+msgctxt "CheckingForUpdatesLabel"
+msgid "Checking for updates"
+msgstr ""
+
+msgctxt "UpdateButton"
+msgid "&Update to version [WixStdBAUpdateAvailable]"
+msgstr ""
+
 msgctxt "InstallHeader"
 msgid "Welcome"
 msgstr "ようこそ"
 
+#, fuzzy
 msgctxt "InstallMessage"
-msgid "Setup will install [WixBundleName] on your computer. Click install to continue"
+msgid "Setup will install [WixBundleName] on your computer. Click Install to continue or Cancel to exit."
+msgstr "セットアップはあなたのコンピューターに[WixBundleName]をインストールします。 インストールをクリックして継続"
+
+#, fuzzy
+msgctxt "InstallMessageOptions"
+msgid "Setup will install [WixBundleName] on your computer. Click Install to continue, Options to set installation options, or Cancel to exit."
 msgstr "セットアップはあなたのコンピューターに[WixBundleName]をインストールします。 インストールをクリックして継続"
 
 msgctxt "InstallVersion"
@@ -79,9 +93,10 @@ msgctxt "InstallInstallButton"
 msgid "&Install"
 msgstr "&インストール"
 
-msgctxt "InstallCloseButton"
-msgid "&Close"
-msgstr "&閉じる"
+#, fuzzy
+msgctxt "InstallCancelButton"
+msgid "&Cancel"
+msgstr "&キャンセル"
 
 msgctxt "OptionsHeader"
 msgid "Setup Options"
@@ -131,9 +146,33 @@ msgctxt "ModifyUninstallButton"
 msgid "&Uninstall"
 msgstr "&アンインストール"
 
-msgctxt "ModifyCloseButton"
-msgid "&Close"
-msgstr "&閉じる"
+#, fuzzy
+msgctxt "ModifyCancelButton"
+msgid "&Cancel"
+msgstr "&キャンセル"
+
+msgctxt "SuccessHeader"
+msgid "Setup Successful"
+msgstr "セットアップに成功しました"
+
+#, fuzzy
+msgctxt "SuccessCacheHeader"
+msgid "Cache Successfully Completed"
+msgstr "修復を成功しました"
+
+msgctxt "SuccessInstallHeader"
+msgid "Installation Successfully Completed"
+msgstr "インストールに成功しました"
+
+#, fuzzy
+msgctxt "SuccessLayoutHeader"
+msgid "Layout Successfully Completed"
+msgstr "修復を成功しました"
+
+#, fuzzy
+msgctxt "SuccessModifyHeader"
+msgid "Modify Successfully Completed"
+msgstr "修復を成功しました"
 
 msgctxt "SuccessRepairHeader"
 msgid "Repair Successfully Completed"
@@ -143,13 +182,10 @@ msgctxt "SuccessUninstallHeader"
 msgid "Uninstall Successfully Completed"
 msgstr "アンインストールに成功しました"
 
-msgctxt "SuccessInstallHeader"
-msgid "Installation Successfully Completed"
-msgstr "インストールに成功しました"
-
-msgctxt "SuccessHeader"
-msgid "Setup Successful"
-msgstr "セットアップに成功しました"
+#, fuzzy
+msgctxt "SuccessUnsafeUninstallHeader"
+msgid "Uninstall Successfully Completed"
+msgstr "アンインストールに成功しました"
 
 msgctxt "SuccessLaunchButton"
 msgid "&Launch"
@@ -158,6 +194,11 @@ msgstr "&起動"
 msgctxt "SuccessRestartText"
 msgid "You must restart your computer before you can use the software."
 msgstr "ソフトウェアの使用を開始する前にコンピューターを再起動する必要があります。"
+
+#, fuzzy
+msgctxt "SuccessUninstallRestartText"
+msgid "You must restart your computer to complete the removal of the software."
+msgstr "ソフトウェアのロールバックするため、コンピューターの再起動が必要です。"
 
 msgctxt "SuccessRestartButton"
 msgid "&Restart"
@@ -171,17 +212,37 @@ msgctxt "FailureHeader"
 msgid "Setup Failed"
 msgstr "セットアップに失敗しました"
 
+#, fuzzy
+msgctxt "FailureCacheHeader"
+msgid "Cache Failed"
+msgstr "セットアップに失敗しました"
+
 msgctxt "FailureInstallHeader"
 msgid "Setup Failed"
 msgstr "セットアップに失敗しました"
+
+#, fuzzy
+msgctxt "FailureLayoutHeader"
+msgid "Layout Failed"
+msgstr "セットアップに失敗しました"
+
+#, fuzzy
+msgctxt "FailureModifyHeader"
+msgid "Modify Failed"
+msgstr "セットアップを変更"
+
+msgctxt "FailureRepairHeader"
+msgid "Repair Failed"
+msgstr "修復に失敗しました"
 
 msgctxt "FailureUninstallHeader"
 msgid "Uninstall Failed"
 msgstr "アンインストールに失敗しました"
 
-msgctxt "FailureRepairHeader"
-msgid "Repair Failed"
-msgstr "修復に失敗しました"
+#, fuzzy
+msgctxt "FailureUnsafeUninstallHeader"
+msgid "Uninstall Failed"
+msgstr "アンインストールに失敗しました"
 
 msgctxt "FailureHyperlinkLogText"
 msgid "One or more issues caused the setup to fail. Please fix the issues and then retry setup. For more information see the <a href=\"#\">log file</a>."
@@ -199,13 +260,19 @@ msgctxt "FailureCloseButton"
 msgid "&Close"
 msgstr "&閉じる"
 
-msgctxt "FilesInUseHeader"
+#, fuzzy
+msgctxt "FilesInUseTitle"
 msgid "Files In Use"
 msgstr "ファイル使用中"
 
 msgctxt "FilesInUseLabel"
 msgid "The following applications are using files that need to be updated:"
 msgstr "以下のアプリケーションが更新が必要なファイルを使用しています:"
+
+#, fuzzy
+msgctxt "FilesInUseNetfxCloseRadioButton"
+msgid "Close the &applications."
+msgstr "&アプリケーション を閉じて再起動を試みてください。"
 
 msgctxt "FilesInUseCloseRadioButton"
 msgid "Close the &applications and attempt to restart them."
@@ -215,13 +282,17 @@ msgctxt "FilesInUseDontCloseRadioButton"
 msgid "&Do not close applications. A reboot will be required."
 msgstr "&アプリケーションを閉じません。 再起動が必要になります。"
 
-msgctxt "FilesInUseOkButton"
-msgid "&OK"
-msgstr "&OK"
+msgctxt "FilesInUseRetryButton"
+msgid "&Retry"
+msgstr ""
 
-msgctxt "FilesInUseCancelButton"
-msgid "&Cancel"
-msgstr "&キャンセル"
+msgctxt "FilesInUseIgnoreButton"
+msgid "&Ignore"
+msgstr ""
+
+msgctxt "FilesInUseExitButton"
+msgid "E&xit"
+msgstr ""
 
 msgctxt "ErrorFailNoActionReboot"
 msgid "No action was taken as a system reboot is required."
@@ -235,6 +306,14 @@ msgctxt "HlaeDisclaimer"
 msgid "This software is for your enjoyment and you are using it at your own risk."
 msgstr ""
 
+msgctxt "HlaeFfmpegTitle"
+msgid "FFMPEG"
+msgstr "FFMPEG"
+
+msgctxt "HlaeFfmpeg"
+msgid "FFMPEG can be used for encoding mirv_streams to videos."
+msgstr ""
+
 msgctxt "HlaeSetupModifyInfo"
 msgid "To modify the existing HLAE installation, please use the \"HLAE\" entry in the installed applications list instead."
 msgstr ""
@@ -242,6 +321,22 @@ msgstr ""
 msgctxt "HlaeRemoveAppData"
 msgid "Check to remove HLAE %APPDATA% folder upon uinstall (not recommended)."
 msgstr ""
+
+#~ msgctxt "InstallCloseButton"
+#~ msgid "&Close"
+#~ msgstr "&閉じる"
+
+#~ msgctxt "ModifyCloseButton"
+#~ msgid "&Close"
+#~ msgstr "&閉じる"
+
+#~ msgctxt "FilesInUseOkButton"
+#~ msgid "&OK"
+#~ msgstr "&OK"
+
+#~ msgctxt "FilesInUseCancelButton"
+#~ msgid "&Cancel"
+#~ msgstr "&キャンセル"
 
 #~ msgctxt "HlaeFeaturesHeader"
 #~ msgid "Features"

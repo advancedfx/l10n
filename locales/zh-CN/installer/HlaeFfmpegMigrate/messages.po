@@ -1,0 +1,75 @@
+#
+msgid ""
+msgstr ""
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "PackageName"
+msgid "HLAE FFMPEG"
+msgstr ""
+
+msgctxt "Manufacturer"
+msgid "advancedfx.org"
+msgstr "advancedfx.org"
+
+msgctxt "DowngradeErrorMessage"
+msgid "A newer version of [ProductName] is already installed."
+msgstr "计算机中已有更新版本的[ProductName]。"
+
+#, fuzzy
+#~ msgctxt "ApplicationName"
+#~ msgid "HLAE"
+#~ msgstr "HLAE 内核"
+
+#, fuzzy
+#~ msgctxt "FfmpegDlgReinstall"
+#~ msgid "Reinstall FFMPEG"
+#~ msgstr "正在安装 FFMPEG ..."
+
+#~ msgctxt "InstallFfmpeg"
+#~ msgid "Installing FFMPEG ..."
+#~ msgstr "正在安装 FFMPEG ..."
+
+#~ msgctxt "InstallFfmpegConnect_Template"
+#~ msgid "..."
+#~ msgstr "..."
+
+#~ msgctxt "InstallFfmpegDownload_Template"
+#~ msgid "[1] of [2] Bytes"
+#~ msgstr "[1] / [2] 字节"
+
+#, fuzzy
+#~ msgctxt "InstallFfmpegChecksum_Template"
+#~ msgid "[1] of [2] Bytes"
+#~ msgstr "[1] / [2] 字节"
+
+#~ msgctxt "InstallFfmpegExtract"
+#~ msgid "Extracting FFMPEG"
+#~ msgstr "正在解压 FFMPEG"
+
+#~ msgctxt "InstallFfmpegExtract_Template"
+#~ msgid "Item [1] of [2] ..."
+#~ msgstr "项目 [1] / [2] ..."
+
+#, fuzzy
+#~ msgctxt "AppFolderMustBeLatin"
+#~ msgid "The HLAE application folder path contains invalid characters: Only basic latin character set is allowed (7bit ASCII)."
+#~ msgstr ""
+#~ "HLAE安装路径包含无效字符：程序不支持中文路径，请选择英文路径（字母数字下划线等ASCII字符组成）。\n"
+#~ "   请重新选择符合要求的安装路径。"
+
+#~ msgctxt "FfmpegFeature"
+#~ msgid "Install FFMPEG from https://ffmpeg.zeranoe.com/builds/"
+#~ msgstr ""
+#~ "从 https://ffmpeg.zeranoe.com/builds/ 下载安装FFMPEG，FFMPEG配合HLAE可以直接录制得到MP4文件。\n"
+#~ "  某些地区下载速度慢，可以不勾选此项，手动安装FFMPEG。"
+
+#~ msgctxt "InstallFfmpegConnect"
+#~ msgid "Connecting to https://ffmpeg.zeranoe.com/"
+#~ msgstr "正在连接至 https://ffmpeg.zeranoe.com/"
+
+#~ msgctxt "InstallFfmpegDownload"
+#~ msgid "Downloading from https://ffmpeg.zeranoe.com/"
+#~ msgstr "正在从 https://ffmpeg.zeranoe.com/ 下载FFMPEG，某些地区下载速度慢，可以关闭并重新安装，不勾选FFMPEG，之后手动安装"

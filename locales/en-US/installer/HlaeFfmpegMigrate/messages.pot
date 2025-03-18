@@ -1,0 +1,18 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "PackageName"
+msgid "HLAE FFMPEG"
+msgstr ""
+
+msgctxt "Manufacturer"
+msgid "advancedfx.org"
+msgstr ""
+
+msgctxt "DowngradeErrorMessage"
+msgid "A newer version of [ProductName] is already installed."
+msgstr ""

@@ -14,12 +14,26 @@ msgctxt "Title"
 msgid "[WixBundleName]"
 msgstr "[WixBundleName]"
 
+msgctxt "CheckingForUpdatesLabel"
+msgid "Checking for updates"
+msgstr ""
+
+msgctxt "UpdateButton"
+msgid "&Update to version [WixStdBAUpdateAvailable]"
+msgstr ""
+
 msgctxt "InstallHeader"
 msgid "Welcome"
 msgstr "Tervetuloa"
 
+#, fuzzy
 msgctxt "InstallMessage"
-msgid "Setup will install [WixBundleName] on your computer. Click install to continue"
+msgid "Setup will install [WixBundleName] on your computer. Click Install to continue or Cancel to exit."
+msgstr "Asennus asentaa [WixBundleName] tietokoneellesi. Paina asenna jatkaaksesi"
+
+#, fuzzy
+msgctxt "InstallMessageOptions"
+msgid "Setup will install [WixBundleName] on your computer. Click Install to continue, Options to set installation options, or Cancel to exit."
 msgstr "Asennus asentaa [WixBundleName] tietokoneellesi. Paina asenna jatkaaksesi"
 
 msgctxt "InstallVersion"
@@ -78,9 +92,10 @@ msgctxt "InstallInstallButton"
 msgid "&Install"
 msgstr "&Asenna"
 
-msgctxt "InstallCloseButton"
-msgid "&Close"
-msgstr "&Sulje"
+#, fuzzy
+msgctxt "InstallCancelButton"
+msgid "&Cancel"
+msgstr "&Peruuta"
 
 msgctxt "OptionsHeader"
 msgid "Setup Options"
@@ -130,9 +145,33 @@ msgctxt "ModifyUninstallButton"
 msgid "&Uninstall"
 msgstr "&Poista asennus"
 
-msgctxt "ModifyCloseButton"
-msgid "&Close"
-msgstr "&Sulje"
+#, fuzzy
+msgctxt "ModifyCancelButton"
+msgid "&Cancel"
+msgstr "&Peruuta"
+
+msgctxt "SuccessHeader"
+msgid "Setup Successful"
+msgstr "Asennus onnistui"
+
+#, fuzzy
+msgctxt "SuccessCacheHeader"
+msgid "Cache Successfully Completed"
+msgstr "Asennuksen korjaus suoritettu onnistuneesti"
+
+msgctxt "SuccessInstallHeader"
+msgid "Installation Successfully Completed"
+msgstr "Asennus suoritettu onnistuneesti"
+
+#, fuzzy
+msgctxt "SuccessLayoutHeader"
+msgid "Layout Successfully Completed"
+msgstr "Asennuksen korjaus suoritettu onnistuneesti"
+
+#, fuzzy
+msgctxt "SuccessModifyHeader"
+msgid "Modify Successfully Completed"
+msgstr "Asennuksen korjaus suoritettu onnistuneesti"
 
 msgctxt "SuccessRepairHeader"
 msgid "Repair Successfully Completed"
@@ -142,13 +181,10 @@ msgctxt "SuccessUninstallHeader"
 msgid "Uninstall Successfully Completed"
 msgstr "Asennuksen poistaminen suoritettu onnistuneesti"
 
-msgctxt "SuccessInstallHeader"
-msgid "Installation Successfully Completed"
-msgstr "Asennus suoritettu onnistuneesti"
-
-msgctxt "SuccessHeader"
-msgid "Setup Successful"
-msgstr "Asennus onnistui"
+#, fuzzy
+msgctxt "SuccessUnsafeUninstallHeader"
+msgid "Uninstall Successfully Completed"
+msgstr "Asennuksen poistaminen suoritettu onnistuneesti"
 
 msgctxt "SuccessLaunchButton"
 msgid "&Launch"
@@ -157,6 +193,11 @@ msgstr "&Käynnistä"
 msgctxt "SuccessRestartText"
 msgid "You must restart your computer before you can use the software."
 msgstr "Sinun tulee käynnistää tietokoneesi uudelleen ennen ohjelman käyttöä."
+
+#, fuzzy
+msgctxt "SuccessUninstallRestartText"
+msgid "You must restart your computer to complete the removal of the software."
+msgstr "Sinun tulee käynnistää tietokoneesi uudelleen suorittaaksesi ohjelmiston palautuksen loppuun."
 
 msgctxt "SuccessRestartButton"
 msgid "&Restart"
@@ -170,17 +211,37 @@ msgctxt "FailureHeader"
 msgid "Setup Failed"
 msgstr "Asennus epäonnistui"
 
+#, fuzzy
+msgctxt "FailureCacheHeader"
+msgid "Cache Failed"
+msgstr "Asennus epäonnistui"
+
 msgctxt "FailureInstallHeader"
 msgid "Setup Failed"
 msgstr "Asennus epäonnistui"
+
+#, fuzzy
+msgctxt "FailureLayoutHeader"
+msgid "Layout Failed"
+msgstr "Asennus epäonnistui"
+
+#, fuzzy
+msgctxt "FailureModifyHeader"
+msgid "Modify Failed"
+msgstr "Muokkaa asennusta"
+
+msgctxt "FailureRepairHeader"
+msgid "Repair Failed"
+msgstr "Korjaaminen epäonnistui"
 
 msgctxt "FailureUninstallHeader"
 msgid "Uninstall Failed"
 msgstr "Asennuksen poistaminen epäonnistui"
 
-msgctxt "FailureRepairHeader"
-msgid "Repair Failed"
-msgstr "Korjaaminen epäonnistui"
+#, fuzzy
+msgctxt "FailureUnsafeUninstallHeader"
+msgid "Uninstall Failed"
+msgstr "Asennuksen poistaminen epäonnistui"
 
 msgctxt "FailureHyperlinkLogText"
 msgid "One or more issues caused the setup to fail. Please fix the issues and then retry setup. For more information see the <a href=\"#\">log file</a>."
@@ -198,13 +259,19 @@ msgctxt "FailureCloseButton"
 msgid "&Close"
 msgstr "&Sulje"
 
-msgctxt "FilesInUseHeader"
+#, fuzzy
+msgctxt "FilesInUseTitle"
 msgid "Files In Use"
 msgstr "Tiedostot ovat käytössä"
 
 msgctxt "FilesInUseLabel"
 msgid "The following applications are using files that need to be updated:"
 msgstr "Seuraavat ohjelmat käyttävät tiedostoja joita asennus yrittää päivittää:"
+
+#, fuzzy
+msgctxt "FilesInUseNetfxCloseRadioButton"
+msgid "Close the &applications."
+msgstr "Sulje &ohjelmat ja yritä käynnistää ne uudelleen."
 
 msgctxt "FilesInUseCloseRadioButton"
 msgid "Close the &applications and attempt to restart them."
@@ -214,13 +281,17 @@ msgctxt "FilesInUseDontCloseRadioButton"
 msgid "&Do not close applications. A reboot will be required."
 msgstr "&Älä sulje ohjelmia. Tämä vaatii uudelleenkäynnistyksen."
 
-msgctxt "FilesInUseOkButton"
-msgid "&OK"
-msgstr "&OK"
+msgctxt "FilesInUseRetryButton"
+msgid "&Retry"
+msgstr ""
 
-msgctxt "FilesInUseCancelButton"
-msgid "&Cancel"
-msgstr "&Peruuta"
+msgctxt "FilesInUseIgnoreButton"
+msgid "&Ignore"
+msgstr ""
+
+msgctxt "FilesInUseExitButton"
+msgid "E&xit"
+msgstr ""
 
 msgctxt "ErrorFailNoActionReboot"
 msgid "No action was taken as a system reboot is required."
@@ -234,6 +305,14 @@ msgctxt "HlaeDisclaimer"
 msgid "This software is for your enjoyment and you are using it at your own risk."
 msgstr "Ohjelman lataaminen, asentaminen ja käyttäminen tapahtuvat käyttäjän omalla vastuulla."
 
+msgctxt "HlaeFfmpegTitle"
+msgid "FFMPEG"
+msgstr "FFMPEG"
+
+msgctxt "HlaeFfmpeg"
+msgid "FFMPEG can be used for encoding mirv_streams to videos."
+msgstr ""
+
 msgctxt "HlaeSetupModifyInfo"
 msgid "To modify the existing HLAE installation, please use the \"HLAE\" entry in the installed applications list instead."
 msgstr ""
@@ -241,6 +320,22 @@ msgstr ""
 msgctxt "HlaeRemoveAppData"
 msgid "Check to remove HLAE %APPDATA% folder upon uinstall (not recommended)."
 msgstr ""
+
+#~ msgctxt "InstallCloseButton"
+#~ msgid "&Close"
+#~ msgstr "&Sulje"
+
+#~ msgctxt "ModifyCloseButton"
+#~ msgid "&Close"
+#~ msgstr "&Sulje"
+
+#~ msgctxt "FilesInUseOkButton"
+#~ msgid "&OK"
+#~ msgstr "&OK"
+
+#~ msgctxt "FilesInUseCancelButton"
+#~ msgid "&Cancel"
+#~ msgstr "&Peruuta"
 
 #~ msgctxt "HlaeFeaturesHeader"
 #~ msgid "Features"

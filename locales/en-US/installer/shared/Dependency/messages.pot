@@ -1,0 +1,14 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "msierrDependencyMissingDependencies"
+msgid "If you continue with this install, the product may not work properly because [2] or more dependencies are missing. Do you want to continue with this install anyway?"
+msgstr ""
+
+msgctxt "msierrDependencyHasDependents"
+msgid "If you continue with this uninstall, [2] or more products may stop working properly. Do you want to continue with this uninstall anyway?"
+msgstr ""

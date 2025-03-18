@@ -1,0 +1,77 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"PO-Revision-Date: 2020-06-07 09:50+0000\n"
+"Last-Translator: andrea68 <witeZ68@outlook.it>\n"
+"Language-Team: Italian\n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pontoon\n"
+
+msgctxt "PackageName"
+msgid "HLAE FFMPEG"
+msgstr ""
+
+msgctxt "Manufacturer"
+msgid "advancedfx.org"
+msgstr "advancedfx.org"
+
+msgctxt "DowngradeErrorMessage"
+msgid "A newer version of [ProductName] is already installed."
+msgstr "Una nuova versione di [ProductName] è già installata"
+
+#, fuzzy
+#~ msgctxt "ApplicationName"
+#~ msgid "HLAE"
+#~ msgstr "Core di HLAE"
+
+#, fuzzy
+#~ msgctxt "FfmpegDlgReinstall"
+#~ msgid "Reinstall FFMPEG"
+#~ msgstr "Installazione di FFMPEG in corso..."
+
+#~ msgctxt "InstallFfmpeg"
+#~ msgid "Installing FFMPEG ..."
+#~ msgstr "Installazione di FFMPEG in corso..."
+
+#~ msgctxt "InstallFfmpegConnect_Template"
+#~ msgid "..."
+#~ msgstr "..."
+
+#~ msgctxt "InstallFfmpegDownload_Template"
+#~ msgid "[1] of [2] Bytes"
+#~ msgstr "[1] di [2] Bytes"
+
+#, fuzzy
+#~ msgctxt "InstallFfmpegChecksum_Template"
+#~ msgid "[1] of [2] Bytes"
+#~ msgstr "[1] di [2] Bytes"
+
+#~ msgctxt "InstallFfmpegExtract"
+#~ msgid "Extracting FFMPEG"
+#~ msgstr "Estraendo FFMPEG"
+
+#~ msgctxt "InstallFfmpegExtract_Template"
+#~ msgid "Item [1] of [2] ..."
+#~ msgstr "Elemento [1] di [2] ..."
+
+#, fuzzy
+#~ msgctxt "AppFolderMustBeLatin"
+#~ msgid "The HLAE application folder path contains invalid characters: Only basic latin character set is allowed (7bit ASCII)."
+#~ msgstr "La cartella di HLAE contiene caratteri non validi: Solo caratteri latini di base sono ammessi. Per favore scegli una diversa cartella che rispetti tali regole"
+
+#~ msgctxt "FfmpegFeature"
+#~ msgid "Install FFMPEG from https://ffmpeg.zeranoe.com/builds/"
+#~ msgstr "Installa FFMPEG da https://ffmpeg.zeranoe.com/builds/"
+
+#~ msgctxt "InstallFfmpegConnect"
+#~ msgid "Connecting to https://ffmpeg.zeranoe.com/"
+#~ msgstr "Connessione a https://ffmpeg.zeranoe.com/ in corso"
+
+#~ msgctxt "InstallFfmpegDownload"
+#~ msgid "Downloading from https://ffmpeg.zeranoe.com/"
+#~ msgstr "Download da https://ffmpeg.zeranoe.com/ in corso"

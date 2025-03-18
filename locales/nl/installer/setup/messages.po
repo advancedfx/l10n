@@ -20,12 +20,26 @@ msgctxt "Title"
 msgid "[WixBundleName]"
 msgstr "[WixBundleName]"
 
+msgctxt "CheckingForUpdatesLabel"
+msgid "Checking for updates"
+msgstr ""
+
+msgctxt "UpdateButton"
+msgid "&Update to version [WixStdBAUpdateAvailable]"
+msgstr ""
+
 msgctxt "InstallHeader"
 msgid "Welcome"
 msgstr "Welkom"
 
+#, fuzzy
 msgctxt "InstallMessage"
-msgid "Setup will install [WixBundleName] on your computer. Click install to continue"
+msgid "Setup will install [WixBundleName] on your computer. Click Install to continue or Cancel to exit."
+msgstr "Door de setup moet [WixBundleName] worden geïnstalleerd, klik op installeren om door te gaan"
+
+#, fuzzy
+msgctxt "InstallMessageOptions"
+msgid "Setup will install [WixBundleName] on your computer. Click Install to continue, Options to set installation options, or Cancel to exit."
 msgstr "Door de setup moet [WixBundleName] worden geïnstalleerd, klik op installeren om door te gaan"
 
 msgctxt "InstallVersion"
@@ -83,9 +97,10 @@ msgctxt "InstallInstallButton"
 msgid "&Install"
 msgstr "&Installeren"
 
-msgctxt "InstallCloseButton"
-msgid "&Close"
-msgstr "&Sluiten"
+#, fuzzy
+msgctxt "InstallCancelButton"
+msgid "&Cancel"
+msgstr "&Annuleren"
 
 msgctxt "OptionsHeader"
 msgid "Setup Options"
@@ -135,9 +150,33 @@ msgctxt "ModifyUninstallButton"
 msgid "&Uninstall"
 msgstr "&De-installeren"
 
-msgctxt "ModifyCloseButton"
-msgid "&Close"
-msgstr "&Sluiten"
+#, fuzzy
+msgctxt "ModifyCancelButton"
+msgid "&Cancel"
+msgstr "&Annuleren"
+
+msgctxt "SuccessHeader"
+msgid "Setup Successful"
+msgstr "Installatie succesvol"
+
+#, fuzzy
+msgctxt "SuccessCacheHeader"
+msgid "Cache Successfully Completed"
+msgstr "Reparatie succesvol"
+
+msgctxt "SuccessInstallHeader"
+msgid "Installation Successfully Completed"
+msgstr "Installatie succesvol"
+
+#, fuzzy
+msgctxt "SuccessLayoutHeader"
+msgid "Layout Successfully Completed"
+msgstr "Reparatie succesvol"
+
+#, fuzzy
+msgctxt "SuccessModifyHeader"
+msgid "Modify Successfully Completed"
+msgstr "Reparatie succesvol"
 
 msgctxt "SuccessRepairHeader"
 msgid "Repair Successfully Completed"
@@ -147,13 +186,10 @@ msgctxt "SuccessUninstallHeader"
 msgid "Uninstall Successfully Completed"
 msgstr "De-installatie succesvol"
 
-msgctxt "SuccessInstallHeader"
-msgid "Installation Successfully Completed"
-msgstr "Installatie succesvol"
-
-msgctxt "SuccessHeader"
-msgid "Setup Successful"
-msgstr "Installatie succesvol"
+#, fuzzy
+msgctxt "SuccessUnsafeUninstallHeader"
+msgid "Uninstall Successfully Completed"
+msgstr "De-installatie succesvol"
 
 msgctxt "SuccessLaunchButton"
 msgid "&Launch"
@@ -162,6 +198,11 @@ msgstr "&Start"
 msgctxt "SuccessRestartText"
 msgid "You must restart your computer before you can use the software."
 msgstr "De computer moet opnieuw worden opgestart voor de software gebruikt kan worden."
+
+#, fuzzy
+msgctxt "SuccessUninstallRestartText"
+msgid "You must restart your computer to complete the removal of the software."
+msgstr "De computer moet opnieuw worden opgestart voor de software teruggedraaid kan worden."
 
 msgctxt "SuccessRestartButton"
 msgid "&Restart"
@@ -175,17 +216,37 @@ msgctxt "FailureHeader"
 msgid "Setup Failed"
 msgstr "Installatie is mislukt"
 
+#, fuzzy
+msgctxt "FailureCacheHeader"
+msgid "Cache Failed"
+msgstr "Installatie is mislukt"
+
 msgctxt "FailureInstallHeader"
 msgid "Setup Failed"
 msgstr "Installatie is mislukt"
+
+#, fuzzy
+msgctxt "FailureLayoutHeader"
+msgid "Layout Failed"
+msgstr "Installatie is mislukt"
+
+#, fuzzy
+msgctxt "FailureModifyHeader"
+msgid "Modify Failed"
+msgstr "Installatie aanpassen"
+
+msgctxt "FailureRepairHeader"
+msgid "Repair Failed"
+msgstr "Reparatie is mislukt"
 
 msgctxt "FailureUninstallHeader"
 msgid "Uninstall Failed"
 msgstr "De-installatie is mislukt"
 
-msgctxt "FailureRepairHeader"
-msgid "Repair Failed"
-msgstr "Reparatie is mislukt"
+#, fuzzy
+msgctxt "FailureUnsafeUninstallHeader"
+msgid "Uninstall Failed"
+msgstr "De-installatie is mislukt"
 
 msgctxt "FailureHyperlinkLogText"
 msgid "One or more issues caused the setup to fail. Please fix the issues and then retry setup. For more information see the <a href=\"#\">log file</a>."
@@ -203,13 +264,19 @@ msgctxt "FailureCloseButton"
 msgid "&Close"
 msgstr "&Sluiten"
 
-msgctxt "FilesInUseHeader"
+#, fuzzy
+msgctxt "FilesInUseTitle"
 msgid "Files In Use"
 msgstr "Bestanden in gebruik"
 
 msgctxt "FilesInUseLabel"
 msgid "The following applications are using files that need to be updated:"
 msgstr "De volgende programma's gebruiken bestanden die geüpdate moeten worden:"
+
+#, fuzzy
+msgctxt "FilesInUseNetfxCloseRadioButton"
+msgid "Close the &applications."
+msgstr "Sluit de &programma's en probeer ze opnieuw op te starten."
 
 msgctxt "FilesInUseCloseRadioButton"
 msgid "Close the &applications and attempt to restart them."
@@ -219,13 +286,17 @@ msgctxt "FilesInUseDontCloseRadioButton"
 msgid "&Do not close applications. A reboot will be required."
 msgstr "&Sluit de programma's niet. De computer moet worden herstart."
 
-msgctxt "FilesInUseOkButton"
-msgid "&OK"
-msgstr "&Oke"
+msgctxt "FilesInUseRetryButton"
+msgid "&Retry"
+msgstr ""
 
-msgctxt "FilesInUseCancelButton"
-msgid "&Cancel"
-msgstr "&Annuleren"
+msgctxt "FilesInUseIgnoreButton"
+msgid "&Ignore"
+msgstr ""
+
+msgctxt "FilesInUseExitButton"
+msgid "E&xit"
+msgstr ""
 
 msgctxt "ErrorFailNoActionReboot"
 msgid "No action was taken as a system reboot is required."
@@ -239,6 +310,14 @@ msgctxt "HlaeDisclaimer"
 msgid "This software is for your enjoyment and you are using it at your own risk."
 msgstr "De software is voor eigen gebruik en word gebruikt op eigen risico."
 
+msgctxt "HlaeFfmpegTitle"
+msgid "FFMPEG"
+msgstr "FFMPEG"
+
+msgctxt "HlaeFfmpeg"
+msgid "FFMPEG can be used for encoding mirv_streams to videos."
+msgstr ""
+
 msgctxt "HlaeSetupModifyInfo"
 msgid "To modify the existing HLAE installation, please use the \"HLAE\" entry in the installed applications list instead."
 msgstr ""
@@ -246,6 +325,22 @@ msgstr ""
 msgctxt "HlaeRemoveAppData"
 msgid "Check to remove HLAE %APPDATA% folder upon uinstall (not recommended)."
 msgstr ""
+
+#~ msgctxt "InstallCloseButton"
+#~ msgid "&Close"
+#~ msgstr "&Sluiten"
+
+#~ msgctxt "ModifyCloseButton"
+#~ msgid "&Close"
+#~ msgstr "&Sluiten"
+
+#~ msgctxt "FilesInUseOkButton"
+#~ msgid "&OK"
+#~ msgstr "&Oke"
+
+#~ msgctxt "FilesInUseCancelButton"
+#~ msgid "&Cancel"
+#~ msgstr "&Annuleren"
 
 #~ msgctxt "HlaeFeaturesHeader"
 #~ msgid "Features"

@@ -35,7 +35,7 @@ msgstr "FFMPEG"
 #, fuzzy
 msgctxt "FfmpegDescription"
 msgid "FFMPEG can be used for encoding mirv_streams to videos."
-msgstr "To modify an existing HLAE installation, please use the \"Modify\" option in the \"Application and Windows\" panel."
+msgstr ""
 
 msgctxt "FfmpegDlgTitle"
 msgid "{\\WixUI_Font_Title}FFMPEG"
