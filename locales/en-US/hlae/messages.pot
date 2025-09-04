@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hlae\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-18 19:07+0100\n"
+"POT-Creation-Date: 2025-09-04 09:30+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -338,9 +338,9 @@ msgstr ""
 #: HlaeErrors.cs:106
 msgctxt "HLAE errors"
 msgid ""
-"Make sure you entered the correct path to the game .exe and included the ."
-"exe file. Copy the path from the game properties in Steam to make sure you "
-"are using the correct path."
+"Make sure you entered the correct path to the game .exe and included "
+"the .exe file. Copy the path from the game properties in Steam to make sure "
+"you are using the correct path."
 msgstr ""
 
 #: HlaeErrors.cs:111
@@ -369,8 +369,8 @@ msgstr ""
 #: HlaeErrors.cs:131
 msgctxt "HLAE errors"
 msgid ""
-"Make sure to close any anti-cheat software and that the path to the game ."
-"exe is correct."
+"Make sure to close any anti-cheat software and that the path to the "
+"game .exe is correct."
 msgstr ""
 
 #: HlaeErrors.cs:140
@@ -802,7 +802,7 @@ msgstr ""
 
 #: MainForm.cs:56
 msgctxt "Main window | menu | Help"
-msgid "Official Website"
+msgid "Official GitHub"
 msgstr ""
 
 #: MainForm.cs:58
@@ -841,7 +841,7 @@ msgid "Update status unknown"
 msgstr ""
 
 #: MainForm.cs:69
-msgid "Contact / Privacy Policy / Imprint (advancedfx.org)"
+msgid "Contact"
 msgstr ""
 
 #: MainForm.cs:71

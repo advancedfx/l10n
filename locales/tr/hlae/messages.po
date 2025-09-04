@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hlae\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-02-14 11:32+0100\n"
+"POT-Creation-Date: 2025-09-04 09:30+0200\n"
 "PO-Revision-Date: 2023-03-27 17:41+0000\n"
 "Last-Translator: Twissen <selimcan.krgzl@gmail.com>\n"
 "Language-Team: Turkish\n"
@@ -798,8 +798,8 @@ msgstr "Şimdi Kontrol Et"
 
 #: MainForm.cs:56
 msgctxt "Main window | menu | Help"
-msgid "Official Website"
-msgstr "Resmi Website"
+msgid "Official GitHub"
+msgstr "Resmi GitHub"
 
 #: MainForm.cs:58
 msgctxt "Main window | menu"
@@ -837,8 +837,8 @@ msgid "Update status unknown"
 msgstr "Güncelleştirme durumu belirsiz"
 
 #: MainForm.cs:69
-msgid "Contact / Privacy Policy / Imprint (advancedfx.org)"
-msgstr "İletişim / Gizlilik Politikası / Künye (advancedfx.org)"
+msgid "Contact"
+msgstr "İletişim"
 
 #: MainForm.cs:71
 msgid "Help"

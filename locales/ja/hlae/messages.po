@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hlae\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-02-14 11:32+0100\n"
+"POT-Creation-Date: 2025-09-04 09:30+0200\n"
 "PO-Revision-Date: 2020-08-04 20:08+0000\n"
 "Last-Translator: Dominik <dominik@matrixstorm.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -810,8 +810,8 @@ msgstr "今すぐ確認する"
 
 #: MainForm.cs:56
 msgctxt "Main window | menu | Help"
-msgid "Official Website"
-msgstr "公式ウェブサイト"
+msgid "Official GitHub"
+msgstr "公式GitHub"
 
 #: MainForm.cs:58
 msgctxt "Main window | menu"
@@ -849,8 +849,8 @@ msgid "Update status unknown"
 msgstr "アップデート状況不明"
 
 #: MainForm.cs:69
-msgid "Contact / Privacy Policy / Imprint (advancedfx.org)"
-msgstr "連絡 / プライバシーポリシー / 規約 (advancedfx.org)"
+msgid "Contact"
+msgstr "連絡"
 
 #: MainForm.cs:71
 msgid "Help"

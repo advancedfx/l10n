@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hlae\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-02-14 11:32+0100\n"
+"POT-Creation-Date: 2025-09-04 09:30+0200\n"
 "PO-Revision-Date: 2020-01-26 19:25+0000\n"
 "Last-Translator: fiskal.rafael <fiskal.rafael@gmail.com>\n"
 "Language-Team: Hungarian\n"
@@ -811,8 +811,8 @@ msgstr "Ellenőrzés Most"
 
 #: MainForm.cs:56
 msgctxt "Main window | menu | Help"
-msgid "Official Website"
-msgstr "Hivatalos Weboldal"
+msgid "Official GitHub"
+msgstr "Hivatalos GitHub"
 
 #: MainForm.cs:58
 msgctxt "Main window | menu"
@@ -850,7 +850,7 @@ msgid "Update status unknown"
 msgstr "Frissítési állapot nem ismert"
 
 #: MainForm.cs:69
-msgid "Contact / Privacy Policy / Imprint (advancedfx.org)"
+msgid "Contact"
 msgstr ""
 
 #: MainForm.cs:71

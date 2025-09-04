@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hlae\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-02-14 11:32+0100\n"
+"POT-Creation-Date: 2025-09-04 09:30+0200\n"
 "PO-Revision-Date: 2025-02-14 11:20+0100\n"
 "Last-Translator: yovaN <akkardeon@gmail.com>\n"
 "Language-Team: Russian\n"
@@ -796,8 +796,8 @@ msgstr "Проверить сейчас"
 
 #: MainForm.cs:56
 msgctxt "Main window | menu | Help"
-msgid "Official Website"
-msgstr "Официальный сайт"
+msgid "Official GitHub"
+msgstr "Официальный GitHub"
 
 #: MainForm.cs:58
 msgctxt "Main window | menu"
@@ -835,8 +835,8 @@ msgid "Update status unknown"
 msgstr "Состояние обновлений неизвестно"
 
 #: MainForm.cs:69
-msgid "Contact / Privacy Policy / Imprint (advancedfx.org)"
-msgstr "Контакты / Политика конфиденциальности / Выходные сведения (advancedfx.org)"
+msgid "Contact"
+msgstr "Контакты"
 
 #: MainForm.cs:71
 msgid "Help"
