@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hlae\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-09-04 09:30+0200\n"
+"POT-Creation-Date: 2025-09-16 02:56+0400\n"
 "PO-Revision-Date: 2023-03-27 17:41+0000\n"
 "Last-Translator: Twissen <selimcan.krgzl@gmail.com>\n"
 "Language-Team: Turkish\n"
@@ -201,7 +201,7 @@ msgstr "Yineleme durduruldu."
 msgid "Saving to \"{0}\" failed."
 msgstr "\"{0}\" kaydetmede başarısız olundu."
 
-#: Config.cs:56 Config.cs:200
+#: Config.cs:56 Config.cs:200 Config.cs:238
 msgctxt "Config (game path)"
 msgid "please select"
 msgstr "lütfen seçiniz"
@@ -489,6 +489,106 @@ msgctxt "Launch CS:GO dialog | MmcfgFolder Title"
 msgid "About movie making config parent folder"
 msgstr "Movie making ayar klasörü hakkında"
 
+#: LaunchCs2Form.cs:20
+msgctxt "Launch CS2 dialog"
+msgid "Launch CS2 ..."
+msgstr "CS2'yu Başlat ..."
+
+#: LaunchCs2Form.cs:21
+msgctxt "Launch CS2 dialog"
+msgid "Game"
+msgstr "Oyun"
+
+#: LaunchCs2Form.cs:22
+msgctxt "Launch CS2 dialog"
+msgid "cs2.exe file:"
+msgstr "cs2.exe dosyası:"
+
+#: LaunchCs2Form.cs:23 LaunchCs2Form.cs:27
+msgctxt "Launch CS2 dialog"
+msgid "Browse ..."
+msgstr "Göz at ..."
+
+#: LaunchCs2Form.cs:24
+msgctxt "Launch CS2 dialog"
+msgid "Moviemaking config parent folder"
+msgstr "Movie making ayar klasörü"
+
+#: LaunchCs2Form.cs:25
+msgctxt "Launch CS2 dialog"
+msgid "What's this?"
+msgstr "Bu ne anlama geliyor?"
+
+#: LaunchCs2Form.cs:26 LaunchCs2Form.cs:29
+msgctxt "Launch CS2 dialog"
+msgid "enable"
+msgstr "etkinleştir"
+
+#: LaunchCs2Form.cs:28
+msgctxt "Launch CS2 dialog"
+msgid "Graphics Resolution"
+msgstr "Grafik Çözünürlüğü"
+
+#: LaunchCs2Form.cs:30
+msgctxt "Launch CS2 dialog"
+msgid "Width:"
+msgstr "Genişlik:"
+
+#: LaunchCs2Form.cs:31
+msgctxt "Launch CS2 dialog"
+msgid "Height:"
+msgstr "Yükseklik:"
+
+#: LaunchCs2Form.cs:32
+msgctxt "Launch CS2 dialog"
+msgid "Actual results depend on the game."
+msgstr "Ayarlarınız oyunda değişkenlik gösterebilir."
+
+#: LaunchCs2Form.cs:33
+msgctxt "Launch CS2 dialog"
+msgid "full screen"
+msgstr "tam ekran"
+
+#: LaunchCs2Form.cs:34
+msgctxt "Launch CS2 dialog"
+msgid "Custom command line options"
+msgstr "Özel komut satırı ayarları"
+
+#: LaunchCs2Form.cs:35
+#, csharp-format
+msgctxt "Launch CS2 dialog"
+msgid "{0} (prevents joining VAC secured server / VAC bans)"
+msgstr "(VAC korumalı sunuculara girmeyi engeller / VAC yasağı yemenizi önler)"
+
+#: LaunchCs2Form.cs:36
+msgctxt "Launch CS2 dialog"
+msgid "remember my changes"
+msgstr "yaptığım değişikleri kaydet"
+
+#: LaunchCs2Form.cs:37
+msgctxt "Launch CS2 dialog"
+msgid "L&aunch"
+msgstr "B&aşlat"
+
+#: LaunchCs2Form.cs:38
+msgctxt "Launch CS2 dialog"
+msgid "Can&cel"
+msgstr "İp&tal"
+
+#: LaunchCs2Form.cs:108
+#, fuzzy
+msgctxt "Launch CS2 dialog | MmcfgFolder Description"
+msgid ""
+"When enabled you can set a parent folder for your moviemaking config for the game.\n"
+"The game will create a sub-folder called cfg there and store configuration/video settings in that folder.\n"
+"Also you can put your moviemaking config into that cfg sub-folder."
+msgstr ""
+
+#: LaunchCs2Form.cs:109
+msgctxt "Launch CS2 dialog | MmcfgFolder Title"
+msgid "About moviemaking config parent folder"
+msgstr "Movie making ayar klasörü hakkında"
+
 #: Launcher.cs:35
 msgctxt "Launcher dialog"
 msgid "Launching failed."
@@ -693,236 +793,241 @@ msgstr "Dosya"
 
 #: MainForm.cs:31
 msgctxt "Main window | menu | File"
+msgid "Launch CS2"
+msgstr "CS2'yu Başlat"
+
+#: MainForm.cs:32
+msgctxt "Main window | menu | File"
 msgid "Launch CS:GO"
 msgstr "CSGO'yu Başlat"
 
-#: MainForm.cs:32
+#: MainForm.cs:33
 msgctxt "Main window | menu | File"
 msgid "Launch GoldSrc"
 msgstr "GoldSrc'yi Başlat"
 
-#: MainForm.cs:33
+#: MainForm.cs:34
 msgctxt "Main window | menu | File"
 msgid "Exit"
 msgstr "Çıkış"
 
-#: MainForm.cs:35
+#: MainForm.cs:36
 msgctxt "Main Window | menu"
 msgid "View"
 msgstr "Görüntüle"
 
-#: MainForm.cs:36
+#: MainForm.cs:37
 msgctxt "Main window | menu | View"
 msgid "Status Bar"
 msgstr "Durum Çubuğu"
 
-#: MainForm.cs:38
+#: MainForm.cs:39
 msgctxt "Main window | menu"
 msgid "Tools"
 msgstr "Araçlar"
 
-#: MainForm.cs:39
+#: MainForm.cs:40
 msgctxt "Main window | menu | Tools"
 msgid "Calculators"
 msgstr "Hesaplamalar"
 
-#: MainForm.cs:40
+#: MainForm.cs:41
 msgctxt "Main window | menu | Tools | Calculators"
 msgid "File Size"
 msgstr "Dosya Boyutu"
 
-#: MainForm.cs:41
+#: MainForm.cs:42
 msgctxt "Main window | menu | Tools"
 msgid "Color Lookup Tables"
 msgstr "Renk Arama Tabloları"
 
-#: MainForm.cs:42
+#: MainForm.cs:43
 msgctxt "Main window | menu | Tools | Color Lookup Tables"
 msgid "Voronoi"
 msgstr "Voronoi"
 
-#: MainForm.cs:43
+#: MainForm.cs:44
 msgctxt "Main window | menu | Tools"
 msgid "GoldSrc"
 msgstr "GoldSrc"
 
-#: MainForm.cs:44
+#: MainForm.cs:45
 msgctxt "Main window | menu | Tools | GoldSrc"
 msgid "Demo Tools"
 msgstr "Demo Araçları"
 
-#: MainForm.cs:45
+#: MainForm.cs:46
 msgctxt "Main window | menu | Tools | GoldSrc"
 msgid "Sky Manager"
 msgstr "Gökyüzü Düzenleyicisi"
 
-#: MainForm.cs:47
+#: MainForm.cs:48
 msgctxt "Main window | menu | Tools"
 msgid "Developer"
 msgstr "Geliştirici"
 
-#: MainForm.cs:48
+#: MainForm.cs:49
 msgctxt "Main window | menu | Tools | Developer"
 msgid "Custom Loader"
 msgstr "Özel Yükleyici"
 
-#: MainForm.cs:49
+#: MainForm.cs:50
 msgctxt "Main window | menu | Tools | Developer"
 msgid "Own GUID to ClipBoard"
 msgstr "Kendi GUID'ni Panoya"
 
-#: MainForm.cs:50
+#: MainForm.cs:51
 msgctxt "Main window | menu | Tools | Developer"
 msgid "New GUID to ClipBoard"
 msgstr "Yeni GUID'yi Panoya"
 
-#: MainForm.cs:52
+#: MainForm.cs:53
 msgctxt "Main window | menu"
 msgid "Help"
 msgstr "Yardım"
 
-#: MainForm.cs:53
+#: MainForm.cs:54
 msgctxt "Main window | menu | Help"
 msgid "Check for Updates"
 msgstr "Güncelleştirmeleri Kontrol Et"
 
-#: MainForm.cs:54
+#: MainForm.cs:55
 msgctxt "Main window | menu | Help | Check for Updates"
 msgid "Auto Check"
 msgstr "Otomatik Kontrol Et"
 
-#: MainForm.cs:55
+#: MainForm.cs:56
 msgctxt "Main window | menu | Help | Check for Updates"
 msgid "Check Now"
 msgstr "Şimdi Kontrol Et"
 
-#: MainForm.cs:56
+#: MainForm.cs:57
 msgctxt "Main window | menu | Help"
 msgid "Official GitHub"
 msgstr "Resmi GitHub"
 
-#: MainForm.cs:58
+#: MainForm.cs:59
 msgctxt "Main window | menu"
 msgid "Donate"
 msgstr "Bağış Yap"
 
-#: MainForm.cs:60
+#: MainForm.cs:61
 msgctxt "Main window | check updates strip"
 msgid "Check for updates automatically?"
 msgstr "Güncelleştirmeler otomatik olarak kontrol edilsin mi?"
 
-#: MainForm.cs:61
+#: MainForm.cs:62
 msgctxt "Main window | check updates strip"
 msgid "Yes"
 msgstr "Evet"
 
-#: MainForm.cs:62
+#: MainForm.cs:63
 msgctxt "Main window | check updates strip"
 msgid "No"
 msgstr "Hayır"
 
-#: MainForm.cs:65
+#: MainForm.cs:66
 msgctxt "Main window | update status strip"
 msgid "Ignore"
 msgstr "Yoksay"
 
-#: MainForm.cs:66
+#: MainForm.cs:67
 msgctxt "Main window | update status strip"
 msgid "OK"
 msgstr "Tamam"
 
-#: MainForm.cs:67
+#: MainForm.cs:68
 msgctxt "Main window | update status strip | label"
 msgid "Update status unknown"
 msgstr "Güncelleştirme durumu belirsiz"
 
-#: MainForm.cs:69
+#: MainForm.cs:70
 msgid "Contact"
 msgstr "İletişim"
 
-#: MainForm.cs:71
+#: MainForm.cs:72
 msgid "Help"
 msgstr "Yardım"
 
-#: MainForm.cs:72
+#: MainForm.cs:73
 msgid "Language:"
 msgstr "Dil:"
 
-#: MainForm.cs:73
+#: MainForm.cs:74
 msgid "Selection:"
 msgstr "Seçim:"
 
-#: MainForm.cs:75
+#: MainForm.cs:76
 msgid "Official support page (English)"
 msgstr "Resmi destek sayfası (İngilizce)"
 
-#: MainForm.cs:76
+#: MainForm.cs:77
 msgid "HLAE Chinese Station"
 msgstr "HLAE Çince Websitesi"
 
-#: MainForm.cs:79
+#: MainForm.cs:80
 msgctxt "Language"
 msgid "English (en)"
 msgstr "İngilizce (en)"
 
-#: MainForm.cs:82
+#: MainForm.cs:83
 msgctxt "Language"
 msgid "Chinese (zh-CN)"
 msgstr "Çince (zh-CN)"
 
-#: MainForm.cs:129
+#: MainForm.cs:130
 msgid "HLAE path error"
 msgstr "HLAE dizin hatası"
 
-#: MainForm.cs:130
+#: MainForm.cs:131
 msgid "HLAE path:"
 msgstr "HLAE dizini:"
 
-#: MainForm.cs:132
+#: MainForm.cs:133
 msgid "Warning: Your HLAE path shown above contains non-basic latin characters (meaning characters outside the 7-bit ASCII range), which will lead to multiple problems in-game if not fixed!"
 msgstr "Uyarı: Belirttiğiniz HLAE dizininiz temel (7-bit ASCII aralığında) olmayan latin karakterler içeriyor. Şayet bu düzeltilmezse, oyun içerisinde çeşitli problemlere yol açabilir."
 
-#: MainForm.cs:137
+#: MainForm.cs:138
 msgid "VAC warning"
 msgstr ""
 
-#: MainForm.cs:138
+#: MainForm.cs:139
 msgid "The HLAE tool is technically a hack, therefore you should only use it for making gaming videos or watching demos. Joining VAC protected servers with HLAE will probably get you VAC banned."
 msgstr ""
 
-#: MainForm.cs:139 MainForm.cs:146
+#: MainForm.cs:140 MainForm.cs:147
 #, fuzzy
 msgid "OK"
 msgstr "Tamam"
 
-#: MainForm.cs:144
+#: MainForm.cs:145
 msgid "Epilepsy warning"
 msgstr ""
 
-#: MainForm.cs:145
+#: MainForm.cs:146
 msgid "This software may cause fast-changing images and colors on your screen."
 msgstr ""
 
-#: MainForm.cs:148
+#: MainForm.cs:149
 msgid "Frequently Asked Questions (FAQ)"
 msgstr ""
 
-#: MainForm.cs:215
+#: MainForm.cs:216
 msgctxt "Main window | update status strip | label"
 msgid "Update available!"
 msgstr "Güncelleştirme mevcut!"
 
-#: MainForm.cs:224
+#: MainForm.cs:225
 msgctxt "Main window | update status strip | label"
 msgid "Your version is up to date :)"
 msgstr "Versiyonunuz güncel :)"
 
-#: MainForm.cs:236
+#: MainForm.cs:237
 msgctxt "Main window | update status strip | label"
 msgid "Update check failed :("
 msgstr "Güncelleştirmeler kontrol edilemedi :("
 
-#: MainForm.cs:245
+#: MainForm.cs:246
 msgctxt "Main window | update status strip | label"
 msgid "Checking for updates ..."
 msgstr "Güncelleştirmeler kontrol ediliyor ..."
