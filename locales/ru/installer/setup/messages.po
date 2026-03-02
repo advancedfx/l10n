@@ -318,7 +318,7 @@ msgstr "FFMPEG"
 
 msgctxt "HlaeFfmpeg"
 msgid "FFMPEG can be used for encoding mirv_streams to videos."
-msgstr "FFMPEG может быть использован для перекодировки mirv_streams в видео.
+msgstr "FFMPEG может быть использован для перекодировки mirv_streams в видео."
 
 msgctxt "HlaeSetupModifyInfo"
 msgid "To modify the existing HLAE installation, please use the \"HLAE\" entry in the installed applications list instead."

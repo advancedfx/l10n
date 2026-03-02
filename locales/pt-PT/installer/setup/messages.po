@@ -307,7 +307,7 @@ msgstr "Este software é para sua diversão e você o está utilizando por seu p
 
 msgctxt "HlaeFfmpegTitle"
 msgid "FFMPEG"
-msgstr FFMPEG"
+msgstr "FFMPEG"
 
 msgctxt "HlaeFfmpeg"
 msgid "FFMPEG can be used for encoding mirv_streams to videos."
