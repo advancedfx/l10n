@@ -308,6 +308,14 @@ msgctxt "LicensesButton"
 msgid "Licenses"
 msgstr ""
 
+#. Native message box before the wizard opens, if it was started with "Run as administrator"
+msgctxt "ElevatedWizard"
+msgid ""
+"HLAE Setup was started as administrator. Please start it normally – it asks for administrator rights itself when needed.\n"
+"\n"
+"For an unattended install from an administrator command prompt: HLAE_Setup.exe --quiet"
+msgstr ""
+
 #. Native message box before the wizard opens; {url} = Microsoft's WebView2 page.
 #. "Evergreen Bootstrapper" is the name of the download on Microsoft's page, keep it.
 msgctxt "WebView2Missing"
